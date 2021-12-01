@@ -1,4 +1,5 @@
 import { getParksFeatureCollection, outDir } from "../src/common";
+import turfBbox from "@turf/bbox";
 import fs from "fs";
 
 (async () => {
@@ -7,6 +8,7 @@ import fs from "fs";
       parksFeatureCollection.features.map((parkFeature) => ({
         name: parkFeature.properties["name"],
         id: parkFeature.properties["id"].split("/")[1],
+        bbox: turfBbox(parkFeature),
       }))
   );
 

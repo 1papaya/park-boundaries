@@ -11,6 +11,7 @@
     "build-mbtiles": "bash ./scripts/build-mbtiles.sh"
   },
   "dependencies": {
+    "@turf/bbox": "^6.5.0",
     "@types/node": "^16.11.11",
     "isomorphic-fetch": "^3.0.0",
     "osm-geojson": "^0.8.4",
