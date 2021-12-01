@@ -1,0 +1,21 @@
+{
+  "name": "park-boundaries",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:1papaya/park-boundaries.git",
+  "author": "1papaya <1love1papaya@gmail.com>",
+  "scripts": {
+    "regenerate": "yarn get-parks-metadata && yarn build-mbtiles",
+    "get-parks-metadata": "ts-node ./scripts/get-parks-metadata.ts",
+    "build-mbtiles": "bash ./scripts/build-mbtiles.sh"
+  },
+  "dependencies": {
+    "@types/node": "^16.11.11",
+    "isomorphic-fetch": "^3.0.0",
+    "osm-geojson": "^0.8.4",
+    "osmtogeojson": "^3.0.0-beta.4",
+    "overpass-ts": "^4.3.8",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
