@@ -1,0 +1,568 @@
+˚êx
+park-boundaries(Ä 01234boundaryleisurenameoperatortypewebsiteidprotect_classwikidata	wikipediasourceprotection_title
+snowmobilename:dename:enname:frofficial_nameopening_hourswikipedia:en	ownershipgnis:createdgnis:feature_idboundary:type	protectedboundary_typeheritageheritage:operatornrhp:criterianrhp:inscription_datenrhp:nhlref:nrhpoperator:shortoperator:typeoperator:wikidataoperator:wikipediaphoneprotect_title
+protect_id
+source:urlaccess	cdfw:NAMEcdfw:REV_DATEcdfw:YR_RECORDdescriptionnote"+
+){"@name":"Miracle Beach Provincial Park"}"
+{"@wikidataId":"Q786926"}"
+{"@osmRelationId":"2226692"}"
+{"@country":"Canada"}"0
+.{"@wikipedia":"Miracle_Beach_Provincial_Park"}"
+national_park"
+nature_reserve"
+Miracle Beach Provincial Park"
+
+BC Parks"
+
+boundary"?
+=http://www.env.gov.bc.ca/bcparks/explore/parkpgs/miracle_bch/"
+relation/2226692"(
+&{"@name":"Cape Falcon Marine Reserve"}"
+{"@wikidataId":"Q19876866"}"
+{"@osmRelationId":"8687516"}")
+'{"@country":"United States of America"}"-
++{"@wikipedia":"Cape_Falcon_Marine_Reserve"}"
+protected_area"
+Cape Falcon Marine Reserve"(
+&Oregon Department of Fish and Wildlife"
+1a"7
+5http://oregonmarinereserves.com/reserves/cape-falcon/"
+	Q19876866"
+en:Cape Falcon Marine Reserve"
+relation/8687516"*
+({"@name":"Redfish Rocks Marine Reserve"}"
+{"@wikidataId":"Q38023595"}"
+{"@osmRelationId":"8527425"}"
+{"@wikipedia":null}"
+Redfish Rocks Marine Reserve"9
+7http://oregonmarinereserves.com/reserves/redfish-rocks/"
+	Q38023595"
+relation/8527425"'
+%{"@name":"Carp Lake Provincial Park"}"
+{"@wikidataId":"Q316107"}"
+{"@osmRelationId":"2233261"}",
+*{"@wikipedia":"Carp_Lake_Provincial_Park"}"
+Carp Lake Provincial Park"C
+ADataBC TANTALIS - Parks, Ecological Reserves, and Protected Areas"
+multipolygon"
+relation/2233261""
+ {"@name":"Jasper National Park"}"
+{"@wikidataId":"Q503429"}"
+{"@osmRelationId":"6395738"}"'
+%{"@wikipedia":"Jasper_National_Park"}"
+Jasper National Park"
+2"
+National Park"
+no"P
+Nhttp://www.albertaparks.ca/media/2941843/parks_and_protected_areas_alberta.zip"	
+Q503429"
+relation/6395738"#
+!{"@name":"Glacier National Park"}"
+{"@wikidataId":"Q1161253"}"
+{"@osmRelationId":"3961485"}"1
+/{"@wikipedia":"Glacier_National_Park_(Canada)"}"
+Glacier National Park"
+Gletscher-Nationalpark"
+Parc national des Glaciers"C
+ANational Framework Canada Lands Administrative Boundaries Level 1"
+
+Q1161253"
+relation/3961485",
+*{"@name":"Mount Revelstoke National Park"}"
+{"@wikidataId":"Q862265"}"
+{"@osmRelationId":"3961479"}"1
+/{"@wikipedia":"Mount_Revelstoke_National_Park"}" 
+Mount Revelstoke National Park""
+ Parc national du Mont-Revelstoke"*
+(Mount Revelstoke National Park of Canada"	
+Q862265"
+relation/3961479"!
+{"@name":"Banff National Park"}"
+{"@wikidataId":"Q41858"}"
+{"@osmRelationId":"6365995"}"&
+${"@wikipedia":"Banff_National_Park"}"
+Banff National Park"
+Banff-Nationalpark"
+Parc national de Banff"
+Q41858"
+en:Banff National Park"
+relation/6365995" 
+{"@name":"Yoho National Park"}"
+{"@wikidataId":"Q828404"}"
+{"@osmRelationId":"7707395"}"%
+#{"@wikipedia":"Yoho_National_Park"}"
+Kootenay National Park"	
+Q903323"7
+5ru:–ö—É—Ç–µ–Ω–µ–π (–Ω–∞—Ü–∏–æ–Ω–∞–ª—å–Ω—ã–π –ø–∞—Ä–∫)"
+relation/7707395"(
+&{"@name":"Fish Creek Provincial Park"}"
+{"@wikidataId":"Q2000879"}"
+{"@osmRelationId":"6367733"}"-
++{"@wikipedia":"Fish_Creek_Provincial_Park"}"
+park"
+Fish Creek Provincial Park"
+24/7"
+Provincial Park"
+
+Q2000879"
+relation/6367733"*
+({"@name":"Waterton Lakes National Park"}"
+{"@wikidataId":"Q902778"}"
+{"@osmRelationId":"6395476"}"/
+-{"@wikipedia":"Waterton_Lakes_National_Park"}"
+Waterton Lakes National Park"
+Parks Canada"7
+5https://www.pc.gc.ca/eng/pn-np/ab/waterton/index.aspx"	
+Q902778"!
+en:Waterton Lakes National Park"
+relation/6395476",
+*{"@name":"Police Outpost Provincial Park"}"
+{"@wikidataId":"Q3364730"}"
+{"@osmRelationId":"6367812"}"1
+/{"@wikipedia":"Police_Outpost_Provincial_Park"}" 
+Police Outpost Provincial Park"
+relation/6367812"!
+{"@name":"Buckhorn Wilderness"}"
+{"@wikidataId":"Q4983174"}"
+{"@osmRelationId":"6122342"}"&
+${"@wikipedia":"Buckhorn_Wilderness"}"
+Buckhorn Wilderness"
+US Forest Service"
+
+national"
+1b"
+Wilderness Area"
+relation/6122342"(
+&{"@name":"Mount Skokomish Wilderness"}"
+{"@wikidataId":"Q6923714"}"
+{"@osmRelationId":"6122367"}"-
++{"@wikipedia":"Mount_Skokomish_Wilderness"}"
+
+05/01/1991"	
+1529458"
+Mount Skokomish Wilderness"
+
+Q6923714"
+en:Mount Skokomish Wilderness"
+relation/6122367"$
+"{"@name":"Colonel Bob Wilderness"}"
+{"@wikidataId":"Q5148099"}"
+{"@osmRelationId":"6122955"}")
+'{"@wikipedia":"Colonel_Bob_Wilderness"}"
+Colonel Bob Wilderness"
+relation/6122955"$
+"{"@name":"Mount Baker Wilderness"}"
+{"@wikidataId":"Q3326014"}"
+{"@osmRelationId":"6116357"}")
+'{"@wikipedia":"Mount_Baker_Wilderness"}"
+Mount Baker Wilderness"
+
+Q3326014"
+relation/6116357"&
+${"@name":"Noisy-Diobsud Wilderness"}"
+{"@wikidataId":"Q3342774"}"
+{"@osmRelationId":"6116273"}"+
+){"@wikipedia":"Noisy-Diobsud_Wilderness"}"
+Noisy-Diobsud Wilderness"
+
+Q3342774"
+relation/6116273"*
+({"@name":"North Cascades National Park"}"
+{"@wikidataId":"Q1163799"}"
+{"@osmRelationId":"2421537"}"/
+-{"@wikipedia":"North_Cascades_National_Park"}"
+North Cascades National Park"
+Nationalpark Nordkaskaden"%
+#United States National Park Service"
+
+perpetuity"
+http://www.nps.gov/noca/"
+
+Q1163799"!
+en:North Cascades National Park"
+relation/2421537"!
+{"@name":"Wild Sky Wilderness"}"
+{"@wikidataId":"Q3568121"}"
+{"@osmRelationId":"6114550"}"&
+${"@wikipedia":"Wild_Sky_Wilderness"}"
+Wild Sky Wilderness"
+
+Q3568121"
+en:Wild Sky Wilderness"
+relation/6114550")
+'{"@name":"Mount Rainier National Park"}"
+{"@wikidataId":"Q944329"}"
+{"@osmRelationId":"1399219"}".
+,{"@wikipedia":"Mount_Rainier_National_Park"}"
+nrhp"
+Mount Rainier National Park"	
+(A),(C)"
+February 18, 1997"
+yes"
+
+97000344"
+http://www.nps.gov/mora/"	
+Q944329" 
+en:Mount Rainier National Park"
+relation/1399219"%
+#{"@name":"Glacier View Wilderness"}"
+{"@wikidataId":"Q3108325"}"
+{"@osmRelationId":"6109778"}"*
+({"@wikipedia":"Glacier_View_Wilderness"}"
+Glacier View Wilderness"
+relation/6109778"$
+"{"@name":"Mount Adams Wilderness"}"
+{"@wikidataId":"Q3326005"}"
+{"@osmRelationId":"6109129"}")
+'{"@wikipedia":"Mount_Adams_Wilderness"}"
+Mount Adams Wilderness"
+
+Q3326005"
+en:Mount Adams Wilderness"
+relation/6109129"!
+{"@name":"Pasayten Wilderness"}"
+{"@wikidataId":"Q3367227"}"
+{"@osmRelationId":"6116548"}"&
+${"@wikipedia":"Pasayten_Wilderness"}"
+Pasayten Wilderness"
+
+Q3367227"
+en:Pasayten Wilderness"
+relation/6116548"(
+&{"@name":"Marble Mountain Wilderness"}"
+{"@wikidataId":"Q6755203"}"
+{"@osmRelationId":"5396611"}"-
++{"@wikipedia":"Marble_Mountain_Wilderness"}"
+Marble Mountain Wilderness"
+
+Q6755203"
+relation/5396611"%
+#{"@name":"Castle Crags Wilderness"}"
+{"@wikidataId":"Q5050037"}"
+{"@osmRelationId":"6219484"}"*
+({"@wikipedia":"Castle_Crags_Wilderness"}"
+Castle Crags Wilderness"
+
+Q5050037"
+relation/6219484"'
+%{"@name":"Crater Lake National Park"}"
+{"@wikidataId":"Q239304"}"
+{"@osmRelationId":"1274747"}",
+*{"@wikipedia":"Crater_Lake_National_Park"}"
+Crater Lake National Park"
+National Park Service"
+NPS"
+public"	
+Q308439"
+en:National Park Service"
++1-541-594-3000"
+https://www.nps.gov/crla"	
+Q239304"
+en:Crater Lake National Park"
+relation/1274747""
+ {"@name":"Lava Beds Wilderness"}"
+{"@wikidataId":"Q27994981"}"
+{"@osmRelationId":"5396495"}"
+Lava Beds Wilderness"
+	Q27994981"
+relation/5396495"%
+#{"@name":"South Warner Wilderness"}"
+{"@wikidataId":"Q7568801"}"
+{"@osmRelationId":"6208384"}"*
+({"@wikipedia":"South_Warner_Wilderness"}"
+South Warner Wilderness"
+
+Q7568801"
+relation/6208384"
+{"@wikidataId":"Q373567"}"
+{"@osmRelationId":"1242641"}"/
+-{"@wikipedia":"Glacier_National_Park_(U.S.)"}"
+NPS data store - 2003"=
+;http://science.nature.nps.gov/nrdata/datastore.cfm?ID=42581"$
+"https://www.nps.gov/glac/index.htm"	
+Q373567"!
+en:Glacier National Park (U.S.)"
+relation/1242641"%
+#{"@name":"Bob Marshall Wilderness"}"
+{"@wikidataId":"Q4933268"}"
+{"@osmRelationId":"6046037"}"*
+({"@wikipedia":"Bob_Marshall_Wilderness"}"
+Bob Marshall Wilderness Area"
+
+Q4933268"
+relation/6046037"*
+({"@name":"North Fork Owyhee Wilderness"}"
+{"@wikidataId":"Q7055415"}"
+{"@osmRelationId":"6031121"}"/
+-{"@wikipedia":"North_Fork_Owyhee_Wilderness"}"
+North Fork Owyhee Wilderness"
+BLM"
+
+Q7055415"
+relation/6031121"%
+#{"@name":"Owyhee River Wilderness"}"
+{"@wikidataId":"Q7115014"}"
+{"@osmRelationId":"6031241"}"*
+({"@wikipedia":"Owyhee_River_Wilderness"}"
+Owyhee River Wilderness"
+
+Q7115014"
+relation/6031241":
+8{"@name":"Frank Church‚ÄìRiver of No Return Wilderness"}"
+{"@wikidataId":"Q5485824"}"
+{"@osmRelationId":"6022911"}"E
+C{"@wikipedia":"Frank_Church%E2%80%93River_of_No_Return_Wilderness"}",
+*Frank Church-River of No Return Wilderness"
+US Forest Service;BLM"
+
+Q5485824"
+relation/6022911">
+<{"@name":"Gooding City of Rocks West Wilderness Study Area"}"
+{"@wikidataId":"Q5583403"}"
+{"@osmRelationId":"6026165"}"C
+A{"@wikipedia":"Gooding_City_of_Rocks_West_Wilderness_Study_Area"}"2
+0Gooding City of Rocks West Wilderness Study Area"
+Wilderness Study Area"
+
+Q5583403"
+relation/6026165">
+<{"@name":"Gooding City of Rocks East Wilderness Study Area"}"
+{"@wikidataId":"Q5583402"}"
+{"@osmRelationId":"6026112"}"C
+A{"@wikipedia":"Gooding_City_of_Rocks_East_Wilderness_Study_Area"}"2
+0Gooding City of Rocks East Wilderness Study Area"
+
+Q5583402"
+relation/6026112"'
+%{"@name":"Headwaters Forest Reserve"}"
+{"@wikidataId":"Q12354573"}"
+{"@osmRelationId":"6190202"}",
+*{"@wikipedia":"Headwaters_Forest_Reserve"}"&
+$Headwaters Forest Ecological Reserve"
+
+2018-09-26"
+1999"_
+]Access open, but refer to regulations or contact CDFW regional or area office prior to visit."
+Headwaters Forest Reserve"å
+âNAME= tag is the name used by CDFW in their GIS data and website. OSM name= tag is the BLM name and arguably the name in customary usage."1
+/California Department of Fish and Wildlife, BLM"
+5"
+Forest Reserve"ò
+ïCDFW Owned and Operated Lands and Conservation Easements (zip) at: CDFW GIS Clearinghouse website at "https://wildlife.ca.gov/Data/GIS/Clearinghouse""H
+Fhttps://www.wildlife.ca.gov/Lands/Places-to-Visit/Headwaters-Forest-ER"
+	Q12354573"
+relation/6190202+  		
+
+"	ñÙ9 		
+"	Æé-: 
+   !/ 		
+ "	¸Æ9≠ !"#$%&	'("ê	Ê ¿¢  
+
+  
+   			    		õ )*+,-./01	'23"ˆ	 -§∫	   	
+ 
+ 
+
+
+* 
+
+ 
+ 
+ 
+
+
+   	     
+  
+	
+				  		 
+
+   	  		 	 	
+ 			     
+
+!	
+	  					 		
+ 		 			 	   		 	 			
+ 
+  	  		 	
+    
+
+ 
+ Ô 4567898:0;		<=" 	‚0Ãä
+
+
+   .
+
+	 	" 
+  		%    	 		b >?@ABCD0;		EF"@	∞0˙‚     	
+   1  
+œ$ GHIJKLM./01	'NOP"§	‘2˛Ú 
+
+  
+
+
+
+
+
+ 
+
+
+
+  	 	  	
+
+
+
+ 
+
+  
+   
+
+	
+  
+
+    	   
+
+ 
+  
+ 	 	   	 	 	 		  	     	 		
+  	 	 		 				 					 		 				 = 	 â QRSTU0	'VWX"Ë	¶5¥Ç
+     
+  
+ 
+  
+	 
+# 	     		     
+	   	  Ç  YZ[\]^_.`1	'a^b"\	⁄;¶B        	 	 	B 			"2  
+	Å" cdefgh./1	'
+ijkl"Y	Œ<∫¬   *ó	 	  
+             1 mnopq.`1	'r"	ú=Ã*   à stuvwxyz{		|"f	Í!¥$“
+   	
+   	   	/í 		   i+ }~ÄÅÇÉxyz{		ÑÖÜ"8	º!Œ%¬  	C" áàâäãxyz{		å"	í ¯%R 
+	
+		’% çéèêëxyz{	'íì"©	˙%Ú⁄
+#   PL' , 		
+	    	     	 
+  
+ 	 a% îïñóòxyz{	'ôö"6	í& ∫
+ 
+  
+ 	 		 	  Ä4 õúùûü†°y.¢/	'
+£§•¶"≈	¨'Ç!Í   	
+
+
+  "  
+  
+   	 			 ≥Ú
+ " (
+!	
+
+ 	   % )( KÃ( ß®©™´xyz{	'¨≠Æ"ù	í&®$‚
+     	   	
+ 		  	 
+  	                    	x8
+		e≤
+  
+      
+             	ñ@ Ø∞±≤.≥¥ µ!∂"∑°y.¢#∏		
+π∫ªº"P	†%î(ÚÜ 
+	
+ 
+
+   G  {	  ;" Ωæø¿¡xyz{		¬"	ê%Ú(2
+   x( √ƒ≈∆«xyz{		»… "J	∂&Ç+ä 
+	     	
+Õ( ÀÃÕŒœxyz{		–—“"û	Ä+‘⁄  &
+   	
+ 
+ 	  
+		 		¥% ”‘’÷◊xyz{		ÿŸ"à	≤!§=Ç  
+
+        
+
+  
+    	  #  
+		     -        i% ⁄€‹›ﬁxyz{		ﬂ‡">	‰#ö?⁄  
+       
+     êB ·‚„‰ÂÊ$Á%Ë&È'Íy(Î.)/¢/	'
+ÏÌÓÔ"H	˙$ˆ7Ç2
+
+     	E 	-  		  
+   
+  
+k% ÒÚÛÊyz{	'Ùı"@	ò&¸<Z        )	0z 
+    (   {% ˆ˜¯˘˙xyz{		˚¸"P	å*í>¢        2
+ 	 		 
+
+	 	å5 4˝˛ˇ8°y*.¢/Ä+Å	'
+ÇÉÑÖ"–	∞:‘ö∫ $.R
+ @ö   			        
+		 
+ 			 					    Ä% Üáàâäxyz{		ãå"‘	∞>®#≤
+
+       	$  
+ 6 	 
+
+$
+	 	  	   
+ 	
+ 	   		 %							
+ "	
+
+ 
+1     r& çéèêëíyz{		ìî"F	ˆ3æ9˙    	  
+ 	
+     Ø& ïñóòôíyz{		öõ"Ç	º3Í:ö         
+ 
+   
+   
+  
+    	 		            	 i/
+	 	(ı
+& úùûü†°yz{		¢£"»
+	†:º-¢
+
+
+
+ 
+ 
+
+ 		
+
+ 
+ 
+ " 
+ 
+	
+ 
+   	    
+
+
+" 
+
+	
+       			       		  	
+ 	 	
+ 	 
+  	
+ 
+
+	
+ 	     			 	  	  			 . 
+"   	     	  
+	  
+ 
+   	
+  
+ 	”Ü¢ 
+  
+
+		ÌR 		ﬁ∂*  	q2
+ 		”   	 	eô   	ì   	é*    	
+u  	ùq  	Œ(*  	:ñ" 		• 	il	Ñ
+	≈Ø	‡î 	π«	:≈ 	3÷	Ùë 	ız		åk 	]0 
+	  	 	ª/	  	≤ 	õ	§ 	|  	£ 	Ç˝	÷	gp  	ã9 	¥	 	• 	 	 	é.  	   	© 	∂  	ô	$É L' §•¶ß®íyz©		™´"	®9 7b     	  	b' ¨≠ÆØ∞íyz©		±≤"5	®9»7ä
+ 
+
+ 	
+  		 	   g> ≥¥µ∂,∑-∑.∏/π0∫ª1ºΩæø¿		
+¡¬√"#	ÇíA*
+  		$	 

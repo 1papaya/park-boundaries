@@ -1,0 +1,674 @@
+§õx
+park-boundaries(Ä 01234boundaryleisurenameoperator	ownershipprotect_classprotection_titletypewikidataidaccess	cdfw:NAMEcdfw:REV_DATEcdfw:YR_RECORDdescriptionnotesourcewebsite	protected	wikipedia	addr:cityaddr:housenumberaddr:postcode
+addr:stategnis:feature_idheritageheritage:operatorname:dename:trname:zhphoneref:whcwhc:criteriawhc:inscription_datewikimedia_commons	park:typeboundary:typegnis:county_idgnis:createdgnis:state_id
+name:s-paioperator:shortoperator:typeoperator:wikidataoperator:wikipediaprotect_titleattributionname:ku
+protect_idelefeename:he"%
+#{"@name":"Castle Crags Wilderness"}"
+{"@wikidataId":"Q5050037"}"
+{"@osmRelationId":"6219484"}")
+'{"@country":"United States of America"}"*
+({"@wikipedia":"Castle_Crags_Wilderness"}"
+protected_area"
+nature_reserve"
+Castle Crags Wilderness"
+US Forest Service"
+
+national"
+1b"
+Wilderness Area"
+
+boundary"
+
+Q5050037"
+relation/6219484"%
+#{"@name":"South Warner Wilderness"}"
+{"@wikidataId":"Q7568801"}"
+{"@osmRelationId":"6208384"}"*
+({"@wikipedia":"South_Warner_Wilderness"}"
+South Warner Wilderness"
+
+Q7568801"
+relation/6208384"'
+%{"@name":"Headwaters Forest Reserve"}"
+{"@wikidataId":"Q12354573"}"
+{"@osmRelationId":"6190202"}",
+*{"@wikipedia":"Headwaters_Forest_Reserve"}"
+yes"&
+$Headwaters Forest Ecological Reserve"
+
+2018-09-26"
+1999"_
+]Access open, but refer to regulations or contact CDFW regional or area office prior to visit."
+Headwaters Forest Reserve"å
+âNAME= tag is the name used by CDFW in their GIS data and website. OSM name= tag is the BLM name and arguably the name in customary usage."1
+/California Department of Fish and Wildlife, BLM"
+5"
+Forest Reserve"ò
+ïCDFW Owned and Operated Lands and Conservation Easements (zip) at: CDFW GIS Clearinghouse website at "https://wildlife.ca.gov/Data/GIS/Clearinghouse""H
+Fhttps://www.wildlife.ca.gov/Lands/Places-to-Visit/Headwaters-Forest-ER"
+	Q12354573"
+relation/6190202"/
+-{"@name":"Yolla Bolly-Middle Eel Wilderness"}"
+{"@wikidataId":"Q8054791"}"
+{"@osmRelationId":"5411085"}"<
+:{"@wikipedia":"Yolla_Bolly%E2%80%93Middle_Eel_Wilderness"}"#
+!Yolla Bolly-Middle Eel Wilderness"
+US Forest Service;BLM"
+
+Q8054791"
+relation/5411085"-
++{"@name":"South Fork Eel River Wilderness"}"
+{"@wikidataId":"Q7567273"}"
+{"@osmRelationId":"5411100"}"2
+0{"@wikipedia":"South_Fork_Eel_River_Wilderness"}"!
+South Fork Eel River Wilderness"
+BLM"
+multipolygon"
+
+Q7567273"
+relation/5411100"+
+){"@name":"Lassen Volcanic National Park"}"
+{"@wikidataId":"Q1163542"}"
+{"@osmRelationId":"6207158"}"0
+.{"@wikipedia":"Lassen_Volcanic_National_Park"}"
+national_park"
+Lassen Volcanic National Park"%
+#United States National Park Service"
+2"
+
+perpetuity"
+National Park"$
+"https://www.nps.gov/lavo/index.htm"
+
+Q1163542""
+ en:Lassen Volcanic National Park"
+relation/6207158"(
+&{"@name":"Lassen Volcanic Wilderness"}"
+{"@wikidataId":"Q27950428"}"
+{"@osmRelationId":"5394164"}"
+{"@wikipedia":null}"
+Lassen Volcanic Wilderness"
+National Park Service"
+	Q27950428"
+relation/5394164" 
+{"@name":"Caribou Wilderness"}"
+{"@wikidataId":"Q3457255"}"
+{"@osmRelationId":"6207170"}"%
+#{"@wikipedia":"Caribou_Wilderness"}"
+Caribou Wilderness"
+
+Q3457255"
+relation/6207170"&
+${"@name":"Granite Chief Wilderness"}"
+{"@wikidataId":"Q5595840"}"
+{"@osmRelationId":"6196739"}"+
+){"@wikipedia":"Granite_Chief_Wilderness"}"
+Granite Chief Wilderness"
+
+Q5595840"
+relation/6196739"#
+!{"@name":"Desolation Wilderness"}"
+{"@wikidataId":"Q963788"}"
+{"@osmRelationId":"6196636"}"(
+&{"@wikipedia":"Desolation_Wilderness"}"
+Desolation Wilderness"	
+Q963788"
+relation/6196636""
+ {"@name":"Mokelumne Wilderness"}"
+{"@wikidataId":"Q14683385"}"
+{"@osmRelationId":"5360750"}"'
+%{"@wikipedia":"Mokelumne_Wilderness"}"
+Mokelumne Wilderness"
+	Q14683385"
+relation/5360750"'
+%{"@name":"Carson-Iceberg Wilderness"}"
+{"@wikidataId":"Q5046898"}"
+{"@osmRelationId":"5366640"}"4
+2{"@wikipedia":"Carson%E2%80%93Iceberg_Wilderness"}"
+Carson-Iceberg Wilderness"
+
+Q5046898"
+relation/5366640"$
+"{"@name":"Yosemite National Park"}"
+{"@wikidataId":"Q180402"}"
+{"@osmRelationId":"1643367"}")
+'{"@wikipedia":"Yosemite_National_Park"}"
+Yosemite National Park"
+
+PO box 577"
+95389"
+CA"
+255923"
+1"
+whc"
+Yosemite-Nationalpark"
+Yosemite Ulusal Parkƒ±"
+‰ºòËÉúÁæéÂú∞"
+602 278 8888"
+308"
+http://www.nps.gov/yose/"
+(vii)(viii)"
+1984"	
+Q180402"!
+Category:Yosemite National Park"
+en:Yosemite National Park"
+relation/1643367"
+{"@name":"Hoover Wilderness"}"
+{"@wikidataId":"Q6317507"}"
+{"@osmRelationId":"5372299"}"$
+"{"@wikipedia":"Hoover_Wilderness"}"
+Hoover Wilderness"
+
+Q6317507"
+relation/5372299"/
+-{"@name":"Owens River Headwaters Wilderness"}"
+{"@wikidataId":"Q7114742"}"
+{"@osmRelationId":"5372303"}"4
+2{"@wikipedia":"Owens_River_Headwaters_Wilderness"}"#
+!Owens River Headwaters Wilderness"
+
+Q7114742"
+relation/5372303"%
+#{"@name":"Dinkey Lakes Wilderness"}"
+{"@wikidataId":"Q5278368"}"
+{"@osmRelationId":"5360757"}"*
+({"@wikipedia":"Dinkey_Lakes_Wilderness"}"
+Dinkey Lakes Wilderness"
+
+Q5278368"
+relation/5360757""
+ {"@name":"John Muir Wilderness"}"
+{"@wikidataId":"Q1701164"}"
+{"@osmRelationId":"5372301"}"'
+%{"@wikipedia":"John_Muir_Wilderness"}"
+John Muir Wilderness"
+
+Q1701164"
+relation/5372301" 
+{"@name":"Monarch Wilderness"}"
+{"@wikidataId":"Q6898028"}"
+{"@osmRelationId":"5372302"}"%
+#{"@wikipedia":"Monarch_Wilderness"}"
+Monarch Wilderness"
+
+Q6898028"
+relation/5372302"
+{"@name":"Hain Wilderness"}"
+{"@wikidataId":"Q27977595"}"
+{"@osmRelationId":"6183243"}"
+Hain Wilderness"
+	Q27977595"
+fr:Hain Wilderness"
+relation/6183243"%
+#{"@name":"Pinnacles National Park"}"
+{"@wikidataId":"Q1783768"}"
+{"@osmRelationId":"6183160"}"*
+({"@wikipedia":"Pinnacles_National_Park"}"
+247533"
+Pinnacles National Park"
+http://www.nps.gov/pinn/"
+
+Q1783768"
+en:Pinnacles National Park"
+relation/6183160"%
+#{"@name":"Golden Trout Wilderness"}"
+{"@wikidataId":"Q5579923"}"
+{"@osmRelationId":"5366755"}"*
+({"@wikipedia":"Golden_Trout_Wilderness"}"
+Golden Trout Wilderness"
+
+Q5579923"
+relation/5366755"!
+{"@name":"Domeland Wilderness"}"
+{"@wikidataId":"Q5290033"}"
+{"@osmRelationId":"5366728"}"&
+${"@wikipedia":"Domeland_Wilderness"}"
+Domeland Wilderness"
+
+Q5290033"
+relation/5366728" 
+{"@name":"Chumash Wilderness"}"
+{"@wikidataId":"Q5116142"}"
+{"@osmRelationId":"2779216"}"%
+#{"@wikipedia":"Chumash_Wilderness"}"
+Chumash Wilderness"
+national_forest;wilderness",
+*http://fsgeodata.fs.fed.us/vector/lsrs.php"
+
+Q5116142"
+relation/2779216"
+{"@name":"Sespe Wilderness"}"
+{"@wikidataId":"Q20881478"}"
+{"@osmRelationId":"2779221"}"#
+!{"@wikipedia":"Sespe_Wilderness"}"
+Sespe Wilderness"
+	Q20881478"
+relation/2779221"'
+%{"@name":"Great Basin National Park"}"
+{"@wikidataId":"Q1137657"}"
+{"@osmRelationId":"5974781"}",
+*{"@wikipedia":"Great_Basin_National_Park"}"
+862430"
+Great Basin National Park"
+
+Q1137657"
+en:Great Basin National Park"
+relation/5974781" 
+{"@name":"Zion National Park"}"
+{"@wikidataId":"Q205325"}"
+{"@osmRelationId":"5758583"}"%
+#{"@wikipedia":"Zion_National_Park"}"
+053"
+
+02/25/1989"	
+1455157"
+49"
+Zion National Park"
+Mukuntuweap"	
+Q205325"
+en:Zion National Park"
+relation/5758583"%
+#{"@name":"South Sierra Wilderness"}"
+{"@wikidataId":"Q7568499"}"
+{"@osmRelationId":"5366747"}"*
+({"@wikipedia":"South_Sierra_Wilderness"}"
+South Sierra Wilderness"
+
+Q7568499"
+relation/5366747"&
+${"@name":"Sacatar Trail Wilderness"}"
+{"@wikidataId":"Q7396573"}"
+{"@osmRelationId":"5372304"}"+
+){"@wikipedia":"Sacatar_Trail_Wilderness"}"
+Sacatar Trail Wilderness"
+
+Q7396573"
+relation/5372304"%
+#{"@name":"Chimney Peak Wilderness"}"
+{"@wikidataId":"Q5099402"}"
+{"@osmRelationId":"5366740"}"*
+({"@wikipedia":"Chimney_Peak_Wilderness"}"
+Chimney Peak Wilderness"
+
+Q5099402"
+relation/5366740"
+{"@name":"Kiavah Wilderness"}"
+{"@wikidataId":"Q6403901"}"
+{"@osmRelationId":"5366697"}"$
+"{"@wikipedia":"Kiavah_Wilderness"}"
+Kiavah Wilderness"
+
+Q6403901"
+relation/5366697"#
+!{"@name":"Owens Peak Wilderness"}"
+{"@wikidataId":"Q3359007"}"
+{"@osmRelationId":"5366706"}"(
+&{"@wikipedia":"Owens_Peak_Wilderness"}"
+Owens Peak Wilderness"
+
+Q3359007"
+relation/5366706"*
+({"@name":"El Paso Mountains Wilderness"}"
+{"@wikidataId":"Q5351780"}"
+{"@osmRelationId":"6159244"}"/
+-{"@wikipedia":"El_Paso_Mountains_Wilderness"}"
+El Paso Mountains Wilderness"
+
+Q5351780"
+relation/6159244"(
+&{"@name":"Death Valley National Park"}"
+{"@wikidataId":"Q242111"}"
+{"@osmRelationId":"174732"}"-
++{"@wikipedia":"Death_Valley_National_Park"}"
+Death Valley National Park"
+Nationalpark Tal des Todes"
+NPS"
+public"	
+Q308439"
+en:National Park Service"	
+Q242111"
+en:Death Valley National Park"
+relation/174732")
+'{"@name":"Mount Charleston Wilderness"}"
+{"@wikidataId":"Q6920111"}"
+{"@osmRelationId":"5979355"}".
+,{"@wikipedia":"Mount_Charleston_Wilderness"}""
+ Mount Charleston Wilderness Area"
+BLM;US Forest Service"
+
+Q6920111"
+relation/5979355"+
+){"@name":"La Madre Mountains Wilderness"}"
+{"@wikidataId":"Q6463591"}"
+{"@osmRelationId":"5979320"}"0
+.{"@wikipedia":"La_Madre_Mountains_Wilderness"}"
+La Madre Mountain Wilderness"
+
+Q6463591"
+relation/5979320""
+ {"@name":"Cucamonga Wilderness"}"
+{"@wikidataId":"Q5192312"}"
+{"@osmRelationId":"4787747"}"'
+%{"@wikipedia":"Cucamonga_Wilderness"}"
+Cucamonga Wilderness"
+
+Q5192312"
+relation/4787747"%
+#{"@name":"San Gorgonio Wilderness"}"
+{"@wikidataId":"Q7414265"}"
+{"@osmRelationId":"2788043"}"*
+({"@wikipedia":"San_Gorgonio_Wilderness"}"
+San Gorgonio Wilderness"
+
+Q7414265"
+relation/2788043"(
+&{"@name":"Beauty Mountain Wilderness"}"
+{"@wikidataId":"Q27967277"}"
+{"@osmRelationId":"5413850"}"-
++{"@wikipedia":"Beauty_Mountain_Wilderness"}"
+Beauty Mountain Wilderness"
+	Q27967277"
+relation/5413850"#
+!{"@name":"Agua Tibia Wilderness"}"
+{"@wikidataId":"Q18636180"}"
+{"@osmRelationId":"2788348"}"(
+&{"@wikipedia":"Agua_Tibia_Wilderness"}"
+Agua Tibia Wilderness"
+	Q18636180"
+relation/2788348"#
+!{"@name":"Santa Rosa Wilderness"}"
+{"@wikidataId":"Q7419920"}"
+{"@osmRelationId":"6138896"}"(
+&{"@wikipedia":"Santa_Rosa_Wilderness"}"
+Santa Rosa Wilderness"
+
+Q7419920"
+relation/6138896"'
+%{"@name":"Joshua Tree National Park"}"
+{"@wikidataId":"Q735202"}"
+{"@osmRelationId":"6145614"}",
+*{"@wikipedia":"Joshua_Tree_National_Park"}"
+Joshua Tree National Park"
+Joshua-Tree-Nationalpark"$
+"https://www.nps.gov/jotr/index.htm"	
+Q735202"
+en:Joshua Tree National Park"
+relation/6145614"(
+&{"@name":"Spirit Mountain Wilderness"}"
+{"@wikidataId":"Q7577903"}"
+{"@osmRelationId":"5978422"}"-
++{"@wikipedia":"Spirit_Mountain_Wilderness"}"
+Spirit Mountain Wilderness"
+BLM;National Park Service"
+
+Q7577903"
+relation/5978422"(
+&{"@name":"Grand Canyon National Park"}"
+{"@wikidataId":"Q220289"}"
+{"@osmRelationId":"183377"}"-
++{"@wikipedia":"Grand_Canyon_National_Park"}"
+US National Park Service"
+Grand Canyon National Park""
+ Parka Netewey√Æ ya Kanyona Mezin"
+75"
+(vii)(viii)(ix)(x)"
+1979"	
+Q220289"
+en:Grand Canyon National Park"
+relation/183377"(
+&{"@name":"Bryce Canyon National Park"}"
+{"@wikidataId":"Q219562"}"
+{"@osmRelationId":"4716641"}"-
++{"@wikipedia":"Bryce_Canyon_National_Park"}"
+2492"
+017"	
+1450197"
+Bryce Canyon National Park"/
+-◊î◊§◊ê◊®◊ß ◊î◊ú◊ê◊ï◊û◊ô ◊ë◊®◊ô◊ô◊° ◊ß◊†◊ô◊ï◊ü"	
+Q219562"
+en:Bryce Canyon National Park"
+relation/4716641a  		
+
+"=	‰#e⁄  
+       
+     P 		
+
+",	¢*üí
+ 	 		 
+S,  !
+"#$%&'"!	îûj 
+   	
+˘ ()*+,-		
+
+./"‘	Ü"Êö	
+ 	    		  		
+ 
+   & $    	  	 		*  	ä     	B 
+ é 012345		
+
+678"j	¿ Ã“ 
+        	I¢  
+  
+	    
+ n$ 9:;<=>?		
+@ABCDEF"D	‚&ºÚ   
+ 8 	 
+         
+
+
+     æ GHIJKL		
+
+6MN"ô	‚&Œ‚     
+ 8  		   	          	   	   	9™
+	        I OPQRS		
+
+TU"%	Ñ' z        7	 b VWXYZ		
+
+[\">	–)ƒ⁄
+     	  		   j ]^_`a		
+
+bc"F	ò*¢˙    
+ 	  		 µ defgh		
+
+ij"ê	∆*º¢ 
+  
+          	   	       
+	      	” klmno		
+
+pq"Æ	 +Êö     
+ 
+  
+				  	   	     	 	
+ †K rstuvwxy=z{|v }!~"?		#Ä
+@AB$ÅÇ%É&ÑÖ'Üáà"Œ	™+àö     	
+      '
+ 	      
+      
+ 
+
+	 /      	  É% âäãåç		
+
+éè"◊	Ú+Í	í
+  	  	
+
+  	
+   	
+      	 		åå a% êëíìî		
+
+6ïñ"6	∂-Ä∫ 
+	   	   		
+ m% óòôöõ		
+
+úù"B	ö-Í 
+ 
+  
+Ω% ûü†°¢		
+
+£§"ë	™.“⁄   
+
+ 
+   
+   
+       	
+       
+
+ 
+ 
+
+      	 
+	  
+  
+ 		   	
+ 		
+      	  
+ 
+
+				' 		  		 	   	 
+	 Fb 
+ 	
+	]: 
+
+ 		 " 	ÍÏ	  	„áe% •¶ß®©		
+
+™´":	-Ó 
+" 
+ 	i' ¨≠ÆJØL		
+
+∞±≤"<	ö'í“  
+ 	  
+    Ç0 ≥¥µ∂=∑∏?		
+@ABπ∫ªº"L	î'úí   
+     
+   	     	     Â% Ωæø¿¡		
+
+6¬√"π	ˆ/∞ö 
+
+ 2	 	 
+ 			  	 		    
+
+  
+ 
+	 ¥% ƒ≈∆«»-		
+
+6… "à	Ú/˛Ç
+                         	 É+ ÀÃÕŒœ		(–
+
+—“”"R	÷,¶™    	     	–+ ‘’÷◊ÿ		(–
+
+—Ÿ⁄"û	Ü-∆⁄
+   
+   
+
+ 
+ 
+	
+	     
+   	 	    	 
+}/ €‹›ﬁ=)ﬂ‡?		
+@AB·‚„"H	Ï:⁄Ç      
+                 	©; ‰ÂÊÁ=)*Ë+ÈÍ,ÎÏ-Ì?		
+@ABÓÔ"h	î>‚Ç   "  &  .    0   	 
+	        	  #    	           	{% ÒÚÛÙı		
+
+6ˆ˜"P	û0∂¢
+  	       ï% ¯˘˙˚¸5		
+
+6˝˛"j	∂0Óä 
+ 
+ 
+	             
+    [% ˇÄÅÇÉ5		
+
+6ÑÖ"0	Ñ0∫¢  	 ƒ% Üáàâä-		
+
+6ãå"ò	≤0≤Í
+ 		 
+ 	
+	  	               
+ 	 " 	  ù% çéèêë5		
+
+6íì"r	∆0Ñ™  		 		     
+   
+
+ D% îïñóò5		
+
+ôö"	Í0–J
+  	!â; õúùû=ü †L.°/¢0£1§		
+@2BAB•¶ß"«	⁄0»⁄ & 
+	¢ñ~  vzt
+ 
+  				 
+              & 
+2
+
+
+
+  
+4 π      ? 		   	  		 	 	 	  G  !	ú™	°ØR.
+  ≈& ®©™´¨≠		
+
+ÆØ"ò	‹6÷¬ 
+
+ 	         	  	 	   	   õ& ∞±≤≥¥≠		
+
+µ∂"o	∏7¬“	 
+'     
+ 	 	*?:	
+S( ∑∏π∫ª		(–
+
+ºΩ"%	∏1îz      
+  % æø¿¡¬-		
+
+√ƒ"û	ƒ4‹⁄	  
+      
+	    	       
+       
+
+                 p% ≈∆«»…5		
+
+ À"E	å4Ä™) 
+          	:     o( ÃÕŒœ–-		
+
+——“"A	î3ö
+
+       
+       	$: 	 á% ”‘’÷◊-		
+
+ÿŸ"\	û5™“ 
+
+  
+  i 	              
+    Â0 ⁄€‹›=ﬁ ﬂ?		
+@AB‡·‚„"Æ	5–ö      
+N       
+V 
+      G     !  	!	' /  -&      e& ‰ÂÊÁËÈ		
+
+ÍÎ"9	‰9º¢ 
+  	 Ë? ÏÌÓÔ3=){|Ò4Ú?		5@AB$Û%Ù&ıˆ˜¯"¢	∏=∏ 	ÜQÇ 	  H     ú  '  	!		    	  
+	
+7
+	 
+	 	         t   
+ 
+ 
+	G"
+	ıå	6= 	˛W	€n  	]*“      
+  		 
+           	        
+  		 
+     	
+      
+      	 
+
+ 
+ 	   	    	 	. '   $ 	  
+      	     
+       
+  	b  	2
+ 	#	 Ü@ ˘˙˚¸=)6˝7*˛+Èˇ,ÎÄ8Å?		
+@AB6ÇÉÑ"@	ñAà‚  
+      
+     - 
+ 
+ 	  

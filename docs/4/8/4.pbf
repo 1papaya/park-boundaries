@@ -1,0 +1,525 @@
+®sx
+park-boundaries(Ä 01234elenamename:sjename:svnaturalnotesourcetypewaterwikidata	wikipediaidboundarynaturbase:urlnaturbase:verneformnaturbase:verneplanoperatorprotect_classref:naturvernrelated_law
+short_name
+start_dateleisurelst:area_halst:beslutdatlst:datum_geolst:reflst:url
+snowmobilelst:area	lst:objnrlst:tillkomstlst:beslutdat2lst:diarienrlst:land_halst:vatten_halst:notelst:restrictionslst:skog_haplacelst:anm√§rkninglst:beskrivninglst:beslutsdatumlst:metodbeskrivningname:enlst:revideradgovernance_typeprotection_titleref:DIARIENR	ref:NVRIDalt_name
+lst:beslutlst:skyddsformDIARIENR	GEOSTATUSIUCNKATKOMMUNLAGRUMLANLAND_HA"
+{"@name":"Tjeggelvas"}"
+{"@wikidataId":"Q3379089"}"
+{"@osmRelationId":"66199"}"
+{"@country":"Sweden"}"
+{"@wikipedia":null}"
+451"
+
+Tjeggelvas"
+Tjieggelvas"
+water"^
+\Bulk import: http://wiki.openstreetmap.org/index.php/User:Mikemenk/CIA_Coast_and_Lake_Import"B
+@CIA World DataBank II [europe-cil] (is inacurat, smoothed lines)"
+multipolygon"
+lake"
+
+Q3379089"
+sv:Tjeggelvas"
+relation/66199"'
+%{"@name":"Ytre Hvaler National Park"}"
+{"@wikidataId":"Q684121"}"
+{"@osmRelationId":"271073"}"
+{"@country":"Norway"}",
+*{"@wikipedia":"Ytre_Hvaler_National_Park"}"
+national_park"
+Ytre Hvaler nasjonalpark".
+,https://faktaark.naturbase.no/?id=VV00002752"
+Nasjonalpark"
+Ytre Hvaler nasjonalparkstyre"
+2"
+
+VV00002752"-
++https://lovdata.no/forskrift/2009-06-26-883"
+Ytre Hvaler"
+
+2009-06-26"
+
+boundary"	
+Q684121"
+relation/271073"
+{"@name":"Marsfj√§llet"}"
+{"@wikidataId":"Q3468632"}"
+{"@osmRelationId":"300401"}"
+nature_reserve"
+86173"
+
+1988-01-25"
+
+2006-03-01"	
+2402052"O
+Mhttp://www.ac.lst.se/naturochmiljo/naturreservat/Vilhelminakommun/Marsfjallet"
+Marsfj√§llet"
+no"
+
+Q3468632"
+relation/300401"
+{"@name":"S√∂nnasj√∂bergen"}"
+{"@wikidataId":"Q30185233"}"
+{"@osmRelationId":"301494"}"
+2028627.861"
+202.9"
+81202"	
+2005600"
+
+2007-09-10"
+S√∂nnasj√∂bergen"
+	Q30185233"
+relation/301494".
+,{"@name":"St√∂ttingfj√§llet nature reserve"}"
+{"@wikidataId":"Q1439607"}"
+{"@osmRelationId":"9420634"}"
+1731"
+
+1993-06-21"
+
+1999-12-30"	
+2402060"M
+Khttp://www.ac.lst.se/naturochmiljo/naturreservat/Vilhelminakommun/Alsberget"
+	Alsberget"
+
+Q1439607"
+relation/9420634"
+{"@name":"Br√§nseln"}"
+{"@wikidataId":"Q30173054"}"
+{"@osmRelationId":"7618899"}"
+101.6"
+511-9403-12"
+101.35"	
+2045808"
+
+2016-07-11"
+0.2"
+	Br√§nseln"#
+!L√§nsstyrelsen i Norrbottens l√§n"
+1"
+	Q30173054"
+relation/7618899"
+{"@name":"Svallmyrberget"}"
+{"@wikidataId":"Q30204039"}"
+{"@osmRelationId":"390687"}"
+112.7"
+N2000 SITE: -"
+
+NR20010941"-
++Lst kan vid behov anvisa plats f√∂r eldning"
+
+2007-06-01""
+ http://www.bd.lst.se/skydd_lulea"
+Svallmyrberget"
+	Q30204039"
+relation/390687"%
+#{"@name":"Ormberget-Herts√∂landet"}"
+{"@wikidataId":"Q30174267"}"
+{"@osmRelationId":"4840804"}"c
+ahttps://www.lansstyrelsen.se/norrbotten/besoksmal/naturreservat/lulea/ormberget-hertsolandet.html"
+Ormberget-Herts√∂landet"
+	Q30174267"
+relation/4840804"
+{"@name":"Germand√∂n"}"
+{"@wikidataId":"Q2686714"}"
+{"@osmRelationId":"299182"}"
+320.7"
+	NR2002783",
+*Skoter till strand, Elda p√• anvisad plats"
+
+2005-03-07"
+
+Germand√∂n"
+
+Q2686714"
+relation/299182"(
+&{"@name":"Bj√∂rnlandet National Park"}"
+{"@wikidataId":"Q119150"}"
+{"@osmRelationId":"7621644"}"1
+/{"@wikipedia":"Bj%C3%B6rnlandet_National_Park"}"
+Bj√∂rnlandets nationalpark"
+Bj√∂rnlandet"	
+Q119150"
+relation/7621644"
+{"@name":"Grann√§sskogen"}"
+{"@wikidataId":"Q30166115"}"
+{"@osmRelationId":"7625018"}"
+89.28"
+
+2016-10-26"
+511-8912-13"
+89.13"	
+2044938"
+83.93"
+
+2016-11-24"
+0.18"
+Grann√§sskogen"(
+&L√§nsstyrelsen i V√§sternorrlands l√§n"
+	Q30166115"
+relation/7625018"
+{"@name":"L√•ng√∂ren"}"
+{"@wikidataId":"Q30163157"}"
+{"@osmRelationId":"7625019"}"
+446.39"
+
+2015-06-02"
+511-2968-15"
+53.46"	
+2043766"
+26.65"
+
+2015-06-25"
+393.0"
+
+L√•ng√∂ren"
+	Q30163157"
+relation/7625019"
+{"@name":"Salen"}"
+{"@wikidataId":"Q30179147"}"
+{"@osmRelationId":"360120"}"
+7029108.341"
+702.9"
+81055"
+
+2008-06-10"
+Salen"
+	Q30179147"
+relation/360120"
+{"@name":"Br√§m√∂n"}"
+{"@wikidataId":"Q10436941"}"
+{"@osmRelationId":"6106060"}"#
+!{"@wikipedia":"Br%C3%A4m%C3%B6n"}"
+
+Br√§m√∂n"
+island"
+relation/6106060"
+{"@name":"L√•nga tj√§rnarna"}"
+{"@wikidataId":"Q30159138"}"
+{"@osmRelationId":"305327"}"$
+"Justering gr√§nser 2008-08-06/A-KL"
+342.621045287531220"Ü
+ÉL√•nga tj√§rnarna √§r ett vildmarksomr√•de k√§nnetecknat av en mosaik av gammal skog, myrar och sj√∂ar. Terr√§ngen √§r storblockig."
+
+2007-12-07"!
+Digitaliserat av L√§nsstyrelsen"	
+1802158"
+L√•nga tj√§rnarna"
+	Q30159138"
+relation/305327",
+*{"@name":"F√§rnebofj√§rden National Park"}"
+{"@wikidataId":"Q1505461"}"
+{"@osmRelationId":"304725"}"9
+7{"@wikipedia":"F%C3%A4rnebofj%C3%A4rden_National_Park"}"
+F√§rnebofj√§rden" 
+F√§rnebofj√§rden National Park"
+
+Q1505461"
+relation/304725"
+{"@name":"Varglyan"}"
+{"@wikidataId":"Q29580011"}"
+{"@osmRelationId":"1460250"}"
+
+44.7101888"
+m√§tn lm 2004-03-02"
+	2001766.0"
+
+Varglyan"3
+1L√§nsstyrelsen i S√∂dermanlands l√§n (gis.lst.se)"
+
+2004-05-10"
+	Q29580011"
+relation/1460250"
+{"@name":"Jaktstuguskogen"}"
+{"@wikidataId":"Q10539363"}"
+{"@osmRelationId":"9732505"}"1
+/{"@wikipedia":"Jaktstuguskogen_Nature_Reserve"}"
+53.16679081"@
+>Digitaliserad mha diggbord fr√•n papperskarta i skala 1:10 000"
+	2001303.0"
+
+2001-05-18"
+Jaktstuguskogen"
+wood"
+	1919-08-2"
+	Q10539363"
+relation/9732505"8
+6{"@name":"Komosse (naturreservat, J√∂nk√∂pings l√§n)"}"
+{"@wikidataId":"Q30160448"}"
+{"@osmRelationId":"8525108"}"
+
+1108.698"ä
+áKomosse tillh√∂r Europas v√§rdefullaste myromr√•den. Den √§r en av de st√∂rsta myrarna i s√∂dra Sverige. Omr√•det √§r s√• gott som or√∂rt av m√§nniskan och rymmer en m√•ngfald av v√•tmarker. Dess tidl√∂sa landskap och storslagna √∂dslighet √§r v√§rd att bes√∂kas."	
+06-1431"
+
+20091105"
+
+19840525"	
+Komosse"
+	Q30160448"
+relation/8525108"/
+-{"@name":"Komosse s√∂dra, J√∂nk√∂pings l√§n"}"
+{"@wikidataId":"Q30202670"}"
+{"@osmRelationId":"8525111"}"
+347.82"ì
+êKomosse tillh√∂r Europas v√§rdefullaste myromr√•den och en av de st√∂rsta myrarna i s√∂dra Sverige. Omr√•det √§r s√• gott som or√∂rt av m√§nniskan och rymmer en m√•ngfald av olika sorters v√•tmarker. Det tidl√∂sa landskapet √§r v√§rd att upplevas m√•nga g√•nger, √•ret om."	
+06-2187"
+
+20030917"
+Komosse s√∂dra"
+	Q30202670"
+relation/8525111"
+{"@name":"Porsbj√§r"}"
+{"@wikidataId":"Q10637929"}"
+{"@osmRelationId":"1425147"}"	
+1302130"
+Porsbj√§rs naturreservat"-
++L√§nsstyrelsen i Hallands l√§n (gis.lst.se)"
+	Q10637929"
+relation/1425147"
+{"@name":"G√•rdshult"}"
+{"@wikidataId":"Q10512535"}"
+{"@osmRelationId":"1425173"}"	
+1302090"
+G√•rdshults naturreservat"
+	Q10512535"
+relation/1425173"=
+;{"@name":"Traner√∂ds mosse, Grindhus och Lilla Kl√•ver√∂d"}"
+{"@wikidataId":"Q30158319"}"
+{"@osmRelationId":"1460526"}"Y
+W11. Myllrande v√•tmarker, 16. Ett rikt v√§xt- och djurliv, 13. Ett rikt odlingslandskap"
+1184401.94432"2
+0Ia, Strikt naturreservat (Strict Nature Reserve)"	
+2014818"1
+/Traner√∂ds mosse, Grindhus och Lilla Kl√•ver√∂d"+
+)L√§nsstyrelsen i Sk√•ne l√§n (gis.lst.se)"
+	Q30158319"
+relation/1460526"
+{"@name":"Ingaryd"}"
+{"@wikidataId":"Q30185488"}"
+{"@osmRelationId":"1424445"}"
+52.105"ﬂ
+‹Ingaryd √§r m√•ngformigt med naturskogsartad barrblandskog, √§dell√∂vskog samt ett odlingslandskap med all√©er, skyddsv√§rda tr√§d och l√∂vtr√§dshagmarker. Omr√•det √§r ett popul√§rt n√§rstr√∂vomr√•de f√∂r Tenhultsborna."
+
+20081204"	
+Ingaryd"1
+/L√§nsstyrelsen i J√∂nk√∂pings l√§n (gis.lst.se)"
+	Q30185488"
+relation/1424445"
+{"@name":"B√•tfors"}"
+{"@wikidataId":"Q30180455"}"
+{"@osmRelationId":"7224395"}"
+L√§nsstyrelse"	
+1573.85"
+	2002531.0"
+
+1990-08-31"
+
+B√•tfors"
+L√§nsstyrelsen i Uppsala l√§n"
+Naturreservat"
+511-4747-11"	
+2002531"
+Milj√∂balken"
+
+2014/01/30"
+	Q30180455"
+relation/7224395"
+{"@name":"Id√∂n"}"
+{"@wikidataId":"Q30158672"}"
+{"@osmRelationId":"1461868"}"
+175.06"
+	2010910.0"
+
+2005-11-28"
+Id√∂n",
+*L√§nsstyrelsen i Uppsala l√§n (gis.lst.se)"
+	Q30158672"
+relation/1461868"
+{"@name":"Norra Lunsen"}"
+{"@wikidataId":"Q10570906"}"
+{"@osmRelationId":"1461860"}"
+1356.1"
+	2001434.0"
+
+2003-06-16"
+Norra Lunsen"
+	Q10570906"
+relation/1461860"
+{"@name":"Bryggholmen"}"
+{"@wikidataId":"Q10436569"}"
+{"@osmRelationId":"1461871"}"
+172.26"
+	2002994.0"
+Bryggholmen"
+	Q10436569"
+relation/1461871"
+{"@name":"Gr√∂ns√∂"}"
+{"@wikidataId":"Q18290275"}"
+{"@osmRelationId":"5959352"}"
+971.02"
+	2002172.0"
+
+1974-12-19"
+
+Gr√∂ns√∂"
+	Q18290275"
+relation/5959352""
+ {"@name":"Bj√∂rks√§ttrahalv√∂n"}"
+{"@wikidataId":"Q10430621"}"
+{"@osmRelationId":"1463778"}"
+Dossienr. Lst: 0126-02-002K"
+84.71"J
+HStatus p√• gr√§nsdragning enligt VIC-natur: Justerad mot fastighetskarta"	
+0102168"
+
+1998-02-09"<
+:http://www.ab.lst.se/templates/InformationPage____2017.asp"
+Bj√∂rks√§ttrahalv√∂n"/
+-L√§nsstyrelsen i Stockholms l√§n (gis.lst.se)"
+	Q10430621"
+relation/1463778"-
++{"@name":"Rosenlundsskogen Nature Reserve"}"
+{"@wikidataId":"Q19721299"}"
+{"@osmRelationId":"9367812"}"2
+0{"@wikipedia":"Rosenlundsskogen_Nature_Reserve"}"
+Dossienr. Lst: 0192-02-006"
+35.3">
+<Status p√• gr√§nsdragning enligt VIC-natur: Slutligt inm√§tt"
+
+2004-09-22"
+Rosenlundsskogen"
+	Q19721299"
+relation/9367812"
+{"@name":"Skogs√∂"}"
+{"@wikidataId":"Q3562577"}"
+{"@osmRelationId":"1463747"}"
+Dossienr. Lst: 0182-02-005K"
+149.24"	
+0102166"
+
+1997-06-02"	
+Skogs√∂"
+
+Q3562577"
+relation/1463747"0
+.{"@name":"Saltar√∂-Sk√§rmar√∂ nature reserve"}"
+{"@wikidataId":"Q29344882"}"
+{"@osmRelationId":"7149246"}"
+protected_area"
+Dossienr. Lst: 0120-02-007"
+126.74"	
+0102026"
+
+1965-01-22"#
+!Saltar√∂-Sk√§rmar√∂ Naturreservat"
+	Q29344882"
+relation/7149246",
+*{"@name":"L√•ngvikstr√§sk nature reserve"}"
+{"@wikidataId":"Q24197187"}"
+{"@osmRelationId":"1464358"}" 
+L√•ngvikstr√§sks naturreservat"
+Dossienr. Lst: 0120-02-050"
+313.21"
+
+2009-12-03"
+L√•ngvikstr√§sk"
+	Q24197187"
+relation/1464358"
+{"@name":"M√∂ja Bj√∂rndalen"}"
+{"@wikidataId":"Q30161339"}"
+{"@osmRelationId":"8718929"}"
+Dossienr. Lst: 0120-02-046"
+143.33"	
+0102135"
+
+1992-05-25"
+M√∂ja Bj√∂rndalen"
+	Q30161339"
+relation/8718929"2
+0{"@name":"Stor√∂-Bock√∂-L√∂ka√∂ Nature Reserve"}"
+{"@wikidataId":"Q10681454"}"
+{"@osmRelationId":"1463758"}"G
+E{"@wikipedia":"Stor%C3%B6-Bock%C3%B6-L%C3%B6ka%C3%B6_Nature_Reserve"}"
+Dossienr. Lst: 0120-02-025"	
+6045.89"	
+0102058"
+
+1972-03-23"
+Stor√∂-Bock√∂-L√∂ka√∂"
+	Q10681454"
+relation/1463758"
+{"@name":"M√∂rt√∂-Buns√∂"}"
+{"@wikidataId":"Q10593699"}"
+{"@osmRelationId":"9348947"}"
+Dossienr. Lst: 0120-02-031"
+49.95"	
+0102079"
+
+1974-05-07"
+M√∂rt√∂-Buns√∂"
+	Q10593699"
+relation/9348947"(
+&{"@name":"H√§llholmen nature reserve"}"
+{"@wikidataId":"Q28528531"}"
+{"@osmRelationId":"6911245"}"
+5.4"
+
+1916-05-22"	
+2000133"
+NR"
+H√§llholmen"
+	Q28528531"
+relation/6911245"
+{"@name":"Lundar"}"
+{"@wikidataId":"Q30177280"}"
+{"@osmRelationId":"7611214"}"
+511-1529-11"
+Ospecificerad"	
+Gotland"
+Gotlands L√§n"
+36.09"
+36.37"
+
+2012-01-10"	
+2028970"
+Lundar" 
+L√§nsstyrelsen i Gotlands l√§n"
+	Q30177280"
+relation/7611214„"  	
+	
+"∫	¿1ô¢,  
+  
+     	
+	 	 	 		 	 	 .  	  	ö∂ã&  !"_	Ùº.⁄ 
+  
+     
+5OùF  
+Á  "#$%&'() *+!,-."¿	‰,å
+˙	&	 1 5 	?d
+
+
+  
+
+
+ 	'.		
+			#	S£ 	Lñ" 	5 /01%"23#45$6789"	Æ/‡* =  :;<%=>%?(@ ABCD"	î2¬B	 			D$ EFG%H&I'JK$L(MNOPQR"	î?ñ  	" 3  STU%V)WX*Y$Z [\]^"	¬>≤
+U _`a% bc!,de"7	ÿ?÷*		Ç  	 	
+
+9" fgh%i)Wj*k$l [m!,no"	à?¥*C pqrs%tu!,vw"!	¨3êj	B/ xyz%{|&}'~+Ä$Å(ÇÉÑPÖÜ"	¨3˙P7 áàâ%äã&å'çé+è$ê(ëíÑPìî"	‰1ﬁ2	
+
+T& ïñó%"òô#ö$õúùû"(	ê2§Z
+		  	6 ü†°¢£,§•"	™2úB
+ 
+ J/ ¶ß®%-©™.´/¨0≠ÆØ¨∞±"	Æ+ú*:  
+ «" ≤≥¥µ∂1∑!,∏π"û	Ä0‹'⁄
+
+   	 	 
+     
+   :) ∫ªº%Ω0æø¿¡¬√ƒ"	–.Ï-@- ≈∆«»%…0 À2ÃÕ	Œœ–—"	Ë/‘. J) “”‘%’.÷◊2ÿ$Ÿ⁄€‹"	é'Í5R    	B) ›ﬁﬂ%‡.·‚2ÿ$„‰ÂÊ"	Ñ'ò62
+=  ÁËÈ%ÍÎÏÌÓ"	Ê%Ó:B
+  	  5  ÔÒ%ÚÛÏÙı"	∞%†;"  <) ˆ˜¯%-˘˙.˚¸˝˛ˇÄ"	¿%‘> <) ÅÇÉ%Ñ.Ö2ÿ$Üáàâä"	ÿ(ˆ5  y< ãåç3é%èê$ëíìP4î5ï6ñó!,òôö"7	ú1Ë&ö   	
+ 	  9& õúù%ûü$†°¢£§"	Ï4»'
+	=& •¶ß%®©$™´¢¨≠"	Æ2æ**A& ÆØ∞%±≤$†≥¢¥µ"	‡0˛+:># ∂∑∏%π∫$ªºΩæ"	í1®,:@/ ø¿¡%-¬√0ƒ≈$∆ «»… À"	¶3Ú- =* ÃÕŒœ%-–—0“$”‘	Œ’÷"	ÿ2≤/   F/ ◊ÿŸ%-⁄€0ƒ‹$› «ﬁ…ﬂ‡"	Ç4¶-*  D/ ·‚„‰%-ÂÊ0ƒÁ$Ë «ÈÍÎ"	Ú4ê-" G2 ÏÌÓ7Ô‰%-Ò0“$ÚÛ	Œ…Ùı"	Œ4 -" O/ ˆ˜¯%-˘˙0ƒ˚$¸ «˝	Œ˛ˇ"	ÿ5Ã,* 	  	 S0 ÄÅÇÉ%-ÑÖ0ƒÜ$á «à…âä"	å6∏,Z&	  
+ ?, ãåç%-éè0ƒê$ë «íìî"	Ú4ú. 9& ïñó%ò8ôö9õúùû"	º45   VC ü†°:¢;£<˚=§>ó?•@¶‰%ß8®©9õ™´P¨≠"	¸3Ç:   
