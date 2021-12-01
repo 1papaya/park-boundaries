@@ -1,21 +1,22 @@
-name: build mbtiles
+name: regenerate tiles
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "1 2 * * *"
 
 jobs:
-  build-mbtiles:
+  regenerate-tiles:
     runs-on: ubuntu-20.04
     steps:
       - name: Check out this repo
         uses: actions/checkout@v2
 
-      - name: Build mbtiles
-        run: bash scripts/build-mbtiles.sh
+      - name: Install dependencies
+        run: yarn
 
-      - name: Commit built pois
+      - name: Regenerate mbtiles
+        run: yarn regenerate
+
+      - name: Commit built mbtiles
         run: |-
           git config user.name "ParkBot"
           git config user.email "actions@users.noreply.github.com"
