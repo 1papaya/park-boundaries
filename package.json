@@ -5,8 +5,9 @@
   "repository": "git@github.com:1papaya/park-boundaries.git",
   "author": "1papaya <1love1papaya@gmail.com>",
   "scripts": {
-    "regenerate": "yarn get-parks-metadata && yarn build-mbtiles",
-    "get-parks-metadata": "ts-node ./scripts/get-parks-metadata.ts",
+    "regenerate": "yarn generate-geojson && yarn build-mbtiles && yarn generate-index",
+    "generate-geojson": "ts-node ./scripts/generate-geojson.ts",
+    "generate-index": "ts-node ./scripts/generate-index.ts",
     "build-mbtiles": "bash ./scripts/build-mbtiles.sh"
   },
   "dependencies": {
