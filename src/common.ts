@@ -1,7 +1,55 @@
+import { getWikidataNationalParks, WikiNationalPark } from "../src/wikidata";
+import { overpassJson, OverpassJson } from "overpass-ts";
+import osmtogeojson from "osmtogeojson";
 import fs from "fs";
 
+export const cacheDir = "./cache";
+export const outDir = "./docs";
+
+export const getParksFeatureCollection = async () => {
+  const wikiParks = (await fromCache("wikiParks", () =>
+    getWikidataNationalParks()
+  )) as WikiNationalPark[];
+
+  const osmParks = (await fromCache("osmParks", () =>
+    overpassJson(
+      `[out:json]; rel(id:${wikiParks
+        .map((wikiPark) => wikiPark.osmRelationId)
+        .join(",")}); out geom;`
+    )
+  )) as OverpassJson;
+
+  const osmParksGeoJson = osmtogeojson(osmParks);
+
+  return {
+    type: "FeatureCollection",
+    features: wikiParks
+      .map((wikiPark) => {
+        const osmPark = osmParksGeoJson.features.find(
+          (feature) => feature.id === `relation/${wikiPark.osmRelationId}`
+        );
+
+        if (typeof osmPark === "undefined") return null;
+        else
+          return {
+            type: "Feature",
+            properties: {
+              // add @ before wikidata properties
+              ...Object.assign(
+                Object.entries(wikiPark).map(([key, val]) => ({
+                  [`@${key}`]: val,
+                }))
+              ),
+              ...osmPark.properties,
+            },
+            geometry: osmPark.geometry,
+          };
+      })
+      .filter((parkFeature) => parkFeature != null),
+  };
+};
+
 export const fromCache = (name: string, fetchFn: Function) => {
-  const cacheDir = "./cache";
   const filePath = `${cacheDir}/${name}.json`;
 
   return fs.promises.mkdir(cacheDir, { recursive: true }).then(() =>
