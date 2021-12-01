@@ -13,10 +13,10 @@ jobs:
       - name: Install dependencies
         run: yarn
 
-      - name: Regenerate mbtiles
+      - name: Regenerate tiles
         run: yarn regenerate
 
-      - name: Commit built mbtiles
+      - name: Commit built tiles
         run: |-
           git config user.name "ParkBot"
           git config user.email "actions@users.noreply.github.com"
