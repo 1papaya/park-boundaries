@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "id": 10047688,
+  "properties": {
+    "@name": "Brijuni",
+    "@wikidataId": "Q849748",
+    "@osmRelationId": "10047688",
+    "@country": "Croatia",
+    "@wikipedia": "Brijuni",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Nacionalni park Brijuni",
+    "name:de": "Nationalpark Brijuni-Inseln",
+    "name:en": "Brijuni Islands National Park",
+    "name:it": "Parco Nazionale delle Isole Brioni",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q525105",
+    "wikipedia": "it:Parco nazionale di Brioni",
+    "id": "relation/10047688"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [13.7532235, 44.8827283],
+        [13.7969726, 44.8977685],
+        [13.8033115, 44.9021007],
+        [13.7796421, 44.9247692],
+        [13.7397694, 44.9491942],
+        [13.7097697, 44.9454288],
+        [13.7136689, 44.9009461],
+        [13.7532235, 44.8827283]
+      ]
+    ]
+  }
+}

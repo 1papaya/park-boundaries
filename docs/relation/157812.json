@@ -1,0 +1,48 @@
+{
+  "type": "Feature",
+  "id": 157812,
+  "properties": {
+    "@name": "Hamburg Wadden Sea National Park",
+    "@wikidataId": "Q686539",
+    "@osmRelationId": "157812",
+    "@country": "Germany",
+    "@wikipedia": "Hamburg_Wadden_Sea_National_Park",
+    "boundary": "national_park",
+    "maritime": "yes",
+    "name": "Nationalpark Hamburgisches Wattenmeer",
+    "name:pl": "Park Narodowy Hamburskiego Morza Wattowego",
+    "protect_class": "2",
+    "protection_title": "Nationalpark Hamburgisches Wattenmeer",
+    "short_protection_title": "NLP",
+    "type": "multipolygon",
+    "wikidata": "Q686539",
+    "wikipedia": "de:Nationalpark Hamburgisches Wattenmeer",
+    "id": "relation/157812"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [8.5753359, 53.8441407],
+        [8.5754843, 53.8443252],
+        [8.5759848, 53.8449655],
+        [8.5683376, 53.8753112],
+        [8.5621635, 53.8974068],
+        [8.5606716, 53.9050814],
+        [8.5457443, 53.9301553],
+        [8.5361379, 53.9362467],
+        [8.5041546, 53.9571617],
+        [8.4383178, 53.9744399],
+        [8.3648316, 53.9809527],
+        [8.314683, 53.9854032],
+        [8.2266485, 53.9858374],
+        [8.2155597, 53.9801729],
+        [8.4290183, 53.8934183],
+        [8.5340089, 53.8850835],
+        [8.5732427, 53.8445843],
+        [8.5735991, 53.8445088],
+        [8.5753359, 53.8441407]
+      ]
+    ]
+  }
+}

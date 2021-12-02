@@ -1,0 +1,61 @@
+{
+  "type": "Feature",
+  "id": 7611214,
+  "properties": {
+    "@name": "Lundar",
+    "@wikidataId": "Q30177280",
+    "@osmRelationId": "7611214",
+    "@country": "Sweden",
+    "@wikipedia": null,
+    "DIARIENR": "511-1529-11",
+    "GEOSTATUS": "Ospecificerad",
+    "IUCNKAT": "Ia, Strikt naturreservat (Strict Nature Reserve)",
+    "KOMMUN": "Gotland",
+    "LAGRUM": "Miljöbalken",
+    "LAN": "Gotlands Län",
+    "LAND_HA": "36.09",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "lst:area_ha": "36.37",
+    "lst:beslut": "2012-01-10",
+    "lst:ref": "2028970",
+    "lst:skyddsform": "NR",
+    "name": "Lundar",
+    "operator": "Länsstyrelsen i Gotlands län",
+    "protect_class": "1",
+    "type": "multipolygon",
+    "wikidata": "Q30177280",
+    "id": "relation/7611214"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [18.2698593, 56.9365761],
+        [18.2677891, 56.9366168],
+        [18.2666069, 56.9366474],
+        [18.264147, 56.9366816],
+        [18.2642119, 56.936495],
+        [18.2644512, 56.9357378],
+        [18.2652711, 56.935789],
+        [18.2653849, 56.935369],
+        [18.2646009, 56.9352992],
+        [18.2649436, 56.9344005],
+        [18.258567, 56.9336312],
+        [18.2588773, 56.9328241],
+        [18.2590386, 56.932475],
+        [18.2591946, 56.9320541],
+        [18.2595665, 56.9311366],
+        [18.2597117, 56.9307043],
+        [18.2598369, 56.9303921],
+        [18.2599335, 56.930125],
+        [18.2620594, 56.9303768],
+        [18.2659137, 56.9299236],
+        [18.2685429, 56.9298809],
+        [18.2685537, 56.9299705],
+        [18.2693517, 56.9300132],
+        [18.2698593, 56.9365761]
+      ]
+    ]
+  }
+}

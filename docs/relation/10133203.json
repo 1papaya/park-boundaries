@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "id": 10133203,
+  "properties": {
+    "@name": "Q10345228",
+    "@wikidataId": "Q10345228",
+    "@osmRelationId": "10133203",
+    "@country": "Brazil",
+    "@wikipedia": null,
+    "boundary": "protected_area",
+    "name": "Parque Natural Municipal Goiapaba-Açu",
+    "operator": "Prefeitura Municipal de Fundão",
+    "protect_class": "2",
+    "protection_title": "parque natural municipal",
+    "ref:CNUC": "0220.32.2039",
+    "related_law": "Decreto nº 1133/09, de 20/08/2009",
+    "start_date": "1991-10-30",
+    "type": "multipolygon",
+    "wikidata": "Q10345228",
+    "wikipedia": "pt:Parque Municipal do Goiapaba-Açu",
+    "id": "relation/10133203"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-40.4706671, -19.9168755],
+        [-40.469556, -19.912431],
+        [-40.4734449, -19.8996531],
+        [-40.4776116, -19.9054865],
+        [-40.474556, -19.9171532],
+        [-40.4706671, -19.9168755]
+      ]
+    ]
+  }
+}

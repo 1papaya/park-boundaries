@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "id": 2969425,
+  "properties": {
+    "@name": "Mu Ko Ang Thong National Park",
+    "@wikidataId": "Q1255783",
+    "@osmRelationId": "2969425",
+    "@country": "Thailand",
+    "@wikipedia": "Mu_Ko_Ang_Thong_National_Park",
+    "alt_name:en": "Mu Ko Ang Thong National Marine Park",
+    "boundary": "national_park",
+    "name": "อุทยานแห่งชาติหมู่เกาะอ่างทอง",
+    "name:en": "Mu Ko Ang Thong National Park",
+    "name:ru": "национальный парк Му-Ко-Анг-Тхонг",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q1255783",
+    "id": "relation/2969425"
+  },
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [99.6533256, 9.7178584],
+          [99.652993, 9.6005586],
+          [99.7034077, 9.6007554],
+          [99.7033412, 9.5866557],
+          [99.7262207, 9.5867868],
+          [99.7259547, 9.6270514],
+          [99.6944954, 9.6272481],
+          [99.6942293, 9.717924],
+          [99.6533256, 9.7178584]
+        ]
+      ],
+      [
+        [
+          [99.6531697, 9.5642676],
+          [99.6532363, 9.5462311],
+          [99.6857597, 9.5288495],
+          [99.7038505, 9.5054322],
+          [99.717352, 9.5053666],
+          [99.7172855, 9.5642676],
+          [99.6531697, 9.5642676]
+        ]
+      ]
+    ]
+  }
+}
