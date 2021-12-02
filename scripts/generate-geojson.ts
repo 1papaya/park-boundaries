@@ -9,7 +9,7 @@ import fs from "fs";
     .then(() =>
       fs.promises.writeFile(
         `${cacheDir}/parksFeatureCollection.json`,
-        JSON.stringify(parksFeatureCollection)
+        JSON.stringify(parksFeatureCollection, null, 2)
       )
     );
 })();

@@ -33,15 +33,16 @@ export const getParksFeatureCollection = async () => {
         else
           return {
             type: "Feature",
-            properties: {
+            id: parseInt(wikiPark.osmRelationId),
+            properties:
               // add @ before wikidata properties
-              ...Object.assign(
-                Object.entries(wikiPark).map(([key, val]) => ({
+              Object.assign(
+                {},
+                ...Object.entries(wikiPark).map(([key, val]) => ({
                   [`@${key}`]: val,
-                }))
+                })),
+                osmPark.properties
               ),
-              ...osmPark.properties,
-            },
             geometry: osmPark.geometry,
           };
       })
@@ -63,7 +64,7 @@ export const fromCache = (name: string, fetchFn: Function) => {
       .catch(() =>
         fetchFn().then((result) =>
           fs.promises
-            .writeFile(filePath, JSON.stringify(result))
+            .writeFile(filePath, JSON.stringify(result, null, 2))
             .then(() => result)
         )
       )
