@@ -5,8 +5,9 @@
   "repository": "git@github.com:1papaya/park-boundaries.git",
   "author": "1papaya <1love1papaya@gmail.com>",
   "scripts": {
-    "regenerate": "yarn generate-geojson && yarn build-mbtiles && yarn generate-index",
+    "regenerate": "yarn generate-geojson && yarn build-mbtiles && yarn generate-index && yarn generate-features",
     "generate-geojson": "ts-node ./scripts/generate-geojson.ts",
+    "generate-features": "ts-node ./scripts/generate-features.ts",
     "generate-index": "ts-node ./scripts/generate-index.ts",
     "build-mbtiles": "bash ./scripts/build-mbtiles.sh"
   },
@@ -14,6 +15,7 @@
     "@turf/bbox": "^6.5.0",
     "@types/node": "^16.11.11",
     "isomorphic-fetch": "^3.0.0",
+    "json-stringify-pretty-compact": "^3.0.0",
     "osm-geojson": "^0.8.4",
     "osmtogeojson": "^3.0.0-beta.4",
     "overpass-ts": "^4.3.8",
