@@ -7,7 +7,7 @@ import fs from "fs";
     (parksFeatureCollection) =>
       parksFeatureCollection.features.map((parkFeature) => ({
         name: parkFeature.properties["name"],
-        id: parkFeature.properties["id"].split("/")[1],
+        id: parkFeature.id,
         bbox: turfBbox(parkFeature),
       }))
   );
