@@ -1,5 +1,6 @@
-õµx
-parks(Ä 01234boundarynamename:plprotect_classprotection_titleshort_protection_titlesourcetypewikidata	wikipediaidalt_namesite_status
+‰üx
+parks(Ä @name@wikidataId@osmRelationId@country
+@wikipediaboundarynamename:plprotect_classprotection_titleshort_protection_titlesourcetypewikidata	wikipediaidalt_namesite_status
 start_datewebsitegid
 kodinspirename:csname:dename:itname:ennaturalleisureboundary_typename:esname:finame:frshort_name:cs
 iucn_levelname:anname:azname:eoname:glname:hrname:kaname:ltname:nlname:skname:viname:zh
@@ -7,12 +8,12 @@ short_nameWDPA_ID:refdescriptionalt_name:esname:dasorting_namearea:h
 import_refsopsr:idsopsr:objectid
 sopsr:zonename:huname:rusource:natura2000:MSsource:natura2000:RELEASE_DAsource:natura2000:SITECODEsource:natura2000:SITENAMEsource:natura2000:SITETYPEhazardsource:hazardspecies
 species:en
-species:plname:uk"9
-7{"@name":"Western Pomerania Lagoon Area National Park"}"
-{"@wikidataId":"Q708477"}"
-{"@osmRelationId":"1138522"}"
-{"@country":"Germany"}">
-<{"@wikipedia":"Western_Pomerania_Lagoon_Area_National_Park"}"
+species:plname:uk"-
++Western Pomerania Lagoon Area National Park"	
+Q708477"	
+1138522"	
+Germany"-
++Western_Pomerania_Lagoon_Area_National_Park"
 national_park"-
 +Nationalpark Vorpommersche Boddenlandschaft"*
 (Park Narodowy Mierzei Pomorza Przedniego"
@@ -20,22 +21,20 @@ species:plname:uk"9
 Nationalpark"
 NLP"T
 RVerordnung √ºber die Festsetzung des Nationalparkes Vorpommersche Boddenlandschaft"
-multipolygon"	
-Q708477"0
+multipolygon"0
 .de:Nationalpark Vorpommersche Boddenlandschaft"
-relation/1138522"#
-!{"@name":"Jasmund National Park"}"
-{"@wikidataId":"Q679173"}"
-{"@osmRelationId":"253073"}"(
-&{"@wikipedia":"Jasmund_National_Park"}"
-Nationalpark Jasmund"	
-Q679173"
+relation/1138522"
+Jasmund National Park"	
+Q679173"
+253073"
+Jasmund_National_Park"
+Nationalpark Jasmund"
 de:Nationalpark Jasmund"
-relation/253073"#
-!{"@name":"M√ºritz National Park"}"
-{"@wikidataId":"Q702495"}"
-{"@osmRelationId":"7890483"}",
-*{"@wikipedia":"M%C3%BCritz_National_Park"}")
+relation/253073"
+M√ºritz National Park"	
+Q702495"	
+7890483"
+M%C3%BCritz_National_Park")
 'M√ºritz-Nationalpark Teilgebiet Serrahn"
 M√ºritz-Nationalpark"
 
@@ -43,88 +42,79 @@ designated"
 1990"
 
 boundary"&
-$https://www.mueritz-nationalpark.de/"	
-Q702495"
+$https://www.mueritz-nationalpark.de/"
 de:M√ºritz-Nationalpark"
-relation/7890483"!
-{"@name":"Wolin National Park"}"
-{"@wikidataId":"Q620392"}"
-{"@osmRelationId":"4524964"}"
-{"@country":"Poland"}"&
-${"@wikipedia":"Wolin_National_Park"}"
+relation/7890483"
+Wolin National Park"	
+Q620392"	
+4524964"
+Poland"
+Wolin_National_Park"
 2493"
 PL.ZIPOP.1393.PN.4"
 Woli≈Ñski Park Narodowy"
 Voly≈àsk√Ω n√°rodn√≠ park"
 Nationalpark Wollin"
 Parco Nazionale di Wolin"
-http://www.wolinpn.pl/"	
-Q620392"
+http://www.wolinpn.pl/"
 pl:Woli≈Ñski Park Narodowy"
-relation/4524964"-
-+{"@name":"Lower Oder Valley National Park"}"
-{"@wikidataId":"Q701525"}"
-{"@osmRelationId":"215294"}"2
-0{"@wikipedia":"Lower_Oder_Valley_National_Park"}"
-Nationalpark Unteres Odertal"!
-Lower Oder Valley National Park"
+relation/4524964"!
+Lower Oder Valley National Park"	
+Q701525"
+215294"!
+Lower_Oder_Valley_National_Park"
+Nationalpark Unteres Odertal"
 	grassland".
-,https://www.nationalpark-unteres-odertal.eu/"	
-Q701525"!
+,https://www.nationalpark-unteres-odertal.eu/"!
 de:Nationalpark Unteres Odertal"
-relation/215294")
-'{"@name":"Uj≈õcie Warty National Park"}"
-{"@wikidataId":"Q618092"}"
-{"@osmRelationId":"303360"}"2
-0{"@wikipedia":"Uj%C5%9Bcie_Warty_National_Park"}"
+relation/215294"
+Uj≈õcie Warty National Park"	
+Q618092"
+303360"!
+Uj%C5%9Bcie_Warty_National_Park"
 2507"
 PL.ZIPOP.1393.PN.23"
 Park Narodowy Uj≈õcie Warty"
 Nationalpark Warthem√ºndung"!
 Warta River Mouth National Park"#
-!https://www.pnujsciewarty.gov.pl/"	
-Q618092"&
+!https://www.pnujsciewarty.gov.pl/"&
 $pl:Park Narodowy ‚ÄûUj≈õcie Warty‚Äù"
-relation/303360"!
-{"@name":"Drawa National Park"}"
-{"@wikidataId":"Q614743"}"
-{"@osmRelationId":"4525044"}"&
-${"@wikipedia":"Drawa_National_Park"}"
+relation/303360"
+Drawa National Park"	
+Q614743"	
+4525044"
+Drawa_National_Park"
 2499"
 PL.ZIPOP.1393.PN.18"
 nature_reserve"
 Drawie≈Ñski Park Narodowy"
-Nationalpark Drage"	
-Q614743"
+Nationalpark Drage"
 pl:Drawie≈Ñski Park Narodowy"
-relation/4525044"+
-){"@name":"Bavarian Forest National Park"}"
-{"@wikidataId":"Q704124"}"
-{"@osmRelationId":"1864214"}"0
-.{"@wikipedia":"Bavarian_Forest_National_Park"}"
+relation/4525044"
+Bavarian Forest National Park"	
+Q704124"	
+1864214"
+Bavarian_Forest_National_Park"
 protected_area"
 Nationalpark Bayerischer Wald"
-N√°rodn√≠ park Bavorsk√Ω les"
-Bavarian Forest National Park"$
+N√°rodn√≠ park Bavorsk√Ω les"$
 "Parque nacional del Bosque B√°varo"$
 "Bayerischer Waldin kansallispuisto"(
 &Parc national de la for√™t de Bavi√®re"(
 &Parco nazionale della foresta bavarese" 
 Park Narodowy Lasu Bawarskiego"
-NP Bavorsk√Ω les"	
-Q704124""
+NP Bavorsk√Ω les""
  de:Nationalpark Bayerischer Wald"
-relation/1864214"#
-!{"@name":"≈†umava National Park"}"
-{"@wikidataId":"Q864799"}"
-{"@osmRelationId":"2029367"}"
-{"@country":"Czech Republic"}",
-*{"@wikipedia":"%C5%A0umava_National_Park"}"
+relation/1864214"
+≈†umava National Park"	
+Q864799"	
+2029367"
+Czech Republic"
+%C5%A0umava_National_Park"
 N√°rodn√≠ park ≈†umava"&
 $Parque Nacional d'a Selva de Bohemia"
 ≈ûumava Milli Parkƒ±"
-Nationalpark B√∂hmerwald"
-≈†umava National Park"
+Nationalpark B√∂hmerwald"
 Nacia Parko ≈†umava"
 Parque nacional ≈†umava"
 Parc national de ≈†umava"
@@ -142,28 +132,26 @@ $Parque Nacional d'a Selva de Bohemia"
 
 NP ≈†umava"4
 2EEA Nationally designated areas - CDDA_v9_polygons"Z
-Xhttps://www.eea.europa.eu/data-and-maps/data/nationally-designated-areas-national-cdda-5"	
-Q864799"
+Xhttps://www.eea.europa.eu/data-and-maps/data/nationally-designated-areas-national-cdda-5"
 cs:N√°rodn√≠ park ≈†umava"
-relation/2029367"-
-+{"@name":"Saxon Switzerland National Park"}"
-{"@wikidataId":"Q702566"}"
-{"@osmRelationId":"1595534"}"2
-0{"@wikipedia":"Saxon_Switzerland_National_Park"}"
+relation/2029367"!
+Saxon Switzerland National Park"	
+Q702566"	
+1595534"!
+Saxon_Switzerland_National_Park"
 32666"≠
 ™Grenze des Nationalparks S√§chsische Schweiz (enth√§lt die Kernzone als besonders gesch√ºtzes Gebiet). Das Radfahren ist nur auf Stra√üen und ausgewiesenen Wegen erlaubt.""
  Nationalpark S√§chsische Schweiz"#
 !N√°rodn√≠ park Sask√© ≈†v√Ωcarsko"$
 "Parque nacional de la Suiza sajona"H
 FStaatsbetrieb Sachsenforst, Nationalparkverwaltung S√§chsische Schweiz"2
-0https://www.nationalpark-saechsische-schweiz.de/"	
-Q702566"%
+0https://www.nationalpark-saechsische-schweiz.de/"%
 #de:Nationalpark S√§chsische Schweiz"
-relation/1595534"/
--{"@name":"ƒåesk√© ≈†v√Ωcarsko National Park"}"
-{"@wikidataId":"Q3491338"}"
-{"@osmRelationId":"1903929"}"
-{"@wikipedia":null}"#
+relation/1595534"#
+!ƒåesk√© ≈†v√Ωcarsko National Park"
+
+Q3491338"	
+1903929"#
 !Parque nacional de la Suiza checa"
 II"$
 "N√°rodn√≠ park ƒåesk√© ≈†v√Ωcarsko"
@@ -177,14 +165,13 @@ $Parco nazionale della Svizzera boema"!
 "N√°rodn√Ω park ƒåesk√© ≈†v√Ωcarsko"
 Êç∑ÂÖãÁëûÂ£´ÂúãÂÆ∂ÂÖ¨Âúí"
 NP ƒåesk√© ≈†v√Ωcarsko"
-ƒåesk√© ≈†v√Ωcarsko"
-
-Q3491338"'
+ƒåesk√© ≈†v√Ωcarsko"'
 %cs:N√°rodn√≠ park ƒåesk√© ≈†v√Ωcarsko"
-relation/1903929"%
-#{"@name":"Jizerskohorsk√© buƒçiny"}"
-{"@wikidataId":"Q8546570"}"
-{"@osmRelationId":"2075813"}"
+relation/1903929"
+Jizerskohorsk√© buƒçiny"
+
+Q8546570"	
+2075813"
 
 950.9252"
 CZE"
@@ -196,42 +183,37 @@ $Parco nazionale della Svizzera boema"!
 %N√°rodn√≠ p≈ô√≠rodn√≠ rezervace (NPR)"
 National Nature Reserve"
 2058"
-NPR Jizerskohorsk√© buƒçiny"
-Jizerskohorsk√© buƒçiny"
+NPR Jizerskohorsk√© buƒçiny"
 EEA:CDDA2009"
 
 1999-09-15"L
-Jhttps://wiki.openstreetmap.org/wiki/EEA:Nationally_designated_areas_import"
-
-Q8546570"
-relation/2075813"(
-&{"@name":"Wielkopolska National Park"}"
-{"@wikidataId":"Q101635"}"
-{"@osmRelationId":"6252649"}"-
-+{"@wikipedia":"Wielkopolski_National_Park"}"
+Jhttps://wiki.openstreetmap.org/wiki/EEA:Nationally_designated_areas_import"
+relation/2075813"
+Wielkopolska National Park"	
+Q101635"	
+6252649"
+Wielkopolski_National_Park"
 2490"
 PL.ZIPOP.1393.PN.20"
 Wielkopolski Park Narodowy"
-Nationalpark Gro√üpolen"	
-Q101635"
+Nationalpark Gro√üpolen"
 pl:Wielkopolski Park Narodowy"
-relation/6252649"&
-${"@name":"Karkonosze National Park"}"
-{"@wikidataId":"Q621423"}"
-{"@osmRelationId":"1329832"}"+
-){"@wikipedia":"Karkonosze_National_Park"}"
+relation/6252649"
+Karkonosze National Park"	
+Q621423"	
+1329832"
+Karkonosze_National_Park"
 Karkonoski Park Narodowy"
 Krkono≈°sk√Ω n√°rodn√≠ park"
-Nationalpark Riesengebirge"
-Karkonosze National Park"
-https://kpnmab.pl/"	
-Q621423"
+Nationalpark Riesengebirge"
+https://kpnmab.pl/"
 pl:Karkonoski Park Narodowy"
-relation/1329832"'
-%{"@name":"S≈Çowi≈Ñski National Park"}"
-{"@wikidataId":"Q1572525"}"
-{"@osmRelationId":"2924964"}"4
-2{"@wikipedia":"S%C5%82owi%C5%84ski_National_Park"}"
+relation/1329832"
+S≈Çowi≈Ñski National Park"
+
+Q1572525"	
+2924964"#
+!S%C5%82owi%C5%84ski_National_Park"
 44118"
 PL.ZIPOP.1393.PN.24"
 S≈Çowi≈Ñski Park Narodowy"
@@ -240,83 +222,75 @@ ${"@name":"Karkonosze National Park"}"
 |RozporzƒÖdzenie Rady Ministr√≥w z dnia 2 marca 2004 r. w sprawie S≈Çowi≈Ñskiego Parku Narodowego (Dz.U. 2004 nr 43 poz. 390)"
 GDO≈ö":
 8http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040430390"
-https://slowinskipn.pl/"
-
-Q1572525"
+https://slowinskipn.pl/"
 pl:S≈Çowi≈Ñski Park Narodowy"
-relation/2924964"'
-%{"@name":"Babia G√≥ra National Park"}"
-{"@wikidataId":"Q606000"}"
-{"@osmRelationId":"10907997"}"0
-.{"@wikipedia":"Babia_G%C3%B3ra_National_Park"}"
+relation/2924964"
+Babia G√≥ra National Park"	
+Q606000"
+
+10907997"
+Babia_G%C3%B3ra_National_Park"
 Babiog√≥rski Park Narodowy"
 Nationalpark Teufelspitze"
 BPN"
-gps"	
-Q606000"
+gps"
 pl:Babiog√≥rski Park Narodowy"
-relation/10907997"'
-%{"@name":"Mal√° Fatra National Park"}"
-{"@wikidataId":"Q1567025"}"
-{"@osmRelationId":"6757022"}"
-{"@country":"Slovakia"}"0
-.{"@wikipedia":"Mal%C3%A1_Fatra_National_Park"}"
+relation/10907997"
+Mal√° Fatra National Park"
+
+Q1567025"	
+6757022"
+
+Slovakia"
+Mal%C3%A1_Fatra_National_Park"
 
 sk_sopsr"
 N√°rodn√Ω park Mal√° Fatra"
 Nationalpark Kleine Fatra"
-Mal√° Fatra National Park"
 Parc national Mal√° Fatra"
 Park Narodowy Ma≈Ça Fatra"
 44"
 21"
 3"D
-B(C)2008 ≈†t√°tna ochrana pr√≠rody SR Bansk√° Bystrica www.sopsr.sk"
-
-Q1567025"
+B(C)2008 ≈†t√°tna ochrana pr√≠rody SR Bansk√° Bystrica www.sopsr.sk"
 sk:N√°rodn√Ω park Mal√° Fatra"
-relation/6757022")
-'{"@name":"Veƒæk√° Fatra National Park"}"
-{"@wikidataId":"Q958003"}"
-{"@osmRelationId":"7216689"}"6
-4{"@wikipedia":"Ve%C4%BEk%C3%A1_Fatra_National_Park"}"
+relation/6757022"
+Veƒæk√° Fatra National Park"	
+Q958003"	
+7216689"%
+#Ve%C4%BEk%C3%A1_Fatra_National_Park"
 N√°rodn√Ω park Veƒæk√° Fatra"
-Nationalpark Gro√üe Fatra"
-Veƒæk√° Fatra National Park"
+Nationalpark Gro√üe Fatra"
 Nagy-F√°tra Nemzeti Park"
 Park Narodowy Wielka Fatra";
 9–ù–∞—Ü–∏–æ–Ω–∞–ª—å–Ω—ã–π –ø–∞—Ä–∫ –í–µ–ª—å–∫–∞ –§–∞—Ç—Ä–∞"
 31"
-12"	
-Q958003"!
+12"!
 sk:N√°rodn√Ω park Veƒæk√° Fatra"
-relation/7216689"$
-"{"@name":"Kampinos National Park"}"
-{"@wikidataId":"Q619061"}"
-{"@osmRelationId":"1561264"}")
-'{"@wikipedia":"Kampinos_National_Park"}"
+relation/7216689"
+Kampinos National Park"	
+Q619061"	
+1561264"
+Kampinos_National_Park"
 2491"
 PL.ZIPOP.1393.PN.9"
 Kampinoski Park Narodowy"
-Nationalpark Kampinos"
-Kampinos National Park"	
-Q619061"
+Nationalpark Kampinos"
 pl:Kampinoski Park Narodowy"
-relation/1561264"+
-){"@name":"≈öwiƒôtokrzyski National Park"}"
-{"@wikidataId":"Q387818"}"
-{"@osmRelationId":"4524956"}"8
-6{"@wikipedia":"%C5%9Awi%C4%99tokrzyski_National_Park"}"
+relation/1561264"
+≈öwiƒôtokrzyski National Park"	
+Q387818"	
+4524956"'
+%%C5%9Awi%C4%99tokrzyski_National_Park"
 2485"
 PL.ZIPOP.1393.PN.6"
-≈öwiƒôtokrzyski Park Narodowy"	
-Q387818""
+≈öwiƒôtokrzyski Park Narodowy""
  pl:≈öwiƒôtokrzyski Park Narodowy"
-relation/4524956"!
-{"@name":"Gorce National Park"}"
-{"@wikidataId":"Q618174"}"
-{"@osmRelationId":"1984482"}"&
-${"@wikipedia":"Gorce_National_Park"}"
+relation/4524956"
+Gorce National Park"	
+Q618174"	
+1984482"
+Gorce_National_Park"
 2497"
 PL.ZIPOP.1393.PN.21"
 Gorcza≈Ñski Park Narodowy"
@@ -327,14 +301,13 @@ ${"@wikipedia":"Gorce_National_Park"}"
 	PLB120001"
 Gorce"
 A"
-http://www.gorczanskipark.pl/"	
-Q618174"
+http://www.gorczanskipark.pl/"
 pl:Gorcza≈Ñski Park Narodowy"
-relation/1984482"!
-{"@name":"Tatra National Park"}"
-{"@wikidataId":"Q609353"}"
-{"@osmRelationId":"2226518"}".
-,{"@wikipedia":"Tatra_National_Park,_Poland"}"
+relation/1984482"
+Tatra National Park"	
+Q609353"	
+2226518"
+Tatra_National_Park,_Poland"
 wild_animals"
 Tatrza≈Ñski Park Narodowy"
 Tatra-Nationalpark"
@@ -345,70 +318,63 @@ ${"@wikipedia":"Gorce_National_Park"}"
 
 Brown Bear"
 Nied≈∫wied≈∫ brunatny"
-http://tpn.pl/"	
-Q609353"'
+http://tpn.pl/"'
 %pl:Tatrza≈Ñski Park Narodowy (Polska)"
-relation/2226518"
-{"@wikidataId":"Q1080683"}"
-{"@osmRelationId":"6757027"}"0
-.{"@wikipedia":"Tatra_National_Park,_Slovakia"}"
+relation/2226518"
+
+Q1080683"	
+6757027"
+Tatra_National_Park,_Slovakia"
 Tatransk√Ω n√°rodn√Ω park"
-Tatransk√Ω n√°rodn√≠ park"
-Tatra National Park"
+Tatransk√Ω n√°rodn√≠ park"
 TANAP"
 35"
 16"
-http://www.tanap.org/"
-
-Q1080683"
+http://www.tanap.org/"
 cs:Tatransk√Ω n√°rodn√≠ park"
-relation/6757027"&
-${"@name":"Low Tatras National Park"}"
-{"@wikidataId":"Q1767601"}"
-{"@osmRelationId":"2827630"}"+
-){"@wikipedia":"Low_Tatras_National_Park"}"
+relation/6757027"
+Low Tatras National Park"
+
+Q1767601"	
+2827630"
+Low_Tatras_National_Park"
 N√°rodn√Ω park N√≠zke Tatry"
-Nationalpark Niedere Tatra"
-Low Tatras National Park"
+Nationalpark Niedere Tatra"
 Park Narodowy Ni≈ºne Tatry"
 NAPANT"
 41"
-18"
-
-Q1767601" 
+18" 
 sk:N√°rodn√Ω park N√≠zke Tatry"
-relation/2827630"#
-!{"@name":"Pieniny National Park"}"
-{"@wikidataId":"Q625500"}"
-{"@osmRelationId":"1984552"}"1
-/{"@wikipedia":"Pieniny_National_Park_(Poland)"}"
+relation/2827630"
+Pieniny National Park"	
+Q625500"	
+1984552" 
+Pieniny_National_Park_(Poland)"
 Pieni≈Ñski Park Narodowy"
 Pieninen-Nationalpark"
-relation/1984552"
-{"@wikidataId":"Q1783680"}"
-{"@osmRelationId":"6757024"}"3
-1{"@wikipedia":"Pieniny_National_Park_(Slovakia)"}"
-Pieninsk√Ω n√°rodn√Ω park"
-Pieninsk√Ω n√°rodn√≠ park"
-Pieniny National Park"&
-$Pieni≈Ñski Park Narodowy (S≈Çowacja)"
+relation/1984552"
 
-Q1783680"
+Q1783680"	
+6757024""
+ Pieniny_National_Park_(Slovakia)"
+Pieninsk√Ω n√°rodn√Ω park"
+Pieninsk√Ω n√°rodn√≠ park"&
+$Pieni≈Ñski Park Narodowy (S≈Çowacja)"
 cs:Pieninsk√Ω n√°rodn√≠ park"
-relation/6757024"$
-"{"@name":"National Park Thayatal"}"
-{"@wikidataId":"Q612901"}"
-{"@osmRelationId":"2196323"}"
-{"@country":"Austria"}")
-'{"@wikipedia":"Thayatal_National_Park"}"
+relation/6757024"
+National Park Thayatal"	
+Q612901"	
+2196323"	
+Austria"
+Thayatal_National_Park"
 Nationalpark Thayatal"
-https://www.np-thayatal.at/"	
-Q612901"
-relation/2196323"#
-!{"@name":"Podyj√≠ National Park"}"
-{"@wikidataId":"Q2006345"}"
-{"@osmRelationId":"9316264"}",
-*{"@wikipedia":"Podyj%C3%AD_National_Park"}"
+https://www.np-thayatal.at/"
+relation/2196323"
+Podyj√≠ National Park"
+
+Q2006345"	
+9316264"
+Podyj%C3%AD_National_Park"
 N√°rodn√≠ park Podyj√≠"
 Parque Nacional d'a Podyji"
 Parque nacional Podyji"
@@ -421,50 +387,42 @@ $Pieni≈Ñski Park Narodowy (S≈Çowacja)"
 NP Podyj√≠"
 
 1991-05-10"
-https://www.nppodyji.cz/"
+https://www.nppodyji.cz/"
+relation/9316264"
+Slovak Paradise National Park"
 
-Q2006345"
-relation/9316264"+
-){"@name":"Slovak Paradise National Park"}"
-{"@wikidataId":"Q1507799"}"
-{"@osmRelationId":"6757026"}"0
-.{"@wikipedia":"Slovak_Paradise_National_Park"}"
+Q1507799"	
+6757026"
+Slovak_Paradise_National_Park"
 N√°rodn√Ω park Slovensk√Ω raj" 
 N√°rodn√≠ park Slovensk√Ω r√°j"$
-"Nationalpark Slowakisches Paradies"
-Slovak Paradise National Park""
+"Nationalpark Slowakisches Paradies""
  Szlov√°k Paradicsom Nemzeti Park"
 Park Narodowy S≈Çowacki Raj"
-–°–ª–æ–≤–∞—Ü–∫–∏–π —Ä–∞–π"
-
-Q1507799""
+–°–ª–æ–≤–∞—Ü–∫–∏–π —Ä–∞–π""
  sk:N√°rodn√Ω park Slovensk√Ω raj"
-relation/6757026"&
-${"@name":"Bieszczady National Park"}"
-{"@wikidataId":"Q613888"}"
-{"@osmRelationId":"5497863"}"+
-){"@wikipedia":"Bieszczady_National_Park"}"
+relation/6757026"
+Bieszczady National Park"	
+Q613888"	
+5497863"
+Bieszczady_National_Park"
 Bieszczadzki Park Narodowy"
-Beskiden-Nationalpark"
-Bieszczady National Park"8
-6–ë–µ—â–∞–¥—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø–∞—Ä–∫"	
-Q613888"
-relation/5497863",
-*{"@name":"Uzhanskyi National Nature Park"}"
-{"@wikidataId":"Q4469611"}"
-{"@osmRelationId":"6446164"}"
-{"@country":"Ukraine"}"1
-/{"@wikipedia":"Uzhanskyi_National_Nature_Park"}"I
+Beskiden-Nationalpark"8
+6–ë–µ—â–∞–¥—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø–∞—Ä–∫"
+relation/5497863" 
+Uzhanskyi National Nature Park"
+
+Q4469611"	
+6446164"	
+Ukraine" 
+Uzhanskyi_National_Nature_Park"I
 G–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
-Nationaler Naturpark Usch" 
-Uzhanskyi National Nature Park"
-https://unpp.com.ua/"
-
-Q4469611"L
+Nationaler Naturpark Usch"
+https://unpp.com.ua/"L
 Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
-relation/6446164ˆ   		
+relation/6446164˙   		
 
-"œ	™Ñ 		   
+⁄æE"œ	™Ñ 		   
      '	 
 ) 	
   M0 	  1
@@ -475,15 +433,15 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
  
 = 	ò3z   		-Å¢&
  
- 	+j"	 	ÈÆ © 	
+ 	+j"	 	ÈÆ ≠ 	
 
-"Ü	¥¢¢  		
+ëπ"Ü	¥¢¢  		
     " 
  	!"
-		 ¥" 		 !"#$"ã	Œ¯Í
+		 π" 		 !≥Ã·"ã	Œ¯Í
 
  		   	 
-   		 ö$ %&'()*+,-./0123"Ô	é∂ö 
+   		 ü$ "#$%&'()*+,-#./§óî"Ô	é∂ö 
 *&    	 	LÇ
 
 
@@ -493,15 +451,15 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 / 
               	  $#r-#  
    
- 	  	1 	0#	   ª" 456789:		
+ 	  	1 	0#	   ø" 0123405		
 
- ;<=>"í	ÚñÍ$$
+6178˛ë"í	ÚñÍ$$
 	 .	%    	   	
  
 	      ) 	%	   
 	*;b  	 	
 :	  	
-ù$ ?@A(BCDEFGE HIJK"s	å»ä
+°$ 9:;%<=>?@A?B:CDÄ¬"s	å»ä
  		
  
  
@@ -509,13 +467,13 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 
 )%
 	  	
-		 ∞" LMN(OPQRSTS UVW"á	¶Æ¬ "  	( 	 
+		 µ" EFG%HIJKLMLFNOÙóî"á	¶Æ¬ "  	( 	 
 '
   	  !  
 
- 	  	=L   	çab			 	"( 	+µ. XYZ[\]^_`abcd		 e
+ 	  	=L   	çab			 	"( 	+π. PQRSTUVPWXYZ[		 \
 
-fgh"Ä	ˆ¯?Z 		 	™ 	 	   	 	
+Q]^ñ‰q"Ä	ˆ¯?Z 		 	™ 	 	   	 	
 ( 
  
  
@@ -527,7 +485,7 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
       		 
    	 	é4
 
- 	A%* 	A* 	D:  	 "  	5 êM ijklm\!n"o#pnqr$stu%v&wx'y(z){|*}+~,	Ä-ÅÇ ÉÑÖÜ"º	‹‘=“	
+ 	A%* 	A* 	D:  	 "  	5 çF _`abcT!d"e#fdg_$hij%k&lm'n(o)pq*r+s,t	u-vwx`yz∑Ó{"º	‹‘=“	
 
  
 
@@ -545,9 +503,9 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 Y 	 	 	 	
 	  			 	  			 			'		
  
-	€6 áàâä.ã/åçéè		
+	Ÿ0 {|}~./ÄÅÇÉ		
 
-ê ëíìî"û	¸í.≤    
+ÑÖ|Üáé±a"û	¸í.≤    
  
      
 
@@ -555,35 +513,35 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
   	
   	H 	ìEÍ   
    	     	  	 	  
-íG ïñólò0ô\!öõ1úùûü†°¢*£,§-•2¶ ß®©"ƒ	ˆ¯.Ú 	  
+ìD àâäb0ãT!åç1éèêëíìî*ï,ñ-ó2òâôöπöt"ƒ	ˆ¯.Ú 	  
    	    		 
     
-   	  ’G ™´¨lò3≠\4Æ5Ø!∞R±≤≥	¥6µ7∂-∑2∏π∫ ªºΩ"á	ÑÊ.≤
- 	JR   	Q" 	p	" 	 	Å 	Û, æø¿(¡¬√ƒ≈ƒ ∆«»"¿	îÍ!Í   
+   	  ÷D õúùb3ûT4ü5†!°K¢£§	•6¶7ß-®2õ©™´ú¨•Ÿ~"á	ÑÊ.≤
+ 	JR   	Q" 	p	" 	 	Å 	¯, ≠ÆØ%∞±≤≥¥≥Æµ∂È–˝"¿	îÍ!Í   
  
  $	    
 ,   	  	  	 
-	Ü1r	 	   		£Z 			Ì/ … À(ÃÕŒœ–Õ —“”‘"∑	˙¶/í  
+	Ü1r	 	   		£Z 			Ò/ ∑∏π%∫ªºΩ∑ªæ∏ø¿®ïQ"∑	˙¶/í  
      
  
 +				
 
 
   
-   	3 ¡= ’÷◊(ÿŸ⁄R€8‹›€9ﬁﬂ :‡·‚„‰"˝	Ê!Ç¬ 	  )àKŒ) * 
+   	3 ∆= ¡¬√%ƒ≈∆K«8»…«9 À:ÃÕ¬Œœ§√≤"˝	Ê!Ç¬ 	  )àKŒ) * 
 (  	  	 
 			
  	¢	 
- 			  	 *  		# 	n, ÂÊÁ(ËÈÍÈ-ÎÏ ÌÓÔ"<	í/¯9“
+ 			  	 *  		# 	s, –—“%”‘’‘-÷◊—ÿŸ›‚ô"<	í/¯9“
 
 		 		
- â< ÒÚÛÙ;ıˆ˜¯˘˙<˚=¸>˝˛ ˇÄÅ"∆	ƒ,é=˙    
+ é< ⁄€‹›ﬁ;ﬂ‡·⁄‚„<‰=Â>ÊÁ€ËÈûµú"∆	ƒ,é=˙    
    
  
    	  
 		
 	 
-  	 Ã? ÇÉÑÛÖ;ıÜÜáà?âä@ã<å=ç>˝éèê"Ü	Ñ-ä@˙   
+  	 —? ÍÎÏ›Ì;ﬂÓÓÔÍ?Ò@Ú<Û=Ù>ÊÎıˆ±º∏"Ü	Ñ-ä@˙   
   
  		 	   	  	   
    
@@ -594,7 +552,7 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
  
   
  	 
-    ≠/ ëíì(îïñóòôó öõú"˜	™2®)"   	* 	àØÚ	   &
+    ±/ ˜¯˘%˙˚¸˝˛˜˝¯ˇÄ∞•_"˜	™2®)"   	* 	àØÚ	   &
 "
   
    
@@ -611,7 +569,7 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
    	 	ttB 
 
 	◊_   	àl:     	 	ª"
-	ﬁ   	°2	 	äy2  	ô0		‰P 		√9		Æ4 	É  	  	…ä   	)   	Ú;   	π-   	|   	K@   	ég  	&  ÿ& ùûü(†°¢£ §•¶"´	û7≤.2	  	 	HB
+	ﬁ   	°2	 	äy2  	ô0		‰P 		√9		Æ4 	É  	  	…ä   	)   	Ú;   	π-   	|   	K@   	ég  	&  ›& ÅÇÉ%ÑÖÜáÇàâúóî"´	û7≤.2	  	 	HB
     	.J     	°	    	@?   	   	&.¬
 
  
@@ -619,9 +577,9 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 0 	 	       #  		  	       			   
  
 
-  	_;ëA ß®©(™´¨≠Æ≠-ØA∞B±C≤D≥E¥µ∂∑∏"…	Ã2ú:Í   
+  	_;ïA äãå%çéèêëê-íAìBîCïDñEóòãôö‚èy"…	Ã2ú:Í   
 	 	     			 !  
-	    	*B	wI	û2    	   	Q   	kœ> π∫ª(ºFΩæø?¿æ-¡G¬H√IƒJ≈ ∆«»…"ä	û2ƒ<˙  
+	    	*B	wI	û2    	   	Q   	k‘> õúù%ûFü†°?¢†-£G§H•I¶Jß®ú©™÷Úá"ä	û2ƒ<˙  
 
 	
 
@@ -632,7 +590,7 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
      	  
  
 
-   	  	2   	4 	 	E   		ÛB π ÀÛÃÕŒøœ?¿æ*Õ-–<—=“>˝ ”‘’÷"™	‚3Ú=‚ 			
+   	  	2   	4 	 	E   		¯B õ´¨›≠ÆØ°õ?¢†*Æ-∞<±=≤>Ê≥´¥µ£µú"™	‚3Ú=‚ 			
 
 
    
@@ -653,7 +611,7 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 
  
 
-	˝& Á< ◊ÿŸÛ⁄;ı€‹›ﬁ7ﬂ<‡=·>˝˛ ‚„‰"§	Æ/ê?∫ 
+	˝& Ï< ∂∑∏›π;ﬂ∫ª∂º7Ω<æ=ø>ÊÁ∑¿¡Ó ¨"§	Æ/ê?∫ 
  
    
  
@@ -674,27 +632,27 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 
   	  	 
 
-	 			    	     Ç  ÂÊÁ(ËÈÍÈÎ"\	ÿ3¿;“ 
+	 			    	     Ü  ¬√ƒ%≈∆«∆»®êy"\	ÿ3¿;“ 
 	
 
 
 	 	 
-  	Å+ ÂÏÌÛÓÔÍÒÚ ÛÙı"P	†4ÿ;¢
+  	Ü+ ¬… ›ÀÃÕ«¬Œ…œ–†µú"P	†4ÿ;¢
  
 
 
 
-3 			¶$ ˆ˜¯˘˙˚	˚¸˝˛"|	Æ‰@“         
+3 			´$ —“”‘’÷	÷◊“ÿ„ÜÜ"|	Æ‰@“         
   
  
 
  	 
  
-  úA ˇÄÅlÇÉ"Ñ˚Ö&Üá)àâ	Ä7ä-ãå çéè"‘	Ã–@⁄   	    
+  †@ Ÿ⁄€b‹›"ﬁ÷ﬂ&‡·)‚„	u7‰-ÂÊÁ⁄Ë®œ∏"‘	Ã–@⁄   	    
  
        
  	  	        
-	"  		-1 „4 êëíÛìîïñó?òô@ö*î õúù"®	–4‰?Ç
+	"  		-1 Ë4 ÈÍÎ›ÏÌÓÔÈ?Ò@Ú*ÌÍÛÙ¢µú"®	–4‰?Ç
 
 	 			 	
 	
@@ -702,12 +660,12 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
   		
  
  	 
-   Û+ ûü†(°R¢£§¢K• ¶ß"¡	Ú?¢=Ç 
+   ¯+ ıˆ˜%¯K˘˙ı˘K˚ˆ¸á»œ"¡	Ú?¢=Ç 
  
  
  P	
  		   	
-  	   		I7	]^ 	ƒ( 	   	≤g   ü1 ®©™´¨R≠ÆØK≠	 ∞±≤≥"h	º@º>Ç
+  	   		I7	]^ 	ƒ( 	   	≤g   §1 ˝˛ˇÄÅKÇÉ˝KÇ	Ñ˛ÖÜ‘∏â"h	º@º>Ç
 
  
 	 n

@@ -1,13 +1,14 @@
-��x
-parks(� 01234boundaryleisurenamename:ennatura2000:codenatura2000:nameprotect_classprotection_titlesourcetypewikidata	wikipediaid communication:amateur_radio:potafixmeint_namename:dename:srname:sr-Latnref:wdpa
+�qx
+parks(� @name@wikidataId@osmRelationId@country
+@wikipediaboundaryleisurenamename:ennatura2000:codenatura2000:nameprotect_classprotection_titlesourcetypewikidata	wikipediaid communication:amateur_radio:potafixmeint_namename:dename:srname:sr-Latnref:wdpa
 short_nameshort_name:enshort_name:srshort_name:sr-Latn
 start_datewdpa:websitewebsitegovernance_typeloc_namename:esname:frname:zhoperatorsite_ownershipalt_name:csgidheritageheritage:operatorimage
-kodinspirename:csname:ltname:lvname:plname:skref:whcwhc:criteriawhc:inscription_datenote	SITE_CODEarea:size:haname:ukaccesscontact:emailcontact:faxcontact:phonecontact:websitehazardlandusemilitaryname:bename:be-taraskname:nlname:ruofficial_nameofficial_name:be	protectedwikipedia:bewikipedia:ruprotection_statusshort_name:ukareaname:itname:kaname:trname:xmf"5
-3{"@name":"Semenic-Cheile Carașului National Park"}"
-{"@wikidataId":"Q82371"}"
-{"@osmRelationId":"2196623"}"
-{"@country":"Romania"}"9
-7{"@wikipedia":"Semenic-Cara%C8%99_Gorge_National_Park"}"
+kodinspirename:csname:ltname:lvname:plname:skref:whcwhc:criteriawhc:inscription_datenote	SITE_CODEarea:size:haname:ukaccesscontact:emailcontact:faxcontact:phonecontact:websitehazardlandusemilitaryname:bename:be-taraskname:nlname:ruofficial_nameofficial_name:be	protectedwikipedia:bewikipedia:ruprotection_statusshort_name:ukareaname:itname:kaname:trname:xmf")
+'Semenic-Cheile Carașului National Park"
+Q82371"	
+2196623"	
+Romania"(
+&Semenic-Cara%C8%99_Gorge_National_Park"
 protected_area"
 nature_reserve".
 ,Parcul Național Semenic - Cheile Carașului"&
@@ -17,15 +18,15 @@ $Semenic - Caraș Gorge National Park"
 2"
 Natura 2000 Site"
 natura2000.eea.europa.eu"
-multipolygon"
-Q82371"'
+multipolygon"'
 %en:Semenic-Caraș Gorge National Park"
-relation/2196623"#
-!{"@name":"Đerdap national park"}"
-{"@wikidataId":"Q1258055"}"
-{"@osmRelationId":"9499038"}"
-{"@country":"Serbia"}",
-*{"@wikipedia":"%C4%90erdap_national_park"}"
+relation/2196623"
+Đerdap national park"
+
+Q1258055"	
+9499038"
+Serbia"
+%C4%90erdap_national_park"
 national_park"	
 YT-0002"!
 under resurveying as of 9.8.19."
@@ -41,21 +42,19 @@ $Semenic - Caraș Gorge National Park"
 Đerdap"
 1974"&
 $https://www.protectedplanet.net/2522"
-http://www.npdjerdap.org/"
-
-Q1258055"/
+http://www.npdjerdap.org/"/
 -sr:Национални парк Ђердап"
-relation/9499038")
-'{"@name":"Losiny Ostrov National Park"}"
-{"@wikidataId":"Q1785861"}"
-{"@osmRelationId":"1380523"}"
-{"@country":"Russia"}".
-,{"@wikipedia":"Losiny_Ostrov_National_Park"}"
+relation/9499038"
+Losiny Ostrov National Park"
+
+Q1785861"	
+1380523"
+Russia"
+Losiny_Ostrov_National_Park"
 government_managed"
 ЛО; Лосинка"C
 AНациональный парк «Лосиный остров»"
-Nationalpark Lossiny Ostrow"
-Losiny Ostrov National Park"
+Nationalpark Lossiny Ostrow"
 Parque nacional Losiny Ostrov"
 Parc national Lossiny Ostrov"
 駝鹿島國家公園"K
@@ -64,16 +63,15 @@ IФГБУ "Национальный парк "Лосиный остров""#
 federal"
 
 boundary"
-http://elkisland.ru"
-
-Q1785861" 
+http://elkisland.ru" 
 ru:Лосиный Остров"
-relation/1380523"(
-&{"@name":"Białowieża National Park"}"
-{"@wikidataId":"Q6870388"}"
-{"@osmRelationId":"252148"}"
-{"@country":"Poland"}"5
-3{"@wikipedia":"Bia%C5%82owie%C5%BCa_National_Park"}"
+relation/1380523"
+Białowieża National Park"
+
+Q6870388"
+252148"
+Poland"$
+"Bia%C5%82owie%C5%BCa_National_Park"
 Bělověžský prales"
 2506"
 1"
@@ -82,8 +80,7 @@ ehttp://bialowiezaforest.eu/wp-content/uploads/2015/07/map-of-Belarusian-side-of
 PL.ZIPOP.1393.PN.8"
 Białowieski Park Narodowy"
 Bělověžský národní park"
-Białowieża-Nationalpark"
-Białowieża National Park"
+Białowieża-Nationalpark"
 Parc national de Bialowieza"
 Belovežo nacionalinis parkas"
 Belovežas nacionālais parks"
@@ -91,62 +88,54 @@ ehttp://bialowiezaforest.eu/wp-content/uploads/2015/07/map-of-Belarusian-side-of
 33bis"
 1932"
 (vii)"
-1979"
-
-Q6870388"
+1979"
 pl:Białowieski Park Narodowy"
-relation/252148"#
-!{"@name":"Polesie National Park"}"
-{"@wikidataId":"Q625105"}"
-{"@osmRelationId":"6248221"}"(
-&{"@wikipedia":"Polesie_National_Park"}"
+relation/252148"
+Polesie National Park"	
+Q625105"	
+6248221"
+Polesie_National_Park"
 Poleski Park Narodowy"
-Nationalpark Polesie"
-Polesie National Park"G
+Nationalpark Polesie"G
 Eold relation #1 395 293 left for historic info, but with tags removed"(
 &Generalna Dyrekcja Ochrony Środowiska"
-http://www.poleskipn.pl"	
-Q625105"
+http://www.poleskipn.pl"
 pl:Poleski Park Narodowy"
-relation/6248221"$
-"{"@name":"Roztocze National Park"}"
-{"@wikidataId":"Q626392"}"
-{"@osmRelationId":"2125165"}")
-'{"@wikipedia":"Roztocze_National_Park"}"
+relation/6248221"
+Roztocze National Park"	
+Q626392"	
+2125165"
+Roztocze_National_Park"
 856"	
 8481.76"
-Roztoczański Park Narodowy"	
-Q626392" 
+Roztoczański Park Narodowy" 
 pl:Roztoczański Park Narodowy"
-relation/2125165"&
-${"@name":"Bieszczady National Park"}"
-{"@wikidataId":"Q613888"}"
-{"@osmRelationId":"5497863"}"+
-){"@wikipedia":"Bieszczady_National_Park"}"
+relation/2125165"
+Bieszczady National Park"	
+Q613888"	
+5497863"
+Bieszczady_National_Park"
 Bieszczadzki Park Narodowy"
-Beskiden-Nationalpark"
-Bieszczady National Park"8
-6Бещадський національний парк"	
-Q613888"
-relation/5497863",
-*{"@name":"Uzhanskyi National Nature Park"}"
-{"@wikidataId":"Q4469611"}"
-{"@osmRelationId":"6446164"}"
-{"@country":"Ukraine"}"1
-/{"@wikipedia":"Uzhanskyi_National_Nature_Park"}"I
-GУжанський національний природний парк"
-Nationaler Naturpark Usch" 
-Uzhanskyi National Nature Park"
-https://unpp.com.ua/"
+Beskiden-Nationalpark"8
+6Бещадський національний парк"
+relation/5497863" 
+Uzhanskyi National Nature Park"
 
-Q4469611"L
+Q4469611"	
+6446164"	
+Ukraine" 
+Uzhanskyi_National_Nature_Park"I
+GУжанський національний природний парк"
+Nationaler Naturpark Usch"
+https://unpp.com.ua/"L
 Juk:Ужанський національний природний парк"
-relation/6446164"3
-1{"@name":"Polesie State Radioecological Reserve"}"
-{"@wikidataId":"Q2043162"}"
-{"@osmRelationId":"3397849"}"
-{"@country":"Belarus"}"8
-6{"@wikipedia":"Polesie_State_Radioecological_Reserve"}"	
+relation/6446164"'
+%Polesie State Radioecological Reserve"
+
+Q2043162"	
+3397849"	
+Belarus"'
+%Polesie_State_Radioecological_Reserve"	
 private"
 hazard"
 zapovednik@tut.by"
@@ -172,31 +161,28 @@ xПолесский государственный радиационно-эко
 
 perpetuity"g
 eГосударственный радиационно-экологический заповедник"
-1988"
-
-Q2043162"*
+1988"*
 (en:Polesie State Radioecological Reserve"
-relation/3397849"B
-@{"@name":"Chernobyl Radiation and Ecological Biosphere Reserve"}"
-{"@wikidataId":"Q23928179"}"
-{"@osmRelationId":"12045006"}"
-{"@wikipedia":null}"t
+relation/3397849"6
+4Chernobyl Radiation and Ecological Biosphere Reserve"
+	Q23928179"
+
+12045006"t
 rЧорнобильський радіаційно-екологічний біосферний заповідник"6
 4Chornobyl Radiation and Ecological Biosphere Reserve"/
 -Radio-ecologisch Biosfeerreservaat Tsjornobyl"x
 vЧернобыльский радиационно-экологический биосферный заповедник"
 
-26.04.2016"
-	Q23928179"w
+26.04.2016"w
 uuk:Чорнобильський радіаційно-екологічний біосферний заповідник"
-relation/12045006"*
-({"@name":"Carpathian Biosphere Reserve"}"
-{"@wikidataId":"Q3612435"}"
-{"@osmRelationId":"1463495"}"/
--{"@wikipedia":"Carpathian_Biosphere_Reserve"}"B
+relation/12045006"
+Carpathian Biosphere Reserve"
+
+Q3612435"	
+1463495"
+Carpathian_Biosphere_Reserve"B
 @Карпатський біосферний заповідник"
-Biosphärenreservat Karpaten"
-Carpathian Biosphere Reserve"
+Biosphärenreservat Karpaten"
 Karpacki rezerwat biosfery"@
 >Карпатский биосферный заповедник"
 state"
@@ -204,139 +190,127 @@ uuk:Чорнобильський радіаційно-екологічний б�
 CBR"
 КБЗ")
 'http://cbr.nature.org.ua/jpg/zapmap.jpg"
-http://cbr.nature.org.ua"
-
-Q3612435"E
+http://cbr.nature.org.ua"E
 Cuk:Карпатський біосферний заповідник"
-relation/1463495"+
-){"@name":"İğneada Swamp National Park"}"
-{"@wikidataId":"Q19931239"}"
-{"@osmRelationId":"1715854"}"
-{"@country":"Turkey"}"E
-C{"@wikipedia":"%C4%B0%C4%9Fneada_Floodplain_Forests_National_Park"}"+
+relation/1463495"
+İğneada Swamp National Park"
+	Q19931239"	
+1715854"
+Turkey"4
+2%C4%B0%C4%9Fneada_Floodplain_Forests_National_Park"+
 )İğneada Longoz Ormanları Millî Parkı"'
 %İğneada Longoz Forest National Park"
-gis2.cevreorman.gov.tr"
-	Q19931239".
+gis2.cevreorman.gov.tr".
 ,tr:İğneada Longoz Ormanları Millî Parkı"
-relation/1715854"!
-{"@name":"Orhei National Park"}"
-{"@wikidataId":"Q15838244"}"
-{"@osmRelationId":"8887229"}"
-{"@country":"Moldova"}"&
-${"@wikipedia":"Orhei_National_Park"}"
+relation/1715854"
+Orhei National Park"
+	Q15838244"	
+8887229"	
+Moldova"
+Orhei_National_Park"
 yes"
-Parcul Național „Orhei“"
-Orhei National Park"2
+Parcul Național „Orhei“"2
 0Национальный парк «Орхей»"
-natural parc"
-	Q15838244"
+natural parc"
 ro:Parcul Național Orhei"
-relation/8887229")
-'{"@name":"Black Sea Biosphere Reserve"}"
-{"@wikidataId":"Q864774"}"
-{"@osmRelationId":"9890402"}".
-,{"@wikipedia":"Black_Sea_Biosphere_Reserve"}"F
+relation/8887229"
+Black Sea Biosphere Reserve"	
+Q864774"	
+9890402"
+Black_Sea_Biosphere_Reserve"F
 DЧорноморський біосферний заповідник"$
-"Biosphärenreservat Schwarzes Meer"
-Black Sea Biosphere Reserve"D
+"Biosphärenreservat Schwarzes Meer"D
 BЧерноморский биосферный заповедник"
 referencing is normal"A
 ?Національна академія наук України"
 98"
-biosphere_reserve"	
-Q864774"I
+biosphere_reserve"I
 Guk:Чорноморський біосферний заповідник"
-relation/9890402"B
-@{"@name":"V. Peskov Voronezhsky State Nature Biosphere Reserve"}"
-{"@wikidataId":"Q4125414"}"
-{"@osmRelationId":"2521610"}"*
-({"@wikipedia":"Voronezh_Nature_Reserve"}"�
+relation/9890402"6
+4V. Peskov Voronezhsky State Nature Biosphere Reserve"
+
+Q4125414"	
+2521610"
+Voronezh_Nature_Reserve"�
 �Воронежский государственный природный биосферный заповедник имени В.М. Пескова"
 Voronezh Nature Reserve"L
 JВоронежский государственный заповедник"-
 +Воронезький заповідник"
-http://www.zapovednik-vrn.ru/"
-
-Q4125414"0
+http://www.zapovednik-vrn.ru/"0
 .ru:Воронежский заповедник"
-relation/2521610"!
-{"@name":"Sochi National Park"}"
-{"@wikidataId":"Q951551"}"
-{"@osmRelationId":"7376943"}"&
-${"@wikipedia":"Sochi_National_Park"}"
+relation/2521610"
+Sochi National Park"	
+Q951551"	
+7376943"
+Sochi_National_Park"
 national_reserve"6
 4Сочинский национальный парк"
-Sotschier Nationalpark"
-Sochi National Park"
+Sotschier Nationalpark"
 Parque nacional de Sochi"
 Parc national de Sotchi"
 Parco nazionale di Soči"
 1983"
-http://npsochi.ru/"	
-Q951551"9
+http://npsochi.ru/"9
 7ru:Сочинский национальный парк"
-relation/7376943"$
-"{"@name":"Kolkheti National Park"}"
-{"@wikidataId":"Q1444561"}"
-{"@osmRelationId":"10034499"}"
-{"@country":"Georgia"}")
-'{"@wikipedia":"Kolkheti_National_Park"}"C
-Aკოლხეთის ეროვნული პარკი"
-Kolkheti National Park"6
+relation/7376943"
+Kolkheti National Park"
+
+Q1444561"
+
+10034499"	
+Georgia"
+Kolkheti_National_Park"C
+Aკოლხეთის ეროვნული პარკი"6
 4Национальный парк «Колхети»"
 Kolkheti Milli Parkı"C
 Aკოლხეთიშ ერუანული პარკი"
-Agency of Protected Areas"
-
-Q1444561"F
+Agency of Protected Areas"F
 Dka:კოლხეთის ეროვნული პარკი"
-relation/10034499"#
-!{"@name":"Mtirala National Park"}"
-{"@wikidataId":"Q1951559"}"
-{"@osmRelationId":"7621483"}"(
-&{"@wikipedia":"Mtirala_National_Park"}"C
+relation/10034499"
+Mtirala National Park"
+
+Q1951559"	
+7621483"
+Mtirala_National_Park"C
 Aმტირალას ეროვნული პარკი"
-Mtirala-Nationalpark"
-Mtirala National Park"2
+Mtirala-Nationalpark"2
 0Мтирала национальный парк"
 Mtirala Milli Parkı"2
 0Мтірала національний парк"�
 �http://apa.gov.ge/en/protected-areas/cattestone/mtiralas-erovnuli-parkis-administracia/kolxetis-erovnuli-parkis-damatebiti-girsshesanishnaobani/kintrishis-daculi-teritoriebis-damatebiti-girsshesanishnaobani"F
 Dka:მტირალას ეროვნული პარკი"
-relation/7621483""
- {"@name":"Smolny National Park"}"
-{"@wikidataId":"Q4425090"}"
-{"@osmRelationId":"4828756"}"'
-%{"@wikipedia":"Smolny_National_Park"}"4
-2Национальный парк Смольный"
+relation/7621483"
+Smolny National Park"
 
-Q4425090"6
+Q4425090"	
+4828756"
+Smolny_National_Park"4
+2Национальный парк Смольный"6
 4Смольный (национальный парк)"
-relation/4828756M$  		
+relation/4828756R$  		
 
-"#	��/r
+���"#	��/r
  
  
 
- U�:  !"!#$%&'()"e	�1� 
+ U�:  ! "#$%&'���"e	�1� 
 
    	   ; '
 
-	 �0 *+,-. /!0123"4#5$6%78&9:;<=>"�	�+)*		<9�       
+	 �0 ()*+, -!./0("1#2$3%45&678)9:��T"�	�+)*		<9�       
 	 		  	       
-  	@	    �< ?@ABC'D(E)F*G+H,IJ-KLM#N.O/P0J1Q2RS:3T4UVWX"O	�� 	   	*   	� %   
- 6  �$ YZ[B\]^_0]5`abcde"�	���  
+  	@	    �< ;<=>?'@(A)B*C+D,EF-GH;#I.J/K0F1L2MN73O4P<QR��"O	�� 	   	*   	� %   
+ 6  �$ STU>VWXS0W5YZ[T\]���"�	���  
    	  	-#�   
  
 
 
  	  		�   
- 	 � fghBi6j7kl$:mno"h	���  
+ 	 � ^_`>a6b7cd#7_ef�ځ"h	���  
    
  
  	  
-�  pqrBstuv0t8w:xy"�	��
+�  ghi>jklg0k8m7hn���"�	��
 
  
 
@@ -345,12 +319,12 @@ Dka:მტირალას ეროვნული პარკი"
         	      	 
 	�L�    
   
- 	�_   	�d  �* z{|}~��8:����"�	�� :
+ 	�_   	�d  �$ opqrstuo8t7vpwxԸ�"�	�� :
  	_k�
 
       	  		   	
 
- 	n\	 �k �����9��:�;�<�=�>��?�@��A�B���#�C�0�D�8�E�F�G���:��H�I��"�	���
+ 	n\	 �c yz{|}9~:�;�<�=�>��?�@��A�B���#�C�0�D�8�E�F�G���7z�H�I��ٱ�"�	���
 
 	
   
@@ -359,7 +333,7 @@ Dka:მტირალას ეროვნული პარკი"
    					
   		 
  		 	  A 	  	
-�3 ���}���C�D�8�F�:���"�	��� 	 
+�0 ���r��C�D�8�B�7���Ε�"�	��� 	 
 
   	
 
@@ -379,7 +353,7 @@ Dka:მტირალას ეროვნული პარკი"
 
 
 
-	 	�C ���}����0�D�8�FJ���K��:����"�	��#�
+	 	�C ���r����0�D�8�BJ���K��7����ǩY"�	��#�
 	  		@w� 	   	-� 
  
 	  	  
@@ -390,23 +364,23 @@ Dka:მტირალას ეროვნული პარკი"
 
    	�* 	�+*
 		
-	�l	jY" 	�R f' �����������"9	��<�       	2	 
-�- �����L���D�����"�	��'�		  
+	�l	jY" 	�R j' �������������h"9	��<�       	2	 
+�- �����L���D��������"�	��'�		  
  	  		 
   
   
         
    	
-   	�; ���}����D�8�5�%��J��:���"�	��*�B
+   	�; ���r����D�8�5�%��J��7������"�	��*�B
 
   
 
 
  O�' b	��        
-	  		    	?*(	�/ ���-���D�8�E�:����"v	�0�� 
+	  		    	?*(	�/ ���+���D�8�E�7�������"v	�0�� 
 
 	9   
-  	  	 	Q �; ���-�?����"�#�M�D��:����"�	�0�5� 
+  	  	 	Q �; ���+�?����"�#�M�D��7�������"�	�0�5� 
 
  	
  
@@ -431,13 +405,13 @@ Dka:მტირალას ეროვნული პარკი"
   
    			 	8" 
 	 
-	 		�� �3 �������N�D�O�P�����"�	�6�;	@� 		   
+	 		�� �3 �������N�D�O�P�����ú�"�	�6�;	@� 		   
  	 	{E2
 +	'"(&	 	2
 J
  
 	;b  
 
- �3 ��������N�D�O�8����"Y	�7�=�	   	 	B   	 �  ���-���I��"u	�@��   " : 	 
+ �3 ��������N�D�O�8������"Y	�7�=�	   	 	B   	 �  ���+���I���ܦ"u	�@��   " : 	 
  	   
    		<J	

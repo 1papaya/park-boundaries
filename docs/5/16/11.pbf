@@ -1,13 +1,14 @@
-ê§x
-parks(Ä 01234boundarydogleisurenamename:dename:esprotect_classprotection_titleref:FR:INPN
+‹îx
+parks(Ä @name@wikidataId@osmRelationId@country
+@wikipediaboundarydogleisurenamename:dename:esprotect_classprotection_titleref:FR:INPN
 short_namesourcetype
 valid_fromwikidata	wikipediayear_importidfixmewebsitename:anname:caname:elname:enname:euname:frname:glname:ptname:rualt_name:csfootname:csname:itname:roshort_name:csurl:restrictionsname:ocsource:name:ocshort_protection_titleaccessdescription:restrictionsdescription:restrictions2name:nlprotected_areaWDPA_ID:ref
-iucn_levelareaname:rmnat_namenotehuntingref:EUAP	site_zoneallocation:itgovernance_typeiucn_level:refoperatorprotection_aimprotection_instructionref:SICrelated_lawsite_ownershipsite_statusprotected_objectnational_parkurl"&
-${"@name":"Pyr√©n√©es National Park"}"
-{"@wikidataId":"Q738435"}"
-{"@osmRelationId":"1024513"}"
-{"@country":"France"}"3
-1{"@wikipedia":"Pyr%C3%A9n%C3%A9es_National_Park"}"
+iucn_levelareaname:rmnat_namenotehuntingref:EUAP	site_zoneallocation:itgovernance_typeiucn_level:refoperatorprotection_aimprotection_instructionref:SICrelated_lawsite_ownershipsite_statusprotected_objectnational_parkurl"
+Pyr√©n√©es National Park"	
+Q738435"	
+1024513"
+France""
+ Pyr%C3%A9n%C3%A9es_National_Park"
 national_park"
 no"
 nature_reserve"&
@@ -22,56 +23,54 @@ $Parc national des Pyr√©n√©es (c≈ìur)"
 
 boundary"
 
-1967-03-23"	
-Q738435"!
+1967-03-23"!
 fr:Parc national des Pyr√©n√©es"
 2010"
-relation/1024513"#
-!{"@name":"For√™ts National Park"}"
-{"@wikidataId":"Q3364499"}"
-{"@osmRelationId":"10304087"}",
-*{"@wikipedia":"For%C3%AAts_National_Park"}"
+relation/1024513"
+For√™ts National Park"
+
+Q3364499"
+
+10304087"
+For%C3%AAts_National_Park"
 protected_area"n
 lLimite √† mettre  √† jour , voir 
 https://trouver.ternum-bfc.fr/dataset/2d9872ee-ccc8-4a69-8721-8d01ffe6f461""
  Parc national de for√™ts (c≈ìur)"
 2019"+
-)http://www.forets-champagne-bourgogne.fr/"
-
-Q3364499"
+)http://www.forets-champagne-bourgogne.fr/"
 fr:Parc national de for√™ts"
-relation/10304087"2
-0{"@name":"Ordesa y Monte Perdido National Park"}"
-{"@wikidataId":"Q741610"}"
-{"@osmRelationId":"10036292"}"
-{"@country":"Spain"}"7
-5{"@wikipedia":"Ordesa_y_Monte_Perdido_National_Park"}"+
+relation/10304087"&
+$Ordesa y Monte Perdido National Park"	
+Q741610"
+
+10036292"
+Spain"&
+$Ordesa_y_Monte_Perdido_National_Park"+
 )Parque nacional de Ordesa y Monte Perdido"-
 +Parque nacional d'Ordesa y d'as Tres Serols"&
 $Parc Nacional d'Ordesa i Mont Perdut"%
 #Nationalpark Ordesa y Monte Perdido"U
 SŒïŒ∏ŒΩŒπŒ∫œå œÄŒ¨œÅŒ∫Œø œÑŒ∑œÇ ŒüœÅŒ¥Œ≠œÉŒ± Œ∫Œ±Œπ œÑŒøœÖ ŒúœåŒΩœÑŒµ Œ†ŒµœÅŒ¥ŒØŒ¥Œø"&
-$Ordesa y Monte Perdido National Park"&
 $Ordesa eta Perdidoko Parke Nazionala")
 'Parc national d'Ordesa et du Mont-Perdu"+
 )Parque Nacional de Ordesa e Monte Perdido"+
-)–û—Ä–¥–µ—Å–∞-–∏-–ú–æ–Ω—Ç–µ-–ü–µ—Ä–¥–∏–¥–æ"	
-Q741610"
-relation/10036292"B
-@{"@name":"Aig√ºestortes i Estany de Sant Maurici National Park"}"
-{"@wikidataId":"Q1470066"}"
-{"@osmRelationId":"6014846"}"K
-I{"@wikipedia":"Aig%C3%BCestortes_i_Estany_de_Sant_Maurici_National_Park"}"8
-6Parc Nacional d'Aig√ºestortes i Estany de Sant Maurici"9
-7Parque Nacional de Aiguas Tortas y Lago de San Mauricio"
+)–û—Ä–¥–µ—Å–∞-–∏-–ú–æ–Ω—Ç–µ-–ü–µ—Ä–¥–∏–¥–æ"
+relation/10036292"6
+4Aig√ºestortes i Estany de Sant Maurici National Park"
 
-Q1470066";
+Q1470066"	
+6014846":
+8Aig%C3%BCestortes_i_Estany_de_Sant_Maurici_National_Park"8
+6Parc Nacional d'Aig√ºestortes i Estany de Sant Maurici"9
+7Parque Nacional de Aiguas Tortas y Lago de San Mauricio";
 9ca:Parc Nacional d'Aig√ºestortes i Estany de Sant Maurici"
-relation/6014846"%
-#{"@name":"C√©vennes National Park"}"
-{"@wikidataId":"Q1368807"}"
-{"@osmRelationId":"1024512"}".
-,{"@wikipedia":"C%C3%A9vennes_National_Park"}"
+relation/6014846"
+C√©vennes National Park"
+
+Q1368807"	
+1024512"
+C%C3%A9vennes_National_Park"
 N√°rodn√≠ park C√©vennes"
 yes"%
 #Parc national des C√©vennes (c≈ìur)"
@@ -86,42 +85,37 @@ I{"@wikipedia":"Aig%C3%BCestortes_i_Estany_de_Sant_Maurici_National_Park"}"8
 :http://www.cevennes-parcnational.fr/Le-Parc/Reglementation"
 
 1970-09-02"%
-#http://www.cevennes-parcnational.fr"
-
-Q1368807" 
+#http://www.cevennes-parcnational.fr" 
 fr:Parc national des C√©vennes"
-relation/1024512"%
-#{"@name":"Calanques National Park"}"
-{"@wikidataId":"Q2600427"}"
-{"@osmRelationId":"3080199"}"*
-({"@wikipedia":"Calanques_National_Park"}"%
+relation/1024512"
+Calanques National Park"
+
+Q2600427"	
+3080199"
+Calanques_National_Park"%
 #Parc national des Calanques (c≈ìur)"%
 #Pargue nacionau dei Calancas (c√≤r)"
-ieo-bdtopoc"
-
-Q2600427" 
+ieo-bdtopoc" 
 fr:Parc national des Calanques"
-relation/3080199"(
-&{"@name":"Black Forest National Park"}"
-{"@wikidataId":"Q1968948"}"
-{"@osmRelationId":"3412590"}"
-{"@country":"Germany"}"-
-+{"@wikipedia":"Black_Forest_National_Park"}"
-Nationalpark Schwarzwald"
-NLP"
+relation/3080199"
+Black Forest National Park"
 
-Q1968948"
+Q1968948"	
+3412590"	
+Germany"
+Black_Forest_National_Park"
+Nationalpark Schwarzwald"
+NLP"
 de:Nationalpark Schwarzwald"
-relation/3412590"#
-!{"@name":"Vanoise National Park"}"
-{"@wikidataId":"Q174250"}"
-{"@osmRelationId":"1024507"}"(
-&{"@wikipedia":"Vanoise_National_Park"}"¸
+relation/3412590"
+Vanoise National Park"	
+Q174250"	
+1024507"
+Vanoise_National_Park"¸
 ˘Sont interdits : Les chiens (m√™me en laisse), les feux, le camping, les v√©hicules √† moteur, le bruit, la cueillette des plantes, nourrir les animaux, sortir des chemins balis√©s, le ramassage de cristaux ou de cailloux et le d√©p√¥t des d√©chets."Ë
 Â(le bivouac, c'est √† dire montage de la tente apr√®s 17h et d√©montage avant 9h est autoris√© en juillet et aout aux abord des refuges uniquement), Le d√©collage en parapente et le survol ainsi que le VTT ne sont pas autoris√©s."%
 #Parc national de la Vanoise (c≈ìur)"
-Nationalpark Vanoise"
-Vanoise National Park"
+Nationalpark Vanoise"
 Parco nazionale della Vanoise"
 Parcul Na»õional Vanoise"
 	FR3300001"
@@ -130,52 +124,47 @@ XA l'origine mais multi-retouch√© depuis : Inventaire National du Patrimoine Nat
 \http://www.vanoise-parcnational.fr/fr/parc-national-de-la-vanoise/la-reglementation-du-coeur"
 
 1963-07-06"%
-#http://www.vanoise-parcnational.fr/"	
-Q174250" 
+#http://www.vanoise-parcnational.fr/" 
 fr:Parc national de la Vanoise"
-relation/1024507")
-'{"@name":"Gran Paradiso National Park"}"
-{"@wikidataId":"Q847690"}"
-{"@osmRelationId":"919270"}"
-{"@country":"Italy"}".
-,{"@wikipedia":"Gran_Paradiso_National_Park"}"
+relation/1024507"
+Gran Paradiso National Park"	
+Q847690"
+919270"
+Italy"
+Gran_Paradiso_National_Park"
 Parco Nazionale Gran Paradiso"
-Nationalpark Gran Paradiso"
-Gran Paradiso National Park"
+Nationalpark Gran Paradiso"
 Parque nacional Gran Para√≠so" 
 Parc national du Grand Paradis"
 Nationaal Park Gran Paradiso"!
 Parque nacional Grande Para√≠so" 
 Parcul Na»õional Gran-Paradiso"
 www.parks.it"
-multipolygon"	
-Q847690""
+multipolygon""
  it:Parco nazionale Gran Paradiso"
-relation/919270"$
-"{"@name":"Zurich Wilderness Park"}"
-{"@wikidataId":"Q1384428"}"
-{"@osmRelationId":"2818270"}"
-{"@country":"Switzerland"}".
-,{"@wikipedia":"Z%C3%BCrich_Wilderness_Park"}"
+relation/919270"
+Zurich Wilderness Park"
+
+Q1384428"	
+2818270"
+Switzerland"
+Z%C3%BCrich_Wilderness_Park"
 	555595193"
 Wildnispark Z√ºrich Sihlwald"&
 $Riserva naturale integrale di Zurigo"
 1a"
 Naturerlebnispark".
 ,http://www.paerke.ch;http://www.swisstopo.ch"
-https://www.wildnispark.ch/"
-
-Q1384428"
+https://www.wildnispark.ch/"
 de:Wildnispark Z√ºrich"
-relation/2818270"!
-{"@name":"Swiss National Park"}"
-{"@wikidataId":"Q83397"}"
-{"@osmRelationId":"113633"}"&
-${"@wikipedia":"Swiss_National_Park"}"
+relation/2818270"
+Swiss National Park"
+Q83397"
+113633"
+Swiss_National_Park"
 
 restricted"
-Schweizerischer Nationalpark"
-Swiss National Park"
+Schweizerischer Nationalpark"
 Parque nacional Suizo"
 Parc National Suisse"
 Parco Nazionale Svizzero"
@@ -183,57 +172,52 @@ restricted"
 Parc Naziunal Svizzer"
 Nationalpark"3
 1strict rules apply to access in the National Park"
-http://www.nationalpark.ch"
-Q83397"!
+http://www.nationalpark.ch"!
 de:Schweizerischer Nationalpark"
-relation/113633"#
-!{"@name":"Stelvio National Park"}"
-{"@wikidataId":"Q1891711"}"
-{"@osmRelationId":"300032"}"(
-&{"@wikipedia":"Stelvio_National_Park"}"<
+relation/113633"
+Stelvio National Park"
+
+Q1891711"
+300032"
+Stelvio_National_Park"<
 :Parco Nazionale dello Stelvio - Nationalpark Stilfser Joch"
 Nationalpark Stilfser Joch"
 Parco Nazionale dello Stelvio"
-http://www.stelviopark.bz.it/"
-
-Q1891711""
+http://www.stelviopark.bz.it/""
  it:Parco nazionale dello Stelvio"
-relation/300032"#
-!{"@name":"√âcrins National Park"}"
-{"@wikidataId":"Q476446"}"
-{"@osmRelationId":"1024508"}",
-*{"@wikipedia":"%C3%89crins_National_Park"}"#
+relation/300032"
+√âcrins National Park"	
+Q476446"	
+1024508"
+%C3%89crins_National_Park"#
 !Parc national des √âcrins (c≈ìur)"
 	FR3300005"
 PN des Ecrins"
 
 1973-03-27"$
-"http://www.ecrins-parcnational.fr/"	
-Q476446"
+"http://www.ecrins-parcnational.fr/"
 fr:Parc national des √âcrins"
-relation/1024508"&
-${"@name":"Mercantour National Park"}"
-{"@wikidataId":"Q1535042"}"
-{"@osmRelationId":"1024511"}"+
-){"@wikipedia":"Mercantour_National_Park"}"%
+relation/1024508"
+Mercantour National Park"
+
+Q1535042"	
+1024511"
+Mercantour_National_Park"%
 #Parc national du Mercantour (c≈ìur)"
 	FR3300006"
 PN du Mercantour"Y
 Whttp://www.mercantour.eu/index.php/presentation/reglementation-du-coeur-de-parc/tableau"
 
 1979-08-18"
-http://www.mercantour.eu"
-
-Q1535042" 
+http://www.mercantour.eu" 
 fr:Parc national du Mercantour"
-relation/1024511"%
-#{"@name":"Port-Cros National Park"}"
-{"@wikidataId":"Q388279"}"
-{"@osmRelationId":"9720522"}"*
-({"@wikipedia":"Port-Cros_National_Park"}"7
+relation/1024511"
+Port-Cros National Park"	
+Q388279"	
+9720522"
+Port-Cros_National_Park"7
 5Parc national de Port-Cros (coeur terrestre et marin)"
-Nationalpark Port-Cros"
-Port-Cros National Park"
+Nationalpark Port-Cros"
 Parco Nazionale di Port-Cros"
 Nationaal Park Port-Cros"
 Parcul National Port-cros"
@@ -242,40 +226,38 @@ Whttp://www.mercantour.eu/index.php/presentation/reglementation-du-coeur-de-parc
 PN de Port-cros"%
 #SIG Parc National de Port-Cros 2019"
 
-1963-12-14"	
-Q388279"
+1963-12-14"
 fr:Parc national de Port-Cros"
-relation/9720522"#
-!{"@name":"Asinara National Park"}"
-{"@wikidataId":"Q1091068"}"
-{"@osmRelationId":"9652560"}"(
-&{"@wikipedia":"Asinara_National_Park"}"
+relation/9720522"
+Asinara National Park"
+
+Q1091068"	
+9652560"
+Asinara_National_Park"
 Parco Nazionale dell'Asinara"
 1"
-Parco Nazionale"
-
-Q1091068"!
+Parco Nazionale"!
 it:Parco nazionale dell'Asinara"
-relation/9652560"(
-&{"@name":"Cinque Terre National Park"}"
-{"@wikidataId":"Q1886487"}"
-{"@osmRelationId":"952904"}"-
-+{"@wikipedia":"Cinque_Terre_National_Park"}"$
+relation/9652560"
+Cinque Terre National Park"
+
+Q1886487"
+952904"
+Cinque_Terre_National_Park"$
 "Parco Nazionale delle Cinque Terre"
 Cinque Terre"
 Area Protetta Nazionale"
 
 EUAP1067"
 1.0"g
-eDai dati realizzati da Regione Liguria "Aree Protette e relativi piani" Anno 01/10/2012 scala 1:25000"
-
-Q1886487"'
+eDai dati realizzati da Regione Liguria "Aree Protette e relativi piani" Anno 01/10/2012 scala 1:25000"'
 %it:Parco nazionale delle Cinque Terre"
-relation/952904"4
-2{"@name":"Appennino Tosco-Emiliano National Park"}"
-{"@wikidataId":"Q1761032"}"
-{"@osmRelationId":"3503470"}"9
-7{"@wikipedia":"Appennino_Tosco-Emiliano_National_Park"}"
+relation/952904"(
+&Appennino Tosco-Emiliano National Park"
+
+Q1761032"	
+3503470"(
+&Appennino_Tosco-Emiliano_National_Park"
 178782"æ
 ªIl suo territorio si estende per oltre 22.000 ettari lungo la dorsale appenninica tra l'Emilia-Romagna e la Toscana interessando le province di Massa-Carrara, Lucca, Reggio Emilia e Parma"
 government_managed"/
@@ -294,64 +276,54 @@ Uhttp://ambiente.regione.emilia-romagna.it/parchi-natura2000/aree-protette/parch
 
 obtained"I
 Ghttp://servizigis.regione.emilia-romagna.it/wms/areeprotette_natura2000"W
-Uhttp://ambiente.regione.emilia-romagna.it/parchi-natura2000/aree-protette/parchi/pnte"
-
-Q1761032"2
+Uhttp://ambiente.regione.emilia-romagna.it/parchi-natura2000/aree-protette/parchi/pnte"2
 0it:Parco nazionale dell'Appennino Tosco-Emiliano"
-relation/3503470"
-{"@name":"Orrido di Botri"}"
-{"@wikidataId":"Q3936660"}"
-{"@osmRelationId":"6409670"}"
-{"@wikipedia":null}""
+relation/3503470"
+Orrido di Botri"
+
+Q3936660"	
+6409670""
  Riserva naturale Orrido di Botri"
 nature"
-0133"
-
-Q3936660"%
+0133"%
 #it:Riserva naturale Orrido di Botri"
-relation/6409670"&
-${"@name":"Riserva naturale Abetone"}"
-{"@wikidataId":"Q3936501"}"
-{"@osmRelationId":"6407742"}"
-Riserva naturale Abetone"
-0113"
+relation/6409670"
+Riserva naturale Abetone"
 
-Q3936501"
+Q3936501"	
+6407742"
+0113"
 it:Riserva naturale Abetone"
-relation/6407742"1
-/{"@name":"Riserva naturale Piano degli Ontani"}"
-{"@wikidataId":"Q3936682"}"
-{"@osmRelationId":"6407678"}"%
-#Riserva naturale Piano degli Ontani"
-0136"
+relation/6407742"%
+#Riserva naturale Piano degli Ontani"
 
-Q3936682"(
+Q3936682"	
+6407678"
+0136"(
 &it:Riserva naturale Piano degli Ontani"
-relation/6407678"6
-4{"@name":"Arcipelago di La Maddalena National Park"}"
-{"@wikidataId":"Q536703"}"
-{"@osmRelationId":"207767"}";
-9{"@wikipedia":"Arcipelago_di_La_Maddalena_National_Park"}"1
+relation/6407678"*
+(Arcipelago di La Maddalena National Park"	
+Q536703"
+207767"*
+(Arcipelago_di_La_Maddalena_National_Park"1
 /Parco Nazionale dell'Arcipelago di La Maddalena"
-marine"	
-Q536703"4
+marine"4
 2it:Parco nazionale dell'Arcipelago di La Maddalena"
-relation/207767".
-,{"@name":"Arcipelago Toscano National Park"}"
-{"@wikidataId":"Q1111568"}"
-{"@osmRelationId":"1582395"}"3
-1{"@wikipedia":"Arcipelago_Toscano_National_Park"}")
+relation/207767""
+ Arcipelago Toscano National Park"
+
+Q1111568"	
+1582395""
+ Arcipelago_Toscano_National_Park")
 'Parco Nazionale dell'Arcipelago Toscano"$
 "Nationalpark Toskanischer Archipel"'
 %Parque nacional Archipi√©lago Toscano"&
 $Parc national de l‚Äôarchipel toscan"
-http://www.islepark.it/"
-
-Q1111568",
+http://www.islepark.it/",
 *it:Parco nazionale dell'Arcipelago Toscano"
-relation/1582395Æ,  		
+relation/1582395≤,  		
 
-"˚	Y≤1“  &
+Åƒ>"˚	Y≤1“  &
  
 
     
@@ -362,7 +334,7 @@ $Parc national de l‚Äôarchipel toscan"
  
    	      	  E
 
- 	û"  !"ı	∂¬
+ 	£" ◊ÙÙ"ı	∂¬
 ‚,    	 	    	
   
  		
@@ -398,20 +370,20 @@ $Parc national de l‚Äôarchipel toscan"
   
     		D«ä 
   	  	◊Ä:  	¢" 	Î	m∫2   	j	àÉ  	£
-*  	†!" 	: 	 	õ¬	T≠ 	q≤2 	ƒ, "#$%&'()	*+,-.// 012"ë	2Í2™
+*  	†!" 	: 	 	õ¬	T≠ 	q≤2 	…,  !"#$%&'	() *+,, -!.ƒ»‰"ë	2Í2™
 
   	 
 
  		   				
  
- √ 345%67
-89:;"†	äƒ3‚
+ » /01#23
+4056˛éÔ"†	äƒ3‚
 
  
 							      	
   	 
-î: <=>?!@"AB#C	D
-E$F%GHI&J'KLMNOP"”	Ñä'2	§·™"     
+ò: 789:!;"<=#>	?
+@$A%BCD&E'FGH8IJÄƒ>"”	Ñä'2	§·™"     
         
        			
 		
@@ -454,7 +426,7 @@ E$F%GHI&J'KLMNOP"”	Ñä'2	§·™"   
 	‚√*  	áÄ"	´Æ 	4O	oF	≤”	G8   	sôb  	0Ç
     
 	„ÑJ		,J
-   	R   	 	  ö" QRSTUU(V)WXYZ"Ò	§¶.B
+   	R   	 	  ü" KLMNOO(P)QLRSáÄº"Ò	§¶.B
 	x¢  
   
 
@@ -463,14 +435,14 @@ E$F%GHI&J'KLMNOP"”	Ñä'2	§·™"   
   Yà·ô'\   
  	     	,
 	1 	yB
-   â [\]^_`*abcd"Ë	Ã.¨∫ 	 
+   é TUVWXY*ZU[\Ó§–"Ë	Ã.¨∫ 	 
  
   
  	 
   
 				 	 ) 	óÇ
   	  	
-Î8 efgh+,i-j"Ak	lm$n%opqr'stuvwx"¨	ñ'êí
+Ô8 ]^_`+,a-b"<c	d]$e%fghi'jkl^mn˚√>"¨	ñ'êí
   	
 
  
@@ -487,23 +459,23 @@ E$F%GHI&J'KLMNOP"”	Ñä'2	§·™"   
   
  	 
  
-  	ë5 yz{|}~	Ä
-ÅÇ.ÉÑ%Ö/Üáàâä"’	Ä)êí 	
+  	ä* opqrst	uo
+vw.xy%z/{|p}~Êç8"’	Ä)êí 	
 	 	
    	#"  
   
   
 
 
-  	  		   		v> ãåçéè0ê1ë	ëëë$íìîïñóòô"2	Ê0¨™ '   ÎQ öõúéù+û2A1ìü	ü†
-°¢$£§3•4¶5ßì¶ïá®©™´"ì	∆:†Í*
+  	  		   		z= ÄÅÇÉ0Ñ1Ö	ÖÖÖ$ÜáàâäÄãåﬁÅ¨"2	Ê0¨™ '   ÓP çéèÇê+ë2<1áí	íç
+ìî$ïñ3ó4ò5ôáòâ|öéõú·˜"ì	∆:†Í*
 	 
  
 		 	 
  	"
 	u2
  
-”* ¨≠Æ|Ø∞	±$≤á≥¥µ∂"¢	í=ƒ¬"
+÷) ùûür†°	¢$£|§û•¶Ä®"¢	í=ƒ¬"
 	
    
 
@@ -525,7 +497,7 @@ E$F%GHI&J'KLMNOP"”	Ñä'2	§·™"   
  
  
  
-  	œ$”8 ∑∏π∫+"AªºΩæø¿¡¬"î	û"–!Í  	
+  	œ$◊8 ß®©™+"<´¨≠ÆØ®∞±¸√>"î	û"–!Í  	
 
 	 
  	
@@ -550,7 +522,7 @@ E$F%GHI&J'KLMNOP"”	Ñä'2	§·™"   
   	    	 		   			
  
 
- 	6	#-   	  	¥  	ø2	¨	c ®; √ƒ≈∆+"A«»…' ÀÃÕŒœ"Ê	†*∞)˙	   			  		 	 	
+ 	6	#-   	  	¥  	ø2	¨	c ¨; ≤≥¥µ+"<∂∑∏'π∫ª≥ºΩˇ√>"Ê	†*∞)˙	   			  		 	 	
  
 			  		  	  
   	 
@@ -567,25 +539,25 @@ E$F%GHI&J'KLMNOP"”	Ñä'2	§·™"   
   
   
 	  
-≈F –—“”+"A‘	’÷$◊.ÿ%Ÿ⁄€‹›ﬁﬂ‡·"y	ƒ#§0¬   	   
+ F æø¿¡+"<¬	√æ$ƒ.≈%∆«»… ÀøÃÕ •—"y	ƒ#§0¬   	   
 
 	 2
  	*    	lr 
 
 
- µ& ‚„‰|ÂÊÁËÈÍÎ"à	æ/ñ?Ç	 
+ ∫& Œœ–r—“”‘œ’÷–íÕ"à	æ/ñ?Ç	 
 
  
  
   
  
-  	 	 	  	   ü3 ÏÌÓ|Ô6ÒÚ7Û8Ùıˆ˜¯"f	î7ú'˙	  
+  	 	 	  	   £3 ◊ÿŸr⁄6€‹›7ﬁ8ﬂ‡ÿ·‚»î:"f	î7ú'˙	  
 
 
 
  	   
 		
-	 úR ˘˙˚|¸0˝9˛:ˇ;Ä	Å<Ç=É>ÑÖ7Ü?á@àAâBäãáåçéè"√	Ú9¶& 	 	  
+	 †Q „‰ÂrÊ0Á9Ë:È;Í	Î<Ï=Ì>ÓÔ7?Ò@ÚAÛBÙı|ˆ‰˜¯ÓÍ’"√	Ú9¶& 	 	  
  	
   	 	
     	   
@@ -599,15 +571,15 @@ E$F%GHI&J'KLMNOP"”	Ñä'2	§·™"   
 
        
 		 
-	 		  			@' êëí|ìîCï7ñáóòô"	≤<Ú'2 R' öõú|ìùCï7ûáü†°"%	Ë<∏'z
+	 		  			A# ˘˙˚r¸C˝7˛|˙ˇÄ∆õá"	≤<Ú'2 S# ÅÇÉrÅC˝7Ñ|ÇÖÜæåá"%	Ë<∏'z
   
-	 J' ¢£§|ì•Cï7¶áß®©"	Ê<‡'Z
+	 K# áàâráC˝7ä|àãå˛ãá"	Ê<‡'Z
 
- 			©$ ™´¨|≠ÆDØá∞±≤"	ﬁ6î?B    
+ 			¨# çéèrêëDí|éìîó◊"	ﬁ6î?B    
 
  			/:
-   	ÖØÚ    	  	 		ñà* ö2 ≥¥µ|∂∑	∏
-π∫$∑DØEªºΩæ"·	ñ?Ó5ä0/(  1(!	!4)	ãß¢ ( 2	,C6+/-	ûÆ2(
+   	ÖØÚ    	  	 		ñà* û2 ïñóròô	ö
+õú$ôDíEùñûüª `"·	ñ?Ó5ä0/(  1(!	!4)	ãß¢ ( 2	,C6+/-	ûÆ2(
 F)(5E$3	∏(™  
   		øïÇ
 

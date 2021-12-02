@@ -1,14 +1,16 @@
-ùmx
-parks(€ 01234boundaryleisurenamename:caname:esprotect_classprotection_titletypewikidata	wikipediaidnational_parkname:dename:enname:frname:itold_name
+ã]x
+parks(€ @name@wikidataId@osmRelationId@country
+@wikipediaboundaryleisurenamename:caname:esprotect_classprotection_titletypewikidata	wikipediaidnational_parkname:dename:enname:frname:itold_name
 start_datename:nlwebsitename:kaname:runame:trname:uksource
 iucn_levelmaritimeofficial_nameofficial_name:enofficial_name:es#seamark:restricted_area:restrictionseamark:typename:arWDPA_ID:refcontact:emailcontact:mobilecontact:phonecontact:website
 protect_idref:EUAPsite_ownershipsite_statusheritageheritage:operatorprotected_arearef:whcwhc:inscription_dateallocation:itgovernance_typeiucn_level:refoperatorrelated_law
-short_namefacebooktwittername:elname:kuname:bename:hyname:plareaalt_name:plis_in:countryname:afname:csname:eoname:huname:skname:swnaturalold_name:dewater"(
-&{"@name":"Serra Mariola Natural Park"}"
-{"@wikidataId":"Q5485997"}"
-{"@osmRelationId":"5614443"}"
-{"@country":"Spain"}"-
-+{"@wikipedia":"Serra_Mariola_Natural_Park"}"
+short_namefacebooktwittername:elname:kuname:bename:hyname:plareaalt_name:plis_in:countryname:afname:csname:eoname:huname:skname:swnaturalold_name:dewater"
+Serra Mariola Natural Park"
+
+Q5485997"	
+5614443"
+Spain"
+Serra_Mariola_Natural_Park"
 protected_area"
 nature_reserve"%
 #Parc Natural de la Serra de Mariola"'
@@ -16,145 +18,132 @@ short_namefacebooktwittername:elname:kuname:bename:hyname:plarea
 5"
 Parc Natural"
 
-boundary"
-
-Q5485997"
+boundary"
 ca:Serra Mariola"
-relation/5614443"#
-!{"@name":"Asinara National Park"}"
-{"@wikidataId":"Q1091068"}"
-{"@osmRelationId":"9652560"}"
-{"@country":"Italy"}"(
-&{"@wikipedia":"Asinara_National_Park"}"
+relation/5614443"
+Asinara National Park"
+
+Q1091068"	
+9652560"
+Italy"
+Asinara_National_Park"
 national_park"
 Parco Nazionale dell'Asinara"
 1"
-Parco Nazionale"
-
-Q1091068"!
+Parco Nazionale"!
 it:Parco nazionale dell'Asinara"
-relation/9652560"6
-4{"@name":"Arcipelago di La Maddalena National Park"}"
-{"@wikidataId":"Q536703"}"
-{"@osmRelationId":"207767"}";
-9{"@wikipedia":"Arcipelago_di_La_Maddalena_National_Park"}"1
+relation/9652560"*
+(Arcipelago di La Maddalena National Park"	
+Q536703"
+207767"*
+(Arcipelago_di_La_Maddalena_National_Park"1
 /Parco Nazionale dell'Arcipelago di La Maddalena"
 marine"
 2"
-multipolygon"	
-Q536703"4
+multipolygon"4
 2it:Parco nazionale dell'Arcipelago di La Maddalena"
-relation/207767"5
-3{"@name":"Abruzzo, Lazio and Molise National Park"}"
-{"@wikidataId":"Q1438999"}"
-{"@osmRelationId":"8426003"}":
-8{"@wikipedia":"Abruzzo,_Lazio_and_Molise_National_Park"}"+
+relation/207767")
+'Abruzzo, Lazio and Molise National Park"
+
+Q1438999"	
+8426003")
+'Abruzzo,_Lazio_and_Molise_National_Park"+
 )Parco Nazionale d'Abruzzo, Lazio e Molise"*
 (Nationalpark Abruzzen, Latium und Molise",
 *National Park of Abruzzo, Lazio and Molise"0
 .Parque nacional de los Abruzos, Lacio y Molise".
 ,Parc national des Abruzzes, Latium et Molise"
 Parco Nazionale d'Abruzzo"
-1923"
-
-Q1438999".
+1923".
 ,it:Parco nazionale d'Abruzzo, Lazio e Molise"
-relation/8426003"#
-!{"@name":"Gargano National Park"}"
-{"@wikidataId":"Q382227"}"
-{"@osmRelationId":"3349251"}"(
-&{"@wikipedia":"Gargano_National_Park"}"
+relation/8426003"
+Gargano National Park"	
+Q382227"	
+3349251"
+Gargano_National_Park"
 Parco Nazionale del Gargano"
-Nationalpark Gargano"
-Gargano National Park"
+Nationalpark Gargano"
 Parque nacional del Gargano"
 Parc national du Gargano"
 Nationaal park Gargano" 
-http://www.parcogargano.gov.it"	
-Q382227" 
+http://www.parcogargano.gov.it" 
 it:Parco nazionale del Gargano"
-relation/3349251"#
-!{"@name":"Mtirala National Park"}"
-{"@wikidataId":"Q1951559"}"
-{"@osmRelationId":"7621483"}"
-{"@country":"Georgia"}"(
-&{"@wikipedia":"Mtirala_National_Park"}"C
+relation/3349251"
+Mtirala National Park"
+
+Q1951559"	
+7621483"	
+Georgia"
+Mtirala_National_Park"C
 Aáƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒžáƒáƒ áƒ™áƒ˜"
-Mtirala-Nationalpark"
-Mtirala National Park"2
+Mtirala-Nationalpark"2
 0ÐœÑ‚Ð¸Ñ€Ð°Ð»Ð° Ð½Ð°Ñ†Ð¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð°Ñ€Ðº"
 Mtirala Milli ParkÄ±"2
 0ÐœÑ‚Ñ–Ñ€Ð°Ð»Ð° Ð½Ð°Ñ†Ñ–Ð¾Ð½Ð°Ð»ÑŒÐ½Ð¸Ð¹ Ð¿Ð°Ñ€Ðº"Ñ
 Îhttp://apa.gov.ge/en/protected-areas/cattestone/mtiralas-erovnuli-parkis-administracia/kolxetis-erovnuli-parkis-damatebiti-girsshesanishnaobani/kintrishis-daculi-teritoriebis-damatebiti-girsshesanishnaobani"F
 Dka:áƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒžáƒáƒ áƒ™áƒ˜"
-relation/7621483"#
-!{"@name":"Cabrera National Park"}"
-{"@wikidataId":"Q1968721"}"
-{"@osmRelationId":"10036151"}"I
-G{"@wikipedia":"Cabrera_Archipelago_Maritime-Terrestrial_National_Park"}"
+relation/7621483"
+Cabrera National Park"
+
+Q1968721"
+
+10036151"8
+6Cabrera_Archipelago_Maritime-Terrestrial_National_Park"
 II"
 yes"*
 (Parc Nacional de l'ArxipÃ¨lag de Cabrera"'
-%Nationalpark ArchipiÃ©lago de Cabrera"
-Cabrera National Park".
+%Nationalpark ArchipiÃ©lago de Cabrera".
 ,Parque Nacional del ArchipiÃ©lago de Cabrera"(
 &Parc national de l'Archipel de Cabrera">
 <Parc Nacional MarÃ­timo Terrestre de l'ArxipÃ¨lag de Cabrera"8
 6Cabrera Archipelago Maritime-Terrestrial National Park"B
 @Parque Nacional MarÃ­timo Terrestre del ArchipiÃ©lago de Cabrera"
 restricted_fishing"
-restricted_area"
-
-Q1968721"?
+restricted_area"?
 =ca:Parc Nacional Maritimoterrestre de l'ArxipÃ¨lag de Cabrera"
-relation/10036151"+
-){"@name":"Tassili n'Ajjer Cultural Park"}"
-{"@wikidataId":"Q14629434"}"
-{"@osmRelationId":"7558382"}"
-{"@country":"Algeria"}"
-{"@wikipedia":null}";
-9Ø§Ù„Ø­Ø¸ÙŠØ±Ø© Ø§Ù„Ø«Ù‚Ø§ÙÙŠØ© Ù„Ù„Ø·Ø§Ø³ÙŠÙ„ÙŠ Ù†Ø§Ø¬Ø±"
-Tassili n'Ajjer Cultural Park""
+relation/10036151"
+Tassili n'Ajjer Cultural Park"
+	Q14629434"	
+7558382"	
+Algeria";
+9Ø§Ù„Ø­Ø¸ÙŠØ±Ø© Ø§Ù„Ø«Ù‚Ø§ÙÙŠØ© Ù„Ù„Ø·Ø§Ø³ÙŠÙ„ÙŠ Ù†Ø§Ø¬Ø±""
  Parc culturel du Tassili N'Ajjer"<
-:ÐšÑƒÐ»ÑŒÑ‚ÑƒÑ€Ð½Ñ‹Ð¹ Ð¿Ð°Ñ€Ðº Ð¢Ð°ÑÑÐ¸Ð»Ð¸ Ð½-ÐÐ´Ð¶ÐµÑ€"
-	Q14629434"
-relation/7558382"C
-A{"@name":"Riserva naturale integrale Saline di Trapani e Paceco"}"
-{"@wikidataId":"Q490208"}"
-{"@osmRelationId":"1405794"}"H
-F{"@wikipedia":"Riserva_naturale_integrale_Saline_di_Trapani_e_Paceco"}"
+:ÐšÑƒÐ»ÑŒÑ‚ÑƒÑ€Ð½Ñ‹Ð¹ Ð¿Ð°Ñ€Ðº Ð¢Ð°ÑÑÐ¸Ð»Ð¸ Ð½-ÐÐ´Ð¶ÐµÑ€"
+relation/7558382"7
+5Riserva naturale integrale Saline di Trapani e Paceco"	
+Q490208"	
+1405794"7
+5Riserva_naturale_integrale_Saline_di_Trapani_e_Paceco"
 178772"
 salineditrapani@wwf.it"
 +39 327 5621529"
 +39 0923 867700"#
 !http://www.wwfsalineditrapani.it/"
-4"7
-5Riserva naturale integrale Saline di Trapani e Paceco"
+4"
 
 EUAP1110"
 
 national"
 
-designated"	
-Q490208":
+designated":
 8it:Riserva naturale integrale Saline di Trapani e Paceco"
-relation/1405794"?
-={"@name":"Cilento, Vallo di Diano and Alburni National Park"}"
-{"@wikidataId":"Q867361"}"
-{"@osmRelationId":"4100859"}"H
-F{"@wikipedia":"Parco_Nazionale_del_Cilento,_Vallo_di_Diano_e_Alburni"}"
+relation/1405794"3
+1Cilento, Vallo di Diano and Alburni National Park"	
+Q867361"	
+4100859"7
+5Parco_Nazionale_del_Cilento,_Vallo_di_Diano_e_Alburni"
 whc"3
 1Parco Nazionale Cilento, Vallo di Diano e Alburni"
 842"P
 Ncilentoediano.it (apparently uses Google maps to communicate its park boundary"
-1998"	
-Q867361":
+1998":
 8it:Parco nazionale del Cilento, Vallo di Diano e Alburni"
-relation/4100859"G
-E{"@name":"Appennino Lucano - Val d'Agri - Lagonegrese National Park"}"
-{"@wikidataId":"Q1325310"}"
-{"@osmRelationId":"6274746"}"N
-L{"@wikipedia":"Appennino_Lucano_-_Val_d%27Agri_-_Lagonegrese_National_Park"}"
+relation/4100859";
+9Appennino Lucano - Val d'Agri - Lagonegrese National Park"
+
+Q1325310"	
+6274746"=
+;Appennino_Lucano_-_Val_d%27Agri_-_Lagonegrese_National_Park"
 390444"
 Porzione dell'Appenino lucano"
 government_manages">
@@ -165,15 +154,13 @@ AEnte Parco Nazionale dell'Appennino Lucano Val D'agri Lagonegrese"
 DPR 8 dicembre 2007"
 
 obtained"!
-http://parcoappenninolucano.it/"
-
-Q1325310"A
+http://parcoappenninolucano.it/"A
 ?it:Parco nazionale dell'Appennino Lucano Val d'Agri Lagonegrese"
-relation/6274746"'
-%{"@name":"Alta Murgia National Park"}"
-{"@wikidataId":"Q680313"}"
-{"@osmRelationId":"9763706"}",
-*{"@wikipedia":"Alta_Murgia_National_Park"}""
+relation/6274746"
+Alta Murgia National Park"	
+Q680313"	
+9763706"
+Alta_Murgia_National_Park""
  Parco Nazionale dell'Alta Murgia"(
 &Ente Parco Nazionale dell' Alta Murgia"
 
@@ -182,91 +169,83 @@ AEnte Parco Nazionale dell'Appennino Lucano Val D'agri Lagonegrese"
 Parco dell'Alta Murgia"
 
 2004/03/10"$
-"https://www.parcoaltamurgia.gov.it"	
-Q680313"
+"https://www.parcoaltamurgia.gov.it"
 fr:Parc national Alta Murgia"
-relation/9763706"7
-5{"@name":"Riserva naturale integrale Grotta Monello"}"
-{"@wikidataId":"Q3936822"}"
-{"@osmRelationId":"9432633"}"+
-)Riserva naturale integrale Grotta Monello"	
+relation/9763706"+
+)Riserva naturale integrale Grotta Monello"
+
+Q3936822"	
+9432633"	
 CUTGANA"$
 "http://www.sitr.regione.sicilia.it".
 ,it:Riserva naturale integrale Grotta Monello"
-relation/9432633"&
-${"@name":"Aspromonte National Park"}"
-{"@wikidataId":"Q778921"}"
-{"@osmRelationId":"8125573"}"+
-){"@wikipedia":"Aspromonte_National_Park"}"
+relation/9432633"
+Aspromonte National Park"	
+Q778921"	
+8125573"
+Aspromonte_National_Park"
 64512"3
 1https://www.facebook.com/parcoaspromonteofficial/"!
 Parco Nazionale dell'Aspromonte"
-Nationalpark Aspromonte"
-Aspromonte National Park"!
+Nationalpark Aspromonte"!
 Parc national de lâ€™Aspromonte"
 
 EUAP0011"%
 #https://twitter.com/parcoaspromonte"$
-"http://www.parcoaspromonte.gov.it/"	
-Q778921"$
+"http://www.parcoaspromonte.gov.it/"$
 "it:Parco nazionale dell'Aspromonte"
-relation/8125573"$
-"{"@name":"Pendjari National Park"}"
-{"@wikidataId":"Q1474363"}"
-{"@osmRelationId":"2695742"}"
-{"@country":"Benin"}")
-'{"@wikipedia":"Pendjari_National_Park"}"
-Parc National de la Pendjari"
+relation/8125573"
 Pendjari National Park"
 
-Q1474363"
+Q1474363"	
+2695742"
+Benin"
+Pendjari_National_Park"
+Parc National de la Pendjari"
 en:Pendjari National Park"
-relation/2695742"B
-@{"@name":"Dilek Peninsula-BÃ¼yÃ¼k Menderes Delta National Park"}"
-{"@wikidataId":"Q20650897"}"
-{"@osmRelationId":"1197579"}"
-{"@country":"Turkey"}"O
-M{"@wikipedia":"Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park"}"!
+relation/2695742"6
+4Dilek Peninsula-BÃ¼yÃ¼k Menderes Delta National Park"
+	Q20650897"	
+1197579"
+Turkey">
+<Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park"!
 Dilek YarÄ±madasÄ± Milli ParkÄ±"
 Nationalpark Dilek-Halbinsel"
-Dilek Peninsula National Park"
-	Q20650897"?
+Dilek Peninsula National Park"?
 =tr:Dilek YarÄ±madasÄ±-BÃ¼yÃ¼k Menderes DeltasÄ± MillÃ® ParkÄ±"
-relation/1197579"
-{"@name":"Mount Honaz"}"
-{"@wikidataId":"Q611484"}"
-{"@osmRelationId":"1715902"}"
-{"@wikipedia":"Mount_Honaz"}"
+relation/1197579"
+Mount Honaz"	
+Q611484"	
+1715902"
+Mount_Honaz"
 Honaz DaÄŸÄ± MillÃ® ParkÄ±"
 Honaz Mountain National Park"
-gis2.cevreorman.gov.tr"	
-Q611484"
+gis2.cevreorman.gov.tr"
 tr:Honaz DaÄŸÄ± MillÃ® ParkÄ±"
-relation/1715902".
-,{"@name":"Olympos Beydaglari National Park"}"
-{"@wikidataId":"Q10744969"}"
-{"@osmRelationId":"1715703"}"=
-;{"@wikipedia":"Beyda%C4%9Flar%C4%B1_Coastal_National_Park"}"$
+relation/1715902""
+ Olympos Beydaglari National Park"
+	Q10744969"	
+1715703",
+*Beyda%C4%9Flar%C4%B1_Coastal_National_Park"$
 "Olimpos BeydaÄŸlarÄ± MillÃ® ParkÄ±",
 *Î•Î¸Î½Î¹ÎºÏŒÏ‚ Î”ÏÏ…Î¼ÏŒÏ‚ ÎŸÎ»ÏÎ¼Ï€Î¿Ï…"$
 "Olimpos BeydaÄŸlarÄ± National Park"
-relation/1715703")
-'{"@name":"Munzur Valley National Park"}"
-{"@wikidataId":"Q1682878"}"
-{"@osmRelationId":"5479644"}".
-,{"@wikipedia":"Munzur_Valley_National_Park"}"
-Munzur Vadisi MillÃ® ParkÄ±"
-Munzur Valley National Park"%
-#Parka NeteweyÃ® ya GeliyÃª MizÃ»rÃª"
+relation/1715703"
+Munzur Valley National Park"
 
-Q1682878" 
+Q1682878"	
+5479644"
+Munzur_Valley_National_Park"
+Munzur Vadisi MillÃ® ParkÄ±"%
+#Parka NeteweyÃ® ya GeliyÃª MizÃ»rÃª" 
 tr:Munzur Vadisi MillÃ® ParkÄ±"
-relation/5479644"#
-!{"@name":"Khosrov State Reserve"}"
-{"@wikidataId":"Q1076666"}"
-{"@osmRelationId":"7849370"}"
-{"@country":"Armenia"}"/
--{"@wikipedia":"Khosrov_Forest_State_Reserve"}"9
+relation/5479644"
+Khosrov State Reserve"
+
+Q1076666"	
+7849370"	
+Armenia"
+Khosrov_Forest_State_Reserve"9
 7Ô½Õ¸Õ½Ö€Õ¸Õ¾Õ« Õ¡Õ¶Õ¿Õ¡Õ¼ ÕºÕ¥Õ¿Õ¡Õ¯Õ¡Õ¶ Õ¡Ö€Õ£Õ¥Õ¬Õ¸Ö")
 'Ð¥Ð°ÑÑ€Ð¾ÑžÑÐºÑ– Ð·Ð°Ð¿Ð°Ð²ÐµÐ´Ð½Ñ–Ðº"
 Chosrow-Reservat"
@@ -276,29 +255,23 @@ Páƒ®áƒáƒ¡áƒ áƒáƒ•áƒ˜áƒ¡ áƒ¡áƒáƒ®áƒ”áƒšáƒ›áƒ¬áƒ˜áƒ¤áƒ áƒœáƒáƒ™áƒ áƒ«áƒáƒšáƒ
 PaÅ„stwowy Rezerwat Chosrow"S
 Q"Ð¥Ð¾ÑÑ€Ð¾Ð²ÑÐºÐ¸Ð¹ Ð›ÐµÑ" Ð³Ð¾ÑÑƒÐ´Ð°Ñ€ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ Ð·Ð°Ð¿Ð¾Ð²ÐµÐ´Ð½Ð¸Ðº"-
 +Ð¥Ð¾ÑÑ€Ð¾Ð²ÑÑŒÐºÐ¸Ð¹ Ð·Ð°Ð¿Ð¾Ð²Ñ–Ð´Ð½Ð¸Ðº"
-www.khosrov.am"
-
-Q1076666"<
+www.khosrov.am"<
 :hy:Ô½Õ¸Õ½Ö€Õ¸Õ¾Õ« Õ¡Õ¶Õ¿Õ¡Õ¼ ÕºÕ¥Õ¿Õ¡Õ¯Õ¡Õ¶ Õ¡Ö€Õ£Õ¥Õ¬Õ¸Ö"
-relation/7849370""
- {"@name":"Shambe National Park"}"
-{"@wikidataId":"Q6590002"}"
-{"@osmRelationId":"3117891"}"
-{"@country":"South Sudan"}"'
-%{"@wikipedia":"Shambe_National_Park"}"
+relation/7849370"
 Shambe National Park"
 
-Q6590002"
+Q6590002"	
+3117891"
+South Sudan"
+Shambe_National_Park"
 en:Shambe National Park"
-relation/3117891"
-{"@name":"Lake Turkana"}"
-{"@wikidataId":"Q182719"}"
-{"@osmRelationId":"1969016"}"
-{"@country":"Kenya"}"
-{"@wikipedia":"Lake_Turkana"}"
-Jezioro Turkana"
+relation/3117891"
+Lake Turkana"	
+Q182719"	
+1969016"
 Kenya"
-Lake Turkana"
+Lake_Turkana"
+Jezioro Turkana"
 Turkanameer"#
 !jezero Turkana (Rudolfovo jezero)"
 Turkana-See"
@@ -312,20 +285,20 @@ Q"Ð¥Ð¾ÑÑ€Ð¾Ð²ÑÐºÐ¸Ð¹ Ð›ÐµÑ" Ð³Ð¾ÑÑƒÐ´Ð°Ñ€ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ Ð·Ð°Ð¿Ð¾Ð²ÐµÐ´Ð½Ð¸
 water"
 Lake Rudolf"
 	Rudolfsee"
-lake"	
-Q182719"
+lake"
 en:Lake Turkana"
-relation/1969016"
-{"@country":"Ethiopia"}D   	
+relation/1969016"
+
+EthiopiaI   	
 	
-"	W†b
-	   	 	L 
-"*	â2 	"  	
- j  
-!"#$%"J	Ö"  	 	/Š     		&"B& &'()*+,	-.*/
-!0"123"	ðŸ  	I$ 456789:	;<8=">?@A"	ÆŸb   =$ BCDEFGHIGJKLM"NO"	Æ;Ÿ2O2 PQRSTUVVWX	YZ [!\"]
-!#^$_"`ab"	Î”B5<- "#  ( ¹  cdefgh%hijk
-!lm"’	 
+ëÖÖ"	W†b
+	   	 	Q 
+Ð’Í"*	â2 	"  	
+ n 
+ !"—×"J	Ö"  	 	/Š     		&"G& #$%&'()	*+',
+- $./“¤‚"	ðŸ  	N$ 0123450	6748 91:;ƒ¶Ì"	ÆŸb   B$ <=>?@AB<ACDEF GHë–Ñ"	Æ;Ÿ2T2 IJKLMNOOPI	QR S!T"U
+#V$W JXY·Çä"	Î”B5<- "#  ( ¼ Z[\]^%^Z_`
+[aî©Í"’	 
 ¬’
 $
  
@@ -339,16 +312,16 @@ tª P
 
  
  $(
-"'?, nopq&r's(t)u*vwx+w,y-z.{"|}~"	ä¼ §1 €‚/0ƒ„
-!12…†3‡ˆ‰Š"ï	˜Æú      
+"'C, bcde&f'g(h)i*jkb+k,l-m.n copâæU"	ä¼ ¡& qrst/0uv
+12wx3yrz{û¥ú"ï	˜Æú      
  	 	 
    		  	   
  
   	  
 
     		
- 	×> ‹ŒŽ&45‘6!’7“
-!,”8•-z.–"—˜™š"’	Îl 		Š       
+ 	×9 |}~&€45‚6ƒ7„
+,…8†-m.‡ ˆ}‰Šºýþ"’	Îl 		Š       
    		
 
 
@@ -356,41 +329,41 @@ tª P
  
     	  	Fš   
       
-   	 				Cõ6 ›œžŸ7 
-,¡8¢9£¤"¥¦§¨"¸	ò+Ú  
+   	 				Cú6 ‹ŒŽ7
+,‘8’9“” •Œ–—úöÓ"¸	ò+Ú  
  
  
-            		  	V< 	K	\(7$ ©ª«g¬7­
-w®¯°"	Êž   Ý8 ±²³´&µ:¶·¸¹º,»;¼"½¾¿À"ž	„æÚ	
+            		  	V< 	K	\(:" ˜™š˜7›
+kœž¹Ü¿"	Êž   â8 Ÿ ¡¢&£:¤¥¦Ÿ§,¨;© ª «¬…ùï"ž	„æÚ	
 	   	
   	
     	  
   
-  Œ& ÁÂÃÄÅÆÇ
-!ÈÉÊ"`	†Æ/â
+  ‘& ­®¯°±²­
+®³´¾Ä¤"`	†Æ/â
 
  
  	
 
 
 	
-	   X* ËÌÍÎÏÐÑÒÐ"ÓÔÕ"(	Þ&þ‚			D' Ö×ØÎÙÚÛÜ"ÝÞß"	Ü)øB  ‚$ àáâÎãä<åæÜ"ç"X	®+Â2    	"		eÊ	    	 
-	 c' èéêÎëìí=î"ïðñ"6	8âº	
+	   \* µ¶·¸¹º»¼º ¶½¾‹ŒI"(	Þ&þ‚			H' ¿ÀÁ¸ÂÃÄÅ ÀÆÇ¾Ýh"	Ü)øB  †$ ÈÉÊ¸ËÌ<ÍÎÅ Ï÷Ûh"X	®+Â2    	"		eÊ	    	 
+	 h' ÐÑÒ¸ÓÔÐ=Õ ÑÖ×Ü¹Î"6	8âº	
 
 
-	«A òóôõö÷>øùú?÷ûü@ýþÿ
-€‚ƒ"d	Ü?Îª  
+	°A ØÙÚÛÜÝ>Þßà?Ýáâ@ãäå
+æÙçèš‹ß"d	Ü?Îª  
     	 
 	 
-		  	(  c# „…†‡ˆAU‰
-!Š‹Œ":	Ú+à5Ê
+		  	(  h# éêëìíANé
+êîïÃ¦¾":	Ú+à5Ê
    
 
- !		ÏP Ž‘B’C“”D•E–—”F˜™Gš@›œHIžJŸ K¡"L¢£¤¥"ø	–3Ø9Š  
+ !		ÓP ðñòóôBõCóðDöE÷øðFùúGû@üýHþIÿJ€K‚ Lƒñ„…ø–x"ø	–3Ø9Š  
   
   
  
-  * 	  	 	 '	lÌ*  	y 	,½:	  ÏP Ž¦‘B’C“”D•E–—”F˜™Gš@›œHIžJŸ K¡"L¢£¤¥"ø	–3Ø9Š  
+  * 	  	 	 '	lÌ*  	y 	,½:	  ÓP ðñò†ôBõCóðDöE÷øðFùúGû@üýHþIÿJ€K‚ Lƒñ„…ø–x"ø	–3Ø9Š  
   
   
  

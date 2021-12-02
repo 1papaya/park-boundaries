@@ -1,5 +1,6 @@
-‚Óx
-parks(Ä 01234boundary	land_areanameprotect_classtypewikidata	wikipediaidleisurename:enWDPA_ID:refdate:protectedfixmegovernance_type
+±™x
+parks(Ä @name@wikidataId@osmRelationId@country
+@wikipediaboundary	land_areanameprotect_classtypewikidata	wikipediaidleisurename:enWDPA_ID:refdate:protectedfixmegovernance_type
 iucn_levelnoteoperatoroperator:urlprotection_titlesite_ownershipsite_statuswebsite
 short_namephoneboundary:typeelegnis:county_idgnis:createdgnis:feature_idgnis:state_id	ownership
 protect_id	protectedsourceadmin_levelplace
@@ -10,42 +11,39 @@ DESIGNATOR	PCL_STATEPCL_TYPEPINPLANNO
 REMAIN_INDref:IUCNname:frareaname:arname:esname:janame:nlname:runame:zhref:whcwhc:criteriawhc:inscription_datewilderness.net:WIDwilderness.net:dateLastMoprotection_object
 start_datecontact:facebookcontact:instagramcontact:twitterprotected_areaboundary_typenrhp:nhlfaxname:mlref:CR:SINACname:dename:noname:pladdr:postcodepostal_codeemailname:skname:finame:hrname:ltname:ptname:srname:svname:ukname:viopening_hoursname:itheritage:refwikimedia_commonscommentrelated_lawdescriptionnorma_creacionfootid_spn
 valid_fromalt_nameoperator:typename:roaccessnote:enname:glofficial_name
-ref:sourcesource:related_lawname:eu	idee:namedogref:FR:INPNyear_importname:canaturalprotection_awardsource:start_datename:csrefcontact:websitewetlandname:anname:el"%
-#{"@name":"Auyuittuq National Park"}"
-{"@wikidataId":"Q789743"}"
-{"@osmRelationId":"9460113"}"
-{"@country":"Canada"}"*
-({"@wikipedia":"Auyuittuq_National_Park"}"
+ref:sourcesource:related_lawname:eu	idee:namedogref:FR:INPNyear_importname:canaturalprotection_awardsource:start_datename:csrefcontact:websitewetlandname:anname:el"
+Auyuittuq National Park"	
+Q789743"	
+9460113"
+Canada"
+Auyuittuq_National_Park"
 national_park"
-administrative"
-Auyuittuq National Park"
+administrative"
 2"
 
-boundary"	
-Q789743"
+boundary"
 en:Auyuittuq National Park"
-relation/9460113"+
-){"@name":"Iluiliq National Park Reserve"}"
-{"@wikidataId":"Q3457184"}"
-{"@osmRelationId":"12298703"}"0
-.{"@wikipedia":"Iluiliq_National_Park_Reserve"}"
-nature_reserve"#
-!R√©serve de parc national Iluiliq"
-Iluiliq National Park Reserve"
-multipolygon"
+relation/9460113"
+Iluiliq National Park Reserve"
 
-Q3457184"
-relation/12298703"(
-&{"@name":"Polar Bear Provincial Park"}"
-{"@wikidataId":"Q2101000"}"
-{"@osmRelationId":"6175700"}"-
-+{"@wikipedia":"Polar_Bear_Provincial_Park"}"
+Q3457184"
+
+12298703"
+Iluiliq_National_Park_Reserve"
+nature_reserve"#
+!R√©serve de parc national Iluiliq"
+multipolygon"
+relation/12298703"
+Polar Bear Provincial Park"
+
+Q2101000"	
+6175700"
+Polar_Bear_Provincial_Park"
 4162"
 1970"P
 Nconsider switching to boundary=protected_area and check value of protect_class"!
 sub-national ministry or agency"
-Ib"
-Polar Bear Provincial Park"
+Ib"
 area is estimated"
 Ontario Parks"!
 https://www.ontarioparks.com/en"
@@ -53,45 +51,38 @@ Nconsider switching to boundary=protected_area and check value of protect_class"
 public"
 
 designated"-
-+https://www.ontarioparks.com/park/polarbear"
-
-Q2101000"
++https://www.ontarioparks.com/park/polarbear"
 en:Polar Bear Provincial Park"
-relation/6175700")
-'{"@name":"Indiana Dunes National Park"}"
-{"@wikidataId":"Q6023179"}"
-{"@osmRelationId":"6414018"}")
-'{"@country":"United States of America"}".
-,{"@wikipedia":"Indiana_Dunes_National_Park"}"
-Indiana Dunes National Park"
-Indiana Dunes"
+relation/6175700"
+Indiana Dunes National Park"
 
-Q6023179" 
+Q6023179"	
+6414018"
+United States of America"
+Indiana_Dunes_National_Park"
+Indiana Dunes" 
 en:Indiana Dunes National Park"
-relation/6414018"'
-%{"@name":"Point Pelee National Park"}"
-{"@wikidataId":"Q1153938"}"
-{"@osmRelationId":"1462031"}",
-*{"@wikipedia":"Point_Pelee_National_Park"}"
-park"
-Point Pelee National Park"
-+1-888-773-8888"(
-&https://www.pc.gc.ca/en/pn-np/on/pelee"
+relation/6414018"
+Point Pelee National Park"
 
-Q1153938"
-relation/1462031"+
-){"@name":"Cuyahoga Valley National Park"}"
-{"@wikidataId":"Q152820"}"
-{"@osmRelationId":"1286297"}"0
-.{"@wikipedia":"Cuyahoga_Valley_National_Park"}"
+Q1153938"	
+1462031"
+Point_Pelee_National_Park"
+park"
++1-888-773-8888"(
+&https://www.pc.gc.ca/en/pn-np/on/pelee"
+relation/1462031"
+Cuyahoga Valley National Park"	
+Q152820"	
+1286297"
+Cuyahoga_Valley_National_Park"
 protected_area"
 210"
 153"
 
 08/17/1992"	
 1066328"
-39"
-Cuyahoga Valley National Park"%
+39"%
 #United States National Park Service"
 
 national"
@@ -99,40 +90,37 @@ designated"-
 perpetuity"
 National Park"
 National Park Service"
-http://www.nps.gov/cuva/"	
-Q152820""
+http://www.nps.gov/cuva/""
  en:Cuyahoga Valley National Park"
-relation/1286297"
-{"@name":"Wasaga Beach"}"
-{"@wikidataId":"Q3047234"}"
-{"@osmRelationId":"7476930"}"
-{"@wikipedia":"Wasaga_Beach"}"
-8"
-Wasaga Beach"
+relation/1286297"
+Wasaga Beach"
+
+Q3047234"	
+7476930"
+Wasaga_Beach"
+8"
 town"
 20675"
 2016"
-https://www.wasagabeach.com/"
-
-Q3047234"
+https://www.wasagabeach.com/"
 en:Wasaga Beach"
-relation/7476930":
-8{"@name":"Queen Elizabeth II Wildlands Provincial Park"}"
-{"@wikidataId":"Q7270370"}"
-{"@osmRelationId":"902981"}"?
-={"@wikipedia":"Queen_Elizabeth_II_Wildlands_Provincial_Park"}"
+relation/7476930".
+,Queen Elizabeth II Wildlands Provincial Park"
+
+Q7270370"
+902981".
+,Queen_Elizabeth_II_Wildlands_Provincial_Park"
 Natural Environment"
 2002"/
 -Queen Elizabeth¬†II Wildlands Provincial Park"
-www.ontarioparks.com/english/"
-
-Q7270370"1
+www.ontarioparks.com/english/"1
 /en:Queen Elizabeth II Wildlands Provincial Park"
-relation/902981"'
-%{"@name":"Algonquin Provincial Park"}"
-{"@wikidataId":"Q1543478"}"
-{"@osmRelationId":"910784"}",
-*{"@wikipedia":"Algonquin_Provincial_Park"}"
+relation/902981"
+Algonquin Provincial Park"
+
+Q1543478"
+910784"
+Algonquin_Provincial_Park"
 4167"
 1893"	
 hsamboc"G
@@ -141,140 +129,120 @@ Ehttp://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=3249&pid=0""
 
 1992-06-07"
 	ALGONQUIN"
-II"
-Algonquin Provincial Park"Ö
+II"Ö
 ÇAlgonquin Park is also a National Historic Site of Canada, I invented "hsamboc" for "Historic Sites and Monuments Board of Canada""
 3249"
 Algonquin Park",
-*http://www.ontarioparks.com/park/algonquin"
-
-Q1543478"
+*http://www.ontarioparks.com/park/algonquin"
 en:Algonquin Provincial Park"
-relation/910784"#
-!{"@name":"High Point State Park"}"
-{"@wikidataId":"Q24257055"}"
-{"@osmRelationId":"144422"}"(
-&{"@wikipedia":"High_Point_State_Park"}"
+relation/910784"
+High Point State Park"
+	Q24257055"
+144422"
+High_Point_State_Park"
 379"
 037"
 
 09/08/1979"
 877100"
-34"
-High Point State Park"*
-(New Jersey Divison of Parks and Forestry"
-	Q24257055"
-relation/144422"*
-({"@name":"Pointe-Taillon National Park"}"
-{"@wikidataId":"Q2051991"}"
-{"@osmRelationId":"7295219"}"/
--{"@wikipedia":"Pointe-Taillon_National_Park"}"$
-"Parc national de la Pointe-Taillon"
+34"*
+(New Jersey Divison of Parks and Forestry"
+relation/144422"
 Pointe-Taillon National Park"
 
-Q2051991"'
+Q2051991"	
+7295219"
+Pointe-Taillon_National_Park"$
+"Parc national de la Pointe-Taillon"'
 %fr:Parc national de la Pointe-Taillon"
-relation/7295219"O
-M{"@name":"R√©serve aquatique de la Vall√©e-de-la-Rivi√®re-Sainte-Marguerite"}"
-{"@wikidataId":"Q97477582"}"
-{"@osmRelationId":"12048266"}"
-{"@wikipedia":null}"C
-AR√©serve aquatique de la Vall√©e-de-la-Rivi√®re-Sainte-Marguerite"Q
-OMinist√®re de l'Environnement et de la Lutte contre les changements climatiques"
-	Q97477582"
-relation/12048266"'
-%{"@name":"La Mauricie National Park"}"
-{"@wikidataId":"Q1798539"}"
-{"@osmRelationId":"8008852"}",
-*{"@wikipedia":"La_Mauricie_National_Park"}"
-Parc national de la Mauricie"
+relation/7295219"C
+AR√©serve aquatique de la Vall√©e-de-la-Rivi√®re-Sainte-Marguerite"
+	Q97477582"
 
-Q1798539"!
+12048266"Q
+OMinist√®re de l'Environnement et de la Lutte contre les changements climatiques"
+relation/12048266"
+La Mauricie National Park"
+
+Q1798539"	
+8008852"
+La_Mauricie_National_Park"
+Parc national de la Mauricie"!
 fr:Parc national de la Mauricie"
-relation/8008852"*
-({"@name":"Mont-M√©gantic National Park"}"
-{"@wikidataId":"Q1751092"}"
-{"@osmRelationId":"4775777"}"3
-1{"@wikipedia":"Mont-M%C3%A9gantic_National_Park"}"!
-Parc national du Mont-M√©gantic"
+relation/8008852"
+Mont-M√©gantic National Park"
 
-Q1751092"$
+Q1751092"	
+4775777""
+ Mont-M%C3%A9gantic_National_Park"!
+Parc national du Mont-M√©gantic"$
 "fr:Parc national du Mont-M√©gantic"
-relation/4775777"*
-({"@name":"Saguenay Fjord National Park"}"
-{"@wikidataId":"Q3364513"}"
-{"@osmRelationId":"8388140"}"/
--{"@wikipedia":"Saguenay_Fjord_National_Park"}"$
+relation/4775777"
+Saguenay Fjord National Park"
+
+Q3364513"	
+8388140"
+Saguenay_Fjord_National_Park"$
 "Parc national du Fjord-du-Saguenay"
 S√âPAQ"
-https://www.sepaq.com/pq/sag"
-
-Q3364513"
-relation/8388140"&
-${"@name":"Gros Morne National Park"}"
-{"@wikidataId":"Q257598"}"
-{"@osmRelationId":"6236296"}"+
-){"@wikipedia":"Gros_Morne_National_Park"}"
+https://www.sepaq.com/pq/sag"
+relation/8388140"
+Gros Morne National Park"	
+Q257598"	
+6236296"
+Gros_Morne_National_Park"
 PARCEL 4 ROCKY HARBOUR"
 OTHER"
 Outside Canada Lands"	
 1003591"
 69213 CLSR NL"
 No".
-,please use lowercase keys: ADMIN_CODE = GROS"
-Gros Morne National Park"	
-Q257598"
+,please use lowercase keys: ADMIN_CODE = GROS"
 en:Gros Morne National Park"
-relation/6236296",
-*{"@name":"Mount Carleton Provincial Park"}"
-{"@wikidataId":"Q3364752"}"
-{"@osmRelationId":"2473644"}"1
-/{"@wikipedia":"Mount_Carleton_Provincial_Park"}"
-government_managed" 
-Mount Carleton Provincial Park"
-Government of New Brunswick"
-public/provincial"
+relation/6236296" 
+Mount Carleton Provincial Park"
 
-Q3364752"#
+Q3364752"	
+2473644" 
+Mount_Carleton_Provincial_Park"
+government_managed"
+Government of New Brunswick"
+public/provincial"#
 !en:Mount Carleton Provincial Park"
-relation/2473644"!
-{"@name":"Fundy National Park"}"
-{"@wikidataId":"Q1474238"}"
-{"@osmRelationId":"6813178"}"&
-${"@wikipedia":"Fundy_National_Park"}"
-Fundy National Park"
+relation/2473644"
+Fundy National Park"
+
+Q1474238"	
+6813178"
+Fundy_National_Park"
 Fundy National Park of Canada"
 Parc national Fundy"
-Natural Resources Canada"
-
-Q1474238"
+Natural Resources Canada"
 fr:Parc national de Fundy"
-relation/6813178"0
-.{"@name":"Prince Edward Island National Park"}"
-{"@wikidataId":"Q1314367"}"
-{"@osmRelationId":"10351694"}"5
-3{"@wikipedia":"Prince_Edward_Island_National_Park"}"$
-"Prince Edward Island National Park"
-Parks Canada"
+relation/6813178"$
+"Prince Edward Island National Park"
 
-Q1314367"
-relation/10351694"/
--{"@name":"Mistaken Point Ecological Reserve"}"
-{"@wikidataId":"Q3301928"}"
-{"@osmRelationId":"2053964"}"4
-2{"@wikipedia":"Mistaken_Point_Ecological_Reserve"}"#
-!Mistaken Point Ecological Reserve"
-relation/2053964"(
-&{"@name":"Mammoth Cave National Park"}"
-{"@wikidataId":"Q242681"}"
-{"@osmRelationId":"9615817"}"-
-+{"@wikipedia":"Mammoth_Cave_National_Park"}"
+Q1314367"
+
+10351694"$
+"Prince_Edward_Island_National_Park"
+Parks Canada"
+relation/10351694"#
+!Mistaken Point Ecological Reserve"
+
+Q3301928"	
+2053964"#
+!Mistaken_Point_Ecological_Reserve"
+relation/2053964"
+Mammoth Cave National Park"	
+Q242681"	
+9615817"
+Mammoth_Cave_National_Park"
 yes"
 140"
 507318"
 1"
-whc"
-Mammoth Cave National Park"+
+whc"+
 )ŸÖŸÜÿ™ÿ≤Ÿá ŸÉŸáŸÅ ŸÖÿßŸÖŸàÿ™ ÿßŸÑŸàÿ∑ŸÜŸä"!
 Parque Nacional de Mammoth Cave"
 Parc national de Mammoth Cave"&
@@ -286,62 +254,54 @@ A–ù–∞—Ü–∏–æ–Ω–∞–ª—å–Ω—ã–π –ø–∞—Ä–∫ –ú–∞–º–æ–Ω—Ç–æ–≤–∞ –ø–µ—â–µ—Ä–∞"
 )NPS shapefile - https://irma.nps.gov/App/"
 http://www.nps.gov/maca/"
 (vii)(viii)(x)"
-1981"	
-Q242681"
+1981"
 en:Mammoth Cave National Park"
-relation/9615817"
-{"@name":"Cheaha Wilderness"}"
-{"@wikidataId":"Q5088819"}"
-{"@osmRelationId":"9536353"}"$
-"{"@wikipedia":"Cheaha_Wilderness"}"
-163631"
-Cheaha Wilderness"
+relation/9615817"
+Cheaha Wilderness"
+
+Q5088819"	
+9536353"
+Cheaha_Wilderness"
+163631"
 United State Forest Service"
 1b"
 
 Wilderness"E
-Chttps://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&WID=115"
-
-Q5088819"
+Chttps://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&WID=115"
 en:Cheaha Wilderness"
 115"
 
 2011/05/11"
-relation/9536353"(
-&{"@name":"Dugger Mountain Wilderness"}"
-{"@wikidataId":"Q5312523"}"
-{"@osmRelationId":"7378884"}"-
-+{"@wikipedia":"Dugger_Mountain_Wilderness"}"
-Dugger Mountain Wilderness"
+relation/9536353"
+Dugger Mountain Wilderness"
+
+Q5312523"	
+7378884"
+Dugger_Mountain_Wilderness"
 United States Forest Service"	
 habitat"
 
 2000-04-01"E
-Chttps://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&WID=166"
-
-Q5312523"
+Chttps://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&WID=166"
 en:Dugger Mountain Wilderness"
-relation/7378884"8
-6{"@name":"New River Gorge National Park and Preserve"}"
-{"@wikidataId":"Q7011245"}"
-{"@osmRelationId":"3178915"}"=
-;{"@wikipedia":"New_River_Gorge_National_Park_and_Preserve"}",
-*New River Gorge National Park and Preserve"
+relation/7378884",
+*New River Gorge National Park and Preserve"
+
+Q7011245"	
+3178915",
+*New_River_Gorge_National_Park_and_Preserve"
 National Park and Preserve"+
 )http://www1.usgs.gov/vip/neri/neribdy.zip"
-http://www.nps.gov/neri/"
-
-Q7011245"/
+http://www.nps.gov/neri/"/
 -en:New River Gorge National Park and Preserve"
-relation/3178915"1
-/{"@name":"Great Smoky Mountains National Park"}"
-{"@wikidataId":"Q464004"}"
-{"@osmRelationId":"2131838"}"6
-4{"@wikipedia":"Great_Smoky_Mountains_National_Park"}"1
+relation/3178915"%
+#Great Smoky Mountains National Park"	
+Q464004"	
+2131838"%
+#Great_Smoky_Mountains_National_Park"1
 /https://www.facebook.com/GreatSmokyMountainsNPS"*
 (https://www.instagram.com/GreatSmokyNPS/"#
-!https://twitter.com/GreatSmokyNPS"%
-#Great Smoky Mountains National Park"M
+!https://twitter.com/GreatSmokyNPS"M
 KÿßŸÑŸÖŸÜÿ™ÿ≤Ÿá ÿßŸÑŸàÿ∑ŸÜŸä ŸÑÿ¨ÿ®ÿßŸÑ ÿ∫ÿ±ÿßŸäÿ™ ÿ≥ŸÖŸàŸÉŸä ÿßŸÑÿπÿ∏ŸäŸÖÿ©"*
 (Parque Nacional de Great Smoky Mountains")
 'Parc national des Great Smoky Mountains"2
@@ -354,121 +314,106 @@ H–ù–∞—Ü–∏–æ–Ω–∞–ª—å–Ω—ã–π –ø–∞—Ä–∫ –ì—Ä–µ–π—Ç-–°–º–æ–∫–∏-–ú–∞—É–Ω—Ç–∏–Ω—Å"
 NPS"
 https://www.nps.gov/grsm"
 (vii)(viii)(ix)(x)"
-1983"	
-Q464004"(
+1983"(
 &en:Great Smoky Mountains National Park"
-relation/2131838"%
-#{"@name":"Citico Creek Wilderness"}"
-{"@wikidataId":"Q5122464"}"
-{"@osmRelationId":"5273219"}"*
-({"@wikipedia":"Citico_Creek_Wilderness"}"
-Citico Creek Wilderness"
-Wilderness Area"+
-)USDA Forest Service Geodata Clearinghouse"
+relation/2131838"
+Citico Creek Wilderness"
 
-Q5122464"
+Q5122464"	
+5273219"
+Citico_Creek_Wilderness"
+Wilderness Area"+
+)USDA Forest Service Geodata Clearinghouse"
 en:Citico Creek Wilderness"
-relation/5273219"/
--{"@name":"Joyce Kilmer-Slickrock Wilderness"}"
-{"@wikidataId":"Q6297543"}"
-{"@osmRelationId":"5273225"}"4
-2{"@wikipedia":"Joyce_Kilmer-Slickrock_Wilderness"}"#
+relation/5273219"#
 !Joyce Kilmer-Slickrock Wilderness"
 
-Q6297543"&
+Q6297543"	
+5273225"#
+!Joyce_Kilmer-Slickrock_Wilderness"&
 $en:Joyce Kilmer-Slickrock Wilderness"
-relation/5273225"+
-){"@name":"Southern Nantahala Wilderness"}"
-{"@wikidataId":"Q7570158"}"
-{"@osmRelationId":"5262525"}"0
-.{"@wikipedia":"Southern_Nantahala_Wilderness"}"
-Southern Nantahala Wilderness"#
-!Adjusted per Towns County parcels"
+relation/5273225"
+Southern Nantahala Wilderness"
 
-Q7570158""
+Q7570158"	
+5262525"
+Southern_Nantahala_Wilderness"#
+!Adjusted per Towns County parcels""
  en:Southern Nantahala Wilderness"
-relation/5262525"$
-"{"@name":"Congaree National Park"}"
-{"@wikidataId":"Q175688"}"
-{"@osmRelationId":"12627729"}")
-'{"@wikipedia":"Congaree_National_Park"}"
-nrhp"
-Congaree National Park"
-https://www.nps.gov/cong/"	
-Q175688"
-relation/12627729"$
-"{"@name":"Black Creek Wilderness"}"
-{"@wikidataId":"Q4920604"}"
-{"@osmRelationId":"3501981"}")
-'{"@wikipedia":"Black_Creek_Wilderness"}"
-Black Creek Wilderness"
+relation/5262525"
+Congaree National Park"	
+Q175688"
 
-wilderness"
+12627729"
+Congaree_National_Park"
+nrhp"
+https://www.nps.gov/cong/"
+relation/12627729"
+Black Creek Wilderness"
 
-Q4920604"
+Q4920604"	
+3501981"
+Black_Creek_Wilderness"
+
+wilderness"
 en:Black Creek Wilderness"
-relation/3501981"%
-#{"@name":"Bradwell Bay Wilderness"}"
-{"@wikidataId":"Q4955147"}"
-{"@osmRelationId":"3499715"}"*
-({"@wikipedia":"Bradwell_Bay_Wilderness"}"
+relation/3501981"
 Bradwell Bay Wilderness"
 
-Q4955147"
+Q4955147"	
+3499715"
+Bradwell_Bay_Wilderness"
 en:Bradwell Bay Wilderness"
-relation/3499715"&
-${"@name":"Shenandoah National Park"}"
-{"@wikidataId":"Q1137401"}"
-{"@osmRelationId":"5548542"}"+
-){"@wikipedia":"Shenandoah_National_Park"}"
+relation/3499715"
+Shenandoah National Park"
+
+Q1137401"	
+5548542"
+Shenandoah_National_Park"
 139"
 
 09/13/1996"	
 1488805"
-51"
-Shenandoah National Park"
+51"
 USGS topographic maps"
-http://www.nps.gov/shen/"
-
-Q1137401"
+http://www.nps.gov/shen/"
 en:Shenandoah National Park"
-relation/5548542"%
-#{"@name":"Chiquibul National Park"}"
-{"@wikidataId":"Q5101755"}"
-{"@osmRelationId":"9475521"}"
-{"@country":"Belize"}"*
-({"@wikipedia":"Chiquibul_National_Park"}"
-Chiquibul National Park"*
-(Friends for Conservation and Development"
-1995"
+relation/5548542"
+Chiquibul National Park"
 
-Q5101755"
-relation/9475521",
-*{"@name":"Billy Barquedier National Park"}"
-{"@wikidataId":"Q28225725"}"
-{"@osmRelationId":"9475396"}"1
-/{"@wikipedia":"Billy_Barquedier_National_Park"}" 
-Billy Barquedier National Park"0
-.Steadfast Tourism and Conservation Association"
-	Q28225725"
-relation/9475396"'
-%{"@name":"Montecristo National Park"}"
-{"@wikidataId":"Q6905054"}"
-{"@osmRelationId":"8623870"}"
-{"@country":"El Salvador"}",
-*{"@wikipedia":"Montecristo_National_Park"}"
+Q5101755"	
+9475521"
+Belize"
+Chiquibul_National_Park"*
+(Friends for Conservation and Development"
+1995"
+relation/9475521" 
+Billy Barquedier National Park"
+	Q28225725"	
+9475396" 
+Billy_Barquedier_National_Park"0
+.Steadfast Tourism and Conservation Association"
+relation/9475396"
+Montecristo National Park"
+
+Q6905054"	
+8623870"
+El Salvador"
+Montecristo_National_Park"
 9638"
 Parque Nacional Montecristo"
 18 de noviembre de 1987‚Äã"
-relation/8623870"-
-+{"@name":"Las Baulas National Marine Park"}"
-{"@wikidataId":"Q4315024"}"
-{"@osmRelationId":"12582065"}"
-{"@country":"Costa Rica"}"2
-0{"@wikipedia":"Las_Baulas_Marine_National_Park"}"
+relation/8623870"!
+Las Baulas National Marine Park"
+
+Q4315024"
+
+12582065"
+
+Costa Rica"!
+Las_Baulas_Marine_National_Park"
 	2686-4969"#
-!Parque Nacional Marino Las Baulas"!
-Las Baulas National Marine Park" 
+!Parque Nacional Marino Las Baulas" 
 Parc national marin Las Baulas"F
 D‡¥≤‡¥æ‡¥∏‡µç ‡¥¨‡µå‡¥≥‡¥æ‡¥∏‡µç ‡¥¶‡µá‡¥∂‡µÄ‡¥Ø‡µã‡¥¶‡µç‡¥Ø‡¥æ‡¥®‡¥Ç"F
 D–ù–∞—Ü–∏–æ–Ω–∞–ª—å–Ω—ã–π –º–æ—Ä—Å–∫–æ–π –ø–∞—Ä–∫ –õ–∞—Å-–ë–∞—É–ª–∞—Å"#
@@ -479,18 +424,17 @@ zMNP Las Baulas: 2653-0470 Nicoya Subregion: 2685-5667 / 2685-5267 / 2686-6760 T
 P07"<
 :SINAC (Sistema Nacional de √Åreas de Conservaci√≥n) - 2019"
 1991"
-http://www.sinac.go.cr"
-
-Q4315024"&
+http://www.sinac.go.cr"&
 $es:Parque nacional marino Las Baulas"
-relation/12582065"'
-%{"@name":"Barra Honda National Park"}"
-{"@wikidataId":"Q1968749"}"
-{"@osmRelationId":"12581795"}",
-*{"@wikipedia":"Barra_Honda_National_Park"}"
+relation/12582065"
+Barra Honda National Park"
+
+Q1968749"
+
+12581795"
+Barra_Honda_National_Park"
 Parque nacional Barra Honda"
 Nationalpark Barra Honda"
-Barra Honda National Park"
 Parc national Barra Honda"
 Barra Honda nasjonalpark"
 Park Narodowy Barra Honda"
@@ -499,17 +443,16 @@ $es:Parque nacional marino Las Baulas"
 FPN Barra Honda: 2659-1551;Tempisque AC Regional: 2686-4968 / 2686-4970"
 P06"
 1974"
-www.sinac.go.cr"
-
-Q1968749" 
+www.sinac.go.cr" 
 es:Parque nacional Barra Honda"
-relation/12581795"+
-){"@name":"Tenorio Volcano National Park"}"
-{"@wikidataId":"Q4551358"}"
-{"@osmRelationId":"12582130"}"0
-.{"@wikipedia":"Tenorio_Volcano_National_Park"}"!
+relation/12581795"
+Tenorio Volcano National Park"
+
+Q4551358"
+
+12582130"
+Tenorio_Volcano_National_Park"!
 Parque Nacional Volc√°n Tenorio"
-Tenorio Volcano National Park"
 Parc national Volc√°n Tenorio"[
 Y‡¥ü‡µÜ‡¥®‡µã‡¥±‡¥ø‡¥Ø‡µã ‡¥µ‡µã‡µæ‡¥ï‡µç‡¥ï‡¥æ‡¥®‡µã ‡¥¶‡µá‡¥∂‡µÄ‡¥Ø‡µã‡¥¶‡µç‡¥Ø‡¥æ‡¥®‡¥Ç"
 Volc√°n Tenorio nasjonalpark"
@@ -517,85 +460,78 @@ Y‡¥ü‡µÜ‡¥®‡µã‡¥±‡¥ø‡¥Ø‡µã ‡¥µ‡µã‡µæ‡¥ï‡µç‡¥ï‡¥æ‡¥®‡µã ‡¥¶‡µá‡¥∂‡µÄ‡¥Ø‡µã‡¥¶‡µç‡¥
 -Area de Conservaci√≥n Arenal Tempisque (ACAT)"_
 ]NP Volc√°n Tenorio: 2200-0135 Regional AC Arenal-Tempisque: 2695-5908 / 2695-5180 / 2695-5982"
 P22"
-1976"
-
-Q4551358"$
+1976"$
 "es:Parque nacional Volc√°n Tenorio"
-relation/12582130"'
-%{"@name":"La Cangreja National Park"}"
-{"@wikidataId":"Q4552189"}"
-{"@osmRelationId":"12582137"}",
-*{"@wikipedia":"La_Cangreja_National_Park"}"
+relation/12582130"
+La Cangreja National Park"
+
+Q4552189"
+
+12582137"
+La_Cangreja_National_Park"
 Parque nacional La Cangreja"
-La Cangreja National Park"
 Park Narodowy La Cangreja"
 ÊãâÂùéÊ†ºÈõ∑ÂìàÂúãÂÆ∂ÂÖ¨Âúí"H
 Fplease don't delete the relation, it is required to link with wikidata"&
 $√Årea de Conservaci√≥n Central (ACC)"
-P26"
-
-Q4552189" 
+P26" 
 es:Parque nacional La Cangreja"
-relation/12582137"
-{"@name":"Coco Island"}"
-{"@wikidataId":"Q215081"}"
-{"@osmRelationId":"5725329"}"
-{"@wikipedia":"Cocos_Island"}"
+relation/12582137"
+Coco Island"	
+Q215081"	
+5725329"
+Cocos_Island"
 60110"
 Isla del Coco"
 Cocos Island"C
-ADistrito 10mo del cant√≥n de Puntarenas, provincia de Puntarenas."	
-Q215081"
-relation/5725329"(
-&{"@name":"Cocos Island National Park"}"
-{"@wikidataId":"Q6062995"}"
-{"@osmRelationId":"6195069"}"
+ADistrito 10mo del cant√≥n de Puntarenas, provincia de Puntarenas."
+relation/5725329"
+Cocos Island National Park"
+
+Q6062995"	
+6195069"
 parquechirripo@racsa.co.cr"
 	2291-1264"
 Parque nacional Isla del Coco",
 *√Årea de Conservaci√≥n Marina Cocos (ACMC)"e
 cIsla del Coco Conservation Area Regional Headquarter: 2291-1215 / 2291-1216 / 2291-1233 / 2291-1250"
 P20"
-1978"
-
-Q6062995""
+1978""
  es:Parque nacional Isla del Coco"
-relation/6195069".
-,{"@name":"Juan Castro Blanco National Park"}"
-{"@wikidataId":"Q4175950"}"
-{"@osmRelationId":"12581797"}"3
-1{"@wikipedia":"Juan_Castro_Blanco_National_Park"}"$
+relation/6195069""
+ Juan Castro Blanco National Park"
+
+Q4175950"
+
+12581797""
+ Juan_Castro_Blanco_National_Park"$
 "Parque Nacional Juan Castro Blanco""
- Juan Castro Blanco National Park""
  Park Narodowy Juan Castro Blanco"#
 !N√°rodn√Ω park Juan Castro Blanco")
 'ËÉ°ÂÆâÂç°ÊñØÁâπÁæÖÂ∏ÉËò≠ÁßëÂúãÂÆ∂ÂÖ¨Âúí"4
 2√Årea de Conservaci√≥n Arenal Huetar Norte (ACAHN)"
 P03"
-1992"
-
-Q4175950"%
+1992"%
 #en:Juan Castro Blanco National Park"
-relation/12581797"$
-"{"@name":"Tapant√≠ National Park"}"
-{"@wikidataId":"Q4552264"}"
-{"@osmRelationId":"10323073"}"-
-+{"@wikipedia":"Tapant%C3%AD_National_Park"}"6
+relation/12581797"
+Tapant√≠ National Park"
+
+Q4552264"
+
+10323073"
+Tapant%C3%AD_National_Park"6
 4Parque Nacional Tapant√≠ - Macizo Cerro de la Muerte"
 P24"
-2000"
-
-Q4552264"
+2000"
 es:Parque nacional Tapant√≠"
-relation/10323073"*
-({"@name":"Manuel Antonio National Park"}"
-{"@wikidataId":"Q112854"}"
-{"@osmRelationId":"2175048"}"/
--{"@wikipedia":"Manuel_Antonio_National_Park"}"
+relation/10323073"
+Manuel Antonio National Park"	
+Q112854"	
+2175048"
+Manuel_Antonio_National_Park"
 +506 2777 4122" 
 Parque Nacional Manuel Antonio"
-Nationalpark Manuel Antonio"
-Manuel Antonio National Park"!
+Nationalpark Manuel Antonio"!
 Manuel Antonion kansallispuisto"
 Parc national Manuel Antonio" 
 Nacionalni park Manuel Antonio"'
@@ -611,47 +547,43 @@ $ÊõºÂä™ÂüÉÁàæÂÆâÊù±Â∞ºÂ•ßÂúãÂÆ∂ÂÖ¨Âúí"
 1√Årea de Conservaci√≥n Pac√≠fico Central (ACOPAC)"
 +506 2777-5155"
 P15"
-1972"	
-Q112854"#
+1972"#
 !es:Parque Nacional Manuel Antonio"
-relation/2175048"%
-#{"@name":"Corcovado National Park"}"
-{"@wikidataId":"Q869074"}"
-{"@osmRelationId":"1308865"}"*
-({"@wikipedia":"Corcovado_National_Park"}"
+relation/2175048"
+Corcovado National Park"	
+Q869074"	
+1308865"
+Corcovado_National_Park"
 Parque Nacional Corcovado"
 Nationalpark Corcovado"
-Corcovado National Park"
 Parc national Corcovado"
 Parco nazionale del Corcovado"$
 "√Årea de Conservaci√≥n Osa (ACOSA)"
 P12"
-1975"	
-Q869074"
+1975"
 en:Corcovado National Park"
-relation/1308865"#
-!{"@name":"Cahuita National Park"}"
-{"@wikidataId":"Q2546988"}"
-{"@osmRelationId":"12582073"}"(
-&{"@wikipedia":"Cahuita_National_Park"}"
+relation/1308865"
+Cahuita National Park"
+
+Q2546988"
+
+12582073"
+Cahuita_National_Park"
 Parque nacional Cahuita"2
 0√Årea de Conservaci√≥n La Amistad Caribe (ACLAC)"
-P16"
-
-Q2546988"
+P16"
 es:Parque nacional Cahuita"
-relation/12582073"#
-!{"@name":"Dari√©n National Park"}"
-{"@wikidataId":"Q48608"}"
-{"@osmRelationId":"3256775"}"
-{"@country":"Panama"}",
-*{"@wikipedia":"Dari%C3%A9n_National_Park"}"
+relation/12582073"
+Dari√©n National Park"
+Q48608"	
+3256775"
+Panama"
+Dari%C3%A9n_National_Park"
 159"%
 #https://whc.unesco.org/en/list/159/"
 Parque Nacional de Dari√©n"&
 $ŸÖŸÜÿ™ÿ≤Ÿá ÿØÿßÿ±ŸäÿßŸÜ ÿßŸÑŸàÿ∑ŸÜŸä"
-Nationalpark Dari√©n"
-Dari√©n National Park"
+Nationalpark Dari√©n"
 Parque Nacional del Dari√©n"
 Parc national de Dari√©n"
 Parco nazionale del Dari√©n"
@@ -660,204 +592,185 @@ $ŸÖŸÜÿ™ÿ≤Ÿá ÿØÿßÿ±ŸäÿßŸÜ ÿßŸÑŸàÿ∑ŸÜŸä"
 .–ù–∞—Ü–∏–æ–Ω–∞–ª—å–Ω—ã–π –ø–∞—Ä–∫ –î–∞—Ä—å–µ–Ω"
 ËææËøûÂõΩÂÆ∂ÂÖ¨Âõ≠"
 Parque Nacional"
-(vii)(ix)(x)"
-Q48608" 
+(vii)(ix)(x)" 
 Category:Dari√©n National Park"
 es:Parque nacional Dari√©n"
-relation/3256775"&
-${"@name":"Yarigu√≠es National Park"}"
-{"@wikidataId":"Q3364553"}"
-{"@osmRelationId":"1972408"}"
-{"@country":"Colombia"}"/
--{"@wikipedia":"Yarigu%C3%ADes_National_Park"}"5
-3Parque Nacional Natural Serran√≠a de Los Yarigu√≠es"
-SD"
+relation/3256775"
+Yarigu√≠es National Park"
 
-Q3364553"
+Q3364553"	
+1972408"
+
+Colombia"
+Yarigu%C3%ADes_National_Park"5
+3Parque Nacional Natural Serran√≠a de Los Yarigu√≠es"
+SD"
 en:Yarigu√≠es National Park"
-relation/1972408"(
-&{"@name":"Chiribiquete National Park"}"
-{"@wikidataId":"Q2603196"}"
-{"@osmRelationId":"6637001"}"-
-+{"@wikipedia":"Chiribiquete_National_Park"}"O
+relation/1972408"
+Chiribiquete National Park"
+
+Q2603196"	
+6637001"
+Chiribiquete_National_Park"O
 Mnuevo l√≠mite ampliado del parque nacional - edit Dic. 2019 y antes Oct. 2016"0
 .Parque Nacional Natural Sierra de Chiribiquete"n
 leste pol√≠gono reemplaza el l√≠mite de parque de 1989. Falta trazar el nuevo l√≠mite de ampliaci√≥n de 2018."Ü
-ÉRes. 1256 de 2018 (ampliaci√≥n) y Res 1038 del 21 de agosto de 2013, expedida por el Ministerio de Ambiente y Desarrollo Sostenible"
-
-Q2603196"
-relation/6637001".
-,{"@name":"El Tuparro National Natural Park"}"
-{"@wikidataId":"Q925217"}"
-{"@osmRelationId":"911667"}"3
-1{"@wikipedia":"El_Tuparro_National_Natural_Park"}"
+ÉRes. 1256 de 2018 (ampliaci√≥n) y Res 1038 del 21 de agosto de 2013, expedida por el Ministerio de Ambiente y Desarrollo Sostenible"
+relation/6637001""
+ El Tuparro National Natural Park"	
+Q925217"
+911667""
+ El_Tuparro_National_Natural_Park"
 -"$
 "Parque Nacional Natural El Tuparro"
 	AC-27-V77"&
-$SIGOT DANE UNODC-SIMCI OCHA-COLOMBIA"	
-Q925217"
-relation/911667"&
-${"@name":"Puinawai Natural Reserve"}"
-{"@wikidataId":"Q7259049"}"
-{"@osmRelationId":"911663"}"+
-){"@wikipedia":"Puinawai_Natural_Reserve"}"#
-!Reserva Nacional Natural Puinawai"
-Puinawai Natural Reserve"
-AC 048 -IX/89"
+$SIGOT DANE UNODC-SIMCI OCHA-COLOMBIA"
+relation/911667"
+Puinawai Natural Reserve"
 
-Q7259049"&
+Q7259049"
+911663"
+Puinawai_Natural_Reserve"#
+!Reserva Nacional Natural Puinawai"
+AC 048 -IX/89"&
 $es:Reserva Nacional Natural Puinawai"
-relation/911663"&
-${"@name":"Guadeloupe National Park"}"
-{"@wikidataId":"Q1028479"}"
-{"@osmRelationId":"1106907"}"
-{"@country":"France"}"+
-){"@wikipedia":"Guadeloupe_National_Park"}"
+relation/911663"
+Guadeloupe National Park"
+
+Q1028479"	
+1106907"
+France"
+Guadeloupe_National_Park"
 	FR3300007"%
 #Parc national de Guadeloupe (c≈ìur)"
-Nationalpark Guadeloupe"
-Guadeloupe National Park"
+Nationalpark Guadeloupe"
 C≈ìur de Parc national"
 PN de la Guadeloupe"0
 .Inventaire National du Patrimoine Naturel 2010"
 
-1989-02-20"
-
-Q1028479"#
+1989-02-20"#
 !fr:Parc national de la Guadeloupe"
-relation/1106907"1
-/{"@name":"Laguna de La Restinga National Park"}"
-{"@wikidataId":"Q6473006"}"
-{"@osmRelationId":"13496982"}"
-{"@country":"Venezuela"}"(
-&{"@wikipedia":"Laguna_de_la_Restinga"}"
+relation/1106907"%
+#Laguna de La Restinga National Park"
+
+Q6473006"
+
+13496982"
+	Venezuela"
+Laguna_de_la_Restinga"
 336"
 Parque Nacional La Restinga"'
 %Parque Nacional Laguna de La Restinga"%
-#Laguna de La Restinga National Park"%
 #Parc national Laguna de La Restinga"
 	Inparques"
 Inparques; Maxar (2021)"
 
-1975-02-06"
-
-Q6473006"*
+1975-02-06"*
 (es:Parque nacional Laguna de La Restinga"
-relation/13496982"#
-!{"@name":"Mochima National Park"}"
-{"@wikidataId":"Q3364421"}"
-{"@osmRelationId":"13030014"}"(
-&{"@wikipedia":"Mochima_National_Park"}"
+relation/13496982"
+Mochima National Park"
+
+Q3364421"
+
+13030014"
+Mochima_National_Park"
 324"
 Parque Nacional Mochima"
-Mochima National Park"
 Parc national Mochima"0
 .Decreto n.¬∞ 1.524 del 19 de diciembre de 1973"
 
 1973-12-19"
-http://www.inparques.gob.ve/"
-
-Q3364421"
+http://www.inparques.gob.ve/"
 es:Parque nacional Mochima"
-relation/13030014"*
-({"@name":"Cerro El Copey National Park"}"
-{"@wikidataId":"Q4845607"}"
-{"@osmRelationId":"13498156"}"/
--{"@wikipedia":"Cerro_El_Copey_National_Park"}"
+relation/13030014"
+Cerro El Copey National Park"
+
+Q4845607"
+
+13498156"
+Cerro_El_Copey_National_Park"
 338""
  Parque Nacional J√≥vito Villalba" 
 Parque Nacional Cerro El Copey"
-Cerro El Copey National Park"
 Parc national Cerro El Copey"-
 +Decreto n.¬∞ 1632 del 27 de febrero de 1974"
 
-1974-02-27"
-
-Q4845607"4
+1974-02-27"4
 2es:Parque nacional Cerro El Copey-J√≥vito Villalba"
-relation/13498156"'
-%{"@name":"El Guacharo National Park"}"
-{"@wikidataId":"Q4845766"}"
-{"@osmRelationId":"13492513"}"8
-6{"@wikipedia":"Cueva_del_Gu%C3%A1charo_National_Park"}"
+relation/13498156"
+El Guacharo National Park"
+
+Q4845766"
+
+13492513"'
+%Cueva_del_Gu%C3%A1charo_National_Park"
 333"
 Parque Nacional El Gu√°charo"
-El Guacharo National Park"
 Parc national El Guacharo")
 'Decreto n.¬∞ 943 del 27 de mayo de 1975"
 
-1975-05-27"
-
-Q4845766"!
+1975-05-27"!
 es:Parque nacional El Gu√°charo"
-relation/13492513"%
-#{"@name":"Turuepano National Park"}"
-{"@wikidataId":"Q4845575"}"
-{"@osmRelationId":"5793380"}"/
--{"@wikipedia":"Turu%C3%A9pano_National_Park"}"
+relation/13492513"
+Turuepano National Park"
+
+Q4845575"	
+5793380"
+Turu%C3%A9pano_National_Park"
 30024"
-Parque Nacional Turu√©pano"
-Turuepano National Park"
+Parque Nacional Turu√©pano"
 Parc national Turu√©pano"
 
-1991-06-05"
-
-Q4845575"
+1991-06-05"
 es:Parque nacional Turu√©pano"
-relation/5793380".
-,{"@name":"Peninsula de Paria National Park"}"
-{"@wikidataId":"Q83940016"}"
-{"@osmRelationId":"5793397"}"8
-6{"@wikipedia":"Pen%C3%ADnsula_de_Paria_National_Park"}"
+relation/5793380""
+ Peninsula de Paria National Park"
+	Q83940016"	
+5793397"'
+%Pen%C3%ADnsula_de_Paria_National_Park"
 328"%
 #Parque Nacional Pen√≠nsula de Paria""
- Peninsula de Paria National Park""
  Parc national Peninsula de Paria"
 
-1978-12-12"
-	Q83940016"(
+1978-12-12"(
 &es:Parque nacional Pen√≠nsula de Paria"
-relation/5793397"-
-+{"@name":"Delta del Orinoco National Park"}"
-{"@wikidataId":"Q4845588"}"
-{"@osmRelationId":"13499419"}"(
-&{"@wikipedia":"Mariusa_National_Park"}"
+relation/5793397"!
+Delta del Orinoco National Park"
+
+Q4845588"
+
+13499419"
+Mariusa_National_Park"
 146676"
 Parque Nacional Mariusa"#
 !Parque Nacional Delta del Orinoco"!
-Delta del Orinoco National Park"!
 Parc national Delta del Orinoco"*
-(Decreto n.¬∞ 1632 del 5 de junio de 1991"
-
-Q4845588"
+(Decreto n.¬∞ 1632 del 5 de junio de 1991"
 es:Parque nacional Mariusa"
-relation/13499419"#
-!{"@name":"Canaima National Park"}"
-{"@wikidataId":"Q1244337"}"
-{"@osmRelationId":"3418408"}"(
-&{"@wikipedia":"Canaima_National_Park"}"
+relation/13499419"
+Canaima National Park"
+
+Q1244337"	
+3418408"
+Canaima_National_Park"
 Parque Nacional Canaima"
 Nationalpark Canaima"
-Canaima National Park"
 Parc national Canaima"
 Parco nazionale di Canaima"
 Nationaal park Canaima"
 Parcul Na»õional Canaima"
 
-1962-06-12"
-
-Q1244337"
+1962-06-12"
 es:Parque nacional Canaima"
-relation/3418408"#
-!{"@name":"Guiana Amazonian Park"}"
-{"@wikidataId":"Q665459"}"
-{"@osmRelationId":"1106416"}"(
-&{"@wikipedia":"Guiana_Amazonian_Park"}"
+relation/3418408"
+Guiana Amazonian Park"	
+Q665459"	
+1106416"
+Guiana_Amazonian_Park"
 no"
 	FR3300008""
  Parc amazonien de Guyane (c≈ìur)"
-Amazonaspark von Guayana"
-Guiana Amazonian Park"
+Amazonaspark von Guayana"
 Parque Amaz√≥nico de Guayana"
 Parco amazzonico della Guyana"(
 &Gvianos Amazonijos nacionalinis parkas"
@@ -865,37 +778,32 @@ ${"@name":"Guadeloupe National Park"}"
 Parcul Amazonian al Guyanei"
 
 2007-02-27"
-http://www.parc-guyane.gf"	
-Q665459"
+http://www.parc-guyane.gf"
 fr:Parc amazonien de Guyane"
-relation/1106416"
-{"@name":"Hornstrandir"}"
-{"@wikidataId":"Q303543"}"
-{"@osmRelationId":"6149201"}"
-{"@country":"Iceland"}"
-{"@wikipedia":"Hornstrandir"}"
-Hornstrandir"
-4"	
-Q303543"
-relation/6149201"(
-&{"@name":"Vatnaj√∂kull National Park"}"
-{"@wikidataId":"Q1353292"}"
-{"@osmRelationId":"6149205"}"1
-/{"@wikipedia":"Vatnaj%C3%B6kull_National_Park"}"
-Vatnaj√∂kuls√æj√≥√∞gar√∞ur"
-Vatnaj√∂kull-Nationalpark"
-Vatnaj√∂kull National Park"t
-rCamping rules are complicated. See: http://www.ust.is/einstaklingar/frettir/frett/2016/06/30/May-I-camp-anywhere-/"(
-&https://www.vatnajokulsthjodgardur.is/"
+relation/1106416"
+Hornstrandir"	
+Q303543"	
+6149201"	
+Iceland"
+4"
+relation/6149201"
+Vatnaj√∂kull National Park"
 
-Q1353292"
+Q1353292"	
+6149205" 
+Vatnaj%C3%B6kull_National_Park"
+Vatnaj√∂kuls√æj√≥√∞gar√∞ur"
+Vatnaj√∂kull-Nationalpark"t
+rCamping rules are complicated. See: http://www.ust.is/einstaklingar/frettir/frett/2016/06/30/May-I-camp-anywhere-/"(
+&https://www.vatnajokulsthjodgardur.is/"
 en:Vatnaj√∂kull National Park"
-relation/6149205"7
-5{"@name":"Atlantic Islands of Galicia National Park"}"
-{"@wikidataId":"Q1628126"}"
-{"@osmRelationId":"168817"}"
-{"@country":"Spain"}"<
-:{"@wikipedia":"Atlantic_Islands_of_Galicia_National_Park"}"F
+relation/6149205"+
+)Atlantic Islands of Galicia National Park"
+
+Q1628126"
+168817"
+Spain"+
+)Atlantic_Islands_of_Galicia_National_Park"F
 DParque Nacional Mar√≠timo Terrestre das Illas Atl√°nticas de Galicia"I
 GParque Nacional Mar√≠timo Terrestre de las Islas Atl√°nticas de Galicia"E
 CParque Nacional Mar√≠timo Terrestre das Illas Atl√°nticas de Galiza"E
@@ -904,28 +812,26 @@ CParque Nacional Mar√≠timo Terrestre das Ilhas Atl√¢nticas da Galiza"
 Illas Atl√°nticas de Galicia"
 
 2002-07-02"/
--https://www.parquenacionalillasatlanticas.com"
-
-Q1628126"*
+-https://www.parquenacionalillasatlanticas.com"*
 (gl:Parque Nacional das Illas Atl√°nticas"
-relation/168817""
- {"@name":"Somiedo Natural Park"}"
-{"@wikidataId":"Q1466711"}"
-{"@osmRelationId":"1222922"}"'
-%{"@wikipedia":"Somiedo_Natural_Park"}"
-Parque Natural de Somiedo"
+relation/168817"
+Somiedo Natural Park"
 
-Q1466711"
-relation/1222922")
-'{"@name":"Peneda-Ger√™s National Park"}"
-{"@wikidataId":"Q1473702"}"
-{"@osmRelationId":"2383411"}"
-{"@country":"Portugal"}"2
-0{"@wikipedia":"Peneda-Ger%C3%AAs_National_Park"}"
+Q1466711"	
+1222922"
+Somiedo_Natural_Park"
+Parque Natural de Somiedo"
+relation/1222922"
+Peneda-Ger√™s National Park"
+
+Q1473702"	
+2383411"
+
+Portugal"!
+Peneda-Ger%C3%AAs_National_Park"
 860"
 Peneda-Ger√™s""
- Parque Nacional da Peneda-Ger√™s"
-Peneda-Ger√™s National Park"
+ Parque Nacional da Peneda-Ger√™s"
 24/7"
 ICNF"
 
@@ -936,57 +842,50 @@ CParque Nacional Mar√≠timo Terrestre das Ilhas Atl√¢nticas da Galiza"
 *https://dre.pt/application/conteudo/644352"
 
 1971-05-08".
-,http://www.icnf.pt/portal/naturaclas/ap/pnpg"
-
-Q1473702"%
+,http://www.icnf.pt/portal/naturaclas/ap/pnpg"%
 #pt:Parque Nacional da Peneda-Ger√™s"
-relation/2383411" 
-{"@name":"Redes Natural Park"}"
-{"@wikidataId":"Q3384948"}"
-{"@osmRelationId":"2640874"}"%
-#{"@wikipedia":"Redes_Natural_Park"}"
-Parque Natural de Redes"
+relation/2383411"
+Redes Natural Park"
 
-Q3384948"
-relation/2640874"+
-){"@name":"Picos de Europa National Park"}"
-{"@wikidataId":"Q48567"}"
-{"@osmRelationId":"2401595"}"0
-.{"@wikipedia":"Picos_de_Europa_National_Park"}"$
-"Parque Nacional de Picos de Europa"
-Picos de Europa National Park"!
+Q3384948"	
+2640874"
+Redes_Natural_Park"
+Parque Natural de Redes"
+relation/2640874"
+Picos de Europa National Park"
+Q48567"	
+2401595"
+Picos_de_Europa_National_Park"$
+"Parque Nacional de Picos de Europa"!
 Parc national des pics d'Europe"'
-%https://parquenacionalpicoseuropa.es/"
-Q48567"(
+%https://parquenacionalpicoseuropa.es/"(
 &Category:Picos de Europa National Park"'
 %es:Parque nacional de Picos de Europa"
-relation/2401595"$
-"{"@name":"Valderejo Natural Park"}"
-{"@wikidataId":"Q3058426"}"
-{"@osmRelationId":"7358257"}"8
+relation/2401595"
+Valderejo Natural Park"
+
+Q3058426"	
+7358257"8
 6Valderejoko parke naturala/Parque Natural de Valderejo"
 Parque Natural de Valderejo"
 Valderejoko parke naturala"
-5"
-
-Q3058426" 
+5" 
 es:Parque natural de Valderejo"
-relation/7358257"
-{"@name":"Bardenas Reales"}"
-{"@wikidataId":"Q521527"}"
-{"@osmRelationId":"342322"}""
- {"@wikipedia":"Bardenas_Reales"}"
+relation/7358257"
+Bardenas Reales"	
+Q521527"
+342322"
+Bardenas_Reales"
 Bardenas Reales de Navarra"
 Errege Bardea"p
 nEsta relaci√≥n es para la divisi√≥n administrativa. El parque natural (que coincide en extensi√≥n) va en otra.".
-,BDLL25, EGRN, Instituto Geogr√°fico Nacional"	
-Q521527"
+,BDLL25, EGRN, Instituto Geogr√°fico Nacional"
 es:Bardenas Reales"
-relation/342322"&
-${"@name":"Pyr√©n√©es National Park"}"
-{"@wikidataId":"Q738435"}"
-{"@osmRelationId":"1024513"}"3
-1{"@wikipedia":"Pyr%C3%A9n%C3%A9es_National_Park"}"&
+relation/342322"
+Pyr√©n√©es National Park"	
+Q738435"	
+1024513""
+ Pyr%C3%A9n%C3%A9es_National_Park"&
 $Parc national des Pyr√©n√©es (c≈ìur)"
 Nationalpark Pyren√§en"!
 Parque nacional de los Pirineos"
@@ -994,36 +893,34 @@ $Parc national des Pyr√©n√©es (c≈ìur)"
 	FR3300003"
 PNP"
 
-1967-03-23"	
-Q738435"!
+1967-03-23"!
 fr:Parc national des Pyr√©n√©es"
 2010"
-relation/1024513"1
-/{"@name":"Caldera de Taburiente National Park"}"
-{"@wikidataId":"Q23988114"}"
-{"@osmRelationId":"10036386"}"6
-4{"@wikipedia":"Caldera_de_Taburiente_National_Park"}"-
+relation/1024513"%
+#Caldera de Taburiente National Park"
+	Q23988114"
+
+10036386"%
+#Caldera_de_Taburiente_National_Park"-
 +Parque nacional de la Caldera de Taburiente"+
 )Parc Nacional de la Caldera de Taburiente"$
-"Nationalpark Caldera de Taburiente"%
-#Caldera de Taburiente National Park")
+"Nationalpark Caldera de Taburiente")
 'Caldera de Taburienteko parke nazionala",
 *Parc national de la Caldeira de Taburiente"*
 (Parque Nacional da Caldera de Taburiente"$
-"Caldera de Taburiente nationalpark"
-	Q23988114"
-relation/10036386"%
-#{"@name":"Garajonay National Park"}"
-{"@wikidataId":"Q464942"}"
-{"@osmRelationId":"10036362"}"*
-({"@wikipedia":"Garajonay_National_Park"}"
+"Caldera de Taburiente nationalpark"
+relation/10036386"
+Garajonay National Park"	
+Q464942"
+
+10036362"
+Garajonay_National_Park"
 380"$
 "https://whc.unesco.org/en/list/380"
 Parque Nacional de Garajonay",
 *ŸÖŸÜÿ™ÿ≤Ÿá ÿ∫ÿßÿ±ÿßÿÆŸàŸÜÿßŸä ÿßŸÑŸàÿ∑ŸÜŸä"
 Parc Nacional de Garajonay"
-Nationalpark Garajonay"
-Garajonay National Park"
+Nationalpark Garajonay"
 Garajonayko parke nazionala"
 Parc national de Garajonay"
 Parco nazionale di Garajonay"
@@ -1035,17 +932,15 @@ X–ù–∞—Ü–∏–æ–Ω–∞–ª—å–Ω—ã–π –ø–∞—Ä–∫ –ì–∞—Ä–∞—Ö–æ–Ω–∞–π (–ö–∞–Ω–∞—Ä—Å–∫–∏–µ –æ—Å—Ç
 Âä†ÊãâÈúçËâæÂõΩÂÆ∂ÂÖ¨Âõ≠"	
 reserve"
 	(vii)(ix)"
-1986"	
-Q464942"'
+1986"'
 %Category:Parque_nacional_de_Garajonay"!
 es:Parque nacional de Garajonay"
-relation/10036362"
-{"@name":"Ilhas Selvagens"}"
-{"@wikidataId":"Q10359751"}"
-{"@osmRelationId":"9341692"}"0
-.{"@wikipedia":"Savage_Islands_Nature_Reserve"}"
-32568"
-Ilhas Selvagens"%
+relation/10036362"
+Ilhas Selvagens"
+	Q10359751"	
+9341692"
+Savage_Islands_Nature_Reserve"
+32568"%
 #Reserva Natural das Ilhas Selvagens"5
 3ŸÖÿ≠ŸÖŸäÿ© ÿ¨ÿ≤ÿ± ÿßŸÑŸÖÿ™Ÿàÿ≠ÿ¥ÿ© ÿßŸÑÿ∑ÿ®ŸäÿπŸäÿ©""
  Naturschutzgebiet der Sebaldinen"
@@ -1062,19 +957,18 @@ $R√©serve Naturelle des Iles Sauvages"=
 *https://dre.pt/application/conteudo/633750"
 
 1971-10-29"C
-Ahttps://ifcn.madeira.gov.pt/areas-protegidas/ilhas-selvagens.html"
-	Q10359751"(
+Ahttps://ifcn.madeira.gov.pt/areas-protegidas/ilhas-selvagens.html"(
 &pt:Reserva Natural das Ilhas Selvagens"
-relation/9341692"!
-{"@name":"Teide National Park"}"
-{"@wikidataId":"Q715124"}"
-{"@osmRelationId":"10036333"}"&
-${"@wikipedia":"Teide_National_Park"}"
+relation/9341692"
+Teide National Park"	
+Q715124"
+
+10036333"
+Teide_National_Park"
 Parque Nacional del Teide"
 Parc Nacional del Teide"
 N√°rodn√≠ park Teide"
-Nationalpark El Teide"
-Teide National Park"
+Nationalpark El Teide"
 Teideko Parke Nazionala"
 Parc national du Teide"
 Parque Nacional do Teide"
@@ -1083,297 +977,283 @@ ${"@wikipedia":"Teide_National_Park"}"
 1258">
 <http://reddeparquesnacionales.mma.es/parques/teide/index.htm"
 (vii)(viii)"
-2007"	
-Q715124"
-relation/10036333"*
-({"@name":"Corona Forestal Natural Park"}"
-{"@wikidataId":"Q6063121"}"
-{"@osmRelationId":"2691138"}"#
+2007"
+relation/10036333"
+Corona Forestal Natural Park"
+
+Q6063121"	
+2691138"#
 !Parque Natural de Corona Forestal"
 Parque Natural"
-T-11"
-
-Q6063121")
+T-11")
 'es:Parque natural de la Corona Forestal"
-relation/2691138"%
-#{"@name":"Timanfaya National Park"}"
-{"@wikidataId":"Q1480521"}"
-{"@osmRelationId":"1157737"}"*
-({"@wikipedia":"Timanfaya_National_Park"}"`
+relation/2691138"
+Timanfaya National Park"
+
+Q1480521"	
+1157737"
+Timanfaya_National_Park"`
 ^http://www.gobiernodecanarias.org/cmayot/espaciosnaturales/espaciosnaturales/lanzarote/l0.html"
 Parque Nacional de Timanfaya"2
 0ÿ™ŸäŸÖÿßŸÜŸÅÿßŸäÿß ÿßŸÑÿ≠ÿØŸäŸÇÿ© ÿßŸÑŸàÿ∑ŸÜŸäÿ©"
-Nationalpark Timanfaya"
-Timanfaya National Park"
+Nationalpark Timanfaya"
 Parc national de Timanfaya"!
 Comunidad Aut√≥noma de Canarias"
 Parques Nacionales"
 L-00"<
-:http://www.iag-lgl.csic.es/images/MAPA_TIMANFAYA_LARGE.jpg"
-
-Q1480521"!
+:http://www.iag-lgl.csic.es/images/MAPA_TIMANFAYA_LARGE.jpg"!
 es:Parque nacional de Timanfaya"
-relation/1157737"$
-"{"@name":"Corralejo Natural Park"}"
-{"@wikidataId":"Q2054008"}"
-{"@osmRelationId":"1534625"}"
+relation/1157737"
+Corralejo Natural Park"
+
+Q2054008"	
+1534625"
 Parque Natural de Corralejo"
-beach"
+beach"
+relation/1534625"
 
-Q2054008"
-relation/1534625"
-{"@name":"Monfrag√ºe"}"
-{"@wikidataId":"Q1968939"}"
-{"@osmRelationId":"406299"}"!
-{"@wikipedia":"Monfrag%C3%BCe"}"
-Parque Nacional de Monfrag√ºe"
+Monfrag√ºe"
 
-Q1968939""
+Q1968939"
+406299"
+Monfrag%C3%BCe"
+Parque Nacional de Monfrag√ºe""
  es:Parque nacional de Monfrag√ºe"
-relation/406299"'
-%{"@name":"Marismas de Isla Cristina"}"
-{"@wikidataId":"Q3364572"}"
-{"@osmRelationId":"3009056"}",
-*{"@wikipedia":"Marismas_de_Isla_Cristina"}"
-Marismas de Isla Cristina"	
-wetland"
-	saltmarsh"
+relation/406299"
+Marismas de Isla Cristina"
 
-Q3364572"
-relation/3009056"/
--{"@name":"Do√±ana National and Natural Park"}"
-{"@wikidataId":"Q463141"}"
-{"@osmRelationId":"10036176"}",
-*{"@wikipedia":"Do%C3%B1ana_National_Park"}"
+Q3364572"	
+3009056"
+Marismas_de_Isla_Cristina"	
+wetland"
+	saltmarsh"
+relation/3009056"#
+!Do√±ana National and Natural Park"	
+Q463141"
+
+10036176"
+Do%C3%B1ana_National_Park"
 Parque Nacional de Do√±ana"$
 "ÿ®ÿßÿ±ŸÉ ÿØŸÜÿßŸÜÿ© ÿßŸÑŸàÿ∑ŸÜŸäÿ©"
 Parc Nacional de Do√±ana"
 Nationalpark Do√±ana"
-Do√±ana National Park"	
-Q463141"
-relation/10036176"&
-${"@name":"Caba√±eros National Park"}"
-{"@wikidataId":"Q117583"}"
-{"@osmRelationId":"10036250"}"/
--{"@wikipedia":"Caba%C3%B1eros_National_Park"}"
+Do√±ana National Park"
+relation/10036176"
+Caba√±eros National Park"	
+Q117583"
+
+10036250"
+Caba%C3%B1eros_National_Park"
 Parque nacional de Caba√±eros"
 Parc Nacional de Caba√±eros"
 N√°rodn√≠ park Caba√±eros"
-Nationalpark Caba√±eros"
-Caba√±eros National Park"
+Nationalpark Caba√±eros"
 Caba√±erosko parke nazionala"
 Parque Nacional de Caba√±eros"
-relation/10036250"&
-${"@name":"Guadarrama National Park"}"
-{"@wikidataId":"Q1324805"}"
-{"@osmRelationId":"3121944"}"+
-){"@wikipedia":"Guadarrama_National_Park"}",
-*Parque Nacional de la Sierra de Guadarrama"
+relation/10036250"
+Guadarrama National Park"
 
-Q1324805"/
+Q1324805"	
+3121944"
+Guadarrama_National_Park",
+*Parque Nacional de la Sierra de Guadarrama"/
 -es:Parque nacional de la Sierra de Guadarrama"
-relation/3121944"-
-+{"@name":"Tablas de Daimiel National Park"}"
-{"@wikidataId":"Q1520216"}"
-{"@osmRelationId":"10036262"}"2
-0{"@wikipedia":"Tablas_de_Daimiel_National_Park"}"*
+relation/3121944"!
+Tablas de Daimiel National Park"
+
+Q1520216"
+
+10036262"!
+Tablas_de_Daimiel_National_Park"*
 (Parque nacional de las Tablas de Daimiel"$
-"Parc Nacional de Tablas de Daimiel"!
-Tablas de Daimiel National Park"#
+"Parc Nacional de Tablas de Daimiel"#
 !Tablas de Daimiel Parke Nazionala"%
 #Parc national des Tablas de Daimiel""
  Nationaal park Tablas de Daimiel"
-relation/10036262"5
-3{"@name":"Sierra Nevada National and Natural Park"}"
-{"@wikidataId":"Q1969050"}"
-{"@osmRelationId":"4829086"}"6
-4{"@wikipedia":"Sierra_Nevada_National_Park_(Spain)"}""
+relation/10036262")
+'Sierra Nevada National and Natural Park"
+
+Q1969050"	
+4829086"%
+#Sierra_Nevada_National_Park_(Spain)""
  Parque Nacional de Sierra Nevada"1
-/ÿ≥ŸäŸäÿ±ÿß ŸÜŸäŸÅÿßÿØÿß ÿßŸÑŸàÿ∑ŸÜŸäÿ© ÿ®ÿßÿ±ŸÉ"
-
-Q1969050"/
+/ÿ≥ŸäŸäÿ±ÿß ŸÜŸäŸÅÿßÿØÿß ÿßŸÑŸàÿ∑ŸÜŸäÿ© ÿ®ÿßÿ±ŸÉ"/
 -es:Parque nacional de Sierra Nevada (Espa√±a)"
-relation/4829086"#
-!{"@name":"Punta Entinas-Sabinar"}"
-{"@wikidataId":"Q6092932"}"
-{"@osmRelationId":"400011"}"4
-2Paraje y Reserva Natural  de Punta Entinas-Sabinar"
+relation/4829086"
+Punta Entinas-Sabinar"
 
-Q6092932"
+Q6092932"
+400011"4
+2Paraje y Reserva Natural  de Punta Entinas-Sabinar"
 es:Punta Entinas-Sabinar"
-relation/400011"(
-&{"@name":"Serra Mariola Natural Park"}"
-{"@wikidataId":"Q5485997"}"
-{"@osmRelationId":"5614443"}"-
-+{"@wikipedia":"Serra_Mariola_Natural_Park"}"%
+relation/400011"
+Serra Mariola Natural Park"
+
+Q5485997"	
+5614443"
+Serra_Mariola_Natural_Park"%
 #Parc Natural de la Serra de Mariola"'
 %Parque Natural de la Serra de Mariola"
-Parc Natural"
-
-Q5485997"
+Parc Natural"
 ca:Serra Mariola"
-relation/5614443"2
-0{"@name":"Ordesa y Monte Perdido National Park"}"
-{"@wikidataId":"Q741610"}"
-{"@osmRelationId":"10036292"}"7
-5{"@wikipedia":"Ordesa_y_Monte_Perdido_National_Park"}"+
+relation/5614443"&
+$Ordesa y Monte Perdido National Park"	
+Q741610"
+
+10036292"&
+$Ordesa_y_Monte_Perdido_National_Park"+
 )Parque nacional de Ordesa y Monte Perdido"-
 +Parque nacional d'Ordesa y d'as Tres Serols"&
 $Parc Nacional d'Ordesa i Mont Perdut"%
 #Nationalpark Ordesa y Monte Perdido"U
 SŒïŒ∏ŒΩŒπŒ∫œå œÄŒ¨œÅŒ∫Œø œÑŒ∑œÇ ŒüœÅŒ¥Œ≠œÉŒ± Œ∫Œ±Œπ œÑŒøœÖ ŒúœåŒΩœÑŒµ Œ†ŒµœÅŒ¥ŒØŒ¥Œø"&
-$Ordesa y Monte Perdido National Park"&
 $Ordesa eta Perdidoko Parke Nazionala")
 'Parc national d'Ordesa et du Mont-Perdu"+
 )Parque Nacional de Ordesa e Monte Perdido"+
-)–û—Ä–¥–µ—Å–∞-–∏-–ú–æ–Ω—Ç–µ-–ü–µ—Ä–¥–∏–¥–æ"	
-Q741610"
-relation/10036292"B
-@{"@name":"Aig√ºestortes i Estany de Sant Maurici National Park"}"
-{"@wikidataId":"Q1470066"}"
-{"@osmRelationId":"6014846"}"K
-I{"@wikipedia":"Aig%C3%BCestortes_i_Estany_de_Sant_Maurici_National_Park"}"8
-6Parc Nacional d'Aig√ºestortes i Estany de Sant Maurici"9
-7Parque Nacional de Aiguas Tortas y Lago de San Mauricio"
+)–û—Ä–¥–µ—Å–∞-–∏-–ú–æ–Ω—Ç–µ-–ü–µ—Ä–¥–∏–¥–æ"
+relation/10036292"6
+4Aig√ºestortes i Estany de Sant Maurici National Park"
 
-Q1470066";
+Q1470066"	
+6014846":
+8Aig%C3%BCestortes_i_Estany_de_Sant_Maurici_National_Park"8
+6Parc Nacional d'Aig√ºestortes i Estany de Sant Maurici"9
+7Parque Nacional de Aiguas Tortas y Lago de San Mauricio";
 9ca:Parc Nacional d'Aig√ºestortes i Estany de Sant Maurici"
-relation/6014846"$
-"{"@name":"Pendjari National Park"}"
-{"@wikidataId":"Q1474363"}"
-{"@osmRelationId":"2695742"}"
-{"@country":"Benin"}")
-'{"@wikipedia":"Pendjari_National_Park"}"
-Parc National de la Pendjari"
+relation/6014846"
 Pendjari National Park"
 
-Q1474363"
+Q1474363"	
+2695742"
+Benin"
+Pendjari_National_Park"
+Parc National de la Pendjari"
 en:Pendjari National Park"
-relation/2695742X  		
-
-"8	ƒü¬
+relation/2695742]   	
+	
+ë≥¡"8	ƒü¬
 	0gP		 
- 		'	= 	
-"	˛∆b 
+ 		'	B 	
+œ”Ó"	˛∆b 
  
-!	 	ô2  !"#$%&	'
-()*"a	éË⁄0(8  
+!	 	û2  !	"
+#$‘˜¯"a	éË⁄0(8  
 
 
 
   "  
 Pè õ_ 5 
-á8 +,-./001	
-234"	Ä∞" 			+ 56789:;	<
-=>"	®à g4 ?@A.BCDE F!G"HIJ#K$%LM&N		O
-PQR"-	ÄﬁB 
-	 		9  STUV'WX(Y)Z*[		\
-]^_"	˛∫2
+á= %&'()%%*	
+&+,¬Ωá"	Ä∞" 			/ -./01-2	3
+.4èûY"	®à k4 567(89:; <!=">5?#@$%AB&C	D
+6EFô¡N"-	ÄﬁB 
+	 		>  GHIJ'KG(L)M*N	O
+HPQ¬≠»"	˛∫2
  
-	a  `abcdef"g	
-hij";	⁄¢z    	 		
-	 öD klmnop+,q-r.s/t0uvw1u2x"g$3yzK&4$	{
-|}~"P	∏Ù¢ + 
+	e  RSTUVWXY	
+SZ[≈é7";	⁄¢z    	 		
+	 ûD \]^_`a+,b-c.d/e0fg\1f2hY3ij@!4	k
+]lm¿À7"P	∏Ù¢ + 
 $	+  
- L, ÄÅ.ÇÉÑ Ö!Ü"áàâ		
-äã"	Ï
-⁄* 	 >% åçéèêë	
-íìî"	‚ñ2
- 		v" ïñóòCôö	
-õú"N	úŒ
+ D  nop(qrs t!u"vnw	
+ox¶Ë"	Ï
+⁄* 	 : yz{|}y	
+z~Û°Ω"	‚ñ2
+ 		x ÄÅÇ9ÄÉ	
+ÅÑäØﬂ"N	úŒ
  	¬    
 
-   	 M" ùûü†°	
-¢£§"%	àêz   
- 5  •¶ß®©	
-™´¨"	≤ " 	°% ≠ÆØ∞±≤		≥
-¥µ"v	™Í 	
+   	 R" ÖÜáàâ	
+ÜäãîÈË"%	àêz   
+ :  åçéèê	
+çëí·æ£"	≤ " 	¶% ìîïñóò	ô
+îö¨¸ˇ"v	™Í 	
  	9ä 
       	(	: 
-	2      	)   ó5 ∂∑∏π5∫6ª7º8Ω9æ:ø¿¡	
-¬√ƒ"\	ˆ˛“    	
+	2      	)   ú5 õúùû5ü6†7°8¢9£:§•õ	
+ú¶ßà—¸"\	ˆ˛“    	
 
-   	 M6 ≈∆«»C…9 À$;Ã&&À	
-ÕŒœ"	Æ∆*
+   	 R6 ®©™´9¨1®≠;Æ!&≠	
+©Ø∞¨˝ñ"	Æ∆*
   
- B) –—“”‘’<÷&◊		
-ÿŸ⁄"	ÊÆ2< €‹›ﬁﬂ‡	
-·‚"	û–   	   + „‰ÂÊÁ	Ë"	íÆ   ^ ÈÍÎ.Ï=ÌÓ!Ô+,ÒÚ>ÛÚ?Ù<ı@ˆA˜B¯C˘N%LMD˙&˚		¸E˝F˛
-ˇÄÅ"	Êƒ#R 	 F5 ÇÉÑ.ÖC!Üáàâä	ã
-åçGéHèê"	˛‹&
-L2 ëíì.îCïñâIóäJò		ô
-öõú"	êÆ& 	 {/ ùûü.†°J#K%L¢&£	§
-•¶ß"F	¨Ê"ä    
+ G) ±≤≥¥±µ<∂&∑	
+≤∏π˙Îü"	ÊÆ2A ∫ªºΩ∫æ	
+ªøŒË˜"	û–   	   / ¿¡¬√¿	ƒÃÆ}"	íÆ   Ñ^ ≈∆«(»=… !À+Ã,Õ≈>Œ≈?œ<–@—A“B”C‘C%ABD’&÷	◊EÿFŸ
+∆⁄€…Û "	Êƒ#R 	 K5 ‹›ﬁ(ﬂ9!‡‹·‚„	‰
+›ÂGÊHÁË·Ü∆"	˛‹&
+Q2 ÈÍÎ(Ï9ÈÌ‚IÓ„JÔ	
+ÍÒÚƒØ¬"	êÆ& 	 Ä/ ÛÙı(ˆÛ?#@%A˜&¯	˘
+Ù˙˚£É¬"F	¨Ê"ä    
  	 	2 	
- Àe ®©™.´CK¨L≠MÆ+,ÒØ>∞Ø?±<≤@≥A¥BµC∂N#K∑%LND∏&π		∫EªFº
-Ωæø"`	“ﬁ$ 	  	ä
-    	   >) ¿¡¬.√Cƒâ≈&∆	
-«»…"	û˛$"
-@)  ÀÃ.ÕCŒâ≈&∆	
-œ–—"	§˛$*    	F' “”‘.’C÷◊â≈		
-ÿŸ⁄"	Ã¨%J   N2 €‹›.ﬁOC+,ﬂ‡PÌJ#K%L		·
-‚„"	“∫&  	 :* ‰ÂÊ.ÁCË#KâÈ	
-ÍÎÏ"
-	X‰( =* ÌÓÔ.CÒ#Kâä	
-ÚÛÙ"	∂)–> ıˆ˜.¯C˘ ˙!˚"¸˝J#K$%LM&˛	ˇ
-ÄÅÇ"ã	≤¸!í  	      		
-     	(  	#& 	<]_& ÉÑÖÜáàâJä	
-ãå"3	p‚3≤  
+ –e ¸˝˛(ˇ9KÄLÅMÇ+Ã,Õ¸>É¸?Ñ<Ö@ÜAáBàCâC#@ä%ANDã&å	çEéFè
+˝êë˛éÇ"`	“ﬁ$ 	  	ä
+    	   C) íìî(ï9í‚ñ&ó	
+ìòôÉÌ¡"	û˛$"
+E) öõú(ù9ö‚ñ&ó	
+õûüâÌ¡"	§˛$*    	K' †°¢(£9†§‚ñ	
+°•¶Ωô¡"	Ã¨%J   S2 ß®©(™O9+,´ßP…?#@%A	¨
+®≠ëﬁÇ"	“∫&  	 ?* ÆØ∞(±9Æ#@‚≤	
+Ø≥¥ùﬂ’"
+	X‰( B* µ∂∑(∏9µ#@‚„	
+∂π∫√Õ’"	∂)’> ªºΩ(æ9ø ¿!¡"¬ª?#@$%AB&√	ƒ
+º≈∆˛”“"ã	≤¸!í  	      		
+     	(  	#& 	<]d& «»… À«ÃJÕ	
+»Œ¡´¬"3	p‚3≤  
    
-    6# çéèÜêëí	
-ìî"	é÷3   3# ïñóòôöCõJú	ù"
-	8–5]H ûü†°¢Q£§•<¶RßB®C©™´¨S≠&ÆJØ		∞
-±≤≥"	˙–8" 	 aN ¥µ∂°∑=ÌQ£∏Tπ∫<ªUºVΩCæø´¿S¡&ÆJ¬		√
-ƒ≈∆"	™÷8   \E «»…° =ÌÀÃ<ÕRŒUœC–—“S”&ÆJ‘		√
-’÷◊"	¬™8*N; ÿŸ⁄°€=Ì‹›VﬁCﬂ‡·S‚&ÆJe		
-„‰Â"	ÇÑ9=* ÊÁË°ÈWÍ'WÎÏÌXÍ		
-ÓÔ"	éÜ<   R7 ÒÚ°òYÛQÙıˆ˜S¯&ÆJ˘		√
-˙˚¸"	äÚ;:T? ˝˛ˇ°Ä=ÌÅÇVÉZÑCÖ™ÜSá&ÆJà		
-âäã"	Ä‘8"
-]- åçé°èê·Së&ÆJí		
-ìîï"*	æÄ9ä 
-   {f ñóò°ôQöõTúù[û<ü\†]°R¢A£U§^õ_†`•a¶bßC®c©™´S¨&ÆJ≠		∞
-ÆØ∞"	î§9"8Y< ±≤≥°¥µT∂∑<∏dπ^µ∫Sª&ÆJº		
-Ωæø"	∆Ë9B   ?, ¿¡¬°√ƒ≈S∆&ÆJ		
-«»…"	ñˆ8Õ]  ÀÃÕŒC+,Òeœ-–—>“T”‘?’<÷d◊@ÿAŸ^—B⁄C€‹Dœ		E›F˛
-ﬁfﬂ‡·"j	ˆÚ9ä  
+    ;# œ–— “œ”	
+–‘ƒ™¬"	é÷3   8# ’÷◊ÿŸ⁄9€J‹	›˛≠é"
+	8–5bH ﬁﬂ‡·‚Q„‰ﬁ<ÂRÊBÁCËÈÍÎSÏ&ÌJÓ	Ô
+ﬂÒ±˘ˇ"	˙–8" 	 fN ÚÛÙ·ı=…Q„ˆT˜Ú<¯U˘V˙C˚¸Í˝S˛&ÌJˇ	Ä
+ÛÅÇ£˜ˇ"	™÷8   aE ÉÑÖ·Ü=…áÉ<àRâUäCãåçSé&ÌJè	Ä
+ÑêëÚ˘ˇ"	¬™8*S; íìî·ï=…ñíVóCòôöSõ&ÌJW	
+ìúù˘˘ˇ"	ÇÑ9B* ûü†·°W¢'K£§•X¢	
+ü¶ëπ›"	éÜ<   T4 ß®©·Y™Q´¨≠ÆSØ&ÌJ∞	Ä
+®±≤˝é˙"	äÚ;:Y? ≥¥µ·∂=…∑≥V∏ZπC∫ÈªSº&ÌJΩ	
+¥æø•˜ˇ"	Ä‘8"
+b- ¿¡¬·√ƒöS≈&ÌJ∆	
+¡«»Åâˆ"*	æÄ9ä 
+   Äf … À·ÃQÕŒTœ…[–<—\“]”R‘A’U÷^Œ_“`◊aÿbŸC⁄c€‹›Sﬁ&ÌJﬂ	Ô
+ ‡·»‡Ñ"	î§9"8]< ‚„‰·ÂÊTÁ‚<ËdÈ^ÊÍSÎ&ÌJÏ	
+„ÌÓ¡ÒO"	∆Ë9B   D, ÔÒ·ÚÛÙSı&ÌJ	
+ˆ˜π˘ˇ"	ñˆ8“] ¯˘˙˚¸9+Ã,Õe˝-˛ˇ>ÄTÅ¯?Ç<ÉdÑ@ÖAÜ^ˇBáCàâD˝	EäFŸ
+˘fãåç«„∆"j	ˆÚ9ä  
 
 
  	
  	  
-c& ‚„‰ÂÊÁ&Ë	
-ÈÍÎ"7	Ëê;ö
-       	 ©, ÏÌÓÂÔ=ÌCgÒÚMhÛ	
-Ùı"ˆ	»∞?∫     
+g& éèêëíì&î	
+èïñ∏±x"7	Ëê;ö
+       	 Æ, óòôëö=…9gõúùBhû	
+òü…ãï"ˆ	»∞?∫     
  	 		 	         		  		
  
  
 "   
    
 
-í* ˆ˜¯Â˘=Ìi˙˚j¸&˝		
-˛ˇ"b	æê<Í
+ñ* †°¢ë£=…i§•j¶&ß	
+°®≥“7"b	æê<Í
  	      
-	   ï- ÄÅÇÂÉ=ÌÑÖjÜ$&˝	
-áàâ"b	ÊÇ>Í    	;  
+	   ô- ©™´ë¨=…≠©jÆ$&ß	
+™Ø∞Ø“7"b	ÊÇ>Í    	;  
 	 
   
- t; äãåçékÌlèêTëíìî&ï		mñ
-óòô"3	í¨4:
-		   	:       Y> öõúùûün†°¢?°<£§o%‹&•J¶		
-ß®©"	¨Ü8:
-   dA ™´¨ù≠ÆØ∞?Ø<±§o%‹h≤&•J≥		¥
-µ∂∑"	®¬8Z     	  	ZA ∏π∫ùªºnΩæø?æ<¿§o%‹h¡&•J¬		
-√ƒ≈"	∆å82 Å> ∆«»ù… ÀÃ?À<Õ§o%‹hŒ&•Jœ		
-–—“"=	Ù“8ö    	  		*  i; ”‘’ù÷◊ÿŸ?ÿ<⁄§o%‹&•J€		
-‹›ﬁ"(	ê¬8R   	&" b; ﬂ‡·ù‚„‰Â?‰<Ê§o%‹&•JÁ		
-ËÈÍ"!	Ä¶8j	  	,dA ÎÏÌùÓÔnÒÚ?Ò<Û§o%‹hÙ&•J€		
-ıˆ˜"	êÙ8Z$		 9 ¯˘˙ù˚¸T˝˛?¸<ˇdÄAÅpÇJÉ	
-ÑÖÜ"ä	¸∆;ä    
+ x; ±≤≥¥µk…l∂∑T∏±π∫&ª	mº
+≤Ωæ€«C"3	í¨4:
+		   	:       ^> ø¿¡¬√ƒn≈∆ø?∆<«»o â&…J 	
+¿ÀÃñÂ∑"	¨Ü8:
+   iA ÕŒœ¬–—“Õ?“<”»o âh‘&…J’	÷
+Œ◊ÿ˛§õ"	®¬8Z     	  	_A Ÿ⁄€¬‹›nﬁﬂŸ?ﬂ<‡»o âh·&…J‚	
+⁄„‰¨Ó∑"	∆å82 Ü> ÂÊÁ¬ËÈÍÂ?Í<Î»o âhÏ&…JÌ	
+ÊÓÔ°¬∑"=	Ù“8ö    	  		*  n; ÒÚ¬ÛÙı?ı<ˆ»o â&…J˜	
+Ò¯˘‰Ã·"(	ê¬8R   	&" g; ˙˚¸¬˝˛ˇ˙?ˇ<Ä»o â&…JÅ	
+˚ÇÉıÃ·"!	Ä¶8j	  	,iA ÑÖÜ¬áànâäÑ?ä<ã»o âhå&…J˜	
+Öçéõ¯∑"	êÙ8Z$		œ9 èêë¬íìTîè?ì<ïdñAópòJô	
+êöõ®“–"ä	¸∆;ä    
 (
 
-	 		  			, &&   ÊM áàâçäqãkÌlåçTéè?êdë]íVìpî$ì&ï	mïñ
-óòô"í	˙§=¢	 
+	 		  			, &&   ÍM úùû¥üq†k…l°¢T£ú?§d•]¶Vßp®$π&ª	m©™
+ù´¨√C"í	˙§=¢	 
 
 	   	    	 	  		
 	  	 	 
@@ -1384,12 +1264,12 @@ hij";	⁄¢z    	 	
  
  	;2
 
- à! öõúùûCü†	
-°¢"a	‡/
+ ç! ≠ÆØ∞≠9≠±	
+Æ≤—®˜"a	‡/
 Í   
   
- 	æ/ £§•ù¶ßT®©r™	´
-¨≠Æ"à	í5§ä
+ 	√/ ≥¥µ∞∂∑T∏≥rπ	∫
+¥ªº’®˜"à	í5§ä
     	          	   
 	 #   
 	 	 
@@ -1404,42 +1284,43 @@ hij";	⁄¢z    	 	
  	·P 	nãB
 
 	:   	H
-	à e> Ø∞±≤≥C…¥?µs∂^∑t¥∏πJ∫		ª
-ºΩæ"!	÷9‰		 		@! ø¿¡≤¬C√†		
-ƒ≈"	 ;J  âM ∆«»… ÀnÃCÕŒ^Õcœ–‹u—h“”&‘v’J÷		◊
-ÿŸ⁄"6	Ñ:ä∫ 
+	à i> Ωæø¿¡9¨¬?√sƒ^≈t¬∆«J»	…
+æ ÀÒ¶
+"!	÷9‰		 		D! ÃÕŒ¿œ9–±	
+Õ—ä“J"	 ;J  éM “”‘’÷◊nÿ9Ÿ“^Ÿc⁄€âu‹h›ﬁ&ﬂv‡J·	‚
+”„‰≥ºë"6	Ñ:ä∫ 
 
-    	  <! €‹›≤ﬁCﬂ†		
-‡·"	î<Ê: 
+    	  A! ÂÊÁ¿Ë9È±	
+ÊÍÍó°"	î<Ê: 
 
-		_/ ‚„‰≤ÂÊÁ<Ë		È
-ÍfÎÏÌ"*	ÿ<‰ä  	 	
- ?* ÓÔ≤òCvÒ?ÚwÛÙ	
-ıˆ˜"	ÿ=í" d0 ¯˘˙≤˚'Wx¸¸?¸w˝˛&ˇ		
-ÄÅÇ".	ˆ>÷ö  		 
-ã> ÉÑÖçÜyãáTà?âäzãå&ï		mç
-éè{êë"G	¸?¨ö	
-	R  	H5 íìî≤ïñ|óTòôwö<õsú`ù		
-ûü"	§3–*  {h †°¢≤£+,Òe§-•¶>ß|®T©™w´<¨d≠@Æ]ØA∞V±^¶B≤C≥}¥D§		EµF∂
-∑f∏π∫"	‹3ê+xZ ªºΩ…æøn¿C¡>¬T√ƒ<≈^¡cœ∆«~»…u hÀ&ÃvÕŒJœ		–
-—“”"	 4∆)	 lQ ‘’÷≤◊+,Òÿ|ŸÄ⁄T€‹w›<ﬁsﬂ]‡`·‹D‚		„E‰FÂ
-ÊÁ"	¢4˙*:   s) ËÈÍ≤òÎÙÏÅÌ		
-ÓÔ"D	®4ˆ*Ç
-    	  :   	 U@ ÒÚÛ≤ÙCÇıˆ>˜T¯˘<˙˚¸Å˝&˛	
-ˇÄÅ"	ò6∞*"  6# ÇÉÑ≤òCÖ}Ü	
-áà"	ñ6ÿ*   <# âäã≤åCç	
-éèê"	‘;Ç!2
-	4! ëíì≤îï}ñ	Éó
-òô"	Í:∏#   g5 öõú≤ùC+Ì,Òû>ü|†T°¢^û		
-£§",	∞;¿#í    
- 		  W0 •¶ß≤®C©|™Ä´T¨≠wÆ^Ø		∞"!	ﬁ<¶!j
-	g& ±≤≥≤¥Cµ‹	
-∂∑∏";	é=ñ ö     	"  	C, π∫ª≤ºCΩ|æøw¿<¡A¬		√"	∞=‘!*ó, ƒ≈∆≤«C+,Ò»>…	
- ÀÃ"e	»=∆#“          	9 ÕŒœ≤ò–	
-—“”"	à>Ù# 	  F- ‘’÷≤◊Cÿ|ÿ?ŸÙ⁄		
-€‹›"	‘?Ç"2 a@ ﬁﬂ‡≤·C‚Ñ„|‰TÂÖÊÁwË<ÈsÍ^ÍBÎ		
-ÏÌ"	à@≤R	   C& ÓÔ≤ÒÚ?Û		
-Ùıˆ"	Œ@∏B V& ˜¯˘˙˚¸˝		
-˛ˇÄ	"*	ÇA‚7ä
+		d/ ÎÏÌ¿ÓÔÎ<	Ò
+ÏfÚÛÙª í"*	ÿ<‰ä  	 	
+ A' ıˆ˜¿9g¯?˘w˙˚	
+ˆ¸˝±é¡"	ÿ=í" h0 ˛ˇÄ¿Å'KxÇÇ?ÇwÉÑ&Ö	
+ˇÜá≤Ú".	ˆ>÷ö  		 
+è> àâä¥ãy†åTç?éèzêë&ª	mí
+âì{îïÅƒ>"G	¸?¨ö	
+	R  	M5 ñóò¿ôö|õTúñwù<ûsü`†	
+ó°¢…‰"	§3–*  Äh ¢£§¿•+Ã,Õe¶-ß®>©|™T´¢w¨<≠dÆ@Ø]∞A±V≤^®B≥C¥}µD¶	E∂F∑
+£f∏π∫ä…‰"	‹3ê+}Z ªºΩ’æønª9¿>¡T¬√<ƒ^¿c⁄≈∆~«»u…h &ÀvÃÕJŒ	œ
+º–—¸ï∫"	 4∆)	 qQ “”‘¿’+Ã,Õ÷|◊ÄÿTŸ“w⁄<€s‹]›`ﬁâDﬂ	‡E·F‚
+”„Ì»‰"	¢4˙*:   u& ‰ÂÊ¿Á˚ËÅÈ	
+ÂÍÎ¬†§"D	®4ˆ*Ç
+    	  :   	 Y@ ÏÌÓ¿Ô9ÇÒ>ÚTÛÏ<ÙıˆÅ˜&¯	
+Ì˘˙È‘F"	ò6∞*"  7  ˚¸˝¿9˛}ˇ	
+¸Ä°’]"	ñ6ÿ*   @# ÅÇÉ¿Ñ9Ö	
+ÇÜáõÊ"	‘;Ç!2
+	9! àâä¿ãà}å	Éç
+âé†‘∑"	Í:∏#   l5 èêë¿í9+…,Õì>î|ïTñó^ì	
+êò–«‰",	∞;¿#í    
+ 		  \0 ôöõ¿ú9ù|ûÄüT†ôw°^¢	£ö»‰"!	ﬁ<¶!j
+	l& §•¶¿ß9®â	
+•©™ò∆æ";	é=ñ ö     	"  	H, ´¨≠¿Æ9Ø|∞´w±<≤A≥	¥¶»‰"	∞=‘!*ú, µ∂∑¿∏9+Ã,Õπ>∫	
+∂ªºûﬂ¶"e	»=∆#“          	: Ωæø¿¿	
+æ¡¬ãµ"	à>Ù# 	  K- √ƒ≈¿∆9«|«?»˚…	
+ƒ ÀÎ÷÷"	‘?Ç"2 f@ ÃÕŒ¿œ9–Ñ—|“T”Ö‘Ãw’<÷s◊^◊Bÿ	
+ÕŸƒ»‰"	à@≤R	   H& ⁄€‹¿›ﬁ?ﬂ	
+€‡·˛éÔ"	Œ@∏B [& ‚„‰ÂÊÁ‚	
+„ËÈæƒ§"*	ÇA‚7ä
 			
   
