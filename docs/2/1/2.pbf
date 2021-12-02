@@ -1,17 +1,20 @@
-¸†x
-parks(€ 01234areaboundarycommentnamenoteprotect_classprotection_titlerelated_lawtypewikidataidname:ennorma_creacion
+¥px
+parks(€ @name@wikidataId@osmRelationId@country
+@wikipediaareaboundarycommentnamenoteprotect_classprotection_titlerelated_lawtypewikidataidname:ennorma_creacion
 protect_idsource	wikipediaoperatoroperator:typeprotected_area
 start_datewebsiteleisurename:dename:esname:frname:itname:janame:ptref:CNUC
 source:urldescriptionloc_nameopening_hoursalt_nameheritageheritage:operatorname:nlref:whcsource:namewhc:criteriawhc:inscription_datealt_name:en	ownershipname:mkold_nameIPP:ATOLEGALIPP:CATEGORIA
 IPP:CODIGO
 IPP:Classe
 IPP:ORGAO1IPP:TUTELA1IPP:UCIPP:UCSTATUS
-leaf_cyclename:konaturalfixmeGNS:idadmin_levelalt_name:mkplace"(
-&{"@name":"Chiribiquete National Park"}"
-{"@wikidataId":"Q2603196"}"
-{"@osmRelationId":"6637001"}"
-{"@country":"Colombia"}"-
-+{"@wikipedia":"Chiribiquete_National_Park"}"
+leaf_cyclename:konaturalfixmeGNS:idadmin_levelalt_name:mkplace"
+Chiribiquete National Park"
+
+Q2603196"	
+6637001"
+
+Colombia"
+Chiribiquete_National_Park"
 yes"
 protected_area"O
 Mnuevo lÃ­mite ampliado del parque nacional - edit Dic. 2019 y antes Oct. 2016"0
@@ -20,30 +23,25 @@ leste polÃ­gono reemplaza el lÃ­mite de parque de 1989. Falta trazar el nuevo lÃ
 2"
 National Park"†
 ƒRes. 1256 de 2018 (ampliaciÃ³n) y Res 1038 del 21 de agosto de 2013, expedida por el Ministerio de Ambiente y Desarrollo Sostenible"
-multipolygon"
+multipolygon"
+relation/6637001"
+Puinawai Natural Reserve"
 
-Q2603196"
-relation/6637001"&
-${"@name":"Puinawai Natural Reserve"}"
-{"@wikidataId":"Q7259049"}"
-{"@osmRelationId":"911663"}"+
-){"@wikipedia":"Puinawai_Natural_Reserve"}"
+Q7259049"
+911663"
+Puinawai_Natural_Reserve"
 national_park"#
-!Reserva Nacional Natural Puinawai"
-Puinawai Natural Reserve"
+!Reserva Nacional Natural Puinawai"
 AC 048 -IX/89"&
-$SIGOT DANE UNODC-SIMCI OCHA-COLOMBIA"
-
-Q7259049"&
+$SIGOT DANE UNODC-SIMCI OCHA-COLOMBIA"&
 $es:Reserva Nacional Natural Puinawai"
-relation/911663"%
-#{"@name":"Talampaya National Park"}"
-{"@wikidataId":"Q398108"}"
-{"@osmRelationId":"8785210"}"
-{"@country":"Argentina"}"*
-({"@wikipedia":"Talampaya_National_Park"}"
-Parque Nacional Talampaya"
-Talampaya National Park"$
+relation/911663"
+Talampaya National Park"	
+Q398108"	
+8785210"
+	Argentina"
+Talampaya_National_Park"
+Parque Nacional Talampaya"$
 "AdministraciÃ³n Parques Nacionales"
 
 government"
@@ -53,73 +51,65 @@ government"
 1997"
 
 boundary"
-http://www.talampaya.gov.ar/"	
-Q398108"
+http://www.talampaya.gov.ar/"
 es:Parque nacional Talampaya"
-relation/8785210"+
-){"@name":"Laguna del Laja National Park"}"
-{"@wikidataId":"Q16911654"}"
-{"@osmRelationId":"4767487"}"
-{"@country":"Chile"}"0
-.{"@wikipedia":"Laguna_del_Laja_National_Park"}"
+relation/8785210"
+Laguna del Laja National Park"
+	Q16911654"	
+4767487"
+Chile"
+Laguna_del_Laja_National_Park"
 nature_reserve"!
 Parque Nacional Laguna del Laja" 
-CorporaciÃ³n Nacional Forestal"
-	Q16911654"$
+CorporaciÃ³n Nacional Forestal"$
 "es:Parque nacional Laguna del Laja"
-relation/4767487"-
-+{"@name":"Serra Ricardo Franco State Park"}"
-{"@wikidataId":"Q10345040"}"
-{"@osmRelationId":"7893034"}"
-{"@country":"Brazil"}"2
-0{"@wikipedia":"Serra_Ricardo_Franco_State_Park"}")
+relation/4767487"!
+Serra Ricardo Franco State Park"
+	Q10345040"	
+7893034"
+Brazil"!
+Serra_Ricardo_Franco_State_Park")
 'Parque Estadual Serra de Ricardo Franco"
 parque estadual"
-DEC 1.796/1997"
-	Q10345040"$
+DEC 1.796/1997"$
 "en:Serra Ricardo Franco State Park"
-relation/7893034"%
-#{"@name":"El Palmar National Park"}"
-{"@wikidataId":"Q828918"}"
-{"@osmRelationId":"3530422"}"*
-({"@wikipedia":"El_Palmar_National_Park"}"
+relation/7893034"
+El Palmar National Park"	
+Q828918"	
+3530422"
+El_Palmar_National_Park"
 Parque Nacional El Palmar"
 Ley Nacional 16802/66"
-1966"	
-Q828918"
+1966"
 es:Parque nacional El Palmar"
-relation/3530422",
-*{"@name":"Campos del TuyÃº National Park"}"
-{"@wikidataId":"Q829966"}"
-{"@osmRelationId":"3523197"}"5
-3{"@wikipedia":"Campos_del_Tuy%C3%BA_National_Park"}""
+relation/3530422" 
+Campos del TuyÃº National Park"	
+Q829966"	
+3523197"$
+"Campos_del_Tuy%C3%BA_National_Park""
  Parque Nacional Campos del TuyÃº"
-Ley Nacional 26499/09"	
-Q829966"%
+Ley Nacional 26499/09"%
 #es:Parque nacional Campos del TuyÃº"
-relation/3523197"#
-!{"@name":"IguazÃº National Park"}"
-{"@wikidataId":"Q474205"}"
-{"@osmRelationId":"3519998"}",
-*{"@wikipedia":"Iguaz%C3%BA_National_Park"}"
+relation/3523197"
+IguazÃº National Park"	
+Q474205"	
+3519998"
+Iguaz%C3%BA_National_Park"
 Parque Nacional IguazÃº"
-Nationalpark IguazÃº"
-IguazÃº National Park"
+Nationalpark IguazÃº"
 Parc national d'IguazÃº"
 Parco Nazionale dell'IguazÃº"
 ã‚¤ã‚°ã‚¢ã‚¹å›½ç«‹å…¬åœ’"
 Ley Nacional 12103/34"
-1934"	
-Q474205"
+1934"
 es:Parque nacional IguazÃº"
-relation/3519998"#
-!{"@name":"IguaÃ§u National Park"}"
-{"@wikidataId":"Q742315"}"
-{"@osmRelationId":"2639206"}",
-*{"@wikipedia":"Igua%C3%A7u_National_Park"}"
+relation/3519998"
+IguaÃ§u National Park"	
+Q742315"	
+2639206"
+Igua%C3%A7u_National_Park"
 Parque Nacional do IguaÃ§u"
-Nationalpark IguaÃ§u"
-IguaÃ§u National Park"
+Nationalpark IguaÃ§u"
 Parque Nacional del IguazÃº"
 Parc national de l'IguaÃ§u"
 Parco Nazionale dell'IguaÃ§u";
@@ -128,95 +118,84 @@ government"
 00.0000.0172"
 DEC 1.035 de 10/01/1939"
 1939"¬
-©http://www.icmbio.gov.br/portal/biodiversidade/unidades-de-conservacao/biomas-brasileiros/mata-atlantica/unidades-de-conservacao-mata-atlantica/2204-parna-do-iguacu.html"	
-Q742315"8
+©http://www.icmbio.gov.br/portal/biodiversidade/unidades-de-conservacao/biomas-brasileiros/mata-atlantica/unidades-de-conservacao-mata-atlantica/2204-parna-do-iguacu.html"8
 6pt:Parque Nacional do IguaÃ§u;en:IguaÃ§u National Park"
-relation/2639206"'
-%{"@name":"Urugua-Ã­ Provincial Park"}"
-{"@wikidataId":"Q6063196"}"
-{"@osmRelationId":"5122781"}"0
-.{"@wikipedia":"Urugua-%C3%AD_Provincial_Park"}"
-Parque Provincial Urugua-Ã­"
-Urugua-Ã­ Provincial Park"
+relation/2639206"
+Urugua-Ã­ Provincial Park"
+
+Q6063196"	
+5122781"
+Urugua-%C3%AD_Provincial_Park"
+Parque Provincial Urugua-Ã­"
 Parque Provincial"%
 #Ley XVI â€“ 26 (antes Ley NÂº 2794)"
 IDE Misiones"X
 Vhttp://www.ide.misiones.gov.ar/index.php?option=com_content&view=article&id=8&Itemid=3"
-1988"
-
-Q6063196" 
+1988" 
 es:Parque provincial Urugua-Ã­"
-relation/5122781"2
-0{"@name":"Nascentes do Paranapanema State Park"}"
-{"@wikidataId":"Q18481027"}"
-{"@osmRelationId":"5711384"}"7
-5{"@wikipedia":"Nascentes_do_Paranapanema_State_Park"}"+
+relation/5122781"&
+$Nascentes do Paranapanema State Park"
+	Q18481027"	
+5711384"&
+$Nascentes_do_Paranapanema_State_Park"+
 )Parque Estadual Nascentes do Paranapanema"P
 NFundaÃ§Ã£o para ConservaÃ§Ã£o e a ProduÃ§Ã£o Florestal do Estado de SÃ£o Paulo"
 0000.35.2839"
 Decreto 58.148"
 law"
 
-22/06/2012"
-	Q18481027"
-relation/5711384"
-{"@name":"Q18481043"}"
-{"@wikidataId":"Q18481043"}"
-{"@osmRelationId":"4577545"}"
-{"@wikipedia":null}"
+22/06/2012"
+relation/5711384"
+	Q18481043"	
+4577545"
 Parque Estadual de Caxambu"5
-3Decreto Estadual n. 3281, de 18 de novembro de 2011"
-	Q18481043"
+3Decreto Estadual n. 3281, de 18 de novembro de 2011"
 pt:Parque Estadual de Caxambu"
-relation/4577545" 
-{"@name":"AcaraÃ­ State Park"}"
-{"@wikidataId":"Q10345063"}"
-{"@osmRelationId":"7077471"}")
-'{"@wikipedia":"Acara%C3%AD_State_Park"}"#
+relation/4577545"
+AcaraÃ­ State Park"
+	Q10345063"	
+7077471"
+Acara%C3%AD_State_Park"#
 !Unidade de ConservaÃ§Ã£o Estadual"
 Parque Estadual AcaraÃ­"%
 #FundaÃ§Ã£o do Meio Ambiente - FATMA"
 0000.42.0791"
 Decreto Estadual NÂº 3.517"
 
-2005-09-23"
-	Q10345063"
+2005-09-23"
 pt:Parque Estadual do AcaraÃ­"
-relation/7077471""
- {"@name":"JuruparÃ¡ State Park"}"
-{"@wikidataId":"Q28655226"}"
-{"@osmRelationId":"6274338"}"+
-){"@wikipedia":"Jurupar%C3%A1_State_Park"}"
+relation/7077471"
+JuruparÃ¡ State Park"
+	Q28655226"	
+6274338"
+Jurupar%C3%A1_State_Park"
 Parque Estadual do JuruparÃ¡"R
 PFundaÃ§Ã£o Para a ConservaÃ§Ã£o e a ProduÃ§Ã£o Florestal do Estado de SÃ£o Paulo"
 Decreto 12.185"
 
-30/08/1978"
-	Q28655226"
-relation/6274338"-
-+{"@name":"Campina do Encantado State Park"}"
-{"@wikidataId":"Q18481023"}"
-{"@osmRelationId":"8258326"}"2
-0{"@wikipedia":"Campina_do_Encantado_State_Park"}"&
-$Parque Estadual Campina do Encantado"
-	Q18481023"
-relation/8258326" 
-{"@name":"Guarita State Park"}"
-{"@wikidataId":"Q10345430"}"
-{"@osmRelationId":"6437410"}"%
-#{"@wikipedia":"Guarita_State_Park"}"
+30/08/1978"
+relation/6274338"!
+Campina do Encantado State Park"
+	Q18481023"	
+8258326"!
+Campina_do_Encantado_State_Park"&
+$Parque Estadual Campina do Encantado"
+relation/8258326"
+Guarita State Park"
+	Q10345430"	
+6437410"
+Guarita_State_Park"
 Parque da Guarita"$
 "Parque Estadual JosÃ© Lutzenberger"
 Mo-Fr 08:00-20:00"
 1971"$
-"http://www.parquedaguarita.com.br/"
-	Q10345430"'
+"http://www.parquedaguarita.com.br/"'
 %pt:Parque Estadual JosÃ© Lutzenberger"
-relation/6437410"+
-){"@name":"Serra do Tabuleiro State Park"}"
-{"@wikidataId":"Q10345046"}"
-{"@osmRelationId":"5441762"}"0
-.{"@wikipedia":"Serra_do_Tabuleiro_State_Park"}"'
+relation/6437410"
+Serra do Tabuleiro State Park"
+	Q10345046"	
+5441762"
+Serra_do_Tabuleiro_State_Park"'
 %Parque Estadual da Serra do Tabuleiro".
 ,Instituto do Meio Ambiente de Santa Catarina"
 Ã¡rea de proteÃ§Ã£o ambiental"
@@ -224,19 +203,17 @@ $Parque Estadual Campina do Encantado"
 .Decreto Estadual 1.260, 01 de novembro de 1975"
 
 1975-11-01"r
-phttps://www.ima.sc.gov.br/index.php/biodiversidade/unidades-de-conservacao/parque-estadual-da-serra-do-tabuleiro"
-	Q10345046"*
+phttps://www.ima.sc.gov.br/index.php/biodiversidade/unidades-de-conservacao/parque-estadual-da-serra-do-tabuleiro"*
 (pt:Parque Estadual da Serra do Tabuleiro"
-relation/5441762"'
-%{"@name":"Los Alerces National Park"}"
-{"@wikidataId":"Q828291"}"
-{"@osmRelationId":"2620953"}",
-*{"@wikipedia":"Los_Alerces_National_Park"}" 
+relation/5441762"
+Los Alerces National Park"	
+Q828291"	
+2620953"
+Los_Alerces_National_Park" 
 Parque Nacional de Los Alerces"
 1"
 whc"
-Parque Nacional Los Alerces"
-Los Alerces National Park"
+Parque Nacional Los Alerces"
 Parc national de Los Alerces"
 Los Alerces Nationaal Park"
 1526"
@@ -245,71 +222,62 @@ phttps://www.ima.sc.gov.br/index.php/biodiversidade/unidades-de-conservacao/parq
 World Heritage Centre"
 
 (vii)(x)"
-2017"	
-Q828291" 
+2017" 
 es:Parque nacional Los Alerces"
-relation/2620953"%
-#{"@name":"Corcovado National Park"}"
-{"@wikidataId":"Q2900871"}"
-{"@osmRelationId":"4741383"}"2
-0{"@wikipedia":"Corcovado_National_Park_(Chile)"}"
+relation/2620953"
+Corcovado National Park"
+
+Q2900871"	
+4741383"!
+Corcovado_National_Park_(Chile)"
 Parque Nacional Corcovado"
 Nationalpark Corcovado"
-Corcovado National Park"
 Parc national Corcovado"
-Parco nazionale del Corcovado"
-
-Q2900871"&
+Parco nazionale del Corcovado"&
 $es:Parque nacional Corcovado (Chile)"
-relation/4741383")
-'{"@name":"Los Glaciares National Park"}"
-{"@wikidataId":"Q215992"}"
-{"@osmRelationId":"3642560"}".
-,{"@wikipedia":"Los_Glaciares_National_Park"}"
+relation/4741383"
+Los Glaciares National Park"	
+Q215992"	
+3642560"
+Los_Glaciares_National_Park"
 Glaciers National Park"
 Parque Nacional Los Glaciares"
-Nationalpark der Gletscher"
-Los Glaciares National Park"	
-Q215992""
+Nationalpark der Gletscher""
  es:Parque nacional Los Glaciares"
-relation/3642560",
-*{"@name":"Torres del Paine National Park"}"
-{"@wikidataId":"Q901646"}"
-{"@osmRelationId":"2622290"}"1
-/{"@wikipedia":"Torres_del_Paine_National_Park"}""
+relation/3642560" 
+Torres del Paine National Park"	
+Q901646"	
+2622290" 
+Torres_del_Paine_National_Park""
  Parque Nacional Torres del Paine"
-Nationalpark Torres del Paine" 
-Torres del Paine National Park"
+Nationalpark Torres del Paine"
 conaf"
 
 national"?
-=http://www.conaf.cl/parques/parque-nacional-torres-del-paine/"	
-Q901646"%
+=http://www.conaf.cl/parques/parque-nacional-torres-del-paine/"%
 #es:Parque nacional Torres del Paine"
-relation/2622290"
-{"@name":"Pingo en lata"}"
-{"@wikidataId":"Q829872"}"
-{"@osmRelationId":"4463692"}"0
-.{"@wikipedia":"Monte_Le%C3%B3n_National_Park"}"
+relation/2622290"
+Pingo en lata"	
+Q829872"	
+4463692"
+Monte_Le%C3%B3n_National_Park"
 Parque Nacional Monte LeÃ³n"
 Ley Nacional 25.945/04"
-2004"	
-Q829872" 
+2004" 
 es:Parque nacional Monte LeÃ³n"
-relation/4463692"%
-#{"@name":"Yendegaia National Park"}"
-{"@wikidataId":"Q15867509"}"
-{"@osmRelationId":"6154329"}"*
-({"@wikipedia":"Yendegaia_National_Park"}"
+relation/4463692"
+Yendegaia National Park"
+	Q15867509"	
+6154329"
+Yendegaia_National_Park"
 Parque Nacional Yendegaia"2
-0ÐÐ°Ñ†Ð¸Ð¾Ð½Ð°Ð»ÐµÐ½ Ð¿Ð°Ñ€Ðº ÐˆÐµÐ½Ð´ÐµÐ³Ð°Ñ˜Ð°"
-	Q15867509"
+0ÐÐ°Ñ†Ð¸Ð¾Ð½Ð°Ð»ÐµÐ½ Ð¿Ð°Ñ€Ðº ÐˆÐµÐ½Ð´ÐµÐ³Ð°Ñ˜Ð°"
 es:Parque nacional Yendegaia"
-relation/6154329",
-*{"@name":"Tierra del Fuego National Park"}"
-{"@wikidataId":"Q828709"}"
-{"@osmRelationId":"3213872"}"1
-/{"@wikipedia":"Tierra_del_Fuego_National_Park"}"÷
+relation/6154329" 
+Tierra del Fuego National Park"	
+Q828709"	
+3213872" 
+Tierra_del_Fuego_National_Park"÷
 ôEsta conformada por areas con diferente grado de protecciÃ³n. Una Reserva Natural Estricta que es zona intangible y solo se permite el acceso con fines de investigaciÃ³n y un area con protecciÃ³n de Parque Nacional de acceso limitado al publico""
  Parque Nacional Tierra del Fuego"
 Nationalpark Feuerland"
@@ -319,47 +287,42 @@ $es:Parque nacional Corcovado (Chile)"
 hLa categorÃ­a de protecciÃ³n estÃ¡ cargada en las subareas que la componen. No agregar en esta relaciÃ³n"
 Ley Nacional 15554/60"
 
-1960-09-30"	
-Q828709"%
+1960-09-30"%
 #es:Parque nacional Tierra del Fuego"
-relation/3213872"*
-({"@name":"Cabo de Hornos National Park"}"
-{"@wikidataId":"Q338542"}"
-{"@osmRelationId":"4138076"}"/
--{"@wikipedia":"Cabo_de_Hornos_National_Park"}" 
-Parque Nacional Cabo de Hornos"	
-Q338542"!
+relation/3213872"
+Cabo de Hornos National Park"	
+Q338542"	
+4138076"
+Cabo_de_Hornos_National_Park" 
+Parque Nacional Cabo de Hornos"!
 en:Cabo de Hornos National Park"
-relation/4138076"
-{"@name":"Q6106156"}"
-{"@wikidataId":"Q6106156"}"
-{"@osmRelationId":"5451266"}"/
+relation/4138076"
+
+Q6106156"	
+5451266"/
 -Reserva Natural Silvestre Isla de los Estados"!
 Provinzialreservat Staateninsel"
 Provincia de Tierra del Fuego"
 1b"
 nature_reserve_wilderness"
 Reserva Natural Silvestre"
-Decreto 929/2016"
-
-Q6106156"P
+Decreto 929/2016"P
 Nes:Reserva natural silvestre Isla de los Estados y ArchipiÃ©lago de AÃ±o Nuevo"
-relation/5451266"-
-+{"@name":"Santa Isabel Biological Reserve"}"
-{"@wikidataId":"Q7419619"}"
-{"@osmRelationId":"5242502"}"2
-0{"@wikipedia":"Santa_Isabel_Biological_Reserve"}"$
+relation/5451266"!
+Santa Isabel Biological Reserve"
+
+Q7419619"	
+5242502"!
+Santa_Isabel_Biological_Reserve"$
 "Reserva BiolÃ³gica de Santa Isabel"
 reserva biolÃ³gica"
 00.0000.0199"
-DEC 96.999 de 20/10/1988"
-
-Q7419619"
-relation/5242502"+
-){"@name":"Duas Bocas Biological Reserve"}"
-{"@wikidataId":"Q10359638"}"
-{"@osmRelationId":"4554689"}"0
-.{"@wikipedia":"Duas_Bocas_Biological_Reserve"}""
+DEC 96.999 de 20/10/1988"
+relation/5242502"
+Duas Bocas Biological Reserve"
+	Q10359638"	
+4554689"
+Duas_Bocas_Biological_Reserve""
  Reserva BiolÃ³gica de Duas Bocas"*
 (Reserva BiolÃ³gica Paulo Fraga Rodrigues":
 8Instituto Estadual de Meio Ambiente e Recursos HÃ­dricos"
@@ -367,27 +330,25 @@ Nes:Reserva natural silvestre Isla de los Estados y ArchipiÃ©lago de AÃ±o Nuevo"
 0000.32.1667"
 Lei NÂº 4.503 de 03/01/1991"
 
-1991-01-03"
-	Q10359638"%
+1991-01-03"%
 #pt:Reserva BiolÃ³gica de Duas Bocas"
-relation/4554689"+
-){"@name":"Paulo CÃ©sar Vinha State Park"}"
-{"@wikidataId":"Q27567986"}"
-{"@osmRelationId":"1850539"}"4
-2{"@wikipedia":"Paulo_C%C3%A9sar_Vinha_State_Park"}"$
+relation/4554689"
+Paulo CÃ©sar Vinha State Park"
+	Q27567986"	
+1850539"#
+!Paulo_C%C3%A9sar_Vinha_State_Park"$
 "Parque Estadual Paulo CÃ©sar Vinha"
 Parque Estadual de Setiba"M
 KInstituto Estadual de Meio Ambiente e Recursos HÃ­dricos do EspÃ­rito Santo"
 0000.32.0332"(
 &Lei ordinÃ¡ria nÂº 4903, de 02/05/1994"
-1990"
-	Q27567986"'
+1990"'
 %pt:Parque Estadual Paulo CÃ©sar Vinha"
-relation/1850539"%
-#{"@name":"Pedra Branca State Park"}"
-{"@wikidataId":"Q10345031"}"
-{"@osmRelationId":"1124867"}"*
-({"@wikipedia":"Pedra_Branca_State_Park"}"	
+relation/1850539"
+Pedra Branca State Park"
+	Q10345031"	
+1124867"
+Pedra_Branca_State_Park"	
 LE 2377"
 Parque"
 6"
@@ -399,140 +360,134 @@ KInstituto Estadual de Meio Ambiente e Recursos HÃ­dricos do EspÃ­rito Santo"
 Parque Estadual da Pedra Branca"
 IPP"
 
-1974-06-28"
-	Q10345031"
-relation/1124867"
-{"@name":"Tijuca Forest"}"
-{"@wikidataId":"Q14942956"}"
-{"@osmRelationId":"2185389"}" 
-{"@wikipedia":"Tijuca_Forest"}"
+1974-06-28"
+relation/1124867"
+Tijuca Forest"
+	Q14942956"	
+2185389"
+Tijuca_Forest"
 	evergreen"
 Floresta da Tijuca"
-Tijuca Forest"
 í‹°ì£¼ì¹´ ìˆ²"
-wood"
-	Q14942956"
+wood"
 pt:Floresta da Tijuca"
-relation/2185389"$
-"{"@name":"TrÃªs Picos State Park"}"
-{"@wikidataId":"Q3084480"}"
-{"@osmRelationId":"6942360"}"-
-+{"@wikipedia":"Tr%C3%AAs_Picos_State_Park"}"7
+relation/2185389"
+TrÃªs Picos State Park"
+
+Q3084480"	
+6942360"
+Tr%C3%AAs_Picos_State_Park"7
 5Ajustar traÃ§ado entre os nodes com tag decreto:ponto"!
 Parque Estadual dos TrÃªs Picos"2
 0Instituto Estadual do Ambiente do Rio de Janeiro"
 0000.33.1485":
-8https://wiki.openstreetmap.org/wiki/File:Inea0019755.pdf"
-
-Q3084480"
-relation/6942360"
-{"@name":"Bird Island"}"
-{"@wikidataId":"Q34048"}"
-{"@osmRelationId":"6921728"}"
-{"@country":"United Kingdom"}"-
-+{"@wikipedia":"Bird_Island,_South_Georgia"}"
+8https://wiki.openstreetmap.org/wiki/File:Inea0019755.pdf"
+relation/6942360"
+Bird Island"
+Q34048"	
+6921728"
+United Kingdom"
+Bird_Island,_South_Georgia"
 
 -1404968"
 
 Ð‘ÐµÑ€Ð´"
-administrative"
-Bird Island"
+administrative"
 Isla PÃ¡jaro"
 Isola di Bird"
 ÐŸÑ‚Ð¸Ñ‡Ñ˜Ð¸ ÐžÑÑ‚Ñ€Ð¾Ð²"
 island"
 British Antarctic Survey"
-GNS"
-Q34048"
+GNS"
 en:Bird Island, South Georgia"
-relation/6921728Š   		
+relation/6921728   		
 
-"ã	ÈOò     
+É‹•"ã	ÈOò     
  	 		 	         		  		
  >    
-3  
-"	Ÿ; K*  !"#$
+7  
+¯Ò7"	Ÿ; P*  
 
-%&'()*+,-"	Ü‚R >		$1 ./012345
+!"#$%&'(ºš˜"	Ü‚R >		$6 )*+,-./0
 
-%)678"	 Ö
- R 9:;<=>
+!%*12ÿý¢"	 Ö
+ W 345678
 
-?@()ABC".	‚Œ
+9:$%4;<ªàá".	‚Œ
 š
   
 
-   #9$ DEFGH#$
+   #>$ =>?@A 
 
-%IJ)KLM"	Ìò"
-	5" NOPQR#$
+!BC%>DE¶½×"	Ìò"
+	:" FGHIJ 
 
-%S)TUV"	Æà^2 WXYZ[\][^_` [#$
+!K%GLMý„×"	Æàc2 NOPQRSNRTUV R 
 
-%ab)cde"&	¼êZ   		†2 fgh<ijklmno` jp
+!WX%OYZþëÖ"&	¼êZ   		‹2 [\]6^_`[abcV _d
 
-q!rstuvwx"N	èÜš   	
+e!fghi\jkæŠ¡"N	èÜš   	
  	
-_/ yz{|}~}
+]( lmnoplp
 
-€"‚ƒ)„…†"*	¸„Š  
-  K. ‡ˆ‰<Š‹Œ
+qrs"tu%mvwÝÕ¸"*	¸„Š  
+  G% xyz6{|}
 
-?!Ž‘’"	âÖB
- 8% “”•<–—
+9!~€y‚˜ÌÜ"	âÖB
+ :" ƒƒ„6…
 
-?˜™š›"	ºŠ   D1 œž<Ÿ# ¡¢
+9†ƒ‡ˆ‰²—"	ºŠ   I1 ‰Š‹6Œ#Ž
 
-?!£¤¥)¦§¨"	¼ª	D+ ©ª«<¬­®
+9!‘’%Š“”ßü¯"	¼ª	I+ •–—6˜™š
 
-?¯°±²"	°º2  	2 ³´µ<¶·
+9›€œ–¢úþ"	°º2  	7 žŸ 6¡¢
 
-?¸¹"	„ˆ  A. º»¼<½$¾¿%À
+9Ÿ£–†ø"	„ˆ  F. ¤¥¦6§$¨©%ª
 
-?Á)ÂÃÄÅ"	Òê   j2 ÆÇÈ<ÉÊË
+9«%¬¥­®¢ôˆ"	Òê   o2 ¯°±6²³´
 
-Ì!ÍÎÏ)ÐÑÒÓ"2	¦Æª 	 	 	†L ÔÕÖ×&Ø'Ù(ÚÛÜÝ)Þ#$
+µ!¶·¸%¹°º»â‘Ì"2	¦Æª 	 	 	‹L ¼½¾¿&À'Á(ÂÃ¼Ä)Å 
 
-%*ßàá+â),ã-äåæç"4	†À!²	 
+!*ÆÇÈ+É%,Ê-Ë½ÌÍ™üŸ"4	†À!²	 
 
-			©. èéê1ë3ìíîïð
+			®. ÎÏÐ,Ñ.ÒÓÎÔÕ
 
-ñòó"u	”Æ"’  	 		       
-  		   	  Ú7 ôõö÷.øùúûù#$
+ÏÖ×‡²¡"u	”Æ"’  	 		       
+  		   	  ß7 ØÙÚÛ.ÜÝÞØÝ 
 
-%à)üýþ"œ	àž)Ò 
+!Ç%ÙßàÀ©Þ"œ	àž)Ò 
 		
  
  , 	    
    
- 			q1 ÿ€1‚3ƒ„…†/‡
+ 			v1 áâã,ä.åæáç/è
 
-)ˆ‰Š‹":	Š‚*Ê
- 		    Q. ŒŽ#$
+%éâêëÒ† ":	Š‚*Ê
+ 		    V. ìíîïð 
 
-%‘’)“”•"	²)Z
+!ñò%íóôÌ¸"	²)Z
     
-  e% –—˜1™3š0›
+  j% õö÷,ø.ù0ú
 
-œž":	ê¬.Ê 	 &	
+öûüÙÐ÷":	ê¬.Ê 	 &	
   
-	bA Ÿ ¡¢#£¤¥¦¤§0¨	©#$%ª«)¬­®"	 ¨.R  2 	 	 I²" ¯°±1²3³
+	gA ýþÿ€#‚ƒ„‚…0†	‡ !ˆ‰%þŠ‹°”Ä"	 ¨.R  2 	 	 I·" ŒŽ,.
 
-´µ¶"‰	–02	¢   	.:	* 	‚ 	       
+‘’ÜÈü"‰	–02	¢   	.:	* 	‚ 	       
     	#R 	
-: 	,2    	   	;   	:"    À5 ·¸¹–º»º¼$
-½¾¿À)ÁÂÃ"„	ÊØ.¢
+: 	,2    	   	;   	:"    Â2 ““”•–•— 
+˜™š›%“œ‚ÜÌ"„	ÊØ.¢
    
    	 
  
    
-	   	" ?, ÄÅÆ<ÇÈp
-ÙÉ!ÊËƒÌÍ"	„&ÄF3 ÎÏÐ<Ñ&ÒÓÔ
-ÙÕ!Ö×ØÙÚÛ"	˜#ØD1 ÜÝÞ<ßà1áâ
+	   	" C+ žŸ 6¡¢d
+Á£!¤¥uŸ¦†ý¿"	„&ÄK3 §¨©6ª&«¬­
+Á®!¯°±¨²³Áÿ•"	˜#ØH1 ´µ¶6·¸1¹º
 
-?!ãäåæçè"	¤#ô   c= éêë<ì2í3î4ï5Ù6ð7ñ8ò9óô
+9!»¼½µ¾¿«ùp"	¤#ô   g= ÀÁÂ6Ã2Ä3Å4Æ5Á6Ç7È8É9ÊË
 
-?õö)÷ø" 	„!ê 	B  C( ùúû<ü:ýþÿ;€<‚ƒ„"	š!æ:     ¥+ …†‡<ˆ=‰Š‹
+9ÌÍ%ÁÎƒÔD" 	„!ê 	B  H( ÏÐÑ6Ò:ÓÔÏ;Õ<ÖÐ×Ø­±…"	š!æ:     ª+ ÙÚÛ6Ü=ÝÞß
 
-?!Œ)Ž"t	Ö!¸*  	
-‚        	!b       Q> ‘’“”>•?ï@–—˜˜™š0›Aœ+ž)Ÿ ¡"	ø$æ-   
+9!àá%Úâ˜Ý§"t	Ö!¸*  	
+‚        	!b       V> ãäåæç>è?Æ@éêããëì0íAîï+ð%äñò€¼¦"	ø$æ-   

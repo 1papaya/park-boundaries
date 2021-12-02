@@ -1,18 +1,18 @@
-≈Øx
-parks(Ä 01234boundary
+•˛x
+parks(Ä @name@wikidataId@osmRelationId@country
+@wikipediaboundary
 iucn_levelleisurenameprotect_classprotection_titleref:capad:pa_idref:dew:park_idsourcetypewebsitewikidata	wikipediaidoperatoreleoperator:typeoperator:wikidataref:paoq:sysintcode
 start_dateattribution
 short_namevicmap:prims_id
-vicmap:uidwikimedia_commonsold_namemaritimenaturalname:denswlpi:cadidrefref:capad2014_osmgovernance_typename:enname:esname:frname:janoteadmin_levelfixmeplacepostal_coderef:nswlpi:cadidref:psma:loc_pidsource:dateopening_hourssource:locationsource:namesource:opening_hoursalt_namesource:old_name"1
-/{"@name":"Kati Thanda-Lake Eyre National Park"}"
-{"@wikidataId":"Q927997"}"
-{"@osmRelationId":"552159"}"
-{"@country":"Australia"}"6
-4{"@wikipedia":"Kati_Thanda-Lake_Eyre_National_Park"}"
+vicmap:uidwikimedia_commonsold_namemaritimenaturalname:denswlpi:cadidrefref:capad2014_osmgovernance_typename:enname:esname:frname:janoteadmin_levelfixmeplacepostal_coderef:nswlpi:cadidref:psma:loc_pidsource:dateopening_hourssource:locationsource:namesource:opening_hoursalt_namesource:old_name"%
+#Kati Thanda-Lake Eyre National Park"	
+Q927997"
+552159"
+	Australia"%
+#Kati_Thanda-Lake_Eyre_National_Park"
 protected_area"
 VI"
-nature_reserve"%
-#Kati Thanda-Lake Eyre National Park"
+nature_reserve"
 6"
 National Park"	
 SA_0227"
@@ -20,56 +20,49 @@ vicmap:uidwikimedia_commonsold_namemaritimenaturalname:denswlpi:cadi
 "SA Conservation Reserve Boundaries"
 
 boundary"Å
-http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/flinders-ranges-outback/Kati_Thanda-Lake_Eyre_National_Park"	
-Q927997"(
+http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/flinders-ranges-outback/Kati_Thanda-Lake_Eyre_National_Park"(
 &en:Kati Thanda-Lake Eyre National Park"
-relation/552159")
-'{"@name":"Lake Gairdner National Park"}"
-{"@wikidataId":"Q570270"}"
-{"@osmRelationId":"1204236"}".
-,{"@wikipedia":"Lake_Gairdner_National_Park"}"
-Lake Gairdner National Park"J
+relation/552159"
+Lake Gairdner National Park"	
+Q570270"	
+1204236"
+Lake_Gairdner_National_Park"J
 HDepartment of Environment, Water and Natural Resources (South Australia)"	
 SA_0004"
-4"	
-Q570270" 
+4" 
 en:Lake Gairdner National Park"
-relation/1204236"2
-0{"@name":"Malkumba-Coongie Lakes National Park"}"
-{"@wikidataId":"Q19589768"}"
-{"@osmRelationId":"1319920"}"7
-5{"@wikipedia":"Malkumba-Coongie_Lakes_National_Park"}"
-II"&
-$Malkumba-Coongie Lakes National Park"
+relation/1204236"&
+$Malkumba-Coongie Lakes National Park"
+	Q19589768"	
+1319920"&
+$Malkumba-Coongie_Lakes_National_Park"
+II"
 2"	
 SA_0757"
 757"
-relation/1319920"1
-/{"@name":"Ikara-Flinders Ranges National Park"}"
-{"@wikidataId":"Q426073"}"
-{"@osmRelationId":"541743"}"6
-4{"@wikipedia":"Ikara-Flinders_Ranges_National_Park"}"%
+relation/1319920"%
 #Ikara-Flinders Ranges National Park"	
+Q426073"
+541743"%
+#Ikara-Flinders_Ranges_National_Park"	
 SA_0012"
 12"Å
-http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/flinders-ranges-outback/ikara-flinders-ranges-national-park"	
-Q426073"(
+http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/flinders-ranges-outback/ikara-flinders-ranges-national-park"(
 &en:Ikara-Flinders Ranges National Park"
-relation/541743"5
-3{"@name":"Vulkathunha-Gammon Ranges National Park"}"
-{"@wikidataId":"Q2535413"}"
-{"@osmRelationId":"552150"}":
-8{"@wikipedia":"Vulkathunha-Gammon_Ranges_National_Park"}")
-'Vulkathunha-Gammon Ranges National Park"	
+relation/541743")
+'Vulkathunha-Gammon Ranges National Park"
+
+Q2535413"
+552150")
+'Vulkathunha-Gammon_Ranges_National_Park"	
 SA_0223"
 223"
-relation/552150"'
-%{"@name":"Bladensburg National Park"}"
-{"@wikidataId":"Q581646"}"
-{"@osmRelationId":"8205693"}",
-*{"@wikipedia":"Bladensburg_National_Park"}"
-232"
-Bladensburg National Park"'
+relation/552150"
+Bladensburg National Park"	
+Q581646"	
+8205693"
+Bladensburg_National_Park"
+232"'
 %Queensland Parks and Wildlife Service"
 public"
 
@@ -79,100 +72,87 @@ $Malkumba-Coongie Lakes National Park"
 0454BLB001"
 CAPAD 2016 - Terrestrial"
 1984"0
-.https://parks.des.qld.gov.au/parks/bladensburg"	
-Q581646"
+.https://parks.des.qld.gov.au/parks/bladensburg"
 en:Bladensburg National Park"
-relation/8205693"&
-${"@name":"Coffin Bay National Park"}"
-{"@wikidataId":"Q1106855"}"
-{"@osmRelationId":"954167"}"+
-){"@wikipedia":"Coffin_Bay_National_Park"}"
-Coffin Bay National Park"	
+relation/8205693"
+Coffin Bay National Park"
+
+Q1106855"
+954167"
+Coffin_Bay_National_Park"	
 SA_0226"
 226"m
-khttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/coffin-bay-national-park"
-
-Q1106855"
+khttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/coffin-bay-national-park"
 en:Coffin Bay National Park"
-relation/954167"#
-!{"@name":"Lincoln National Park"}"
-{"@wikidataId":"Q920056"}"
-{"@osmRelationId":"954175"}"(
-&{"@wikipedia":"Lincoln_National_Park"}"
+relation/954167"
 Lincoln National Park"	
+Q920056"
+954175"
+Lincoln_National_Park"	
 SA_0222"
 222"j
-hhttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/lincoln-national-park"	
-Q920056"
+hhttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/lincoln-national-park"
 en:Lincoln National Park"
-relation/954175"!
-{"@name":"Innes National Park"}"
-{"@wikidataId":"Q1234100"}"
-{"@osmRelationId":"541798"}"6
-4{"@wikipedia":"Dhilba_Guuranda-Innes_National_Park"}"%
+relation/954175"
+Innes National Park"
+
+Q1234100"
+541798"%
+#Dhilba_Guuranda-Innes_National_Park"%
 #Dhilba Guuranda-Innes National Park"	
 SA_0224"
 224"
-relation/541798"*
-({"@name":"Flinders Chase National Park"}"
-{"@wikidataId":"Q1428780"}"
-{"@osmRelationId":"812876"}"/
--{"@wikipedia":"Flinders_Chase_National_Park"}"
-Flinders Chase National Park"	
+relation/541798"
+Flinders Chase National Park"
+
+Q1428780"
+812876"
+Flinders_Chase_National_Park"	
 SA_0225"
 225"d
-bhttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Flinders_Chase"
+bhttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Flinders_Chase"
+relation/812876"
+Murray River National Park"
 
-Q1428780"
-relation/812876"(
-&{"@name":"Murray River National Park"}"
-{"@wikidataId":"Q1953824"}"
-{"@osmRelationId":"568850"}"-
-+{"@wikipedia":"Murray_River_National_Park"}"
-Murray River National Park"	
+Q1953824"
+568850"
+Murray_River_National_Park"	
 SA_0249"
 249"m
-khttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/murray-river-national-park"
-
-Q1953824"
+khttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/murray-river-national-park"
 en:Murray River National Park"
-relation/568850""
- {"@name":"Belair National Park"}"
-{"@wikidataId":"Q643818"}"
-{"@osmRelationId":"1421712"}"'
-%{"@wikipedia":"Belair_National_Park"}"!
-http://www.naturemaps.sa.gov.au"
+relation/568850"
 Belair National Park"	
+Q643818"	
+1421712"
+Belair_National_Park"!
+http://www.naturemaps.sa.gov.au"	
 SA_0248"
 248"
-relation/1421712"#
-!{"@name":"Coorong National Park"}"
-{"@wikidataId":"Q1129899"}"
-{"@osmRelationId":"3311305"}"(
-&{"@wikipedia":"Coorong_National_Park"}"
-Coorong National Park"	
+relation/1421712"
+Coorong National Park"
+
+Q1129899"	
+3311305"
+Coorong_National_Park"	
 SA_0014"
 14"k
-ihttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/coorong-national-park"
+ihttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/coorong-national-park"
+relation/3311305"
+Canunda National Park"
 
-Q1129899"
-relation/3311305"#
-!{"@name":"Canunda National Park"}"
-{"@wikidataId":"Q1033936"}"
-{"@osmRelationId":"548703"}"(
-&{"@wikipedia":"Canunda_National_Park"}"
-Canunda National Park"	
+Q1033936"
+548703"
+Canunda_National_Park"	
 SA_0019"
 19"k
-ihttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/canunda-national-park"
-
-Q1033936"
+ihttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/canunda-national-park"
 en:Canunda National Park"
-relation/548703"+
-){"@name":"Murray - Sunset National Park"}"
-{"@wikidataId":"Q936482"}"
-{"@osmRelationId":"5470870"}".
-,{"@wikipedia":"Murray-Sunset_National_Park"}"
+relation/548703"
+Murray - Sunset National Park"	
+Q936482"	
+5470870"
+Murray-Sunset_National_Park"
 Murray-Sunset National Park"
 Parks Victoria"0
 .National Park - Schedule 2, National Parks Act"
@@ -181,276 +161,236 @@ ihttp://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_C
 
 1979-04-26"
 3320"	
-3320_II"	
-Q936482"
-relation/5470870")
-'{"@name":"Little Desert National Park"}"
-{"@wikidataId":"Q441890"}"
-{"@osmRelationId":"160864"}".
-,{"@wikipedia":"Little_Desert_National_Park"}"
-Little Desert National Park"
+3320_II"
+relation/5470870"
+Little Desert National Park"	
+Q441890"
+160864"
+Little_Desert_National_Park"
 Little Desert NP"
 
 1968-12-10"
 3298"	
-3298_II"	
-Q441890"
-relation/160864"$
-"{"@name":"Gunbower National Park"}"
-{"@wikidataId":"Q1554546"}"
-{"@osmRelationId":"2994082"}")
-'{"@wikipedia":"Gunbower_National_Park"}"
+3298_II"
+relation/160864"
 Gunbower National Park"
+
+Q1554546"	
+2994082"
+Gunbower_National_Park"
 Gunbower NP"
 
 2010-06-27"
 4884"	
-4884_II"
-
-Q1554546"
-relation/2994082""
- {"@name":"Barmah National Park"}"
-{"@wikidataId":"Q176872"}"
-{"@osmRelationId":"2379504"}"'
-%{"@wikipedia":"Barmah_National_Park"}"
-Barmah National Park"
+4884_II"
+relation/2994082"
+Barmah National Park"	
+Q176872"	
+2379504"
+Barmah_National_Park"
 	Barmah NP"
 4882"	
 4882_II"?
-=https://parkweb.vic.gov.au/explore/parks/barmah-national-park"	
-Q176872"
-relation/2379504",
-*{"@name":"Naracoorte Caves National Park"}"
-{"@wikidataId":"Q1135796"}"
-{"@osmRelationId":"551773"}"1
-/{"@wikipedia":"Naracoorte_Caves_National_Park"}" 
-Naracoorte Caves National Park"	
-SA_0097"
-97"
+=https://parkweb.vic.gov.au/explore/parks/barmah-national-park"
+relation/2379504" 
+Naracoorte Caves National Park"
 
-Q1135796")
+Q1135796"
+551773" 
+Naracoorte_Caves_National_Park"	
+SA_0097"
+97")
 'Category:Naracoorte Caves National Park"#
 !en:Naracoorte Caves National Park"
-relation/551773"!
-{"@name":"Dergholm State Park"}"
-{"@wikidataId":"Q5262552"}"
-{"@osmRelationId":"9198545"}"&
-${"@wikipedia":"Dergholm_State_Park"}"
-Dergholm State Park".
+relation/551773"
+Dergholm State Park"
+
+Q5262552"	
+9198545"
+Dergholm_State_Park".
 ,State Park - Schedule 2B, National Parks Act"
 Dergholm SP"
 
 1992-09-23"
 3333"	
-3333_II"
+3333_II"
+relation/9198545"!
+Mount Arapiles-Tooan State Park"
 
-Q5262552"
-relation/9198545"-
-+{"@name":"Mount Arapiles-Tooan State Park"}"
-{"@wikidataId":"Q6919427"}"
-{"@osmRelationId":"552230"}"2
-0{"@wikipedia":"Mount_Arapiles-Tooan_State_Park"}"!
-Mount Arapiles-Tooan State Park"
+Q6919427"
+552230"!
+Mount_Arapiles-Tooan_State_Park"
 Mount Arapiles-Tooan SP"
 
 1987-12-17"
 3342"	
-3342_II"
-
-Q6919427"
-relation/552230")
-'{"@name":"Lower Glenelg National Park"}"
-{"@wikidataId":"Q671808"}"
-{"@osmRelationId":"374610"}".
-,{"@wikipedia":"Lower_Glenelg_National_Park"}"
-Lower Glenelg National Park"
+3342_II"
+relation/552230"
+Lower Glenelg National Park"	
+Q671808"
+374610"
+Lower_Glenelg_National_Park"
 Lower Glenelg NP"
 
 1969-12-16"
 3300"	
-3300_II"	
-Q671808"
-relation/374610"$
-"{"@name":"Budj Bim National Park"}"
-{"@wikidataId":"Q1950297"}"
-{"@osmRelationId":"368490"}")
-'{"@wikipedia":"Budj_Bim_National_Park"}"
-Budj Bim National Park"
+3300_II"
+relation/374610"
+Budj Bim National Park"
+
+Q1950297"
+368490"
+Budj_Bim_National_Park"
 Mount Eccles National Park"
 Budj Bim NP"
 
 1960-06-07"
 3304"	
-3304_II"
-
-Q1950297"
-relation/368490"0
-.{"@name":"Grampians (Gariwerd) National Park"}"
-{"@wikidataId":"Q515047"}"
-{"@osmRelationId":"2703380"}"*
-({"@wikipedia":"Grampians_National_Park"}"
+3304_II"
+relation/368490"$
+"Grampians (Gariwerd) National Park"	
+Q515047"	
+2703380"
+Grampians_National_Park"
 Grampians National Park"
 Grampians NP"
 
 1984-12-18"
 3316"	
-3316_II"	
-Q515047"
+3316_II"
 en:Grampians National Park"
-relation/2703380"2
-0{"@name":"Twelve Apostles Marine National Park"}"
-{"@wikidataId":"Q7857580"}"
-{"@osmRelationId":"3159240"}"7
-5{"@wikipedia":"Twelve_Apostles_Marine_National_Park"}"
-yes"&
-$Twelve Apostles Marine National Park"7
+relation/2703380"&
+$Twelve Apostles Marine National Park"
+
+Q7857580"	
+3159240"&
+$Twelve_Apostles_Marine_National_Park"
+yes"7
 5Marine National Park - Schedule 7, National Parks Act"
 Twelve Apostles MNP"
 
 2002-11-16"
 4311"	
-4311_II"
+4311_II"
+relation/3159240"
+Paddys Ranges State Park"
 
-Q7857580"
-relation/3159240"&
-${"@name":"Paddys Ranges State Park"}"
-{"@wikidataId":"Q7123662"}"
-{"@osmRelationId":"9267534"}"+
-){"@wikipedia":"Paddys_Ranges_State_Park"}"
-Paddys Ranges State Park"
+Q7123662"	
+9267534"
+Paddys_Ranges_State_Park"
 Paddys Ranges SP"
 
 1989-10-27"
 3348"	
-3348_II"
-
-Q7123662"
-relation/9267534"+
-){"@name":"Greater Bendigo National Park"}"
-{"@wikidataId":"Q536993"}"
-{"@osmRelationId":"548859"}"0
-.{"@wikipedia":"Greater_Bendigo_National_Park"}"
-Greater Bendigo National Park"
+3348_II"
+relation/9267534"
+Greater Bendigo National Park"	
+Q536993"
+548859"
+Greater_Bendigo_National_Park"
 Greater Bendigo NP"
 
 1986-06-26"
 4492"	
 4492_II"H
 Fhttps://parkweb.vic.gov.au/explore/parks/greater-bendigo-national-park"
-relation/548859".
-,{"@name":"Heathcote-Graytown National Park"}"
-{"@wikidataId":"Q1592510"}"
-{"@osmRelationId":"549481"}"3
-1{"@wikipedia":"Heathcote-Graytown_National_Park"}""
- Heathcote-Graytown National Park"
+relation/548859""
+ Heathcote-Graytown National Park"
+
+Q1592510"
+549481""
+ Heathcote-Graytown_National_Park"
 wood"
 Heathcote-Graytown NP"
 
 2002-10-30"
 4493"	
 4493_II"K
-Ihttps://parkweb.vic.gov.au/explore/parks/heathcote-graytown-national-park"
-
-Q1592510"%
+Ihttps://parkweb.vic.gov.au/explore/parks/heathcote-graytown-national-park"%
 #en:Heathcote-Graytown National Park"
-relation/549481"$
-"{"@name":"Kinglake National Park"}"
-{"@wikidataId":"Q473256"}"
-{"@osmRelationId":"536709"}")
-'{"@wikipedia":"Kinglake_National_Park"}"
-Kinglake National Park"
+relation/549481"
+Kinglake National Park"	
+Q473256"
+536709"
+Kinglake_National_Park"
 Kinglake NP"
 
 2028-02-28"
 3292"	
 3292_II"A
-?https://parkweb.vic.gov.au/explore/parks/kinglake-national-park"	
-Q473256"
+?https://parkweb.vic.gov.au/explore/parks/kinglake-national-park"
 en:Kinglake National Park"
-relation/536709"#
-!{"@name":"Reef Hills State Park"}"
-{"@wikidataId":"Q7306797"}"
-{"@osmRelationId":"9267537"}"(
-&{"@wikipedia":"Reef_Hills_State_Park"}"
-Reef Hills State Park"
+relation/536709"
+Reef Hills State Park"
+
+Q7306797"	
+9267537"
+Reef_Hills_State_Park"
 Reef Hills SP"
 
 1986-05-02"
 3368"	
-3368_II"
+3368_II"
+relation/9267537"
+Mount Samaria State Park"
 
-Q7306797"
-relation/9267537"&
-${"@name":"Mount Samaria State Park"}"
-{"@wikidataId":"Q6923440"}"
-{"@osmRelationId":"1066326"}"+
-){"@wikipedia":"Mount_Samaria_State_Park"}"
-Mount Samaria State Park"
+Q6923440"	
+1066326"
+Mount_Samaria_State_Park"
 Mount Samaria SP"
 3346"	
-3346_II"
+3346_II"
+relation/1066326"
+Yarra Ranges National Park"
 
-Q6923440"
-relation/1066326"(
-&{"@name":"Yarra Ranges National Park"}"
-{"@wikidataId":"Q1333875"}"
-{"@osmRelationId":"5891684"}"-
-+{"@wikipedia":"Yarra_Ranges_National_Park"}"
-Yarra Ranges National Park"
+Q1333875"	
+5891684"
+Yarra_Ranges_National_Park"
 Yarra-Ranges-Nationalpark"
 Yarra Ranges NP"
 
 1995-12-15"
 3321"	
-3321_II"
-
-Q1333875"
-relation/5891684"'
-%{"@name":"Lake Eildon National Park"}"
-{"@wikidataId":"Q568121"}"
-{"@osmRelationId":"1176681"}",
-*{"@wikipedia":"Lake_Eildon_National_Park"}"
-Lake Eildon National Park"
+3321_II"
+relation/5891684"
+Lake Eildon National Park"	
+Q568121"	
+1176681"
+Lake_Eildon_National_Park"
 Lake Eildon NP"
 
 1957-12-18"
 3294"	
 3294_II"L
-Jhttps://www.parks.vic.gov.au/places-to-see/parks/lake-eildon-national-park"	
-Q568121"
-relation/1176681"0
-.{"@name":"Mornington Peninsula National Park"}"
-{"@wikidataId":"Q1534934"}"
-{"@osmRelationId":"3361243"}"5
-3{"@wikipedia":"Mornington_Peninsula_National_Park"}"$
-"Mornington Peninsula National Park"
+Jhttps://www.parks.vic.gov.au/places-to-see/parks/lake-eildon-national-park"
+relation/1176681"$
+"Mornington Peninsula National Park"
+
+Q1534934"	
+3361243"$
+"Mornington_Peninsula_National_Park"
 Mornington Peninsula NP"
 
 1975-12-01"
 3290"	
-3290_II"
+3290_II"
+relation/3361243"
+French Island National Park"
 
-Q1534934"
-relation/3361243")
-'{"@name":"French Island National Park"}"
-{"@wikidataId":"Q1455232"}"
-{"@osmRelationId":"1531607"}".
-,{"@wikipedia":"French_Island_National_Park"}"
-French Island National Park"
+Q1455232"	
+1531607"
+French_Island_National_Park"
 French Island NP"
 
 1988-06-21"
 3301"	
-3301_II"
-
-Q1455232" 
+3301_II" 
 en:French Island National Park"
-relation/1531607"(
-&{"@name":"Warrumbungle National Park"}"
-{"@wikidataId":"Q847071"}"
-{"@osmRelationId":"5836978"}"-
-+{"@wikipedia":"Warrumbungle_National_Park"}"
-Warrumbungle National Park"
+relation/1531607"
+Warrumbungle National Park"	
+Q847071"	
+5836978"
+Warrumbungle_National_Park"
 Warrumbungle-Nationalpark"
 	108020984")
 'NSW National Parks and Wildlife Service"
@@ -460,29 +400,26 @@ Jhttps://www.parks.vic.gov.au/places-to-see/parks/lake-eildon-national-park"
 NSW_N0035_II"
 NSW LPI Base Map"T
 Rhttps://www.nationalparks.nsw.gov.au/visit-a-park/parks/Warrumbungle-National-Park"
-relation/5836978"'
-%{"@name":"Great Sandy National Park"}"
-{"@wikidataId":"Q1422878"}"
-{"@osmRelationId":"1507019"}",
-*{"@wikipedia":"Great_Sandy_National_Park"}";
+relation/5836978"
+Great Sandy National Park"
+
+Q1422878"	
+1507019"
+Great_Sandy_National_Park";
 9Queensland Department of National Parks, Sport and Racing"
 
-government"
-Great Sandy National Park"
+government"
 QLD_0182GSY001"
 
 0182GSY001"
 
-2011-03-25"
-
-Q1422878"
+2011-03-25"
 en:Great Sandy National Park"
-relation/1507019"%
-#{"@name":"Lamington National Park"}"
-{"@wikidataId":"Q751274"}"
-{"@osmRelationId":"306382"}"*
-({"@wikipedia":"Lamington_National_Park"}"
-Lamington National Park"
+relation/1507019"
+Lamington National Park"	
+Q751274"
+306382"
+Lamington_National_Park"
 Lamington-Nationalpark"
 Parque nacional Lamington"
 Parc national de Lamington"
@@ -492,69 +429,63 @@ government"
 0007LAM001"
 
 2004-12-03"
-relation/306382"%
-#{"@name":"Girraween National Park"}"
-{"@wikidataId":"Q165026"}"
-{"@osmRelationId":"1376762"}"*
-({"@wikipedia":"Girraween_National_Park"}"
-Girraween National Park"
+relation/306382"
+Girraween National Park"	
+Q165026"	
+1376762"
+Girraween_National_Park"
 QLD_0018GIR001"
 
 0018GIR001"
 
 1999-03-05".
-,https://www.npsr.qld.gov.au/parks/girraween/"	
-Q165026"
+,https://www.npsr.qld.gov.au/parks/girraween/"
 en:Girraween National Park"
-relation/1376762"$
-"{"@name":"Koreelah National Park"}"
-{"@wikidataId":"Q1165387"}"
-{"@osmRelationId":"5940601"}")
-'{"@wikipedia":"Koreelah_National_Park"}"
-Koreelah National Park"
+relation/1376762"
+Koreelah National Park"
+
+Q1165387"	
+5940601"
+Koreelah_National_Park"
 	108020686"
 N0141"
 NSW_N0141_II"8
 6LPI Admin Boundaries Feb 2016. Simplified ways JOSM 3m"
-relation/5940601"'
-%{"@name":"Bungawalbin National Park"}"
-{"@wikidataId":"Q1009440"}"
-{"@osmRelationId":"5965186"}",
-*{"@wikipedia":"Bungawalbin_National_Park"}"
-Bungawalbin National Park"F
+relation/5940601"
+Bungawalbin National Park"
+
+Q1009440"	
+5965186"
+Bungawalbin_National_Park"F
 DJOSM Simplify Way tool applied using a max error criterion set to 3m"
 	108021169"
 N0136"
 NSW_N0136_II"#
-!LPI NSW NPWSReserve geometry 2015"
-
-Q1009440"
+!LPI NSW NPWSReserve geometry 2015"
 en:Bungawalbin National Park"
-relation/5965186"'
-%{"@name":"Goonengerry National Park"}"
-{"@wikidataId":"Q1165185"}"
-{"@osmRelationId":"5928756"}",
-*{"@wikipedia":"Goonengerry_National_Park"}"
-Goonengerry National Park"
+relation/5965186"
+Goonengerry National Park"
+
+Q1165185"	
+5928756"
+Goonengerry_National_Park"
 	108021170"
 N0140"
 NSW_N0140_II"
-relation/5928756"9
-7{"@name":"Gaagal Wanggaan (South Beach) National Park"}"
-{"@wikidataId":"Q1487859"}"
-{"@osmRelationId":"6052877"}"
-{"@wikipedia":null}"-
-+Gaagal Wanggaan (South Beach) National Park"
+relation/5928756"-
++Gaagal Wanggaan (South Beach) National Park"
+
+Q1487859"	
+6052877"
 	163986923"
 N1139"
-NSW_N1139_II"
+NSW_N1139_II"
+relation/6052877"
+Crowdy Bay National Park"
 
-Q1487859"
-relation/6052877"&
-${"@name":"Crowdy Bay National Park"}"
-{"@wikidataId":"Q1141720"}"
-{"@osmRelationId":"6063485"}"+
-){"@wikipedia":"Crowdy_Bay_National_Park"}"
+Q1141720"	
+6063485"
+Crowdy_Bay_National_Park"
 10"
 administrative")
 'Needs a label node and review place tag"
@@ -565,81 +496,74 @@ Crowdy Bay"
 2443"
 	108034107"	
 NSW5141"
-relation/6063485"-
-+{"@name":"Chiltern-Mt Pilot National Park"}"
-{"@wikidataId":"Q1073037"}"
-{"@osmRelationId":"545138"}"2
-0{"@wikipedia":"Chiltern-Mt_Pilot_National_Park"}"!
-Chiltern-Mt Pilot National Park"
+relation/6063485"!
+Chiltern-Mt Pilot National Park"
+
+Q1073037"
+545138"!
+Chiltern-Mt_Pilot_National_Park"
 Chiltern-Mt Pilot NP"
 
 1980-04-26"
 3314"	
-3314_II"
-
-Q1073037"$
+3314_II"$
 "en:Chiltern-Mt Pilot National Park"
-relation/545138"&
-${"@name":"Kosciuszko National Park"}"
-{"@wikidataId":"Q1755161"}"
-{"@osmRelationId":"2363804"}"+
-){"@wikipedia":"Kosciuszko_National_Park"}"
-Kosciuszko National Park"
+relation/545138"
+Kosciuszko National Park"
+
+Q1755161"	
+2363804"
+Kosciuszko_National_Park"
 Kosciuszko-Nationalpark"
 	108020658"
 N0018"
 NSW_N0018_II"	
 2015-12"
-relation/2363804"*
-({"@name":"Blue Mountains National Park"}"
-{"@wikidataId":"Q885558"}"
-{"@osmRelationId":"6072287"}"/
--{"@wikipedia":"Blue_Mountains_National_Park"}"
-Blue Mountains National Park"E
+relation/2363804"
+Blue Mountains National Park"	
+Q885558"	
+6072287"
+Blue_Mountains_National_Park"E
 CBlue Mountains NP "Suburb" doesn't exacly match the NPWS boundaries"
 2787"
 	158461554"
 NSW421"
-relation/6072287"!
-{"@name":"Yengo National Park"}"
-{"@wikidataId":"Q2535657"}"
-{"@osmRelationId":"6056466"}"&
-${"@wikipedia":"Yengo_National_Park"}"
+relation/6072287"
+Yengo National Park"
+
+Q2535657"	
+6056466"
+Yengo_National_Park"
 Yengo"
 2325"
 	173102367"	
 NSW5109"
-relation/6056466"!
-{"@name":"Royal National Park"}"
-{"@wikidataId":"Q113523"}"
-{"@osmRelationId":"6076709"}"&
-${"@wikipedia":"Royal_National_Park"}"
-Royal National Park"
+relation/6056466"
+Royal National Park"	
+Q113523"	
+6076709"
+Royal_National_Park"
 2232"
 	108033121"	
-NSW3465"	
-Q113523"
+NSW3465"
 en:Royal National Park"
-relation/6076709"-
-+{"@name":"Ku-ring-gai Chase National Park"}"
-{"@wikidataId":"Q1322496"}"
-{"@osmRelationId":"5989782"}"2
-0{"@wikipedia":"Ku-ring-gai_Chase_National_Park"}"!
-Ku-ring-gai Chase National Park"
+relation/6076709"!
+Ku-ring-gai Chase National Park"
+
+Q1322496"	
+5989782"!
+Ku-ring-gai_Chase_National_Park"
 	108020820"
 N0019"
 NSW_N0019_II"6
 4LPI Admin boundary Feb 2016. JOSM simplifed ways 3m."W
-Uhttps://www.nationalparks.nsw.gov.au/visit-a-park/parks/Kuringgai-Chase-National-Park"
-
-Q1322496"$
+Uhttps://www.nationalparks.nsw.gov.au/visit-a-park/parks/Kuringgai-Chase-National-Park"$
 "en:Ku-ring-gai Chase National Park"
-relation/5989782"*
-({"@name":"Sydney Harbour National Park"}"
-{"@wikidataId":"Q746452"}"
-{"@osmRelationId":"296933"}"/
--{"@wikipedia":"Sydney_Harbour_National_Park"}"
-Sydney Harbour National Park"
+relation/5989782"
+Sydney Harbour National Park"	
+Q746452"
+296933"
+Sydney_Harbour_National_Park"
 	108020985"
 sunrise-sunset"
 N0039"
@@ -648,110 +572,97 @@ uwas details from http://www.environment.nsw.gov.au/nationalparks/parkhome.aspx?
 7LPI Admin Boundaries Feb 2016. Simplified ways JOSM 3m."
 survey"m
 khttp://www.nationalparks.nsw.gov.au/visit-a-park/parks/Sydney-Harbour-National-Park was survey 5am to 10pm."V
-Thttps://www.nationalparks.nsw.gov.au/visit-a-park/parks/Sydney-Harbour-National-Park"	
-Q746452"
-relation/296933",
-*{"@name":"Kamay Botany Bay National Park"}"
-{"@wikidataId":"Q894672"}"
-{"@osmRelationId":"1239917"}"1
-/{"@wikipedia":"Kamay_Botany_Bay_National_Park"}"
+Thttps://www.nationalparks.nsw.gov.au/visit-a-park/parks/Sydney-Harbour-National-Park"
+relation/296933" 
+Kamay Botany Bay National Park"	
+Q894672"	
+1239917" 
+Kamay_Botany_Bay_National_Park"
 Botany Bay National Park"
-national_park" 
-Kamay Botany Bay National Park"
+national_park"
 	108020669"#
 !Captain Cook's Landing Place Park"
 N0066"
 NSW_N0066_II"
 
-historical"	
-Q894672"#
+historical"#
 !en:Kamay Botany Bay National Park"
-relation/1239917"$
-"{"@name":"Budawang National Park"}"
-{"@wikidataId":"Q1000715"}"
-{"@osmRelationId":"6133564"}")
-'{"@wikipedia":"Budawang_National_Park"}"
-IB"
-Budawang National Park"@
+relation/1239917"
+Budawang National Park"
+
+Q1000715"	
+6133564"
+Budawang_National_Park"
+IB"@
 >Way has been simplified using a maximum error criterion of 3m."
 	108020664"
 1"
 N0045"
 NSW_N0045_IB"
-relation/6133564"*
-({"@name":"Macquarie Pass National Park"}"
-{"@wikidataId":"Q1030926"}"
-{"@osmRelationId":"6055615"}"/
--{"@wikipedia":"Macquarie_Pass_National_Park"}"
-Macquarie Pass National Park"F
+relation/6133564"
+Macquarie Pass National Park"
+
+Q1030926"	
+6055615"
+Macquarie_Pass_National_Park"F
 DJOSM Simplify Way tool applied using a max error criterion set to 2m"
 	108020981"
 N0020"
-NSW_N0020_II"
-
-Q1030926"!
+NSW_N0020_II"!
 en:Macquarie Pass National Park"
-relation/6055615""
- {"@name":"Alpine National Park"}"
-{"@wikidataId":"Q1291186"}"
-{"@osmRelationId":"2248617"}"'
-%{"@wikipedia":"Alpine_National_Park"}"
-Alpine National Park"
+relation/6055615"
+Alpine National Park"
+
+Q1291186"	
+2248617"
+Alpine_National_Park"
 	Alpine NP"
 3319"	
 3319_II"G
-Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
+Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
+relation/2248617"
+Moondarra State Park"
 
-Q1291186"
-relation/2248617""
- {"@name":"Moondarra State Park"}"
-{"@wikidataId":"Q6907701"}"
-{"@osmRelationId":"9267275"}"'
-%{"@wikipedia":"Moondarra_State_Park"}"
-Moondarra State Park"
+Q6907701"	
+9267275"
+Moondarra_State_Park"
 Moondarra SP"
 3341"	
-3341_II"
+3341_II"
+relation/9267275"#
+!Corner Inlet Marine National Park"
 
-Q6907701"
-relation/9267275"/
--{"@name":"Corner Inlet Marine National Park"}"
-{"@wikidataId":"Q5171610"}"
-{"@osmRelationId":"3160576"}"4
-2{"@wikipedia":"Corner_Inlet_Marine_National_Park"}"#
-!Corner Inlet Marine National Park"
+Q5171610"	
+3160576"#
+!Corner_Inlet_Marine_National_Park"
 Corner Inlet MNP"
 4304"	
-4304_II"
+4304_II"
+relation/3160576"(
+&Ninety Mile Beach Marine National Park"
 
-Q5171610"
-relation/3160576"4
-2{"@name":"Ninety Mile Beach Marine National Park"}"
-{"@wikidataId":"Q7038572"}"
-{"@osmRelationId":"3160945"}"9
-7{"@wikipedia":"Ninety_Mile_Beach_Marine_National_Park"}"(
-&Ninety Mile Beach Marine National Park"
+Q7038572"	
+3160945"(
+&Ninety_Mile_Beach_Marine_National_Park"
 Ninety Mile Beach MNP"
 4307"	
-4307_II"
-
-Q7038572"
-relation/3160945".
-,{"@name":"Wilsons Promontory National Park"}"
-{"@wikidataId":"Q384739"}"
-{"@osmRelationId":"554585"}"3
-1{"@wikipedia":"Wilsons_Promontory_National_Park"}""
- Wilsons Promontory National Park"
+4307_II"
+relation/3160945""
+ Wilsons Promontory National Park"	
+Q384739"
+554585""
+ Wilsons_Promontory_National_Park"
 Wilsons Promontory NP"
 
 1998-07-08"
 3308"	
 3308_II"
-relation/554585"5
-3{"@name":"Wilsons Promontory Marine National Park"}"
-{"@wikidataId":"Q8023301"}"
-{"@osmRelationId":"3162726"}":
-8{"@wikipedia":"Wilsons_Promontory_Marine_National_Park"}"#
+relation/554585")
+'Wilsons Promontory Marine National Park"
+
+Q8023301"	
+3162726")
+'Wilsons_Promontory_Marine_National_Park"#
 !Wilsons Promontory Marine Reserve"/
 -National Parks Act Schedule 4 Park Or Reserve"
 Wilsons Promontory MR"
@@ -759,41 +670,36 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
 1986-04-18"
 3392"	
 3392_VI"
-relation/3162726",
-*{"@name":"Cape Howe Marine National Park"}"
-{"@wikidataId":"Q5034871"}"
-{"@osmRelationId":"3160946"}"1
-/{"@wikipedia":"Cape_Howe_Marine_National_Park"}" 
-Cape Howe Marine National Park"
+relation/3162726" 
+Cape Howe Marine National Park"
+
+Q5034871"	
+3160946" 
+Cape_Howe_Marine_National_Park"
 4301"
 VIC_4301_II"
 Cape Howe MNP"	
-4301_II"
+4301_II"
+relation/3160946""
+ Point Hicks Marine National Park"
 
-Q5034871"
-relation/3160946".
-,{"@name":"Point Hicks Marine National Park"}"
-{"@wikidataId":"Q7208040"}"
-{"@osmRelationId":"3160947"}"3
-1{"@wikipedia":"Point_Hicks_Marine_National_Park"}""
- Point Hicks Marine National Park"
+Q7208040"	
+3160947""
+ Point_Hicks_Marine_National_Park"
 Point Hicks MNP"
 4309"	
-4309_II"
-
-Q7208040"
-relation/3160947"'
-%{"@name":"Booti Booti National Park"}"
-{"@wikidataId":"Q893143"}"
-{"@osmRelationId":"6044249"}",
-*{"@wikipedia":"Booti_Booti_National_Park"}"
-Booti Booti National Park"
+4309_II"
+relation/3160947"
+Booti Booti National Park"	
+Q893143"	
+6044249"
+Booti_Booti_National_Park"
 	108020994"
 N0081"
 NSW_N0081_II"
-relation/6044249ã&  		
-
-"ﬁ	òÿ⁄ 
+relation/6044249è&   	
+	
+ﬂŸ!"ﬁ	òÿ⁄ 
  
 
  
@@ -817,9 +723,8 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
 	
 * 		 	u1" 	å
 2 		á™	øÉ	
- 	ÙÊß& 		
-
-"˙	í¯ä
+ 	ÙÊ´& 	
+	å¿I"˙	í¯ä
 
 
   
@@ -841,31 +746,30 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
 
  	 	 
         	  
- 	ÊÑ* 	ÂÉ	X0	-ob  !"#	$%&'"@	Ê˛‚ 	          ⁄$ ()*+",	$-./012"Ø	ˆ	‘⁄ 	      	
+ 	ÊÑ* 	ÂÉ	X0	-of 	 !"«P"@	Ê˛‚ 	          ﬁ$ #$%&#	'()$*+Øà!"Ø	ˆ	‘⁄ 	      	
   $ 	     		"		b%	
-	+4 µ 3456"7	$89:"ê	íÃ≤  E/
+	+4 π ,-./,	012÷Ÿ!"ê	íÃ≤  E/
 ' B	
 
 
 
  
  
-  L	œ		 	(	 	  Ø. ;<=>?"@ABC	$DEFGHIJK"{	÷Ó‚	   .*$  "	
+  L	œ		 	(	 	  ¥. 34567389:	;<=>?4@A˝ÍÙ"{	÷Ó‚	   .*$  "	
 		 	 	  		  	 
-	 		 ®$ LMNO"P	$QRSTUV"~	êê)ä 	 		    
-  	   	  °& WXYZ"[	$\]^_`a"u	‚®*  		äm⁄
+	 		 ¨$ BCDEB	FGHCIJ∑û:"~	êê)ä 	 		    
+  	   	  •& KLMNK	OPQLRSøû:"u	‚®*  		äm⁄
  
 	      
- 	9   X bcde"f	$ghi"6	∂ˆ*∫  	   	∆  jklm"n	$opqrs"ü	æ¿-™
+ 	9   \ TUVWX	YZ[Êà!"6	∂ˆ*∫  	   	   \]^_\	`ab]cÃŒ1"ü	æ¿-™
 	     	  
-	 	 	ä+              			 	s3 	 è& tuvwx		
-
-yz{|}~"‚	Ê˛'⁄      
+	 	 	ä+              			 	s3 	 ì& defgd	
+	hijeklí‹""‚	Ê˛'⁄      
 	
   	       
-    	Jaz 		 	Fj	  	* 	"   	*     	_!   	ñ   E& ÄÅÇÉ"Ñ	$ÖÜá"	≤
+    	Jaz 		 	Fj	  	* 	"   	*     	_!   	ñ   A mnopqm	rstê„V"	≤
 ∂*J 
-  €, àâäã"å	$çéèêë"®	‹ÿ/"
+  ÷" uvwxu	yz{v|…ç "®	‹ÿ/"
  	Îıö 
 
   
@@ -874,12 +778,11 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
    *"2 E+Q%)7/5;3S9 
   
 	*
-	“§y/ íìîïñ		
-
-óòôöõú"D	∆æ3 
+	“§x* }~Ä}	
+	ÅÇÉ~ÑÖﬂæ!"D	∆æ3 
     
-#E%	ZÇ ì6 ùûü†"°¢	$
-£§•¶ß®©™"÷	û™'‚ 	
+#E%	ZÇ ò6 Üáàâäã	
+åçéèêëáíñıÕ"÷	û™'‚ 	
  
       
    
@@ -897,8 +800,8 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
   
      
  	  	   
- 			7,r     	3™      	Ç¿2   	Ôµ*	" 		µ9"  	 V	 	µS  ¡6 ´¨≠Æ"Ø¢	$
-£∞•±≤≥¥µ"Ñ	ˆ / 	 	ÔÚ   
+ 			7,r     	3™      	Ç¿2   	Ôµ*	" 		µ9"  	 V	 	µS  ≈6 ìîïñìã	
+åóéòôöîõ‡Ë	"Ñ	ˆ / 	 	ÔÚ   
    
   Y	¶ 	#ä	 
       
@@ -909,24 +812,24 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
  
 	   		     	  	  	 4
  
-   ¯6 ∂∑∏π"∫¢	$
-£ª•ºΩæø¿"ª	¯⁄-" 		!3˙       	    	  	 	   	#Z 			R  	  	 ≈9 ¡¬√ƒ"≈¢	$
-£∆•º«»… À"Ö	Í§-∫        
+   ˝6 úùûüúã	
+å†é°¢£ù§¢ﬂ∂"ª	¯⁄-" 		!3˙       	    	  	 	   	#Z 			R  	  	  9 •¶ß®•ã	
+å©é°™´¨¶≠ùë"Ö	Í§-∫        
 
- 	  	 	 	 	    	r*k- ÃÕŒœ"–	$—“”‘’÷"8	 ‹1:       	2   	   	 Ö6 ◊ÿŸ⁄"€¢	$
-‹›•ﬁﬂ‡·‚"»	Ú‚2   	í        	         	        		 
+ 	  	 	 	 	    	r*o- ÆØ∞±Æ	≤≥Ø¥µ∂›÷!"8	 ‹1:       	2   	   	 ä6 ∑∏π∫∑ã	
+ªºéΩæø∏¿—∑±"»	Ú‚2   	í        	         	        		 
 	 	/!z         	 
  	Ç 	    
-     	  ¿6 „‰ÂÊ"Á¢	$
-‹Ë•ÈÍÎÏÌ"É	¶Ë0:   	/%¬ 
-             	B     	F#*	 	$  	/ Ω6 ÓÔÒ"Ú¢	$
-£Û•Ùıˆ˜¯"Ä	Ñ˙4‚
+     	  ƒ6 ¡¬√ƒ¡ã	
+ª≈é∆«»¬…¶⁄!"É	¶Ë0:   	/%¬ 
+             	B     	F#*	 	$  	/ ¡6  ÀÃÕ ã	
+åŒéœ–—À““Ó"Ä	Ñ˙4‚
 
  	    
-   		    ü9 ˘˙˚¸"˝˛¢	$
-£ˇ•ÄÅÇÉÑ"`	∫î5‚          	   
-        Ò9 ÖÜáà"â¢	$
-£ä•ãåçéèê"±	ä∆1Ç       	       	            
+   		    £9 ”‘’÷”◊ã	
+åÿéŸ⁄€‘‹Íæ"`	∫î5‚          	   
+        ˆ9 ›ﬁﬂ‡·ã	
+å‚é„‰ÂﬁÊÁîÄ•"±	ä∆1Ç       	       	            
                            
    
     	 
@@ -937,18 +840,18 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
          	
      
      
-   	 	      	 	   	    	*    	N"	8" 	 	%á 	Rä 	-A  	8B*     	97 	#q 	P¬	S≈*  	^∫ 	'" 	i 	_ 	"“B        	i   	À 	pû 	IL  	Å   R9 ëíìî"ïñ¢	$
-óò•ôöõúù"	˙¨72
-q6 ûü†°"¢¢	$
-‹£•§•¶ß®"5	⁄÷1í
-   	  É6 ©™´¨"≠¢	$
-£Æ•Ø∞±≤≥"∆	™ˆ0ö     	
+   	 	      	 	   	    	*    	N"	8" 	 	%á 	Rä 	-A  	8B*     	97 	#q 	P¬	S≈*  	^∫ 	'" 	i 	_ 	"“B        	i   	À 	pû 	IL  	Å   W9 ËÈÍÎÏËã	
+ÌÓéÔÒÈÚ»È¿"	˙¨72
+v6 ÛÙıˆÛã	
+ª˜é¯˘˙Ù˚Œ“µ"5	⁄÷1í
+   	  á6 ¸˝˛ˇ¸ã	
+åÄéÅÇÉÑÖ˚ø!"∆	™ˆ0ö     	
 
    		b  		mÇ   
                 
            	             
-         	3R        	   	   	  	Äz             	  	$c 		*     	d 	=   	 !   	Ä	s:    	 Ù? ¥µ∂∑"∏ π¢	$
-£∫•ªºΩæø¿¡"Æ	“Ñ1:  	   	@A“  
+         	3R        	   	   	  	Äz             	  	$c 		*     	d 	=   	 !   	Ä	s:    	 ¯? ÜáàâÜ äã	
+åãéåçéèáêëÈƒ!"Æ	“Ñ1:  	   	@A“  
     
  	       
 		
@@ -958,8 +861,8 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
 
  	r  
  	
- 	D   –< ¬√ƒ≈"∆¢	$
-£«•»… ÀÃÕŒ"ç	 ¶3Ç  
+ 	D   ‘< íìîïíã	
+åñéóòôöìõúÖ· "ç	 ¶3Ç  
   
    	        	9Uö   
 		  	H6™ 	   
@@ -968,11 +871,11 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
        
  	$
 ≤         
-  	   W6 œ–—“"”¢	$
-‹‘•’÷◊ÿŸ"	àé0R
-    é6 ⁄€‹›"ﬁ¢	$
-‹ﬂ•¶‡·‚„"R	ºÊ0          	     	" 	 Ò9 ‰ÂÊÁ"Ë!È¢	$
-£Í•ÎÏÌÓÔ"±	Ù®3∫  
+  	   \6 ùûü†ùã	
+ª°é¢£§û•—“µ"	àé0R
+    í6 ¶ß®©¶ã	
+ª™éè´¨ß≠÷äA"R	ºÊ0          	     	" 	 ˆ9 ÆØ∞±Æ!≤ã	
+å≥é¥µ∂Ø∑‰ÃÁ"±	Ù®3∫  
 
     
 	 
@@ -984,25 +887,23 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
 	 	¬  
 
  
- 	/f2    	   	%	 Ω9 ÒÚÛ"Ù¢	$
-£ı•ˆ˜¯˘˙˚"˝	î®2‚     	 
+ 	/f2    	   	%	 ¡9 ∏π∫ª∏ã	
+åºéΩæø¿π¡ÈËG"˝	î®2‚     	 
   	(&∫        	9CÍ 
      
 
 		  	)ä     	*
- 	 	$ ò6 ¸˝˛ˇ"Ä¢	$
-£Å•ÇÉÑÖÜ"\	êÊ6  	!r  	   	 	 	Q;20.	!#	
-	ZD ˇ9 áàâä"ã¢	$
-£å•çéèêëí"ø	ƒæ6"   	%"    	í           	<	=	  	  	$   	# 	,	.	) ‰8 ìîïñ"ó!ò"ôöõ	$
-
-#ú$ùûü†"•	Œ'ä  	8OÍ    
+ 	 	$ ù6 ¬√ƒ≈¬ã	
+å∆é«»…√ €ìÕ"\	êÊ6  	!r  	   	 	 	Q;20.	!#	
+	ZD É9 ÀÃÕŒÀã	
+åœé–—“Ã”‘◊Ω]"ø	ƒæ6"   	%"    	í           	<	=	  	  	$   	# 	,	.	) È8 ’÷◊ÿ’!Ÿ"⁄€‹	
+	#›$ﬁﬂ‡·≤°‰"•	Œ'ä  	8OÍ    
 
 	  	 			
 	 	  
 
-      		"   Ú: °¢£§•%¶"ß•	$
-
-®©F™´¨≠"±	Æ3‚B       	 	   		"
+      		"   ˆ: ‚„‰ÂÊ%Á‚Ê	
+	ËÈ=Í„ÎÏÀ˝["±	Æ3‚B       	 	   		"
 	   	@£⁄		 	 4
  !R
  .	 $			 	           	 	 	 
@@ -1013,38 +914,31 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
 &	F  		     		 
 	  		         		4
  	(
-	 		7 	^	)´*		¢*    ÅC ÆØ∞±•%¶"≤!≥&≤'¥(µ)∂•	$
-
-∑∏Fπ∫"∑	‚3ƒ    
+	 		7 	^	)´*		¢*    ÖC ÌÓÔÊ%ÁÌ!Ò&Ì'Ú(Û)ÙÊ	
+	ıˆ=˜¯ŒŸ"∑	‚3ƒ    
 
   
  		   
        
   
-	" 	  	   	41" 	#"   ú= ªºΩæ•%¶"ø•	$
-
-¿¡F¬√ƒ≈∆"Y	≤0ﬁö 
+	" 	  	   	41" 	#"   †= ˘˙˚¸Ê%Á˘Ê	
+	˝˛=ˇÄ˙ÅÇ˙ÉT"Y	≤0ﬁö 
             
-   	%  Ñ, «»… "À"Ã	$
-
-#Õ$Œœ–"R	æ1ö™	
+   	%  â, ÉÑÖÜÉ"á	
+	#à$âäã˘ Í"R	æ1ö™	
      
-	      z> —“”‘"’ π*÷"◊öõ	$
-
-#ÿ$Ÿ⁄€‹›"6	∆3ƒ: 
- 	!"		  	M8 ﬁﬂ‡·"‚ π*÷"„öõ	$
-
-#‰$Â⁄Ê"	®4Í"V8 ÁËÈÍ"Î*÷"Ïöõ	$
-
-#Ì$Ó⁄Ô"	ö3ÿ" 		  `. ÒÚÛÙ+ıˆ,˜¯-˘.˙/˚0¸û˝",	æ2úí
-	   	  ·9 ˛ˇÄÅ"Ç¢	$
-£É•ÑÖÜáàâ"°	Ó †/*  	:G‚ 	  
+	      > åçéèå ä*ê"ë€‹	
+	#í$ìîçïñÇãÏ"6	∆3ƒ: 
+ 	!"		  	R8 óòôöó ä*ê"õ€‹	
+	#ú$ùîû¥ÓÈ"	®4Í"X5 ü†°ü*ê"¢€‹	
+	#£$§î†•ç∏Ò"	ö3ÿ" 		  e. ¶ß®©+™´,¨≠-Æ.Ø/∞0±ﬂ≤˝äÚ",	æ2úí
+	   	  Â9 ≥¥µ∂≥ã	
+å∑é∏π∫¥ªºÚ¢!"°	Ó †/*  	:G‚ 	  
   	       
   
                     	1"   	 	@/ 	);ö     
-   	  	8Ç	     		-ö     	 P"  	(   	!	I   Ù5 äãåç"é!è&é"ê	$
-
-#ë$íû1ìî"∏	ÿ&÷-              
+   	  	8Ç	     		-ö     	 P"  	(   	!	I   ˘5 Ωæø¿Ω!¡&Ω"¬	
+	#√$ƒﬂ1≈∆ú£ê"∏	ÿ&÷-              
       1   
  
   
@@ -1070,7 +964,7 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
    
     	Aœ*   	eé*
 		¥ú"  	øç 	|Ø 	Éæ
-	ò´	%k	 	6Ä	#] 	M= 	l≤	0æ  		  	SÛ 	  	;û   À. ïñóò+ıˆô*ö-˘.õ/ú0ùûû"ñ	¯+î%  	∫                 
+	ò´	%k	 	6Ä	#] 	M= 	l≤	0æ  		  	SÛ 	  	;û   –. «»… +™´«*À-Æ.Ã/Õ0ŒﬂœﬂœÚ"ñ	¯+î%  	∫                 
  
    
   
@@ -1081,25 +975,21 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
  	    	          	      	     	   	 	=ä:	
  	2â:
 	hB     	** 
- 	? 	0Iz 	  $ 	=h		)(  â+ ü†°¢+ıˆ£-˘.§/•0¶ûß"X	ä-ÿ#¬   	 	     
-   			x4 ®©™´+ıˆ,˜¨-˘.≠/Æ0Øû∞±≤">	÷-ä'⁄    
+ 	? 	0Iz 	  $ 	=h		)(  é+ –—“”+™´‘-Æ.’/÷0◊ﬂÿí‘Ò"X	ä-ÿ#¬   	 	     
+   			}4 Ÿ⁄€‹+™´,¨Ÿ-Æ.›/ﬁ0ﬂﬂ⁄‡·•ÚÚ">	÷-ä'⁄    
 	 	 
- Í; ≥¥µ∂"∑"∏öõ	$
-
-#π$∫ªºΩæø"®	î.∏%™                  		
-.	 	 	 	" 	   }D ¿¡¬√"ƒ"≈2∆öõ	$
-
-#«$»…3 4À5ÃÕŒœ"3	û.∞&   	  		   	 a< –—“”6‘’"÷"◊ÿ	$
-
-#Ÿ$⁄4À7€‹›ﬁ"	í.˛&	   	
-õ1 ﬂ‡·‚„‰*Â"Ê	Á
-
-#Ë$ÈûÍ"d	‚*Œ+Ú
+ Ô; ‚„‰Â‚"Ê€‹	
+	#Á$ËÈÍ„ÎÏñÀÌ"®	î.∏%™                  		
+.	 	 	 	" 	   ÅD ÌÓÔÌ"Ò2Ú€‹	
+	#Û$Ùı3ˆ4˜5¯˘Ó˙Âè"3	û.∞&   	  		   	 e< ˚¸˝˛6ˇÄ˚"ÅÇ	
+	#É$Ñ4˜7Ö¸ÜáÌ÷K"	í.˛&	   	
+†1 àâäãåà*ç"é	è
+	#ê$ëﬂíºÆˆ"d	‚*Œ+Ú
 
 
- 	     i9 ÎÏÌÓ"Ô*"Òöõ	$#Ú$Û⁄Ùıˆ"*	»,Ù(Z  
-   	" ∂9 ˜¯˘˙"˚¢	$
-£¸•¶˝˛ˇÄÅ"ˆ	ä%¢/í/     
+ 	     n9 ìîïñì*ó"ò€‹	#ô$öîîõúøÕÒ"*	»,Ù(Z  
+   	" ª9 ùûü†ùã	
+å°éè¢£§û•©üâ"ˆ	ä%¢/í/     
  P,v>
 	  
 	  
@@ -1146,21 +1036,20 @@ Ehttps://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park"
  
  			  	      		≈º™    	∞œ¢
     		«í 	  	&5j	äEZ   	$	J    	'R   		…Ê   	∞µ  	™&  	À	ñ5	ú> 		áG 	e 	óÄb 
-  	  	∏≈* ®6 ÇÉÑÖ"Ü¢	$
-‹á•ãàâäã"l	ê ¯4Ç 
-       	    	 	  	 		 V6 åçéè"ê¢	$
-óë•ôíìîï"	º à8"		L9 ñóòô"ïö¢	$
-óõ•ôúùûü"	“"¥6Ô3 †°¢£"§¢	$
-£••¶ß®©"µ	ú ñ9   	.;∫
+  	  	∏≈* ≠6 ¶ß®©¶ã	
+ª™é„´¨ß≠À–µ"l	ê ¯4Ç 
+       	    	 	  	 		 [6 ÆØ∞±Æã	
+Ì≤éÔ≥¥ØµÄÙ¿"	º à8"		Q9 ∂∑∏πÏ∂ã	
+Ì∫éÔªº∑ΩÒˆ¿"	“"¥6Û3 æø¿¡æã	
+å¬é√ƒ≈∆ŸÏ!"µ	ú ñ9   	.;∫
 	
  	 		      	  	
          
-&	K	!   d3 ™´¨≠Æ¢		
-Ø∞•±≤≥¥"+	ˆ8:
-  	  	T ^? µ∂∑∏"ïπ¢	$
-ó#∫$ªº•ô∫Ωæø"	Ã*ú3J
-	 V9 ¿¡¬√"ïƒ¢	$
-ó≈•ô∆«»…"	∂(ö4B    5  ÀÃÕ"Œ*÷"œöõ	$
-
-#–$—⁄“"D	Ï1ö!
+&	K	!   i3 «»… Àã	
+ÃÕéŒœ–—ÊÑ¡"+	ˆ8:
+  	  	T c? “”‘’Ï“ã	
+Ì#÷$◊ÿéÔ÷Ÿ”⁄Úˆ¿"	Ã*ú3J
+	 [9 €‹›ﬁÏ€ã	
+ÌﬂéÔ‡·‹‚Ûˆ¿"	∂(ö4B    Ñ5 „‰ÂÊ„*ê"Á€‹	
+	#Ë$ÈîÍŸÙ"D	Ï1ö!
 	'B		    	J         	

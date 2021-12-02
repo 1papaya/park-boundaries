@@ -1,149 +1,122 @@
-ø⁄x
-parks(Ä 01234boundaryleisurenameoperator	ownershipprotect_classprotection_titletypewikidataidaccess	cdfw:NAMEcdfw:REV_DATEcdfw:YR_RECORDdescriptionnotesourcewebsite	protected	wikipedia	addr:cityaddr:housenumberaddr:postcode
+ü•x
+parks(Ä @name@wikidataId@osmRelationId@country
+@wikipediaboundaryleisurenameoperator	ownershipprotect_classprotection_titletypewikidataidaccess	cdfw:NAMEcdfw:REV_DATEcdfw:YR_RECORDdescriptionnotesourcewebsite	protected	wikipedia	addr:cityaddr:housenumberaddr:postcode
 addr:stategnis:feature_idheritageheritage:operatorname:dename:trname:zhphoneref:whcwhc:criteriawhc:inscription_datewikimedia_commons	park:typeboundary:typegnis:county_idgnis:createdgnis:state_id
 name:s-paioperator:shortoperator:typeoperator:wikidataoperator:wikipediaprotect_titleattributionname:ku
 protect_idmassgis:GIS_NOTESmassgis:UNIT_CODEmassgis:UNIT_NAMEmassgis:UNIT_TYPEelefeename:hename:arname:enname:esname:frname:janame:nlname:rumassgis:DATE_EDIT
 start_dateuuidname:pl
-iucn_levelWDPA_ID:ref"(
-&{"@name":"Marble Mountain Wilderness"}"
-{"@wikidataId":"Q6755203"}"
-{"@osmRelationId":"5396611"}")
-'{"@country":"United States of America"}"-
-+{"@wikipedia":"Marble_Mountain_Wilderness"}"
+iucn_levelWDPA_ID:ref"
+Marble Mountain Wilderness"
+
+Q6755203"	
+5396611"
+United States of America"
+Marble_Mountain_Wilderness"
 protected_area"
-nature_reserve"
-Marble Mountain Wilderness"
+nature_reserve"
 US Forest Service"
 
 national"
 1b"
 Wilderness Area"
 
-boundary"
-
-Q6755203"
-relation/5396611"%
-#{"@name":"Castle Crags Wilderness"}"
-{"@wikidataId":"Q5050037"}"
-{"@osmRelationId":"6219484"}"*
-({"@wikipedia":"Castle_Crags_Wilderness"}"
+boundary"
+relation/5396611"
 Castle Crags Wilderness"
 
-Q5050037"
-relation/6219484"%
-#{"@name":"South Warner Wilderness"}"
-{"@wikidataId":"Q7568801"}"
-{"@osmRelationId":"6208384"}"*
-({"@wikipedia":"South_Warner_Wilderness"}"
+Q5050037"	
+6219484"
+Castle_Crags_Wilderness"
+relation/6219484"
 South Warner Wilderness"
 
-Q7568801"
-relation/6208384"'
-%{"@name":"Headwaters Forest Reserve"}"
-{"@wikidataId":"Q12354573"}"
-{"@osmRelationId":"6190202"}",
-*{"@wikipedia":"Headwaters_Forest_Reserve"}"
+Q7568801"	
+6208384"
+South_Warner_Wilderness"
+relation/6208384"
+Headwaters Forest Reserve"
+	Q12354573"	
+6190202"
+Headwaters_Forest_Reserve"
 yes"&
 $Headwaters Forest Ecological Reserve"
 
 2018-09-26"
 1999"_
-]Access open, but refer to regulations or contact CDFW regional or area office prior to visit."
-Headwaters Forest Reserve"å
+]Access open, but refer to regulations or contact CDFW regional or area office prior to visit."å
 âNAME= tag is the name used by CDFW in their GIS data and website. OSM name= tag is the BLM name and arguably the name in customary usage."1
 /California Department of Fish and Wildlife, BLM"
 5"
 Forest Reserve"ò
 ïCDFW Owned and Operated Lands and Conservation Easements (zip) at: CDFW GIS Clearinghouse website at "https://wildlife.ca.gov/Data/GIS/Clearinghouse""H
-Fhttps://www.wildlife.ca.gov/Lands/Places-to-Visit/Headwaters-Forest-ER"
-	Q12354573"
-relation/6190202"/
--{"@name":"Yolla Bolly-Middle Eel Wilderness"}"
-{"@wikidataId":"Q8054791"}"
-{"@osmRelationId":"5411085"}"<
-:{"@wikipedia":"Yolla_Bolly%E2%80%93Middle_Eel_Wilderness"}"#
-!Yolla Bolly-Middle Eel Wilderness"
-US Forest Service;BLM"
+Fhttps://www.wildlife.ca.gov/Lands/Places-to-Visit/Headwaters-Forest-ER"
+relation/6190202"#
+!Yolla Bolly-Middle Eel Wilderness"
 
-Q8054791"
-relation/5411085"-
-+{"@name":"South Fork Eel River Wilderness"}"
-{"@wikidataId":"Q7567273"}"
-{"@osmRelationId":"5411100"}"2
-0{"@wikipedia":"South_Fork_Eel_River_Wilderness"}"!
-South Fork Eel River Wilderness"
+Q8054791"	
+5411085"+
+)Yolla_Bolly%E2%80%93Middle_Eel_Wilderness"
+US Forest Service;BLM"
+relation/5411085"!
+South Fork Eel River Wilderness"
+
+Q7567273"	
+5411100"!
+South_Fork_Eel_River_Wilderness"
 BLM"
-multipolygon"
+multipolygon"
+relation/5411100"
+Lassen Volcanic National Park"
 
-Q7567273"
-relation/5411100"+
-){"@name":"Lassen Volcanic National Park"}"
-{"@wikidataId":"Q1163542"}"
-{"@osmRelationId":"6207158"}"0
-.{"@wikipedia":"Lassen_Volcanic_National_Park"}"
-national_park"
-Lassen Volcanic National Park"%
+Q1163542"	
+6207158"
+Lassen_Volcanic_National_Park"
+national_park"%
 #United States National Park Service"
 2"
 
 perpetuity"
 National Park"$
-"https://www.nps.gov/lavo/index.htm"
-
-Q1163542""
+"https://www.nps.gov/lavo/index.htm""
  en:Lassen Volcanic National Park"
-relation/6207158"(
-&{"@name":"Lassen Volcanic Wilderness"}"
-{"@wikidataId":"Q27950428"}"
-{"@osmRelationId":"5394164"}"
-{"@wikipedia":null}"
-Lassen Volcanic Wilderness"
-National Park Service"
-	Q27950428"
-relation/5394164" 
-{"@name":"Caribou Wilderness"}"
-{"@wikidataId":"Q3457255"}"
-{"@osmRelationId":"6207170"}"%
-#{"@wikipedia":"Caribou_Wilderness"}"
+relation/6207158"
+Lassen Volcanic Wilderness"
+	Q27950428"	
+5394164"
+National Park Service"
+relation/5394164"
 Caribou Wilderness"
 
-Q3457255"
-relation/6207170"&
-${"@name":"Granite Chief Wilderness"}"
-{"@wikidataId":"Q5595840"}"
-{"@osmRelationId":"6196739"}"+
-){"@wikipedia":"Granite_Chief_Wilderness"}"
+Q3457255"	
+6207170"
+Caribou_Wilderness"
+relation/6207170"
 Granite Chief Wilderness"
 
-Q5595840"
-relation/6196739"#
-!{"@name":"Desolation Wilderness"}"
-{"@wikidataId":"Q963788"}"
-{"@osmRelationId":"6196636"}"(
-&{"@wikipedia":"Desolation_Wilderness"}"
+Q5595840"	
+6196739"
+Granite_Chief_Wilderness"
+relation/6196739"
 Desolation Wilderness"	
-Q963788"
-relation/6196636""
- {"@name":"Mokelumne Wilderness"}"
-{"@wikidataId":"Q14683385"}"
-{"@osmRelationId":"5360750"}"'
-%{"@wikipedia":"Mokelumne_Wilderness"}"
+Q963788"	
+6196636"
+Desolation_Wilderness"
+relation/6196636"
 Mokelumne Wilderness"
-	Q14683385"
-relation/5360750"'
-%{"@name":"Carson-Iceberg Wilderness"}"
-{"@wikidataId":"Q5046898"}"
-{"@osmRelationId":"5366640"}"4
-2{"@wikipedia":"Carson%E2%80%93Iceberg_Wilderness"}"
+	Q14683385"	
+5360750"
+Mokelumne_Wilderness"
+relation/5360750"
 Carson-Iceberg Wilderness"
 
-Q5046898"
-relation/5366640"$
-"{"@name":"Yosemite National Park"}"
-{"@wikidataId":"Q180402"}"
-{"@osmRelationId":"1643367"}")
-'{"@wikipedia":"Yosemite_National_Park"}"
-Yosemite National Park"
+Q5046898"	
+5366640"#
+!Carson%E2%80%93Iceberg_Wilderness"
+relation/5366640"
+Yosemite National Park"	
+Q180402"	
+1643367"
+Yosemite_National_Park"
 
 PO box 577"
 95389"
@@ -158,323 +131,255 @@ PO box 577"
 308"
 http://www.nps.gov/yose/"
 (vii)(viii)"
-1984"	
-Q180402"!
+1984"!
 Category:Yosemite National Park"
 en:Yosemite National Park"
-relation/1643367"
-{"@name":"Hoover Wilderness"}"
-{"@wikidataId":"Q6317507"}"
-{"@osmRelationId":"5372299"}"$
-"{"@wikipedia":"Hoover_Wilderness"}"
+relation/1643367"
 Hoover Wilderness"
 
-Q6317507"
-relation/5372299"/
--{"@name":"Owens River Headwaters Wilderness"}"
-{"@wikidataId":"Q7114742"}"
-{"@osmRelationId":"5372303"}"4
-2{"@wikipedia":"Owens_River_Headwaters_Wilderness"}"#
+Q6317507"	
+5372299"
+Hoover_Wilderness"
+relation/5372299"#
 !Owens River Headwaters Wilderness"
 
-Q7114742"
-relation/5372303"%
-#{"@name":"Dinkey Lakes Wilderness"}"
-{"@wikidataId":"Q5278368"}"
-{"@osmRelationId":"5360757"}"*
-({"@wikipedia":"Dinkey_Lakes_Wilderness"}"
+Q7114742"	
+5372303"#
+!Owens_River_Headwaters_Wilderness"
+relation/5372303"
 Dinkey Lakes Wilderness"
 
-Q5278368"
-relation/5360757""
- {"@name":"John Muir Wilderness"}"
-{"@wikidataId":"Q1701164"}"
-{"@osmRelationId":"5372301"}"'
-%{"@wikipedia":"John_Muir_Wilderness"}"
+Q5278368"	
+5360757"
+Dinkey_Lakes_Wilderness"
+relation/5360757"
 John Muir Wilderness"
 
-Q1701164"
-relation/5372301" 
-{"@name":"Monarch Wilderness"}"
-{"@wikidataId":"Q6898028"}"
-{"@osmRelationId":"5372302"}"%
-#{"@wikipedia":"Monarch_Wilderness"}"
+Q1701164"	
+5372301"
+John_Muir_Wilderness"
+relation/5372301"
 Monarch Wilderness"
 
-Q6898028"
-relation/5372302"
-{"@name":"Hain Wilderness"}"
-{"@wikidataId":"Q27977595"}"
-{"@osmRelationId":"6183243"}"
+Q6898028"	
+5372302"
+Monarch_Wilderness"
+relation/5372302"
 Hain Wilderness"
-	Q27977595"
+	Q27977595"	
+6183243"
 fr:Hain Wilderness"
-relation/6183243"%
-#{"@name":"Pinnacles National Park"}"
-{"@wikidataId":"Q1783768"}"
-{"@osmRelationId":"6183160"}"*
-({"@wikipedia":"Pinnacles_National_Park"}"
-247533"
-Pinnacles National Park"
-http://www.nps.gov/pinn/"
+relation/6183243"
+Pinnacles National Park"
 
-Q1783768"
+Q1783768"	
+6183160"
+Pinnacles_National_Park"
+247533"
+http://www.nps.gov/pinn/"
 en:Pinnacles National Park"
-relation/6183160"%
-#{"@name":"Golden Trout Wilderness"}"
-{"@wikidataId":"Q5579923"}"
-{"@osmRelationId":"5366755"}"*
-({"@wikipedia":"Golden_Trout_Wilderness"}"
+relation/6183160"
 Golden Trout Wilderness"
 
-Q5579923"
-relation/5366755"!
-{"@name":"Domeland Wilderness"}"
-{"@wikidataId":"Q5290033"}"
-{"@osmRelationId":"5366728"}"&
-${"@wikipedia":"Domeland_Wilderness"}"
+Q5579923"	
+5366755"
+Golden_Trout_Wilderness"
+relation/5366755"
 Domeland Wilderness"
 
-Q5290033"
-relation/5366728" 
-{"@name":"Chumash Wilderness"}"
-{"@wikidataId":"Q5116142"}"
-{"@osmRelationId":"2779216"}"%
-#{"@wikipedia":"Chumash_Wilderness"}"
-Chumash Wilderness"
-national_forest;wilderness",
-*http://fsgeodata.fs.fed.us/vector/lsrs.php"
+Q5290033"	
+5366728"
+Domeland_Wilderness"
+relation/5366728"
+Chumash Wilderness"
 
-Q5116142"
-relation/2779216"
-{"@name":"Sespe Wilderness"}"
-{"@wikidataId":"Q20881478"}"
-{"@osmRelationId":"2779221"}"#
-!{"@wikipedia":"Sespe_Wilderness"}"
+Q5116142"	
+2779216"
+Chumash_Wilderness"
+national_forest;wilderness",
+*http://fsgeodata.fs.fed.us/vector/lsrs.php"
+relation/2779216"
 Sespe Wilderness"
-	Q20881478"
-relation/2779221"'
-%{"@name":"Great Basin National Park"}"
-{"@wikidataId":"Q1137657"}"
-{"@osmRelationId":"5974781"}",
-*{"@wikipedia":"Great_Basin_National_Park"}"
-862430"
+	Q20881478"	
+2779221"
+Sespe_Wilderness"
+relation/2779221"
 Great Basin National Park"
 
-Q1137657"
+Q1137657"	
+5974781"
+Great_Basin_National_Park"
+862430"
 en:Great Basin National Park"
-relation/5974781" 
-{"@name":"Zion National Park"}"
-{"@wikidataId":"Q205325"}"
-{"@osmRelationId":"5758583"}"%
-#{"@wikipedia":"Zion_National_Park"}"
+relation/5974781"
+Zion National Park"	
+Q205325"	
+5758583"
+Zion_National_Park"
 053"
 
 02/25/1989"	
 1455157"
-49"
-Zion National Park"
-Mukuntuweap"	
-Q205325"
+49"
+Mukuntuweap"
 en:Zion National Park"
-relation/5758583"%
-#{"@name":"South Sierra Wilderness"}"
-{"@wikidataId":"Q7568499"}"
-{"@osmRelationId":"5366747"}"*
-({"@wikipedia":"South_Sierra_Wilderness"}"
+relation/5758583"
 South Sierra Wilderness"
 
-Q7568499"
-relation/5366747"&
-${"@name":"Sacatar Trail Wilderness"}"
-{"@wikidataId":"Q7396573"}"
-{"@osmRelationId":"5372304"}"+
-){"@wikipedia":"Sacatar_Trail_Wilderness"}"
+Q7568499"	
+5366747"
+South_Sierra_Wilderness"
+relation/5366747"
 Sacatar Trail Wilderness"
 
-Q7396573"
-relation/5372304"%
-#{"@name":"Chimney Peak Wilderness"}"
-{"@wikidataId":"Q5099402"}"
-{"@osmRelationId":"5366740"}"*
-({"@wikipedia":"Chimney_Peak_Wilderness"}"
+Q7396573"	
+5372304"
+Sacatar_Trail_Wilderness"
+relation/5372304"
 Chimney Peak Wilderness"
 
-Q5099402"
-relation/5366740"
-{"@name":"Kiavah Wilderness"}"
-{"@wikidataId":"Q6403901"}"
-{"@osmRelationId":"5366697"}"$
-"{"@wikipedia":"Kiavah_Wilderness"}"
+Q5099402"	
+5366740"
+Chimney_Peak_Wilderness"
+relation/5366740"
 Kiavah Wilderness"
 
-Q6403901"
-relation/5366697"#
-!{"@name":"Owens Peak Wilderness"}"
-{"@wikidataId":"Q3359007"}"
-{"@osmRelationId":"5366706"}"(
-&{"@wikipedia":"Owens_Peak_Wilderness"}"
+Q6403901"	
+5366697"
+Kiavah_Wilderness"
+relation/5366697"
 Owens Peak Wilderness"
 
-Q3359007"
-relation/5366706"*
-({"@name":"El Paso Mountains Wilderness"}"
-{"@wikidataId":"Q5351780"}"
-{"@osmRelationId":"6159244"}"/
--{"@wikipedia":"El_Paso_Mountains_Wilderness"}"
+Q3359007"	
+5366706"
+Owens_Peak_Wilderness"
+relation/5366706"
 El Paso Mountains Wilderness"
 
-Q5351780"
-relation/6159244"(
-&{"@name":"Death Valley National Park"}"
-{"@wikidataId":"Q242111"}"
-{"@osmRelationId":"174732"}"-
-+{"@wikipedia":"Death_Valley_National_Park"}"
-Death Valley National Park"
+Q5351780"	
+6159244"
+El_Paso_Mountains_Wilderness"
+relation/6159244"
+Death Valley National Park"	
+Q242111"
+174732"
+Death_Valley_National_Park"
 Nationalpark Tal des Todes"
 NPS"
 public"	
 Q308439"
-en:National Park Service"	
-Q242111"
+en:National Park Service"
 en:Death Valley National Park"
-relation/174732")
-'{"@name":"Mount Charleston Wilderness"}"
-{"@wikidataId":"Q6920111"}"
-{"@osmRelationId":"5979355"}".
-,{"@wikipedia":"Mount_Charleston_Wilderness"}""
+relation/174732"
+Mount Charleston Wilderness"
+
+Q6920111"	
+5979355"
+Mount_Charleston_Wilderness""
  Mount Charleston Wilderness Area"
-BLM;US Forest Service"
+BLM;US Forest Service"
+relation/5979355"
+La Madre Mountains Wilderness"
 
-Q6920111"
-relation/5979355"+
-){"@name":"La Madre Mountains Wilderness"}"
-{"@wikidataId":"Q6463591"}"
-{"@osmRelationId":"5979320"}"0
-.{"@wikipedia":"La_Madre_Mountains_Wilderness"}"
-La Madre Mountain Wilderness"
-
-Q6463591"
-relation/5979320""
- {"@name":"Cucamonga Wilderness"}"
-{"@wikidataId":"Q5192312"}"
-{"@osmRelationId":"4787747"}"'
-%{"@wikipedia":"Cucamonga_Wilderness"}"
+Q6463591"	
+5979320"
+La_Madre_Mountains_Wilderness"
+La Madre Mountain Wilderness"
+relation/5979320"
 Cucamonga Wilderness"
 
-Q5192312"
-relation/4787747"%
-#{"@name":"San Gorgonio Wilderness"}"
-{"@wikidataId":"Q7414265"}"
-{"@osmRelationId":"2788043"}"*
-({"@wikipedia":"San_Gorgonio_Wilderness"}"
+Q5192312"	
+4787747"
+Cucamonga_Wilderness"
+relation/4787747"
 San Gorgonio Wilderness"
 
-Q7414265"
-relation/2788043"(
-&{"@name":"Beauty Mountain Wilderness"}"
-{"@wikidataId":"Q27967277"}"
-{"@osmRelationId":"5413850"}"-
-+{"@wikipedia":"Beauty_Mountain_Wilderness"}"
+Q7414265"	
+2788043"
+San_Gorgonio_Wilderness"
+relation/2788043"
 Beauty Mountain Wilderness"
-	Q27967277"
-relation/5413850"#
-!{"@name":"Agua Tibia Wilderness"}"
-{"@wikidataId":"Q18636180"}"
-{"@osmRelationId":"2788348"}"(
-&{"@wikipedia":"Agua_Tibia_Wilderness"}"
+	Q27967277"	
+5413850"
+Beauty_Mountain_Wilderness"
+relation/5413850"
 Agua Tibia Wilderness"
-	Q18636180"
-relation/2788348"#
-!{"@name":"Santa Rosa Wilderness"}"
-{"@wikidataId":"Q7419920"}"
-{"@osmRelationId":"6138896"}"(
-&{"@wikipedia":"Santa_Rosa_Wilderness"}"
+	Q18636180"	
+2788348"
+Agua_Tibia_Wilderness"
+relation/2788348"
 Santa Rosa Wilderness"
 
-Q7419920"
-relation/6138896"'
-%{"@name":"Joshua Tree National Park"}"
-{"@wikidataId":"Q735202"}"
-{"@osmRelationId":"6145614"}",
-*{"@wikipedia":"Joshua_Tree_National_Park"}"
-Joshua Tree National Park"
+Q7419920"	
+6138896"
+Santa_Rosa_Wilderness"
+relation/6138896"
+Joshua Tree National Park"	
+Q735202"	
+6145614"
+Joshua_Tree_National_Park"
 Joshua-Tree-Nationalpark"$
-"https://www.nps.gov/jotr/index.htm"	
-Q735202"
+"https://www.nps.gov/jotr/index.htm"
 en:Joshua Tree National Park"
-relation/6145614"(
-&{"@name":"Spirit Mountain Wilderness"}"
-{"@wikidataId":"Q7577903"}"
-{"@osmRelationId":"5978422"}"-
-+{"@wikipedia":"Spirit_Mountain_Wilderness"}"
-Spirit Mountain Wilderness"
-BLM;National Park Service"
+relation/6145614"
+Spirit Mountain Wilderness"
 
-Q7577903"
-relation/5978422"(
-&{"@name":"Grand Canyon National Park"}"
-{"@wikidataId":"Q220289"}"
-{"@osmRelationId":"183377"}"-
-+{"@wikipedia":"Grand_Canyon_National_Park"}"
-US National Park Service"
-Grand Canyon National Park""
+Q7577903"	
+5978422"
+Spirit_Mountain_Wilderness"
+BLM;National Park Service"
+relation/5978422"
+Grand Canyon National Park"	
+Q220289"
+183377"
+Grand_Canyon_National_Park"
+US National Park Service""
  Parka Netewey√Æ ya Kanyona Mezin"
 75"
 (vii)(viii)(ix)(x)"
-1979"	
-Q220289"
+1979"
 en:Grand Canyon National Park"
-relation/183377"(
-&{"@name":"Capitol Reef National Park"}"
-{"@wikidataId":"Q129902"}"
-{"@osmRelationId":"4716642"}"-
-+{"@wikipedia":"Capitol_Reef_National_Park"}"
+relation/183377"
+Capitol Reef National Park"	
+Q129902"	
+4716642"
+Capitol_Reef_National_Park"
 Shifted 0.04 miles"
 CARE"
-Capitol Reef"
-Capitol Reef National Park"0
-.http://science.nature.nps.gov/im/gis/index.cfm"	
-Q129902"
+Capitol Reef"0
+.http://science.nature.nps.gov/im/gis/index.cfm"
 en:Capitol Reef National Park"
-relation/4716642"(
-&{"@name":"Bryce Canyon National Park"}"
-{"@wikidataId":"Q219562"}"
-{"@osmRelationId":"4716641"}"-
-+{"@wikipedia":"Bryce_Canyon_National_Park"}"
+relation/4716642"
+Bryce Canyon National Park"	
+Q219562"	
+4716641"
+Bryce_Canyon_National_Park"
 2492"
 017"	
-1450197"
-Bryce Canyon National Park"/
--◊î◊§◊ê◊®◊ß ◊î◊ú◊ê◊ï◊û◊ô ◊ë◊®◊ô◊ô◊° ◊ß◊†◊ô◊ï◊ü"	
-Q219562"
+1450197"/
+-◊î◊§◊ê◊®◊ß ◊î◊ú◊ê◊ï◊û◊ô ◊ë◊®◊ô◊ô◊° ◊ß◊†◊ô◊ï◊ü"
 en:Bryce Canyon National Park"
-relation/4716641"'
-%{"@name":"Flat Tops Wilderness Area"}"
-{"@wikidataId":"Q5457818"}"
-{"@osmRelationId":"5445284"}",
-*{"@wikipedia":"Flat_Tops_Wilderness_Area"}"
-Flat Tops Wilderness Area"!
-http://data.fs.usda.gov/geodata"
+relation/4716641"
+Flat Tops Wilderness Area"
 
-Q5457818"
+Q5457818"	
+5445284"
+Flat_Tops_Wilderness_Area"!
+http://data.fs.usda.gov/geodata"
 en:Flat Tops Wilderness Area"
-relation/5445284""
- {"@name":"Arches National Park"}"
-{"@wikidataId":"Q223969"}"
-{"@osmRelationId":"5868384"}"'
-%{"@wikipedia":"Arches_National_Park"}"	
-1455716"
+relation/5445284"
 Arches National Park"	
-Q223969"
+Q223969"	
+5868384"
+Arches_National_Park"	
+1455716"
 en:Arches National Park"
-relation/5868384"&
-${"@name":"Mesa Verde National Park"}"
-{"@wikidataId":"Q237128"}"
-{"@osmRelationId":"5749837"}"+
-){"@wikipedia":"Mesa_Verde_National_Park"}"
-179042"
-Mesa Verde National Park"+
+relation/5868384"
+Mesa Verde National Park"	
+Q237128"	
+5749837"
+Mesa_Verde_National_Park"
+179042"+
 )ŸÖŸÜÿ™ÿ≤Ÿá ŸÖŸäÿ≥ÿß ŸÅÿ±ÿØŸä ÿßŸÑŸàÿ∑ŸÜŸä"
 Parque Nacional de Mesa Verde"
 Parc national de Mesa Verde"#
@@ -485,351 +390,323 @@ X–î—Ä–µ–≤–Ω–∏–µ –∏–Ω–¥–µ–π—Å–∫–∏–µ –ø–æ—Å–µ–ª–µ–Ω–∏—è –Ω–∞ –ø–ª–∞—Ç–æ –ú–µ—Å–∞-–
 27"
 http://www.nps.gov/meve/"
 (iii)"
-1978"	
-Q237128"
+1978"
 en:Mesa Verde National Park"
-relation/5749837"'
-%{"@name":"Gunnison Gorge Wilderness"}"
-{"@wikidataId":"Q5619269"}"
-{"@osmRelationId":"5478418"}",
-*{"@wikipedia":"Gunnison_Gorge_Wilderness"}" 
+relation/5749837"
+Gunnison Gorge Wilderness"
+
+Q5619269"	
+5478418"
+Gunnison_Gorge_Wilderness" 
 Gunnison Gorge Wilderness Area"T
 RBLM Colorado (http://www.blm.gov/co/st/en/BLM_Programs/geographical_sciences.html)"
-relation/5478418"8
-6{"@name":"Black Canyon of the Gunnison National Park"}"
-{"@wikidataId":"Q305880"}"
-{"@osmRelationId":"395552"}"=
-;{"@wikipedia":"Black_Canyon_of_the_Gunnison_National_Park"}"
+relation/5478418",
+*Black Canyon of the Gunnison National Park"	
+Q305880"
+395552",
+*Black_Canyon_of_the_Gunnison_National_Park"
 2045"
 085"
 
 10/13/1978"
 203271"
-08",
-*Black Canyon of the Gunnison National Park"	
-Q305880"/
+08"/
 -en:Black Canyon of the Gunnison National Park"
-relation/395552"$
-"{"@name":"Lizard Head Wilderness"}"
-{"@wikidataId":"Q6660504"}"
-{"@osmRelationId":"396588"}")
-'{"@wikipedia":"Lizard_Head_Wilderness"}"
+relation/395552"
+Lizard Head Wilderness"
+
+Q6660504"
+396588"
+Lizard_Head_Wilderness"
 Lizard Head Wilderness Area""
- http://data.fs.usda.gov/geodata/"
-
-Q6660504"
+ http://data.fs.usda.gov/geodata/"
 fr:Lizard Head Wilderness"
-relation/396588""
- {"@name":"La Garita Wilderness"}"
-{"@wikidataId":"Q6462726"}"
-{"@osmRelationId":"5440842"}"'
-%{"@wikipedia":"La_Garita_Wilderness"}"
-La Garita Wilderness Area"
+relation/396588"
+La Garita Wilderness"
 
-Q6462726"
+Q6462726"	
+5440842"
+La_Garita_Wilderness"
+La Garita Wilderness Area"
 fr:La Garita Wilderness"
-relation/5440842""
- {"@name":"Weminuche Wilderness"}"
-{"@wikidataId":"Q7982203"}"
-{"@osmRelationId":"396584"}"'
-%{"@wikipedia":"Weminuche_Wilderness"}"
-Weminuche Wilderness Area")
-'USFS (http://data.fs.usda.gov/geodata/)"
+relation/5440842"
+Weminuche Wilderness"
 
-Q7982203"
+Q7982203"
+396584"
+Weminuche_Wilderness"
+Weminuche Wilderness Area")
+'USFS (http://data.fs.usda.gov/geodata/)"
 fr:Weminuche Wilderness"
-relation/396584",
-*{"@name":"Petrified Forest National Park"}"
-{"@wikidataId":"Q305949"}"
-{"@osmRelationId":"4640162"}"1
-/{"@wikipedia":"Petrified_Forest_National_Park"}"
+relation/396584" 
+Petrified Forest National Park"	
+Q305949"	
+4640162" 
+Petrified_Forest_National_Park"
 
 2007/09/20"U
 SLands - http://landsnet.nps.gov/tractsnet/documents/PEFO/Metadata/pefo_metadata.xml"
 PEFO"
-Petrified Forest" 
-Petrified Forest National Park"h
+Petrified Forest"h
 fThis National Park started as a national monument in 1906 and was turned into a national park in 1962."
 	1906/1962"
-https://www.nps.gov/imr/pefo/"	
-Q305949"#
+https://www.nps.gov/imr/pefo/"#
 !en:Petrified Forest National Park"
-relation/4640162")
-'{"@name":"Pusch Ridge Wilderness Area"}"
-{"@wikidataId":"Q7261710"}"
-{"@osmRelationId":"5822153"}".
-,{"@wikipedia":"Pusch_Ridge_Wilderness_Area"}"
-Pusch Ridge Wilderness"
+relation/4640162"
+Pusch Ridge Wilderness Area"
 
-Q7261710"
-relation/5822153"#
-!{"@name":"Saguaro National Park"}"
-{"@wikidataId":"Q676206"}"
-{"@osmRelationId":"9529323"}"(
-&{"@wikipedia":"Saguaro_National_Park"}"
-Saguaro National Park"
+Q7261710"	
+5822153"
+Pusch_Ridge_Wilderness_Area"
+Pusch Ridge Wilderness"
+relation/5822153"
+Saguaro National Park"	
+Q676206"	
+9529323"
+Saguaro_National_Park"
 +1-520-733-5153"
-https://www.nps.gov/sagu/"	
-Q676206"
+https://www.nps.gov/sagu/"
 en:Saguaro National Park"
-relation/9529323"
-{"@name":"Gila Wilderness"}"
-{"@wikidataId":"Q5560677"}"
-{"@osmRelationId":"2923946"}""
- {"@wikipedia":"Gila_Wilderness"}"
+relation/9529323"
 Gila Wilderness"
 
-Q5560677"
+Q5560677"	
+2923946"
+Gila_Wilderness"
 en:Gila Wilderness"
-relation/2923946"%
-#{"@name":"Aldo Leopold Wilderness"}"
-{"@wikidataId":"Q4713893"}"
-{"@osmRelationId":"171926"}"*
-({"@wikipedia":"Aldo_Leopold_Wilderness"}"
-Aldo Leopold Wilderness"
-AndyAyre_200907122"
+relation/2923946"
+Aldo Leopold Wilderness"
 
-Q4713893"
+Q4713893"
+171926"
+Aldo_Leopold_Wilderness"
+AndyAyre_200907122"
 en:Aldo Leopold Wilderness"
-relation/171926"*
-({"@name":"Rocky Mountain National Park"}"
-{"@wikidataId":"Q777183"}"
-{"@osmRelationId":"390960"}"/
--{"@wikipedia":"Rocky_Mountain_National_Park"}"
-Rocky Mountain National Park"
-http://www.nps.gov/romo/"	
-Q777183"!
+relation/171926"
+Rocky Mountain National Park"	
+Q777183"
+390960"
+Rocky_Mountain_National_Park"
+http://www.nps.gov/romo/"!
 en:Rocky Mountain National Park"
-relation/390960"#
-!{"@name":"Holy Cross Wilderness"}"
-{"@wikidataId":"Q5885354"}"
-{"@osmRelationId":"5444739"}"(
-&{"@wikipedia":"Holy_Cross_Wilderness"}"
-Holy Cross Wilderness Area"
+relation/390960"
+Holy Cross Wilderness"
 
-Q5885354"
+Q5885354"	
+5444739"
+Holy_Cross_Wilderness"
+Holy Cross Wilderness Area"
 fr:Holy Cross Wilderness"
-relation/5444739"$
-"{"@name":"Mount Evans Wilderness"}"
-{"@wikidataId":"Q6920692"}"
-{"@osmRelationId":"5718244"}")
-'{"@wikipedia":"Mount_Evans_Wilderness"}"
-Mount Evans Wilderness Area"
+relation/5444739"
+Mount Evans Wilderness"
 
-Q6920692"
+Q6920692"	
+5718244"
+Mount_Evans_Wilderness"
+Mount Evans Wilderness Area"
 fr:Mount Evans Wilderness"
-relation/5718244"#
-!{"@name":"Salt Creek Wilderness"}"
-{"@wikidataId":"Q27974628"}"
-{"@osmRelationId":"5968754"}"(
-&{"@wikipedia":"Salt_Creek_Wilderness"}"
-Salt Creek Wilderness"
-US Fish and Wildlife Service"
-	Q27974628"
+relation/5718244"
+Salt Creek Wilderness"
+	Q27974628"	
+5968754"
+Salt_Creek_Wilderness"
+US Fish and Wildlife Service"
 fr:Salt Creek Wilderness"
-relation/5968754",
-*{"@name":"Carlsbad Caverns National Park"}"
-{"@wikidataId":"Q273195"}"
-{"@osmRelationId":"5953459"}"1
-/{"@wikipedia":"Carlsbad_Caverns_National_Park"}"
-904780" 
-Carlsbad Caverns National Park"$
-"https://www.nps.gov/cave/index.htm"	
-Q273195"#
+relation/5968754" 
+Carlsbad Caverns National Park"	
+Q273195"	
+5953459" 
+Carlsbad_Caverns_National_Park"
+904780"$
+"https://www.nps.gov/cave/index.htm"#
 !en:Carlsbad Caverns National Park"
-relation/5953459"/
--{"@name":"Guadalupe Mountains National Park"}"
-{"@wikidataId":"Q370501"}"
-{"@osmRelationId":"5953502"}"4
-2{"@wikipedia":"Guadalupe_Mountains_National_Park"}"	
+relation/5953459"#
+!Guadalupe Mountains National Park"	
+Q370501"	
+5953502"#
+!Guadalupe_Mountains_National_Park"	
 1377201"#
-!Guadalupe Mountains National Park"#
 !Park Narodowy Guadalupe Mountains"$
-"https://www.nps.gov/gumo/index.htm"	
-Q370501"&
+"https://www.nps.gov/gumo/index.htm"&
 $en:Guadalupe Mountains National Park"
-relation/5953502"$
-"{"@name":"Big Bend National Park"}"
-{"@wikidataId":"Q1427197"}"
-{"@osmRelationId":"2625382"}")
-'{"@wikipedia":"Big_Bend_National_Park"}"
+relation/5953502"
 Big Bend National Park"
 
-Q1427197"
+Q1427197"	
+2625382"
+Big_Bend_National_Park"
 en:Big Bend National Park"
-relation/2625382"%
-#{"@name":"Chiquibul National Park"}"
-{"@wikidataId":"Q5101755"}"
-{"@osmRelationId":"9475521"}"
-{"@country":"Belize"}"*
-({"@wikipedia":"Chiquibul_National_Park"}"
-Chiquibul National Park"*
-(Friends for Conservation and Development"
-1995"
+relation/2625382"
+Chiquibul National Park"
 
-Q5101755"
-relation/9475521"'
-%{"@name":"Montecristo National Park"}"
-{"@wikidataId":"Q6905054"}"
-{"@osmRelationId":"8623870"}"
-{"@country":"El Salvador"}",
-*{"@wikipedia":"Montecristo_National_Park"}"
+Q5101755"	
+9475521"
+Belize"
+Chiquibul_National_Park"*
+(Friends for Conservation and Development"
+1995"
+relation/9475521"
+Montecristo National Park"
+
+Q6905054"	
+8623870"
+El Salvador"
+Montecristo_National_Park"
 9638"
 Parque Nacional Montecristo"
 18 de noviembre de 1987‚Äã"
-relation/8623870"(
-&{"@name":"El Imposible National Park"}"
-{"@wikidataId":"Q5351426"}"
-{"@osmRelationId":"8623692"}"-
-+{"@wikipedia":"El_Imposible_National_Park"}"
-12494"
-Parque Nacional El Imposible"
+relation/8623870"
 El Imposible National Park"
 
-Q5351426"
-relation/8623692p  		
-
-"L	Ëüí        
-   	   @ 		
-
-"	¸?Z  
-[ 		
-
-"7	¸S¬      	  F,  !"#$%&'(
-)*+,-."	∏D: 	± /01234		
-
-56"å	Ê¬  		 	 
-	  	     	  		: 	 	 *  	 	X 789:;<		
-
-=>?"4	ö™J 	%Z  
+Q5351426"	
+8623692"
+El_Imposible_National_Park"
+12494"
+Parque Nacional El Imposible"
+relation/8623692u   	
+	
+É±…"L	Ëüí        
+   	   E 	
+	
+‹Õ˚"	¸?Z  
+` 	
+	
+Ä˜˙"7	¸S¬      	  K,  !
+"#$%&˙Ë˘"	∏D: 	∂ '()*'+	
+	
+(,ç¢ "å	Ê¬  		 	 
+	  	     	  		: 	 	 *  	 	] -./0-1	
+	
+2.3ú¢ "4	ö™J 	%Z  
   
-  [$ @ABCDEF		
-GHIJKLM"1	¿^™
-               ~ NOPQRS		
-
-=TU"Z	∫^Ú              	J	
-    > VWXYZ		
-
-[\"	¬dR
+  `$ 4567849	
+:;<=5>?∂Ì˙"1	¿^™
+               Å @AB@C	
+	
+2ADÙù…"Z	∫^Ú              	J	
+    C EFGHE	
+	
+FI¬Ì˙"	¬dR
   
-  N ]^_`a		
-
-bc"*	Ë¢ä       	R defgh		
-
-ij".	å–ö
+  S JKLMJ	
+	
+KNÉú˙"*	Ë¢ä       	W OPQRO	
+	
+PSúõ˙".	å–ö
  
-   w klmno		
-
-pq"S	ûú≤   
+   | TUVWT	
+	
+UXÓò«"S	ûú≤   
 
  
-    	(j   	 	 | rstuv		
-
-wx"X	∏‹¬ 	 	 	
+    	(j   	 	 Å YZ[\Y	
+	
+Z]∆«"X	∏‹¬ 	 	 	
 
    	 			  	 
-ƒR yz{|}~ÄDÅÇÉ} Ñ!Ö"ÜF		#á
-GHI$àâ%ä&ãå'çéè"l	Ùîí   
-      	  #	 ï% êëíìî		
-
-ïñ"j	òää      	  	
+∏B ^_`a^bcd8efg^ h!i"j9	#k
+:;<$lm%n&o_'pqrÁ¶d"l	Ùîí   
+      	  #	 ì stuvs	
+	
+twãÛ«"j	òää      	  	
  	 
-	  Q% óòôöõ		
-
-=úù"&	⁄ÄZ   		 	  W% ûü†°¢		
-
-£§",	Ã¯í   	  ì% •¶ß®©		
-
-™´"Á	˙†ä
+	  O xyz{x	
+	
+2y|èÛ«"&	⁄ÄZ   		 	  W  }~Ä}	
+	
+~Åıò«",	Ã¯í   	  ò% ÇÉÑÖÇ	
+	
+ÉÜçÛ«"Á	˙†ä
   	
 
        
             
-			  	    	 	   			  	F	 	xr  	os N% ¨≠ÆØ∞		
-
-±≤"#	˙∏r
- 	 N' ≥¥µQ∂S		
-
-∑∏π"!	‘òj 
-		   Y0 ∫ªºΩDæøF		
-GHI¿¡¬√"#	ÃÜr
-  	   	w% ƒ≈∆«»		
-
-=… "L	˙òí      
+			  	    	 	   			  	F	 	xr  	os S% áàâäá	
+	
+àãéÛ«"#	˙∏r
+ 	 Q% åçéåC	
+	
+çèêÀ≤˘"!	‘òj 
+		   ^0 ëíìî8ïë9	
+:;<ñíóò¯±˘"#	ÃÜr
+  	   	|% ôöõúô	
+	
+2öù„««"L	˙òí      
 
-w% ÀÃÕŒœ4		
-
-=–—"L	¯˛í
+|% ûü†°û+	
+	
+2ü¢»««"L	¯˛í
 
 
     
    
-Y+ “”‘’÷		(◊
-
-ÿŸ⁄"(	∏ÜÇ
+^+ £§•¶£	(ß
+	
+®§©––©"(	∏ÜÇ
 
- 		ì+ €‹›ﬁﬂ		(◊
-
-ÿ‡·"b	¬»Í          	      k/ ‚„‰ÂD)ÊÁF		
-GHIËÈÍ"6	¿∆∫  
-   	           Ü; ÎÏÌÓD)*Ô+Ò,ÚÛ-ÙF		
-GHIıˆ˜"E	¸º“ 
+ 		ò+ ™´¨≠™	(ß
+	
+®´Æ’–©"b	¬»Í          	      p/ Ø∞±≤8)≥Ø9	
+:;<∞¥µ˝’Ï"6	¿∆∫  
+   	           ã; ∂∑∏π8)*∫+ªº,Ω∂-æ9	
+:;<∑ø¿˜ºﬂ"E	¸º“ 
   
-              	&4 S% ¯˘˙˚¸		
+              	&4 X% ¡¬√ƒ¡	
+	
+2¬≈€««"(	ä Ç 	  d% ∆«»…∆1	
+	
+2« êÛ«"4	àå	≤ 	   
+    K% ÀÃÕŒÀ1	
+	
+2Ãœ‘««"	Çú	R   z% –—“”–+	
+	
+2—‘©««"J	Ü¬	ä   
 
-=˝˛"(	ä Ç 	  _% ˇÄÅÇÉ<		
-
-=ÑÖ"4	àå	≤ 	   
-    F% Üáàâä<		
-
-=ãå"	Çú	R   u% çéèêë4		
-
-=íì"J	Ü¬	ä   
-
-		    h% îïñóò<		
-
-=ôö"=	Üæ	≤     	 B% õúùûü<		
-
-†°"	¥Ë	B  
- é; ¢£§•D¶ ßS.®/©0™1´		
-G2IHI¨≠Æ"Ã	¨‰∫ 	
+		    m% ’÷◊ÿ’1	
+	
+2÷Ÿ≤««"=	Üæ	≤     	 G% ⁄€‹›⁄1	
+	
+€ﬁå˜˜"	¥Ë	B  
+ í; ﬂ‡·‚8ﬂ „C.‰/Â0Ê1Á	
+:2<;<‡ËÈå’
+"Ã	¨‰∫ 	
 RL@  :<:  	        	
  [ 	    
  		    	 #   
-	   	+ à& Ø∞±≤≥¥		
-
-µ∂"\	∞º“  	  	
+	   	+ ç& ÍÎÏÌÓÔ	
+	
+Î€˘Ï"\	∞º“  	  	
         
 
  
-	  y& ∑∏π∫ª¥		
-
-ºΩ"M	ÏŒÚ   
+	  ~& ÒÚÛÙıÔ	
+	
+Úˆ∏˘Ï"M	ÏŒÚ   
  	 	 
-	%E( æø¿¡¬		(◊
-
-√ƒ"	ÊÑB   Ö% ≈∆«»…4		
-
- À"Z	Ï†      		        L% ÃÕŒœ–<		
-
-—“"!	Ü¿j 	  
- T( ”‘’÷◊4		
-
-ÿÿŸ"&	‘∏R 
+	%J( ˜¯˘˙˜	(ß
+	
+¯˚£ú§"	ÊÑB   ä% ¸˝˛ˇ¸+	
+	
+˝ÄÀï™"Z	Ï†      		        Q% ÅÇÉÑÅ1	
+	
+ÇÖ⁄∑ "!	Ü¿j 	  
+ Y( ÜáàâÜ+	
+	
+®áä¸ó™"&	‘∏R 
       	
- k% ⁄€‹›ﬁ4		
-
-ﬂ‡"@	Œî‚   
+ p% ãåçéã+	
+	
+åèêÿˆ"@	Œî‚   
 
  3       	
-     ñ0 ·‚„‰DÂ ÊF		
-GHIÁËÈÍ"`	¯®‚     
+     õ0 êëíì8ê î9	
+:;<ïëñóŒå˜"`	¯®‚     
 &  ,
  	# 
-	!9       	M& ÎÏÌÓÔ		
-
-ÒÚ"!	¯ö
-j   ÉA ÛÙıˆ3˜D)ÇÉ¯4˘F		5GHI$˙%˚&¸˝˛ˇ"ª	Ù í“  
+	!9       	R& òôöõòú	
+	
+ôù∂ÚÏ"!	¯ö
+j   Ö? ûü†°3¢8)fgû4£9	5:;<$§%•&¶üß®—ò"ª	Ù í“  
  
   *		        	      	  	      :  	
 
@@ -839,80 +716,74 @@ j   ÉA ÛÙıˆ3˜D)ÇÉ¯4˘F		5GHI
 
              	       
     	O"* 
-	 	&	?+" 	ˆó2			" 				 / 	. ø8 ÄÅÇÉ6Ñ7Ö8Ü9IáF		
-GHIà=âäã"Ä	ÿ!¬‚  
+	 	&	?+" 	ˆó2			" 				 / 	. ƒ8 ©™´¨6≠7Æ8Ø9<©9	
+:;<∞2™±≤‚ü"Ä	ÿ!¬‚  
 
     
  
      
 
  
-          	     		  	      v@ åçéèD):ê;!*ë+í,Úì<îF		
-GHI=ïñó"0	  Ñ¢  
+          	     		  	      {@ ≥¥µ∂8):∑;*∏+ªπ,Ω≥<∫9	
+:;<2¥ªº·ü"0	  Ñ¢  
      
   
-    õ' òôöõú		
-
-ù=ûü†"n	‘'»ö
+    †' Ωæø¿Ω	
+	¡2æ¬√§≠Ã"n	‘'»ö
   			   	     
-  z/ °¢£§D)•¶S		
-GHIß®©"E	ö$Ñ“    	       	    |Y ™´¨≠D)ÆÇÉØ=∞>Ø?±@≤A≥B¥Cµ"∂F		
-GHI$∑∏%π&∫ªºΩ"	Ê%‘Z 
-      e! æø¿¡¬		
-
-√ƒ">	‹&§í   	  	  	 m; ≈∆«»3SD:…* +ÀÃ,ÕŒF		5GHIœ–—",	“&™í
-         a% “”‘’3÷◊=ÿŸ⁄"6	º&Ï∫  		    }' €‹›ﬁﬂ		
-
-ù=‡·‚"P	ö(‡¢ 	 	
+  / ƒ≈∆«8)»ƒC	
+:;<≈… ‡ñÊ"E	ö$Ñ“    	       	    W ÀÃÕŒ8)œfgÀ=–>À?—@“A”B‘C’"÷9	
+:;<$◊ÿ%Ÿ&⁄Ã€‹Õ¯ﬁ"	Ê%‘Z 
+      j! ›ﬁﬂ‡·	
+	‚„í∞Œ">	‹&§í   	  	  	 q; ‰ÂÊÁ3C8:Ë*È+ÍÎ,Ï‰9	5:;<ÂÌÓ†í",	“&™í
+         e% ÔÒÚ3ÛÙ2ıˆ¨ö"6	º&Ï∫  		    Ç' ˜¯˘˙˚	
+	¡2¯¸˝ äÃ"P	ö(‡¢ 	 	
 	
 
 
-   Û) „‰ÂÊ3Á		
-
-ËÈÍÎ"√	Ü'Óí   	   	 
+   ˜) ˛ˇÄÅ3Ç	
+	ÉˇÑÖ®ö"√	Ü'Óí   	   	 
       		 	    		 	    
-	JõA ÏÌÓÔD)D6Ò7Ú8Û9IÙıF		5GHIEˆ=˜¯˘˙"T	Ä$¿
+	J†A Üáàâ8)Dä6ã7å8ç9<Üé9	5:;<Eè2êáëí¢õõ"T	Ä$¿
 ≤ 
 	  
    
   
             	    
-     #_# ˚¸˝˛ˇ		
-
-ÄÅ"6	¬"¨∫   	     
-  v. ÇÉÑÖD)ÜS#á
-GIàâäã"B	–"ÿj   *    	  	Y-r      ≠( åçéèê		
-
-ëíì"	í&Ù∫	  
+     #d# ìîïñó	
+	îò…≠„"6	¬"¨∫   	     
+  {. ôöõú8)ôC#ù
+:<ûöü†Îœ≈"B	–"ÿj   *    	  	Y-r      ≤( °¢£§°	
+	
+¢•¶™ª≤"	í&Ù∫	  
       		       
-   	 + îïñóò		
-
-Fôöõú"N	∞&Ùö  
+   	 É+ ß®©™ß	
+	
+F´®¨≠ñø
+"N	∞&Ùö  
 
-    	  	ò? ùûü†3SD)°S.®/©0™1´		
-G5G2IHI¢£§•"S	÷)f≤    
+    	  	ú? ÆØ∞±3C8)ÆC.‰/Â0Ê1Á	
+:5:2<;<≤Ø≥¥∞Ó"S	÷)f≤    
     
-É' ¶ß®©™		
-
-ù=´¨≠"V	»(˙∫
+à' µ∂∑∏π	
+	¡2∂∫ªÉ©Ã"V	»(˙∫
   	 	 	 
  
-   	o' ÆØ∞±≤		
-
-◊≥¥µ"B	Ê)¿ö   
+   	t' ºΩæø¿	
+	ÙΩ¡¬‰Å›"B	Ê)¿ö   
  	
 
-		 >) ∂∑∏π∫ª		
-
-ºΩæ"	º+î"
+		 C) √ƒ≈∆√«	
+	
+ƒ»…Ú¶Ï"	º+î"
  
- ]2 ø¿¡¬D)√ƒS		
-GHI≈∆«»"%	∆+ z      	 
- i5 … ÀÃD)ÕŒGœS		
-GHI–—“”".	Ñ+Äö 	    
-  	  	       	( È* ‘’÷◊D)ÿF		5GHIŸ⁄€"∏	û-‰¬      
+ b2  ÀÃÕ8)Œ C	
+:;<œÀ–—≥ØÎ"%	∆+ z      	 
+ n5 “”‘’8)÷“G◊C	
+:;<ÿ”Ÿ⁄ﬁØÎ".	Ñ+Äö 	    
+  	  	       	( Ó* €‹›ﬁ8)€9	5:;<‹ﬂ‡Êû†"∏	û-‰¬      
         	          		     	
-         	    J& ‹›ﬁﬂ‡DHG·‚E„=‰Â"	†AÓ'2 0 /	
-	  6# ÊÁËÈÍIÎÏ
-GEÌ=Ó"	Ú@†+?& ÔÒÈÚIÛÙ>ı
-G=ˆ˜"	Ñ@ä,2  
+         	    O& ·‚„‰Â8H:·ÊEÁ2‚Ë¡´¬"	†AÓ'2 0 /	
+	  ;# ÈÍÎÏÌIÓÔ
+:E2Ò˛≠é"	Ú@†+D& ÚÛÙÏıIˆ˜>Ú
+:2Û¯Ã¨é"	Ñ@ä,2  

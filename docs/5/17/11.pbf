@@ -1,16 +1,18 @@
-Öùx
-parks(Ä 01234boundarynamename:dename:esname:frname:itnational_parkprotect_classtypeurlwikidata	wikipediaidboundary_typename:csname:enname:finame:plprotection_titleshort_name:csshort_protection_title
+«ˇx
+parks(Ä @name@wikidataId@osmRelationId@country
+@wikipediaboundarynamename:dename:esname:frname:itnational_parkprotect_classtypeurlwikidata	wikipediaidboundary_typename:csname:enname:finame:plprotection_titleshort_name:csshort_protection_title
 iucn_levelname:anname:azname:eoname:glname:hrname:kaname:ltname:nlname:skname:viname:zh
 short_namesourcewebsite
 import_refname:huname:rusopsr:idsopsr:objectid
 sopsr:zonerefphoneleisureheritageheritage:operatorprotected_arearef:EUAPrelated_lawemailemail_1name:slname:tr
 protect_idprotection_objectwikimedia_commons
-start_datealt_nameprotected_objectdescription:ennoteold_namename:srimageplace communication:amateur_radio:pota communication:amateur_radio:wwffname:sr-Latnref:wdpashort_name:enshort_name:srshort_name:sr-Latnwdpa:websiteis_innatura2000:codenatura2000:namename:bsname:jvoperatorref:whcwhc:inscription_datealt_name:dealt_name:enalt_name:fralt_name:sqname:mkname:ptname:sqname:uknaturalwaterfixmeint_name".
-,{"@name":"Arcipelago Toscano National Park"}"
-{"@wikidataId":"Q1111568"}"
-{"@osmRelationId":"1582395"}"
-{"@country":"Italy"}"3
-1{"@wikipedia":"Arcipelago_Toscano_National_Park"}"
+start_datealt_nameprotected_objectdescription:ennoteold_namename:srimageplace communication:amateur_radio:pota communication:amateur_radio:wwffname:sr-Latnref:wdpashort_name:enshort_name:srshort_name:sr-Latnwdpa:websiteis_innatura2000:codenatura2000:namename:bsname:jvoperatorref:whcwhc:inscription_datealt_name:dealt_name:enalt_name:fralt_name:sqname:mkname:ptname:sqname:uknaturalwaterfixmeint_name""
+ Arcipelago Toscano National Park"
+
+Q1111568"	
+1582395"
+Italy""
+ Arcipelago_Toscano_National_Park"
 national_park")
 'Parco Nazionale dell'Arcipelago Toscano"$
 "Nationalpark Toskanischer Archipel"'
@@ -20,20 +22,17 @@ $Parc national de l‚Äôarchipel toscan"
 2"
 
 boundary"
-http://www.islepark.it/"
-
-Q1111568",
+http://www.islepark.it/",
 *it:Parco nazionale dell'Arcipelago Toscano"
-relation/1582395"+
-){"@name":"Bavarian Forest National Park"}"
-{"@wikidataId":"Q704124"}"
-{"@osmRelationId":"1864214"}"
-{"@country":"Germany"}"0
-.{"@wikipedia":"Bavarian_Forest_National_Park"}"
+relation/1582395"
+Bavarian Forest National Park"	
+Q704124"	
+1864214"	
+Germany"
+Bavarian_Forest_National_Park"
 protected_area"
 Nationalpark Bayerischer Wald"
-N√°rodn√≠ park Bavorsk√Ω les"
-Bavarian Forest National Park"$
+N√°rodn√≠ park Bavorsk√Ω les"$
 "Parque nacional del Bosque B√°varo"$
 "Bayerischer Waldin kansallispuisto"(
 &Parc national de la for√™t de Bavi√®re"(
@@ -42,20 +41,18 @@ $Parc national de l‚Äôarchipel toscan"
 Nationalpark"
 NP Bavorsk√Ω les"
 NLP"
-multipolygon"	
-Q704124""
+multipolygon""
  de:Nationalpark Bayerischer Wald"
-relation/1864214"#
-!{"@name":"≈†umava National Park"}"
-{"@wikidataId":"Q864799"}"
-{"@osmRelationId":"2029367"}"
-{"@country":"Czech Republic"}",
-*{"@wikipedia":"%C5%A0umava_National_Park"}"
+relation/1864214"
+≈†umava National Park"	
+Q864799"	
+2029367"
+Czech Republic"
+%C5%A0umava_National_Park"
 N√°rodn√≠ park ≈†umava"&
 $Parque Nacional d'a Selva de Bohemia"
 ≈ûumava Milli Parkƒ±"
-Nationalpark B√∂hmerwald"
-≈†umava National Park"
+Nationalpark B√∂hmerwald"
 Nacia Parko ≈†umava"
 Parque nacional ≈†umava"
 Parc national de ≈†umava"
@@ -73,72 +70,67 @@ $Parque Nacional d'a Selva de Bohemia"
 
 NP ≈†umava"4
 2EEA Nationally designated areas - CDDA_v9_polygons"Z
-Xhttps://www.eea.europa.eu/data-and-maps/data/nationally-designated-areas-national-cdda-5"	
-Q864799"
+Xhttps://www.eea.europa.eu/data-and-maps/data/nationally-designated-areas-national-cdda-5"
 cs:N√°rodn√≠ park ≈†umava"
-relation/2029367")
-'{"@name":"Veƒæk√° Fatra National Park"}"
-{"@wikidataId":"Q958003"}"
-{"@osmRelationId":"7216689"}"
-{"@country":"Slovakia"}"6
-4{"@wikipedia":"Ve%C4%BEk%C3%A1_Fatra_National_Park"}"
+relation/2029367"
+Veƒæk√° Fatra National Park"	
+Q958003"	
+7216689"
+
+Slovakia"%
+#Ve%C4%BEk%C3%A1_Fatra_National_Park"
 
 sk_sopsr"
 N√°rodn√Ω park Veƒæk√° Fatra"
-Nationalpark Gro√üe Fatra"
-Veƒæk√° Fatra National Park"
+Nationalpark Gro√üe Fatra"
 Nagy-F√°tra Nemzeti Park"
 Park Narodowy Wielka Fatra";
 9–ù–∞—Ü–∏–æ–Ω–∞–ª—å–Ω—ã–π –ø–∞—Ä–∫ –í–µ–ª—å–∫–∞ –§–∞—Ç—Ä–∞"
 31"
 12"
-3"	
-Q958003"!
+3"!
 sk:N√°rodn√Ω park Veƒæk√° Fatra"
-relation/7216689"&
-${"@name":"Low Tatras National Park"}"
-{"@wikidataId":"Q1767601"}"
-{"@osmRelationId":"2827630"}"+
-){"@wikipedia":"Low_Tatras_National_Park"}"
+relation/7216689"
+Low Tatras National Park"
+
+Q1767601"	
+2827630"
+Low_Tatras_National_Park"
 N√°rodn√Ω park N√≠zke Tatry"
-Nationalpark Niedere Tatra"
-Low Tatras National Park"
+Nationalpark Niedere Tatra"
 Park Narodowy Ni≈ºne Tatry"
 NAPANT"
 41"
 18"D
-B(C)2008 ≈†t√°tna ochrana pr√≠rody SR Bansk√° Bystrica www.sopsr.sk"
-
-Q1767601" 
+B(C)2008 ≈†t√°tna ochrana pr√≠rody SR Bansk√° Bystrica www.sopsr.sk" 
 sk:N√°rodn√Ω park N√≠zke Tatry"
-relation/2827630")
-'{"@name":"Berchtesgaden National Park"}"
-{"@wikidataId":"Q702489"}"
-{"@osmRelationId":"4292200"}".
-,{"@wikipedia":"Berchtesgaden_National_Park"}"
+relation/2827630"
+Berchtesgaden National Park"	
+Q702489"	
+4292200"
+Berchtesgaden_National_Park"
 Nationalpark Berchtesgaden"
 +49 8652 9686-0"3
-1https://www.nationalpark-berchtesgaden.bayern.de/"	
-Q702489"
+1https://www.nationalpark-berchtesgaden.bayern.de/"
 de:Nationalpark Berchtesgaden"
-relation/4292200"'
-%{"@name":"Hohe Tauern National Park"}"
-{"@wikidataId":"Q696014"}"
-{"@osmRelationId":"1766290"}"
-{"@country":"Austria"}",
-*{"@wikipedia":"Hohe_Tauern_National_Park"}"
+relation/4292200"
+Hohe Tauern National Park"	
+Q696014"	
+1766290"	
+Austria"
+Hohe_Tauern_National_Park"
 nature_reserve"
 Nationalpark Hohe Tauern"
 n√°rodn√≠ park Vysok√© Taury"
 High Tauern National Park"2
 0Nationalpark Hohe Tauern, Nationalparkverwaltung"
-https://hohetauern.at/"	
-Q696014"
-relation/1766290".
-,{"@name":"Dolomiti Bellunesi National Park"}"
-{"@wikidataId":"Q1086637"}"
-{"@osmRelationId":"7761352"}"3
-1{"@wikipedia":"Dolomiti_Bellunesi_National_Park"}"
+https://hohetauern.at/"
+relation/1766290""
+ Dolomiti Bellunesi National Park"
+
+Q1086637"	
+7761352""
+ Dolomiti_Bellunesi_National_Park"
 1"
 whc"*
 (Parco Nazionale delle Dolomiti Bellunesi"#
@@ -147,72 +139,68 @@ B(C)2008 ≈†t√°tna ochrana pr√≠rody SR Bansk√° Bystrica www.sopsr.sk"
 "Parco Nazionale Dolomiti Bellunesi"
 0015"
 DMA 20/04/1990;DPR 12/07/1993"
-http://www.dolomitipark.it/"
-
-Q1086637"-
+http://www.dolomitipark.it/"-
 +it:Parco nazionale delle Dolomiti Bellunesi"
-relation/7761352"#
-!{"@name":"Triglav National Park"}"
-{"@wikidataId":"Q1163005"}"
-{"@osmRelationId":"2868142"}"
-{"@country":"Slovenia"}"(
-&{"@wikipedia":"Triglav_National_Park"}"
+relation/7761352"
+Triglav National Park"
+
+Q1163005"	
+2868142"
+
+Slovenia"
+Triglav_National_Park"
 dom-tnp.trenta@tnp.gov.si"
 marko.pretner@tnp.gov.si"
 UICN"
 Triglavski narodni park"
 Triglavsk√Ω n√°rodn√≠ park"
-Nationalpark Triglav"
-Triglav National Park"
+Nationalpark Triglav"
 Parc national du Triglav"
 Nacionalni park Triglav"
 Parco nazionale del Tricorno"
 Triglavsk√Ω n√°rodn√Ω park"
 +386 5 38 89 330"
 Narodni Park""
- https://www.tnp.si/sl/spoznajte/"
-
-Q1163005"
+ https://www.tnp.si/sl/spoznajte/"
 sl:Triglavski narodni park"
-relation/2868142"%
-#{"@name":"Kalkalpen National Park"}"
-{"@wikidataId":"Q686047"}"
-{"@osmRelationId":"1858350"}")
-'{"@wikipedia":"Nationalpark_Kalkalpen"}"
+relation/2868142"
+Kalkalpen National Park"	
+Q686047"	
+1858350"
+Nationalpark_Kalkalpen"
 Nationalpark Kalkalpen"
 Kalkalpen Milli Parkƒ±"
 nature")
 'geoland.at geoimage.at doris.at amap.at"
-https://www.kalkalpen.at/"	
-Q686047"
+https://www.kalkalpen.at/"
 de:Nationalpark Kalkalpen"
-relation/1858350"$
-"{"@name":"Ges√§use National Park"}"
-{"@wikidataId":"Q369655"}"
-{"@osmRelationId":"10015852"}"-
-+{"@wikipedia":"Ges%C3%A4use_National_Park"}"
+relation/1858350"
+Ges√§use National Park"	
+Q369655"
+
+10015852"
+Ges%C3%A4use_National_Park"
 Nationalpark Ges√§use"
 Parque nacional Ges√§use"
 Parc national de Ges√§use"
 Ges√§use Nemzeti Park"
 Parco nazionale Ges√§use"
-N√°rodn√Ω park Ges√§use"	
-Q369655" 
+N√°rodn√Ω park Ges√§use" 
 Category:Nationalpark Ges√§use"
 de:Nationalpark Ges√§use"
-relation/10015852"$
-"{"@name":"National Park Thayatal"}"
-{"@wikidataId":"Q612901"}"
-{"@osmRelationId":"2196323"}")
-'{"@wikipedia":"Thayatal_National_Park"}"
+relation/10015852"
+National Park Thayatal"	
+Q612901"	
+2196323"
+Thayatal_National_Park"
 Nationalpark Thayatal"
-https://www.np-thayatal.at/"	
-Q612901"
-relation/2196323"#
-!{"@name":"Podyj√≠ National Park"}"
-{"@wikidataId":"Q2006345"}"
-{"@osmRelationId":"9316264"}",
-*{"@wikipedia":"Podyj%C3%AD_National_Park"}"
+https://www.np-thayatal.at/"
+relation/2196323"
+Podyj√≠ National Park"
+
+Q2006345"	
+9316264"
+Podyj%C3%AD_National_Park"
 N√°rodn√≠ park Podyj√≠"
 Parque Nacional d'a Podyji"
 Parque nacional Podyji"
@@ -225,106 +213,95 @@ B(C)2008 ≈†t√°tna ochrana pr√≠rody SR Bansk√° Bystrica www.sopsr.sk"
 NP Podyj√≠"
 
 1991-05-10"
-https://www.nppodyji.cz/"
-
-Q2006345"
-relation/9316264"'
-%{"@name":"Danube-Auen National Park"}"
-{"@wikidataId":"Q474886"}"
-{"@osmRelationId":"1773407"}",
-*{"@wikipedia":"Danube-Auen_National_Park"}"
+https://www.nppodyji.cz/"
+relation/9316264"
+Danube-Auen National Park"	
+Q474886"	
+1773407"
+Danube-Auen_National_Park"
 Nationalpark Donau-Auen"
 Nationalpark Donauauen"
-https://www.donauauen.at/"	
-Q474886"
+https://www.donauauen.at/"
 de:Nationalpark Donau-Auen"
-relation/1773407"*
-({"@name":"Riserva naturale Vallombrosa"}"
-{"@wikidataId":"Q56629842"}"
-{"@osmRelationId":"6411459"}"
-{"@wikipedia":null}"
-Riserva naturale Vallombrosa"
-0145"
-	Q56629842"!
+relation/1773407"
+Riserva naturale Vallombrosa"
+	Q56629842"	
+6411459"
+0145"!
 it:Riserva naturale Vallombrosa"
-relation/6411459"J
-H{"@name":"Foreste Casentinesi, Monte Falterona, Campigna National Park"}"
-{"@wikidataId":"Q1787671"}"
-{"@osmRelationId":"1691471"}"O
-M{"@wikipedia":"Foreste_Casentinesi,_Monte_Falterona,_Campigna_National_Park"}"G
+relation/6411459">
+<Foreste Casentinesi, Monte Falterona, Campigna National Park"
+
+Q1787671"	
+1691471">
+<Foreste_Casentinesi,_Monte_Falterona,_Campigna_National_Park"G
 EParco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna")
 'Nationalpark der Casentinischen W√§lder">
 <Casentinesi Forests, Monte Falterona, Campigna National Park"
-www.parks.it"
-
-Q1787671"J
+www.parks.it"J
 Hit:Parco nazionale delle Foreste Casentinesi, Monte Falterona e Campigna"
-relation/1691471"
-{"@name":"Brijuni"}"
-{"@wikidataId":"Q849748"}"
-{"@osmRelationId":"10047688"}"
-{"@country":"Croatia"}"
-{"@wikipedia":"Brijuni"}"
+relation/1691471"	
+Brijuni"	
+Q849748"
+
+10047688"	
+Croatia"
 Nacionalni park Brijuni"
 Nationalpark Brijuni-Inseln"
 Brijuni Islands National Park"$
 "Parco Nazionale delle Isole Brioni"	
 Q525105"
 it:Parco nazionale di Brioni"
-relation/10047688"/
--{"@name":"Sibillini Mountains National Park"}"
-{"@wikidataId":"Q1425191"}"
-{"@osmRelationId":"3171821"}"0
-.{"@wikipedia":"Monti_Sibillini_National_Park"}"%
-#Parco Nazionale dei Monti Sibillini""
- Nationalpark Sibillinische Berge"#
+relation/10047688"#
 !Sibillini Mountains National Park"
 
-Q1425191"(
+Q1425191"	
+3171821"
+Monti_Sibillini_National_Park"%
+#Parco Nazionale dei Monti Sibillini""
+ Nationalpark Sibillinische Berge"(
 &it:Parco nazionale dei Monti Sibillini"
-relation/3171821"9
-7{"@name":"Gran Sasso e Monti della Laga National Park"}"
-{"@wikidataId":"Q1027914"}"
-{"@osmRelationId":"3164710"}">
-<{"@wikipedia":"Gran_Sasso_e_Monti_della_Laga_National_Park"}"3
-1Parco Nazionale del Gran Sasso e Monti della Laga"
-1991"
+relation/3171821"-
++Gran Sasso e Monti della Laga National Park"
 
-Q1027914"6
+Q1027914"	
+3164710"-
++Gran_Sasso_e_Monti_della_Laga_National_Park"3
+1Parco Nazionale del Gran Sasso e Monti della Laga"
+1991"6
 4it:Parco nazionale del Gran Sasso e Monti della Laga"
-relation/3164710"#
-!{"@name":"Maiella National Park"}"
-{"@wikidataId":"Q1085735"}"
-{"@osmRelationId":"3159222"}"(
-&{"@wikipedia":"Maiella_National_Park"}"G
+relation/3164710"
+Maiella National Park"
+
+Q1085735"	
+3159222"
+Maiella_National_Park"G
 Ehttps://en.wikipedia.org/wiki/en:Maiella%20National%20Park?uselang=en"
 Parco Nazionale della Majella"k
 iMoved english wiki to description, and put italian wiki in place. The wikidata reference is multilingual."
 Parco nazionale della Maiella"4
-2https://www.parcomajella.it/Sentieri-nel-Parco.htm"
-
-Q1085735""
+2https://www.parcomajella.it/Sentieri-nel-Parco.htm""
  it:Parco nazionale della Maiella"
-relation/3159222"5
-3{"@name":"Abruzzo, Lazio and Molise National Park"}"
-{"@wikidataId":"Q1438999"}"
-{"@osmRelationId":"8426003"}":
-8{"@wikipedia":"Abruzzo,_Lazio_and_Molise_National_Park"}"+
+relation/3159222")
+'Abruzzo, Lazio and Molise National Park"
+
+Q1438999"	
+8426003")
+'Abruzzo,_Lazio_and_Molise_National_Park"+
 )Parco Nazionale d'Abruzzo, Lazio e Molise"*
 (Nationalpark Abruzzen, Latium und Molise",
 *National Park of Abruzzo, Lazio and Molise"0
 .Parque nacional de los Abruzos, Lacio y Molise".
 ,Parc national des Abruzzes, Latium et Molise"
 Parco Nazionale d'Abruzzo"
-1923"
-
-Q1438999".
+1923".
 ,it:Parco nazionale d'Abruzzo, Lazio e Molise"
-relation/8426003",
-*{"@name":"National Park Sjeverni Velebit"}"
-{"@wikidataId":"Q591878"}"
-{"@osmRelationId":"10048134"}"1
-/{"@wikipedia":"Northern_Velebit_National_Park"}""
+relation/8426003" 
+National Park Sjeverni Velebit"	
+Q591878"
+
+10048134" 
+Northern_Velebit_National_Park""
  Nacionalni park Sjeverni Velebit""
  Nationalpark N√∂rdlicher Velebit" 
 Northern Velebit National Park""
@@ -333,49 +310,44 @@ iMoved english wiki to description, and put italian wiki in place. The wikidata 
 Parc national du Nord Velebit",
 *Parco nazionale del Velebit settentrionale"
 Narodni park Severni Velebit"=
-;–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –°–µ–≤–µ—Ä–Ω–∏ –í–µ–ª–µ–±–∏—Ç"	
-Q591878"%
+;–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –°–µ–≤–µ—Ä–Ω–∏ –í–µ–ª–µ–±–∏—Ç"%
 #hr:Nacionalni park Sjeverni Velebit"
-relation/10048134"#
-!{"@name":"National Park Kornati"}"
-{"@wikidataId":"Q674039"}"
-{"@osmRelationId":"6572144"}":
+relation/10048134"
+National Park Kornati"	
+Q674039"	
+6572144":
 8http://static.panoramio.com/photos/original/59243532.jpg"
 Nacionalni park Kornati"
-Nationalpark Kornaten"
-National Park Kornati"
+Nationalpark Kornaten"
 archipelago"
 National Park"
-http://www.kornati.hr/"	
-Q674039"
+http://www.kornati.hr/"
 hr:Nacionalni park Kornati"
-relation/6572144"#
-!{"@name":"Gargano National Park"}"
-{"@wikidataId":"Q382227"}"
-{"@osmRelationId":"3349251"}"(
-&{"@wikipedia":"Gargano_National_Park"}"
+relation/6572144"
+Gargano National Park"	
+Q382227"	
+3349251"
+Gargano_National_Park"
 Parco Nazionale del Gargano"
-Nationalpark Gargano"
-Gargano National Park"
+Nationalpark Gargano"
 Parque nacional del Gargano"
 Parc national du Gargano"
 Nationaal park Gargano" 
-http://www.parcogargano.gov.it"	
-Q382227" 
+http://www.parcogargano.gov.it" 
 it:Parco nazionale del Gargano"
-relation/3349251"4
-2{"@name":"Neusiedler See-Seewinkel National Park"}"
-{"@wikidataId":"Q643017"}"
-{"@osmRelationId":"2197993"}"9
-7{"@wikipedia":"National_Park_Neusiedler_See-Seewinkel"}")
+relation/3349251"(
+&Neusiedler See-Seewinkel National Park"	
+Q643017"	
+2197993"(
+&National_Park_Neusiedler_See-Seewinkel")
 'Nationalpark Neusiedler See - Seewinkel"4
-2http://www.nationalpark-neusiedlersee-seewinkel.at"	
-Q643017"
-relation/2197993"(
-&{"@name":"Fru≈°ka Gora National Park"}"
-{"@wikidataId":"Q1280258"}"
-{"@osmRelationId":"9499039"}"
-{"@country":"Serbia"}"	
+2http://www.nationalpark-neusiedlersee-seewinkel.at"
+relation/2197993"
+Fru≈°ka Gora National Park"
+
+Q1280258"	
+9499039"
+Serbia"	
 YT-0001"
 	YUFF-0002"5
 3–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –§—Ä—É—à–∫–∞ –≥–æ—Ä–∞"
@@ -389,34 +361,30 @@ iMoved english wiki to description, and put italian wiki in place. The wikidata 
 Fruska Gora"
 Fru≈°ka gora"
 1960"&
-$https://www.protectedplanet.net/1053"
-
-Q1280258"8
+$https://www.protectedplanet.net/1053"8
 6sr:–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –§—Ä—É—à–∫–∞ –≥–æ—Ä–∞"
-relation/9499039"+
-){"@name":"Slovak Paradise National Park"}"
-{"@wikidataId":"Q1507799"}"
-{"@osmRelationId":"6757026"}"0
-.{"@wikipedia":"Slovak_Paradise_National_Park"}"
+relation/9499039"
+Slovak Paradise National Park"
+
+Q1507799"	
+6757026"
+Slovak_Paradise_National_Park"
 N√°rodn√Ω park Slovensk√Ω raj" 
 N√°rodn√≠ park Slovensk√Ω r√°j"$
-"Nationalpark Slowakisches Paradies"
-Slovak Paradise National Park""
+"Nationalpark Slowakisches Paradies""
  Szlov√°k Paradicsom Nemzeti Park"
 Park Narodowy S≈Çowacki Raj"
-–°–ª–æ–≤–∞—Ü–∫–∏–π —Ä–∞–π"
-
-Q1507799""
+–°–ª–æ–≤–∞—Ü–∫–∏–π —Ä–∞–π""
  sk:N√°rodn√Ω park Slovensk√Ω raj"
-relation/6757026"(
-&{"@name":"Slovak Karst National Park"}"
-{"@wikidataId":"Q1351150"}"
-{"@osmRelationId":"3572332"}"-
-+{"@wikipedia":"Slovak_Karst_National_Park"}" 
+relation/6757026"
+Slovak Karst National Park"
+
+Q1351150"	
+3572332"
+Slovak_Karst_National_Park" 
 N√°rodn√Ω park Slovensk√Ω kras" 
 N√°rodn√≠ park Slovensk√Ω kras"!
-Nationalpark Slowakischer Karst"
-Slovak Karst National Park"$
+Nationalpark Slowakischer Karst"$
 "Parque nacional del Carst eslovaco"%
 #Parc national du karst de Slovaquie"
 Szlov√°k Karszt Nemzeti Park"_
@@ -426,55 +394,49 @@ $https://www.protectedplanet.net/1053"
 'ÊñØÊ¥õ‰ºêÂÖãÂñÄÊñØÁâπÂ±±ËÑàÂúãÂÆ∂ÂÖ¨Âúí"
 28"
 9")
-'http://www.sopsr.sk/slovkras/index.html"
-
-Q1351150"
-relation/3572332"!
-{"@name":"B√ºkk National Park"}"
-{"@wikidataId":"Q855548"}"
-{"@osmRelationId":"377923"}"
-{"@country":"Hungary"}"*
-({"@wikipedia":"B%C3%BCkk_National_Park"}"
+'http://www.sopsr.sk/slovkras/index.html"
+relation/3572332"
+B√ºkk National Park"	
+Q855548"
+377923"	
+Hungary"
+B%C3%BCkk_National_Park"
 B√ºkki Nemzeti Park"
-Nationalpark B√ºkk"
-B√ºkk National Park"
+Nationalpark B√ºkk"
 N√°rodn√Ω park B√ºkk"
-http://bnpi.hu/"	
-Q855548"
+http://bnpi.hu/"
 hu:B√ºkki Nemzeti Park"
-relation/377923"&
-${"@name":"Hortob√°gy National Park"}"
-{"@wikidataId":"Q61757"}"
-{"@osmRelationId":"6503266"}"/
--{"@wikipedia":"Hortob%C3%A1gy_National_Park"}"
+relation/377923"
+Hortob√°gy National Park"
+Q61757"	
+6503266"
+Hortob%C3%A1gy_National_Park"
 HNP Egyek - Pusztak√≥cs"
 Hortob√°gyi Nemzeti Park"
-Hortob√°gyi-Nationalpark"
-Hortob√°gy National Park"
+Hortob√°gyi-Nationalpark"
 N√°rodn√Ω park Hortob√°gy"
 ÈúçÁàæÊâòÂ∑¥ÂêâÂúãÂÆ∂ÂÖ¨Âúí"
-http://www.hnp.hu"
-Q61757"
+http://www.hnp.hu"
 hu:Hortob√°gyi Nemzeti Park"
-relation/6503266"5
-3{"@name":"Semenic-Cheile Cara»ôului National Park"}"
-{"@wikidataId":"Q82371"}"
-{"@osmRelationId":"2196623"}"
-{"@country":"Romania"}"9
-7{"@wikipedia":"Semenic-Cara%C8%99_Gorge_National_Park"}".
+relation/6503266")
+'Semenic-Cheile Cara»ôului National Park"
+Q82371"	
+2196623"	
+Romania"(
+&Semenic-Cara%C8%99_Gorge_National_Park".
 ,Parcul Na»õional Semenic - Cheile Cara»ôului"&
 $Semenic - Cara»ô Gorge National Park"
 	ROSPA0086"%
 #MUN»öII SEMENIC - CHEILE CARA»òULUI"
 Natura 2000 Site"
-natura2000.eea.europa.eu"
-Q82371"'
+natura2000.eea.europa.eu"'
 %en:Semenic-Cara»ô Gorge National Park"
-relation/2196623" 
-{"@name":"Tara national park"}"
-{"@wikidataId":"Q1266612"}"
-{"@osmRelationId":"9499037"}"%
-#{"@wikipedia":"Tara_National_Park"}"	
+relation/2196623"
+Tara national park"
+
+Q1266612"	
+9499037"
+Tara_National_Park"	
 YT-0004"(
 &–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –¢–∞—Ä–∞"
 Nacionalni park Tara"
@@ -492,56 +454,53 @@ $Semenic - Cara»ô Gorge National Park"
 Tara"
 1981"'
 %https://www.protectedplanet.net/15596" 
-https://www.zzps.rs/wp/np-tra/"
-
-Q1266612"+
+https://www.zzps.rs/wp/np-tra/"+
 )sr:–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –¢–∞—Ä–∞"
-relation/9499037"$
-"{"@name":"Durmitor National Park"}"
-{"@wikidataId":"Q3364446"}"
-{"@osmRelationId":"10241242"}"
-{"@country":"Montenegro"}"
+relation/9499037"
+Durmitor National Park"
+
+Q3364446"
+
+10241242"
+
+Montenegro"
 Nacionalni Park Durmitor"
 N√°rodn√≠ park Durmitor"
-Nationalpark Durmitor"
-Durmitor National Park"
+Nationalpark Durmitor"
 Parque nacional Durmitor"4
 2–ù–∞—Ü–∏–æ–Ω–∞–ª—å–Ω—ã–π –ø–∞—Ä–∫ –î—É—Ä–º–∏—Ç–æ—Ä"0
 .–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –î—É—Ä–º–∏—Ç–æ—Ä"
 Nacionalni park Durmitor"
 100"
 1952"
-1980"
+1980"
+relation/10241242"
+Mljet Nacionalni Park"
 
-Q3364446"
-relation/10241242"#
-!{"@name":"Mljet Nacionalni Park"}"
-{"@wikidataId":"Q1574010"}"
-{"@osmRelationId":"10206060"}"
+Q1574010"
+
+10206060"
 Nacionalni park Mljet"
 Nationalpark Mljet"b
-`Zakon o izmjenama Zakona o progla≈°enju zapadnog dijela otoka Mljeta Nacionalnim parkom NN 13/97"
+`Zakon o izmjenama Zakona o progla≈°enju zapadnog dijela otoka Mljeta Nacionalnim parkom NN 13/97"
+relation/10206060"
+Biogradska Gora"
 
-Q1574010"
-relation/10206060"
-{"@name":"Biogradska Gora"}"
-{"@wikidataId":"Q1258880"}"
-{"@osmRelationId":"7126576"}""
- {"@wikipedia":"Biogradska_Gora"}"!
+Q1258880"	
+7126576"
+Biogradska_Gora"!
 Nacionalni Park Biogradska Gora"
 Nationalpark Biogradska Gora"
 Biogradska Gora National Park""
  Parc national de Biogradska gora"!
 Nacionalni park Biogradska gora"=
-;–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –ë–∏–æ–≥—Ä–∞–¥—Å–∫–∞ –≥–æ—Ä–∞"
-
-Q1258880"
-relation/7126576"
-{"@name":"Lake Skadar"}"
-{"@wikidataId":"Q203811"}"
-{"@osmRelationId":"392575"}"
-{"@country":"Albania"}"
-{"@wikipedia":"Lake_Skadar"}"
+;–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –ë–∏–æ–≥—Ä–∞–¥—Å–∫–∞ –≥–æ—Ä–∞"
+relation/7126576"
+Lake Skadar"	
+Q203811"
+392575"	
+Albania"
+Lake_Skadar"
 
 Shkodrasee"
 Lake Shkod√´r"
@@ -551,7 +510,6 @@ Shkodrasee"
 Skadarsko jezero"
 
 Skutarisee"
-Lake Skadar"
 Lago Skadar"
 Lac de Skadar"
 Lago di Scutari"
@@ -567,18 +525,17 @@ Skutarisee"
 9–°–∫–∞–¥–∞—Ä—Å—å–∫–µ –æ–∑–µ—Ä–æ / –û–∑–µ—Ä–æ –®–∫–æ–¥–µ—Ä"
 water"
 Dukljansko jezero"
-lake"	
-Q203811"
+lake"
 en:Lake Skadar"
-relation/392575"$
-"{"@name":"Kopaonik National Park"}"
-{"@wikidataId":"Q7253230"}"
-{"@osmRelationId":"9499191"}"	
+relation/392575"
+Kopaonik National Park"
+
+Q7253230"	
+9499191"	
 YT-0003"0
 .–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –ö–æ–ø–∞–æ–Ω–∏–∫"
 N√°rodn√≠ park Kopaonik"
-Nationalpark Kopaonik"
-Kopaonik National Park"
+Nationalpark Kopaonik"
 Nacionalni park Kopaonik"
 Parco nazionale di Kopaonik"
 Nationaal park Kopaonik"
@@ -586,15 +543,14 @@ Skutarisee"
 –ö–æ–ø–∞–æ–Ω–∏–∫"
 
 Kopaonik"
-https://www.npkopaonik.com"
-
-Q7253230"3
+https://www.npkopaonik.com"3
 1sr:–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –ö–æ–ø–∞–æ–Ω–∏–∫"
-relation/9499191"#
-!{"@name":"ƒêerdap national park"}"
-{"@wikidataId":"Q1258055"}"
-{"@osmRelationId":"9499038"}",
-*{"@wikipedia":"%C4%90erdap_national_park"}"	
+relation/9499191"
+ƒêerdap national park"
+
+Q1258055"	
+9499038"
+%C4%90erdap_national_park"	
 YT-0002"!
 under resurveying as of 9.8.19."
 Nacionalni park Djerdap",
@@ -608,16 +564,15 @@ Skutarisee"
 ƒêerdap"
 1974"&
 $https://www.protectedplanet.net/2522"
-http://www.npdjerdap.org/"
-
-Q1258055"/
+http://www.npdjerdap.org/"/
 -sr:–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ –Ç–µ—Ä–¥–∞–ø"
-relation/9499038"+
-){"@name":"Sharr Mountains National Park"}"
-{"@wikidataId":"Q1569160"}"
-{"@osmRelationId":"7708534"}"
-{"@country":"Kosovo"}"9
-7{"@wikipedia":"Sharr_Mountains_National_Park_(Kosovo)"}"
+relation/9499038"
+Sharr Mountains National Park"
+
+Q1569160"	
+7708534"
+Kosovo"(
+&Sharr_Mountains_National_Park_(Kosovo)"
 Parku Komb√´tar Sharr"
 Parku Komb√´tar "Sharri""
 Nationalpark "Sharri""
@@ -625,38 +580,32 @@ $https://www.protectedplanet.net/2522"
 &–ù–∞—Ü–∏–æ–Ω–∞–ª–µ–Ω –ø–∞—Ä–∫ –®–∞—Ä–∞"*
 (–ù–∞—Ü–∏–æ–Ω–∞–ª–Ω–∏ –ø–∞—Ä–∫ "–®–∞—Ä–∞""
 Nacionalni park "≈†ara""
-2012"
-
-Q1569160"
-relation/7708534"&
-${"@name":"Bieszczady National Park"}"
-{"@wikidataId":"Q613888"}"
-{"@osmRelationId":"5497863"}"
-{"@country":"Poland"}"+
-){"@wikipedia":"Bieszczady_National_Park"}"
+2012"
+relation/7708534"
+Bieszczady National Park"	
+Q613888"	
+5497863"
+Poland"
+Bieszczady_National_Park"
 Bieszczadzki Park Narodowy"
-Beskiden-Nationalpark"
-Bieszczady National Park"8
-6–ë–µ—â–∞–¥—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø–∞—Ä–∫"	
-Q613888"
-relation/5497863",
-*{"@name":"Uzhanskyi National Nature Park"}"
-{"@wikidataId":"Q4469611"}"
-{"@osmRelationId":"6446164"}"
-{"@country":"Ukraine"}"1
-/{"@wikipedia":"Uzhanskyi_National_Nature_Park"}"I
-G–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
-Nationaler Naturpark Usch" 
-Uzhanskyi National Nature Park"
-https://unpp.com.ua/"
+Beskiden-Nationalpark"8
+6–ë–µ—â–∞–¥—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø–∞—Ä–∫"
+relation/5497863" 
+Uzhanskyi National Nature Park"
 
-Q4469611"L
+Q4469611"	
+6446164"	
+Ukraine" 
+Uzhanskyi_National_Nature_Park"I
+G–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
+Nationaler Naturpark Usch"
+https://unpp.com.ua/"L
 Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
-relation/6446164"'
-%{"@name":"Alta Murgia National Park"}"
-{"@wikidataId":"Q680313"}"
-{"@osmRelationId":"9763706"}",
-*{"@wikipedia":"Alta_Murgia_National_Park"}""
+relation/6446164"
+Alta Murgia National Park"	
+Q680313"	
+9763706"
+Alta_Murgia_National_Park""
  Parco Nazionale dell'Alta Murgia"(
 &Ente Parco Nazionale dell' Alta Murgia"
 Parco Nazionale"
@@ -666,13 +615,12 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 Parco dell'Alta Murgia"
 
 2004/03/10"$
-"https://www.parcoaltamurgia.gov.it"	
-Q680313"
+"https://www.parcoaltamurgia.gov.it"
 fr:Parc national Alta Murgia"
-relation/9763706U$  		
+relation/9763706Y$  		
 
-"+	iÓ5í0/(  1(! .)ú. 	
- !"#$%"Á	ˆZ 		 	  	 	   	 	f  
+ª `"+	iÓ5í0/(  1(! .)†. 	
+ !"ñ‰q"Á	ˆZ 		 	  	 	   	 	f  
  
 
 
@@ -682,8 +630,8 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
       		 
    	 	é4
 
- 	A%* 	A* 	D:  	 "  	5 ΩF &'()*+,-+./01	234
-5 6!7"89#:$;%<=&>'?(@ABC"	¥ü¢
+ 	A%* 	A* 	D:  	 "  	5 ¡F #$%&'()*(+#,-	./0
+1 2!3"45#6$7%89&:';(<$=>∑Ó{"	¥ü¢
  
 
  
@@ -693,7 +641,7 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
   
 
 	  	 	 	 	 	
-	  			 	  			 		 §, DEFGH)IJJKL*MN+O,P-Q.R"STU"Ò	Ñ-
+	  			 	  			 		 ©, ?@ABC)DEEF?*GH+I,J-K.L @MN±º∏"Ò	Ñ-
 ™   
   
  		 	   	  	   
@@ -703,7 +651,7 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 	 D  
   
  	 
-    ‘* VWXGY)IZ[\]/^,_-`.R'abcd"£	Æ/o∫ 
+    Ÿ* OPQBR)DSTOU/V,W-X.L'YPZ[Ó ¨"£	Æ/o∫ 
  
    
  
@@ -724,14 +672,14 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 
   	  	 
 
-	 			    	     «" efghi0j!(klmn"û	˙¯
+	 			    	     Ã" \]^_`0a(b]cdË¸Ö"û	˙¯
 ⁄ 
 
    
   
  
  +	 			 	
-	 ª  opqrs1tuvw'x"(yz{"î	 ‹˙
+	 ø  efghi1jklm'n (ofpíÁk"î	 ‹˙
    	   
   	 	 		     
  		 
@@ -789,8 +737,8 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
  	dæÇ
  
 	
- 	 ’6 |}~2Ä3ÅÇÉ	Ñ
-Ö45Ü6á"(àâäã"ò	¶¸¬ 
+ 	 Œ* qrst2u3vwx	y
+z45{6| (}r~»€Ÿ"ò	¶¸¬ 
 
     
 	  				 	
@@ -799,8 +747,8 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
  	    	 
  6	 	
 	  
-ÿO åçéèê7ë8í23ì1tîïñó	òô
-ö#õ9î0úù(ûü†°"Ç	ﬁ“Í
+›O ÄÅÇÉÑ7Ö8Ü23á1jàâäÄ	ãå
+ç#é9à0èê(ëÅíìÆáØ"Ç	ﬁ“Í
 $
 
   	 	 		# 
@@ -810,29 +758,29 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
    
 
  
-	 Ú4 ¢£§r•1t¶:ß;<®!'©"(™´¨≠"∑	≤Ä
+	 ˆ4 îïñhó1jò:ô;<ö'õ (úïùûÆ∂q"∑	≤Ä
 Ú	   	  
   
 
  
 	
    	
-    	  	 # 	n@ 	Å?: 	4 	#ﬂ4 ÆØ∞r±1≤≥	¥*µ
-∂#∑∏=π∫ª"§	®ﬁí	 	  	 
+    	  	 # 	n@ 	Å?: 	4 	#‰4 ü†°h¢1£§	•*¶
+ß#®†=©™´Ï®„"§	®ﬁí	 	  	 
 
  
-    						*  	§# ºΩærø¿¿"(¡¬√"{	Æd“         
+    						*  	©# ¨≠ÆhØ∞∞ (±≠≤„ÜÜ"{	Æd“         
   
  
 
  	 
  
-  ö@ ƒ≈∆)«»…¿ À
-Ã"ÕŒ=/œ&–>—(“”‘"”	ÃP⁄   	    
+  ü@ ≥¥µ&∂∑∏∞π∫
+ª"ºΩ9/æ&ø>¿(¡¥¬®œ∏"”	ÃP⁄   	    
  
        
  	  	        
-	"  		-1 ü( ’÷◊rÿ?Ÿ1t⁄"(€‹›ﬁ"	äÆ“   
+	"  		-1 £( √ƒ≈h∆?«1j» (…ƒ Àﬂûl"	äÆ“   
 
 
 
@@ -846,9 +794,9 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 	#  !	  	1  	
 	 	
  		
-Q& ﬂ‡·‚1t„@®5‰"ÂÊÁ"%	‰Ó*z  
+S# ÃÕŒ1jÃ@ö5œ Õ–—√©á"%	‰Ó*z  
 
- ÷+ ËÈÍÎÏÌÓ4'Ô"ÒÚ"§	–Æ(Ú 
+ ⁄+ “”‘’÷◊ÿ4'Ÿ ”⁄€œûg"§	–Æ(Ú 
   
   
 
@@ -861,13 +809,13 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 
 
 	   		
-  	C, ÛÙıˆ˜1t¯˘˙
-˚¸˝˛"	îê!*#-Ÿ$ ˇÄÅÇÉÑÖ"Üáà"Æ	Ä÷0∫ 
+  	H, ‹›ﬁﬂ‹1j‡·‚
+„‰ÂÊ»°Â"	îê!*#-ﬁ$ ÁËÈÍÎÏÁ ËÌÓÌÀ¡"Æ	Ä÷0∫ 
   	
 	  	 	 		 		  
  		
 
- 	  	         	ßgJ  ¢! âäãåç>é"èêë"˙	é˙2    
+ 	  	         	ßgJ  ß! ÔÒÚÛ>Ù ıˆ¶î¡"˙	é˙2    
    
 
  
@@ -892,7 +840,7 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
  
 
 
-  	 	ˆ- íìîïAñóBòCô>é"(öõúù"¬	» 8Í	 
+  	 	˚- ˜¯˘˙A˚¸B˝C˛>Ù (ˇ¯ÄÅ∂È¿"¬	» 8Í	 
 
 
 
@@ -910,8 +858,8 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
  
 
  
-    à5 ûü†°¢£§•	¶
-¢Cß>®"©™´"Ã	¶Ë9í 
+    ç5 ÇÉÑÖÜáàâ	ä
+ÜCã>å Éçéì§Ç"Ã	¶Ë9í 
 		    
 	 
 
@@ -919,13 +867,13 @@ Juk:–£–∂–∞–Ω—Å—å–∫–∏–π –Ω–∞—Ü—ñ–æ–Ω–∞–ª—å–Ω–∏–π –ø—Ä–∏—Ä–æ–¥–Ω–∏–π –ø–∞—Ä–∫"
 		
 	+	  '	   
 
-" ç; ¨≠ÆˆØ1t∞±≤≥¥	µ
-∂9∑D∏π∫ª"L	Ï!í&  
+" í; èêëﬂí1jìîïñó	ò
+ô9öDõêúùÜ•Â"L	Ï!í&  
   	
-G +;y7 ºΩæˆ‚Eø1t¿¡¬
-F√ƒ"(≈∆«»"<	‡“)“	 4*."( -++_G%			 
-Ù3 … ÀÃÕŒœ–	—
-Õ"“"(”‘’÷"∫	¢‘8Í
+G +;{4 ûü†ﬂE°1j¢£û
+F§• (¶üß®êë"<	‡“)“	 4*."( -++_G%			 
+˘3 ©™´¨≠Æ©Ø	∞
+≠"± (≤™≥¥É∂Ã"∫	¢‘8Í
    		
  	
 
@@ -964,12 +912,12 @@ F√ƒ"(≈∆«»"<	‡“)“	 4*."( -++_G%			 
  	   * 	Éø:"	&Æ:
 
  	
-	ûˇ"	Â  ◊ÿŸr⁄€"(‹›ﬁ"æ	Ã¬	Í  	
+	ûˇ"	Í  µ∂∑h∏π (∫∂ªÈìÜ"æ	Ã¬	Í  	
 
 9+	 "9
 	ÆNB 	yÚ     
     	+:
- 	 	Ö™         	^" 	J  	!/ 		B	) ∏Q ﬂ‡·‚‚G„H‰ÂÊÁË*ÈDÂIËÍJÎ&ÏKÌLÏMÓ>ÔNÒÚÛ"‡	®0¯	*   	è# 	Ù* 	Î/	" 	 "   	 @"  
+ 	 	Ö™         	^" 	J  	!/ 		B	) ∫N ºΩæøG¿H¡¬√ƒ≈*∆D¬I≈«J»&…K L…MÀ>ÃNÕΩŒœü„√"‡	®0¯	*   	è# 	Ù* 	Î/	" 	 "   	 @"  
 	∑-Ç  
 
    
@@ -998,7 +946,7 @@ F√ƒ"(≈∆«»"<	‡“)“	 4*."( -++_G%			 
 
                          	
   	 	  	Ã1*  	
-*   	â 	  ·3 ÙıˆG˜¯˘˙˚*¸˝+˛#¯ˇÄÅ"ß	–4Ç
+*   	â 	  Ê3 –—“B”‘’÷–*◊ÿ+Ÿ#‘—⁄€¢µú"ß	–4Ç
 
 	 			 	
 	
@@ -1006,7 +954,7 @@ F√ƒ"(≈∆«»"<	‡“)“	 4*."( -++_G%			 
   		
  
  	 
-   ¬H ÇÉÑGÖ)IÜáàâä	ã*å ç"éè%ê,ë-í.R"(ìîï"Û	 5Æ∫
+   «H ‹›ﬁBﬂ)D‡·‚‹„	‰*Â Ê"ÁË%È,Í-Î.L (Ï›ÌÏÑ⁄"Û	 5Æ∫
   	
     			
 	 	 
@@ -1020,7 +968,7 @@ F√ƒ"(≈∆«»"<	‡“)“	 4*."( -++_G%			 
  
 
 
-    	    #		 	D¢ 	  π/ ñóòôö1tõúù#û(ü†°¢"É	‡5ﬁ      
+    	    #		 	D¢ 	  Ω/ ÓÔÒÚ1jÛÙÓ#ı(ˆÔ˜¯√à"É	‡5ﬁ      
 		 	 	    
   						 	
     	
@@ -1032,7 +980,7 @@ F√ƒ"(≈∆«»"<	‡“)“	 4*."( -++_G%			 
  	 
 
 		
-	 ¯8 £§•ô¶?ßO®1t®©™#´%¨(≠ÆØ∞"π	¿7ƒ∫	  	 ,*  
+	 ˝8 ˘˙˚Ò¸?˝O˛1j˛ˇ˘#Ä%Å(Ç˙ÉÑ‚ˆå"π	¿7ƒ∫	  	 ,*  
   $ 
 	  
 
@@ -1053,21 +1001,21 @@ F√ƒ"(≈∆«»"<	‡“)“	 4*."( -++_G%			 
  	U2		
 	ï"	x∑
 	_>	P%"	è≤	!C
- à2 ±≤≥¥µ1t∂∑P∏Qπ∫'ª"ºΩæ"œ	Ñ=– 
+ ç2 ÖÜáàâ1jäãPåQçé'è ÜêëèâÜ"œ	Ñ=– 
    
 
  
  " 	)  
  				 
    	
-				"*B	   Æe ø¿¡‚¬G√1tƒR≈∆«»≈
-…S "ÀDƒI≈%ÃTÕÍJŒ&œK–LœM–>—N“(”‘’÷"¬	æ- (Í 
+				"*B	   ≥e íìîøïGñ1jóRòôöõò
+úSù"ûDóIò%üT†«J°&¢K£L¢M£>§N•(¶ìß®ù„√"¬	æ- (Í 
  
   
     
 
   	  
-					 ’@ ◊ÿŸ⁄‚2Ä3Å€‹›ﬁﬂ+‡D·I‚U„>‰VÂÊÁ"é	‚,∏.ö
+					 ’; ©™´¨2u3v≠ÆØ©∞+±D≤I≥U¥>µV∂™∑⁄âÒ"é	‚,∏.ö
 
   0 &$*
 
@@ -1077,32 +1025,32 @@ F√ƒ"(≈∆«»"<	‡“)“	 4*."( -++_G%			 
 1*			
 
 	-
- " M& ËÈÍˆ‚1tÎÏ'Ì"ÓÔ"!	ﬁ"Ä2j(
-1 a- ÒÚ⁄Û1tÙıˆ	˜¯D˘"˙˚".	Æ/é1ö
+ " O# ∏π∫ﬂ1jªº'Ω πæÏˆÓ"!	ﬁ"Ä2j(
+1 f- ø¿¡¨¬1j√ƒ≈	∆«D» ¿…∞¸≤".	Æ/é1ö
 
-   3	 Èh ¸˝˛ˇÄWÅXÇYÉZÑÖRÜáàâ	äÜ
-ã!å[ç"éè\ê+ë#í]ìDîIÜ^ï_ñCó"`òôöõ"˙	ﬁ,ò6 	 
+   3	 Ìh  ÀÃÕŒWœX–Y—Z“”R‘’ ÷	◊‘
+ÿ!Ÿ[⁄"€‹\›+ﬁ#ﬂ]‡D·I‘^‚_„C‰ `ÂÀÊÁˇ˙"˙	ﬁ,ò6 	 
 
    $ 
     
 	
 
 
-  '  		  	      	 	Èh ¸˝˛⁄ÄWÅXÇYÉZÑÖRÜáàâ	äÜ
-ã!å[ç"éè\ê+ë#í]ìDîIÜ^ï_ñCó"`òôöõ"˙	ﬁ,ò6 	 
+  '  		  	      	 	Ìh  ÀÃ¨ŒWœX–Y—Z“”R‘’ ÷	◊‘
+ÿ!Ÿ[⁄"€‹\›+ﬁ#ﬂ]‡D·I‘^‚_„C‰ `ÂÀÊÁˇ˙"˙	ﬁ,ò6 	 
 
    $ 
     
 	
 
 
-  '  		  	      	 	äO úùû‚‚Gü†°¢£§
-•"¶D†I§Jß&®K©L®M©>—(™´¨≠"¥	ÿ6»-Í  
+  '  		  	      	 	åL ËÈÍøGÎÏÌÓËÔ
+"ÒDÏIÔJÚ&ÛKÙLÛMÙ>§(ıÈˆ˜∑‰√"¥	ÿ6»-Í  
  
 
        	    
 
-		L 	I òS ÆØ∞‚±G≤a≥b¥1tµ∂∑DµI∏ÍJπ&∫KªL∫Mº>Ω"Næ(ø¿¡¬"æ	Ü@®#⁄	  		 		
+		L 	I ùS ¯˘˙ø˚G¸a˝b˛1jˇÄÅDˇIÇ«JÉ&ÑKÖLÑMÜ>á Nà(â˘äãû„√"æ	Ü@®#⁄	  		 		
     
 
 "  
@@ -1111,7 +1059,7 @@ F√ƒ"(≈∆«»"<	‡“)“	 4*."( -++_G%			 
 
  
 	)! 	
-›4 √ƒ≈∆«?»… À[Ã]…DÕIŒ>œ–—"¢	û6®7Ç 
+‚4 åçéèê?ëíìî[ï]íDñIó>òçôˆæ÷"¢	û6®7Ç 
     
 	
 
@@ -1139,8 +1087,8 @@ F√ƒ"(≈∆«»"<	‡“)“	 4*."( -++_G%			 
 	ClÇ  
   		M+∫ 
 	
- I, “”‘’÷1t◊ÿŸ◊^⁄€‹"	†AüB  è1 ›ﬁﬂ‡·1t‚„‰^‚(ÂÊÁË"X	‡@ü¬  n
-	  	 	 	 'À8 ÈÍÎÏ1tÌTÓÄÔ56Ò&Ú>Û"(Ùıˆ˜"å	öƒ@≤   
+ N, öõúùû1jü†öü^°õ¢á»œ"	†AüB  î1 £§•¶ß1j®©£^®(™§´¨‘∏â"X	‡@ü¬  n
+	  	 	 	 'œ7 ≠ÆØ∞1j±T≤u≥5¥6µ&∂>∑ (∏Æπ∫˙ˆ”"å	öƒ@≤   
  
 	 
   
