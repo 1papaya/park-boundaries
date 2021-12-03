@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 3947664,
   "properties": {
-    "@name": "Farallon Islands National Wildlife Refuge",
-    "@wikidataId": "Q16830139",
-    "@osmRelationId": "3947664",
-    "@country": "United States of America",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Farallon Islands National Wildlife Refuge",
-    "operator": "U.S. Fish and Wildlife Service",
-    "ownership": "national",
-    "protect_class": "4",
-    "protection_title": "National Wildlife Refuge",
-    "type": "multipolygon",
-    "website": "https://www.fws.gov/refuge/farallon/",
-    "wikidata": "Q16830139",
-    "id": "relation/3947664"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Farallon Islands National Wildlife Refuge",
+      "operator": "U.S. Fish and Wildlife Service",
+      "ownership": "national",
+      "protect_class": "4",
+      "protection_title": "National Wildlife Refuge",
+      "type": "multipolygon",
+      "website": "https://www.fws.gov/refuge/farallon/",
+      "wikidata": "Q16830139"
+    },
+    "wiki": {
+      "name": "Farallon Islands National Wildlife Refuge",
+      "wikidataId": "Q16830139",
+      "osmRelationId": "3947664",
+      "country": "United States of America",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 2745823,
   "properties": {
-    "@name": "De Maasduinen National Park",
-    "@wikidataId": "Q1702950",
-    "@osmRelationId": "2745823",
-    "@country": "Kingdom of the Netherlands",
-    "@wikipedia": "De_Maasduinen_National_Park",
-    "boundary": "national_park",
-    "name": "Nationaal Park De Maasduinen",
-    "name:de": "Nationalpark Die Massdünen",
-    "name:nl": "Nationaal Park De Maasduinen",
-    "source": "prov. Limburg",
-    "type": "multipolygon",
-    "wikidata": "Q1702950",
-    "id": "relation/2745823"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Nationaal Park De Maasduinen",
+      "name:de": "Nationalpark Die Massdünen",
+      "name:nl": "Nationaal Park De Maasduinen",
+      "source": "prov. Limburg",
+      "type": "multipolygon",
+      "wikidata": "Q1702950"
+    },
+    "wiki": {
+      "name": "De Maasduinen National Park",
+      "wikidataId": "Q1702950",
+      "osmRelationId": "2745823",
+      "country": "Kingdom of the Netherlands",
+      "wikipedia": "De_Maasduinen_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

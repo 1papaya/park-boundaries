@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 5262525,
   "properties": {
-    "@name": "Southern Nantahala Wilderness",
-    "@wikidataId": "Q7570158",
-    "@osmRelationId": "5262525",
-    "@country": "United States of America",
-    "@wikipedia": "Southern_Nantahala_Wilderness",
-    "boundary": "protected_area",
-    "name": "Southern Nantahala Wilderness",
-    "note": "Adjusted per Towns County parcels",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q7570158",
-    "wikipedia": "en:Southern Nantahala Wilderness",
-    "id": "relation/5262525"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Southern Nantahala Wilderness",
+      "note": "Adjusted per Towns County parcels",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q7570158",
+      "wikipedia": "en:Southern Nantahala Wilderness"
+    },
+    "wiki": {
+      "name": "Southern Nantahala Wilderness",
+      "wikidataId": "Q7570158",
+      "osmRelationId": "5262525",
+      "country": "United States of America",
+      "wikipedia": "Southern_Nantahala_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

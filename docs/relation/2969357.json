@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 2969357,
   "properties": {
-    "@name": "Huai Kha Khaeng Wildlife Sanctuary",
-    "@wikidataId": "Q621134",
-    "@osmRelationId": "2969357",
-    "@country": "Thailand",
-    "@wikipedia": "Huai_Kha_Khaeng_Wildlife_Sanctuary",
-    "boundary": "protected_area",
-    "fixme": "approximately",
-    "name": "เขตรักษาพันธุ์สัตว์ป่าห้วยขาแข้ง",
-    "name:en": "Huai Kha Khaeng Wildlife Sanctuary",
-    "protect_class": "1a",
-    "type": "boundary",
-    "id": "relation/2969357"
+    "osm": {
+      "boundary": "protected_area",
+      "fixme": "approximately",
+      "name": "เขตรักษาพันธุ์สัตว์ป่าห้วยขาแข้ง",
+      "name:en": "Huai Kha Khaeng Wildlife Sanctuary",
+      "protect_class": "1a",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Huai Kha Khaeng Wildlife Sanctuary",
+      "wikidataId": "Q621134",
+      "osmRelationId": "2969357",
+      "country": "Thailand",
+      "wikipedia": "Huai_Kha_Khaeng_Wildlife_Sanctuary"
+    }
   },
   "geometry": {
     "type": "Polygon",

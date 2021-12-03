@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 1421712,
   "properties": {
-    "@name": "Belair National Park",
-    "@wikidataId": "Q643818",
-    "@osmRelationId": "1421712",
-    "@country": "Australia",
-    "@wikipedia": "Belair_National_Park",
-    "attribution": "http://www.naturemaps.sa.gov.au",
-    "boundary": "protected_area",
-    "iucn_level": "II",
-    "leisure": "nature_reserve",
-    "name": "Belair National Park",
-    "protect_class": "2",
-    "ref:capad:pa_id": "SA_0248",
-    "ref:dew:park_id": "248",
-    "type": "boundary",
-    "id": "relation/1421712"
+    "osm": {
+      "attribution": "http://www.naturemaps.sa.gov.au",
+      "boundary": "protected_area",
+      "iucn_level": "II",
+      "leisure": "nature_reserve",
+      "name": "Belair National Park",
+      "protect_class": "2",
+      "ref:capad:pa_id": "SA_0248",
+      "ref:dew:park_id": "248",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Belair National Park",
+      "wikidataId": "Q643818",
+      "osmRelationId": "1421712",
+      "country": "Australia",
+      "wikipedia": "Belair_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

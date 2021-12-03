@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 8426003,
   "properties": {
-    "@name": "Abruzzo, Lazio and Molise National Park",
-    "@wikidataId": "Q1438999",
-    "@osmRelationId": "8426003",
-    "@country": "Italy",
-    "@wikipedia": "Abruzzo,_Lazio_and_Molise_National_Park",
-    "boundary": "national_park",
-    "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
-    "name:de": "Nationalpark Abruzzen, Latium und Molise",
-    "name:en": "National Park of Abruzzo, Lazio and Molise",
-    "name:es": "Parque nacional de los Abruzos, Lacio y Molise",
-    "name:fr": "Parc national des Abruzzes, Latium et Molise",
-    "name:it": "Parco Nazionale d'Abruzzo, Lazio e Molise",
-    "old_name": "Parco Nazionale d'Abruzzo",
-    "protect_class": "2",
-    "start_date": "1923",
-    "type": "multipolygon",
-    "wikidata": "Q1438999",
-    "wikipedia": "it:Parco nazionale d'Abruzzo, Lazio e Molise",
-    "id": "relation/8426003"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
+      "name:de": "Nationalpark Abruzzen, Latium und Molise",
+      "name:en": "National Park of Abruzzo, Lazio and Molise",
+      "name:es": "Parque nacional de los Abruzos, Lacio y Molise",
+      "name:fr": "Parc national des Abruzzes, Latium et Molise",
+      "name:it": "Parco Nazionale d'Abruzzo, Lazio e Molise",
+      "old_name": "Parco Nazionale d'Abruzzo",
+      "protect_class": "2",
+      "start_date": "1923",
+      "type": "multipolygon",
+      "wikidata": "Q1438999",
+      "wikipedia": "it:Parco nazionale d'Abruzzo, Lazio e Molise"
+    },
+    "wiki": {
+      "name": "Abruzzo, Lazio and Molise National Park",
+      "wikidataId": "Q1438999",
+      "osmRelationId": "8426003",
+      "country": "Italy",
+      "wikipedia": "Abruzzo,_Lazio_and_Molise_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

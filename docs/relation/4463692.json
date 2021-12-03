@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 4463692,
   "properties": {
-    "@name": "Pingo en lata",
-    "@wikidataId": "Q829872",
-    "@osmRelationId": "4463692",
-    "@country": "Argentina",
-    "@wikipedia": "Monte_Le%C3%B3n_National_Park",
-    "boundary": "protected_area",
-    "name": "Parque Nacional Monte León",
-    "operator": "Administración Parques Nacionales",
-    "operator:type": "government",
-    "protect_class": "2",
-    "protected_area": "national_park",
-    "protection_title": "Parque Nacional",
-    "related_law": "Ley Nacional 25.945/04",
-    "start_date": "2004",
-    "type": "boundary",
-    "wikidata": "Q829872",
-    "wikipedia": "es:Parque nacional Monte León",
-    "id": "relation/4463692"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Parque Nacional Monte León",
+      "operator": "Administración Parques Nacionales",
+      "operator:type": "government",
+      "protect_class": "2",
+      "protected_area": "national_park",
+      "protection_title": "Parque Nacional",
+      "related_law": "Ley Nacional 25.945/04",
+      "start_date": "2004",
+      "type": "boundary",
+      "wikidata": "Q829872",
+      "wikipedia": "es:Parque nacional Monte León"
+    },
+    "wiki": {
+      "name": "Pingo en lata",
+      "wikidataId": "Q829872",
+      "osmRelationId": "4463692",
+      "country": "Argentina",
+      "wikipedia": "Monte_Le%C3%B3n_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

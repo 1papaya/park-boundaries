@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5973193,
   "properties": {
-    "@name": "Khustain Nuruu National Park",
-    "@wikidataId": "Q1639106",
-    "@osmRelationId": "5973193",
-    "@country": "Mongolia",
-    "@wikipedia": "Khustain_Nuruu_National_Park",
-    "alt_name": "Хустайн нуруу",
-    "alt_name:en": "Khustain Nuruu National Park",
-    "boundary": "national_park",
-    "name": "Хустайн Байгалийн Цогцолборт Газар",
-    "name:en": "Hustai National Park",
-    "type": "multipolygon",
-    "website": "http://hustai.mn",
-    "wikidata": "Q1639106",
-    "wikipedia": "mn:Хустайн байгалийн цогцолборт газар",
-    "id": "relation/5973193"
+    "osm": {
+      "alt_name": "Хустайн нуруу",
+      "alt_name:en": "Khustain Nuruu National Park",
+      "boundary": "national_park",
+      "name": "Хустайн Байгалийн Цогцолборт Газар",
+      "name:en": "Hustai National Park",
+      "type": "multipolygon",
+      "website": "http://hustai.mn",
+      "wikidata": "Q1639106",
+      "wikipedia": "mn:Хустайн байгалийн цогцолборт газар"
+    },
+    "wiki": {
+      "name": "Khustain Nuruu National Park",
+      "wikidataId": "Q1639106",
+      "osmRelationId": "5973193",
+      "country": "Mongolia",
+      "wikipedia": "Khustain_Nuruu_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

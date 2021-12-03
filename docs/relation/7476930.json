@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 7476930,
   "properties": {
-    "@name": "Wasaga Beach",
-    "@wikidataId": "Q3047234",
-    "@osmRelationId": "7476930",
-    "@country": "Canada",
-    "@wikipedia": "Wasaga_Beach",
-    "admin_level": "8",
-    "boundary": "administrative",
-    "name": "Wasaga Beach",
-    "place": "town",
-    "population": "20675",
-    "population:date": "2016",
-    "type": "boundary",
-    "website": "https://www.wasagabeach.com/",
-    "wikidata": "Q3047234",
-    "wikipedia": "en:Wasaga Beach",
-    "id": "relation/7476930"
+    "osm": {
+      "admin_level": "8",
+      "boundary": "administrative",
+      "name": "Wasaga Beach",
+      "place": "town",
+      "population": "20675",
+      "population:date": "2016",
+      "type": "boundary",
+      "website": "https://www.wasagabeach.com/",
+      "wikidata": "Q3047234",
+      "wikipedia": "en:Wasaga Beach"
+    },
+    "wiki": {
+      "name": "Wasaga Beach",
+      "wikidataId": "Q3047234",
+      "osmRelationId": "7476930",
+      "country": "Canada",
+      "wikipedia": "Wasaga_Beach"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 1536365,
   "properties": {
-    "@name": "Ultevis fjällurskog",
-    "@wikidataId": "Q30174644",
-    "@osmRelationId": "1536365",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:area_ha": "117267.2",
-    "lst:note": "N2000 SITE: SE0820190",
-    "lst:ref": "NR2001058",
-    "lst:tillkomst": "1988 2000",
-    "lst:url": "http://www.bd.lst.se/skydd_jmokk",
-    "name": "Ultevis fjällurskog",
-    "type": "multipolygon",
-    "wikidata": "Q30174644",
-    "id": "relation/1536365"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:area_ha": "117267.2",
+      "lst:note": "N2000 SITE: SE0820190",
+      "lst:ref": "NR2001058",
+      "lst:tillkomst": "1988 2000",
+      "lst:url": "http://www.bd.lst.se/skydd_jmokk",
+      "name": "Ultevis fjällurskog",
+      "type": "multipolygon",
+      "wikidata": "Q30174644"
+    },
+    "wiki": {
+      "name": "Ultevis fjällurskog",
+      "wikidataId": "Q30174644",
+      "osmRelationId": "1536365",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

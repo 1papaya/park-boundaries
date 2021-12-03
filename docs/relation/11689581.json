@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 11689581,
   "properties": {
-    "@name": "Moore River National Park",
-    "@wikidataId": "Q1266400",
-    "@osmRelationId": "11689581",
-    "@country": "Australia",
-    "@wikipedia": "Moore_River_National_Park",
-    "admin_level": "10",
-    "boundary": "administrative",
-    "name": "Moore River National Park",
-    "ref:psma:loc_pid": "WA2073",
-    "source": "PSMA_Admin_Boundaries",
-    "type": "boundary",
-    "id": "relation/11689581"
+    "osm": {
+      "admin_level": "10",
+      "boundary": "administrative",
+      "name": "Moore River National Park",
+      "ref:psma:loc_pid": "WA2073",
+      "source": "PSMA_Admin_Boundaries",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Moore River National Park",
+      "wikidataId": "Q1266400",
+      "osmRelationId": "11689581",
+      "country": "Australia",
+      "wikipedia": "Moore_River_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

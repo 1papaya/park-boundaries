@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 1237758,
   "properties": {
-    "@name": "Schleswig-Holstein Wadden Sea National Park",
-    "@wikidataId": "Q706721",
-    "@osmRelationId": "1237758",
-    "@country": "Germany",
-    "@wikipedia": "Schleswig-Holstein_Wadden_Sea_National_Park",
-    "boundary": "national_park",
-    "name": "Nationalpark Schleswig-Holsteinisches Wattenmeer",
-    "name:pl": "Park Narodowy Szlezwicko-Holsztyńskiego Morza Wattowego",
-    "note": "definition-details look in the german law: Nationalparkgesetz Schleswig-Holsteinisches Wattenmeer (Genau: Gesetz zum Schutze des schleswig-holsteinischen Wattenmeeres (Nationalparkgesetz - NPG) Vom 17. Dezember 1999)",
-    "note:de": "Details für die Definition des Schutzgebiets sind folgendem Gesetz zu entnehmen: Nationalparkgesetz Schleswig-Holsteinisches Wattenmeer (Genau: Gesetz zum Schutze des schleswig-holsteinischen Wattenmeeres (Nationalparkgesetz - NPG) Vom 17. Dezember 1999)",
-    "protect_class": "2",
-    "short_protection_title": "NLP",
-    "source": "Landesbetrieb für Küstenschutz, Nationalpark und Meeresschutz Schleswig-Holstein",
-    "type": "boundary",
-    "wikidata": "Q706721",
-    "wikipedia": "de:Nationalpark Schleswig-Holsteinisches Wattenmeer",
-    "id": "relation/1237758"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Nationalpark Schleswig-Holsteinisches Wattenmeer",
+      "name:pl": "Park Narodowy Szlezwicko-Holsztyńskiego Morza Wattowego",
+      "note": "definition-details look in the german law: Nationalparkgesetz Schleswig-Holsteinisches Wattenmeer (Genau: Gesetz zum Schutze des schleswig-holsteinischen Wattenmeeres (Nationalparkgesetz - NPG) Vom 17. Dezember 1999)",
+      "note:de": "Details für die Definition des Schutzgebiets sind folgendem Gesetz zu entnehmen: Nationalparkgesetz Schleswig-Holsteinisches Wattenmeer (Genau: Gesetz zum Schutze des schleswig-holsteinischen Wattenmeeres (Nationalparkgesetz - NPG) Vom 17. Dezember 1999)",
+      "protect_class": "2",
+      "short_protection_title": "NLP",
+      "source": "Landesbetrieb für Küstenschutz, Nationalpark und Meeresschutz Schleswig-Holstein",
+      "type": "boundary",
+      "wikidata": "Q706721",
+      "wikipedia": "de:Nationalpark Schleswig-Holsteinisches Wattenmeer"
+    },
+    "wiki": {
+      "name": "Schleswig-Holstein Wadden Sea National Park",
+      "wikidataId": "Q706721",
+      "osmRelationId": "1237758",
+      "country": "Germany",
+      "wikipedia": "Schleswig-Holstein_Wadden_Sea_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

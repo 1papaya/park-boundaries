@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 1534625,
   "properties": {
-    "@name": "Corralejo Natural Park",
-    "@wikidataId": "Q2054008",
-    "@osmRelationId": "1534625",
-    "@country": "Spain",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Parque Natural de Corralejo",
-    "natural": "beach",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q2054008",
-    "id": "relation/1534625"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Parque Natural de Corralejo",
+      "natural": "beach",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q2054008"
+    },
+    "wiki": {
+      "name": "Corralejo Natural Park",
+      "wikidataId": "Q2054008",
+      "osmRelationId": "1534625",
+      "country": "Spain",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

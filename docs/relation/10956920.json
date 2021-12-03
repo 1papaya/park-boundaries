@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 10956920,
   "properties": {
-    "@name": "Pamir National Park",
-    "@wikidataId": "Q3076575",
-    "@osmRelationId": "10956920",
-    "@country": "Tajikistan",
-    "@wikipedia": "Pamir_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Боғи миллии Тоҷикистон",
-    "name:de": "Tadschikischer Nationalpark",
-    "name:en": "Tajikistan National Park",
-    "name:ru": "Таджикский национальный парк",
-    "name:tg": "Боғи миллии Тоҷикистон",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q3076575",
-    "wikipedia": "tg:Боғи миллии Тоҷикистон",
-    "id": "relation/10956920"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Боғи миллии Тоҷикистон",
+      "name:de": "Tadschikischer Nationalpark",
+      "name:en": "Tajikistan National Park",
+      "name:ru": "Таджикский национальный парк",
+      "name:tg": "Боғи миллии Тоҷикистон",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q3076575",
+      "wikipedia": "tg:Боғи миллии Тоҷикистон"
+    },
+    "wiki": {
+      "name": "Pamir National Park",
+      "wikidataId": "Q3076575",
+      "osmRelationId": "10956920",
+      "country": "Tajikistan",
+      "wikipedia": "Pamir_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

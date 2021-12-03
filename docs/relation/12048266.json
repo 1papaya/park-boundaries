@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 12048266,
   "properties": {
-    "@name": "Réserve aquatique de la Vallée-de-la-Rivière-Sainte-Marguerite",
-    "@wikidataId": "Q97477582",
-    "@osmRelationId": "12048266",
-    "@country": "Canada",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Réserve aquatique de la Vallée-de-la-Rivière-Sainte-Marguerite",
-    "operator": "Ministère de l'Environnement et de la Lutte contre les changements climatiques",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q97477582",
-    "id": "relation/12048266"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Réserve aquatique de la Vallée-de-la-Rivière-Sainte-Marguerite",
+      "operator": "Ministère de l'Environnement et de la Lutte contre les changements climatiques",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q97477582"
+    },
+    "wiki": {
+      "name": "Réserve aquatique de la Vallée-de-la-Rivière-Sainte-Marguerite",
+      "wikidataId": "Q97477582",
+      "osmRelationId": "12048266",
+      "country": "Canada",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

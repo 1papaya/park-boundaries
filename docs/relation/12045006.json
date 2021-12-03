@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 12045006,
   "properties": {
-    "@name": "Chernobyl Radiation and Ecological Biosphere Reserve",
-    "@wikidataId": "Q23928179",
-    "@osmRelationId": "12045006",
-    "@country": "Ukraine",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Чорнобильський радіаційно-екологічний біосферний заповідник",
-    "name:en": "Chornobyl Radiation and Ecological Biosphere Reserve",
-    "name:nl": "Radio-ecologisch Biosfeerreservaat Tsjornobyl",
-    "name:ru": "Чернобыльский радиационно-экологический биосферный заповедник",
-    "name:uk": "Чорнобильський радіаційно-екологічний біосферний заповідник",
-    "protect_class": "1",
-    "protection_title": "nature_reserve",
-    "start_date": "26.04.2016",
-    "type": "boundary",
-    "wikidata": "Q23928179",
-    "wikipedia": "uk:Чорнобильський радіаційно-екологічний біосферний заповідник",
-    "id": "relation/12045006"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Чорнобильський радіаційно-екологічний біосферний заповідник",
+      "name:en": "Chornobyl Radiation and Ecological Biosphere Reserve",
+      "name:nl": "Radio-ecologisch Biosfeerreservaat Tsjornobyl",
+      "name:ru": "Чернобыльский радиационно-экологический биосферный заповедник",
+      "name:uk": "Чорнобильський радіаційно-екологічний біосферний заповідник",
+      "protect_class": "1",
+      "protection_title": "nature_reserve",
+      "start_date": "26.04.2016",
+      "type": "boundary",
+      "wikidata": "Q23928179",
+      "wikipedia": "uk:Чорнобильський радіаційно-екологічний біосферний заповідник"
+    },
+    "wiki": {
+      "name": "Chernobyl Radiation and Ecological Biosphere Reserve",
+      "wikidataId": "Q23928179",
+      "osmRelationId": "12045006",
+      "country": "Ukraine",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

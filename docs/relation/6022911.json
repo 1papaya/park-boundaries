@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 6022911,
   "properties": {
-    "@name": "Frank Church–River of No Return Wilderness",
-    "@wikidataId": "Q5485824",
-    "@osmRelationId": "6022911",
-    "@country": "United States of America",
-    "@wikipedia": "Frank_Church%E2%80%93River_of_No_Return_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Frank Church-River of No Return Wilderness",
-    "operator": "US Forest Service;BLM",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q5485824",
-    "id": "relation/6022911"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Frank Church-River of No Return Wilderness",
+      "operator": "US Forest Service;BLM",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q5485824"
+    },
+    "wiki": {
+      "name": "Frank Church–River of No Return Wilderness",
+      "wikidataId": "Q5485824",
+      "osmRelationId": "6022911",
+      "country": "United States of America",
+      "wikipedia": "Frank_Church%E2%80%93River_of_No_Return_Wilderness"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

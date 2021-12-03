@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 6000669,
   "properties": {
-    "@name": "North Absaroka Wilderness",
-    "@wikidataId": "Q7053649",
-    "@osmRelationId": "6000669",
-    "@country": "United States of America",
-    "@wikipedia": "North_Absaroka_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "North Absaroka Wilderness Area",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q7053649",
-    "wikipedia": "en:North Absaroka Wilderness",
-    "id": "relation/6000669"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "North Absaroka Wilderness Area",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q7053649",
+      "wikipedia": "en:North Absaroka Wilderness"
+    },
+    "wiki": {
+      "name": "North Absaroka Wilderness",
+      "wikidataId": "Q7053649",
+      "osmRelationId": "6000669",
+      "country": "United States of America",
+      "wikipedia": "North_Absaroka_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

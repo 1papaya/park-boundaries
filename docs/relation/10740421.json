@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 10740421,
   "properties": {
-    "@name": "Gunung Merapi National Park",
-    "@wikidataId": "Q3400914",
-    "@osmRelationId": "10740421",
-    "@country": "Indonesia",
-    "@wikipedia": null,
-    "boundary": "national_park",
-    "name": "Taman Nasional Gunung Merapi",
-    "name:en": "Gunung Merapi National Park",
-    "operator": "Balai Taman Nasional Gunung Merapi",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q3400914",
-    "wikipedia": "id:Taman Nasional Gunung Merapi",
-    "id": "relation/10740421"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Taman Nasional Gunung Merapi",
+      "name:en": "Gunung Merapi National Park",
+      "operator": "Balai Taman Nasional Gunung Merapi",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q3400914",
+      "wikipedia": "id:Taman Nasional Gunung Merapi"
+    },
+    "wiki": {
+      "name": "Gunung Merapi National Park",
+      "wikidataId": "Q3400914",
+      "osmRelationId": "10740421",
+      "country": "Indonesia",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

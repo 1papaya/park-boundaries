@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 9465507,
   "properties": {
-    "@name": "Cabbage Tree Bay Aquatic Reserve",
-    "@wikidataId": "Q106693201",
-    "@osmRelationId": "9465507",
-    "@country": "Australia",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "fixme": "geometry rough approximation from signage",
-    "leisure": "nature_reserve",
-    "maritime": "yes",
-    "name": "Cabbage Tree Bay Aquatic Reserve",
-    "protect_class": "4",
-    "protection_title": "Aquatic Reserve",
-    "source": "survey/sign",
-    "type": "boundary",
-    "website": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/aquatic-reserves/cabbage-tree-bay-aquatic-reserve",
-    "wikidata": "Q106693201",
-    "id": "relation/9465507"
+    "osm": {
+      "boundary": "protected_area",
+      "fixme": "geometry rough approximation from signage",
+      "leisure": "nature_reserve",
+      "maritime": "yes",
+      "name": "Cabbage Tree Bay Aquatic Reserve",
+      "protect_class": "4",
+      "protection_title": "Aquatic Reserve",
+      "source": "survey/sign",
+      "type": "boundary",
+      "website": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/aquatic-reserves/cabbage-tree-bay-aquatic-reserve",
+      "wikidata": "Q106693201"
+    },
+    "wiki": {
+      "name": "Cabbage Tree Bay Aquatic Reserve",
+      "wikidataId": "Q106693201",
+      "osmRelationId": "9465507",
+      "country": "Australia",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

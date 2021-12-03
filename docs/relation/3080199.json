@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 3080199,
   "properties": {
-    "@name": "Calanques National Park",
-    "@wikidataId": "Q2600427",
-    "@osmRelationId": "3080199",
-    "@country": "France",
-    "@wikipedia": "Calanques_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Parc national des Calanques (cœur)",
-    "name:fr": "Parc national des Calanques (cœur)",
-    "name:oc": "Pargue nacionau dei Calancas (còr)",
-    "protect_class": "2",
-    "protection_title": "cœur",
-    "source:name:oc": "ieo-bdtopoc",
-    "type": "boundary",
-    "wikidata": "Q2600427",
-    "wikipedia": "fr:Parc national des Calanques",
-    "id": "relation/3080199"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Parc national des Calanques (cœur)",
+      "name:fr": "Parc national des Calanques (cœur)",
+      "name:oc": "Pargue nacionau dei Calancas (còr)",
+      "protect_class": "2",
+      "protection_title": "cœur",
+      "source:name:oc": "ieo-bdtopoc",
+      "type": "boundary",
+      "wikidata": "Q2600427",
+      "wikipedia": "fr:Parc national des Calanques"
+    },
+    "wiki": {
+      "name": "Calanques National Park",
+      "wikidataId": "Q2600427",
+      "osmRelationId": "3080199",
+      "country": "France",
+      "wikipedia": "Calanques_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

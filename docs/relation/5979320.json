@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5979320,
   "properties": {
-    "@name": "La Madre Mountains Wilderness",
-    "@wikidataId": "Q6463591",
-    "@osmRelationId": "5979320",
-    "@country": "United States of America",
-    "@wikipedia": "La_Madre_Mountains_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "La Madre Mountain Wilderness",
-    "operator": "BLM;US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q6463591",
-    "id": "relation/5979320"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "La Madre Mountain Wilderness",
+      "operator": "BLM;US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q6463591"
+    },
+    "wiki": {
+      "name": "La Madre Mountains Wilderness",
+      "wikidataId": "Q6463591",
+      "osmRelationId": "5979320",
+      "country": "United States of America",
+      "wikipedia": "La_Madre_Mountains_Wilderness"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

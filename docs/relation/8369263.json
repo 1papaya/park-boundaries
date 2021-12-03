@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 8369263,
   "properties": {
-    "@name": "Zuytdorp Nature Reserve",
-    "@wikidataId": "Q106771099",
-    "@osmRelationId": "8369263",
-    "@country": "Australia",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "iucn_level": "IA",
-    "leisure": "nature_reserve",
-    "name": "Zuytdorp Nature Reserve",
-    "protect_class": "1",
-    "ref:capad:pa_id": "WA_34771",
-    "type": "boundary",
-    "id": "relation/8369263"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "IA",
+      "leisure": "nature_reserve",
+      "name": "Zuytdorp Nature Reserve",
+      "protect_class": "1",
+      "ref:capad:pa_id": "WA_34771",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Zuytdorp Nature Reserve",
+      "wikidataId": "Q106771099",
+      "osmRelationId": "8369263",
+      "country": "Australia",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

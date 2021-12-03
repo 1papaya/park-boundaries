@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 8258326,
   "properties": {
-    "@name": "Campina do Encantado State Park",
-    "@wikidataId": "Q18481023",
-    "@osmRelationId": "8258326",
-    "@country": "Brazil",
-    "@wikipedia": "Campina_do_Encantado_State_Park",
-    "boundary": "protected_area",
-    "name": "Parque Estadual Campina do Encantado",
-    "protect_class": "2",
-    "protection_title": "parque estadual",
-    "type": "multipolygon",
-    "wikidata": "Q18481023",
-    "id": "relation/8258326"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Parque Estadual Campina do Encantado",
+      "protect_class": "2",
+      "protection_title": "parque estadual",
+      "type": "multipolygon",
+      "wikidata": "Q18481023"
+    },
+    "wiki": {
+      "name": "Campina do Encantado State Park",
+      "wikidataId": "Q18481023",
+      "osmRelationId": "8258326",
+      "country": "Brazil",
+      "wikipedia": "Campina_do_Encantado_State_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

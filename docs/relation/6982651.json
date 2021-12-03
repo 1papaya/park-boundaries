@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 6982651,
   "properties": {
-    "@name": "Kahurangi National Park",
-    "@wikidataId": "Q1429722",
-    "@osmRelationId": "6982651",
-    "@country": "New Zealand",
-    "@wikipedia": "Kahurangi_National_Park",
-    "boundary": "national_park",
-    "name": "Kahurangi National Park",
-    "name:cs": "Národní park Kahurangi",
-    "name:en": "Kahurangi National Park",
-    "name:mk": "Национален парк Кахуранги",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q1429722",
-    "id": "relation/6982651"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Kahurangi National Park",
+      "name:cs": "Národní park Kahurangi",
+      "name:en": "Kahurangi National Park",
+      "name:mk": "Национален парк Кахуранги",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q1429722"
+    },
+    "wiki": {
+      "name": "Kahurangi National Park",
+      "wikidataId": "Q1429722",
+      "osmRelationId": "6982651",
+      "country": "New Zealand",
+      "wikipedia": "Kahurangi_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

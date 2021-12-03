@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 5974781,
   "properties": {
-    "@name": "Great Basin National Park",
-    "@wikidataId": "Q1137657",
-    "@osmRelationId": "5974781",
-    "@country": "United States of America",
-    "@wikipedia": "Great_Basin_National_Park",
-    "boundary": "national_park",
-    "boundary:type": "protected_area",
-    "gnis:feature_id": "862430",
-    "leisure": "nature_reserve",
-    "name": "Great Basin National Park",
-    "operator": "United States National Park Service",
-    "ownership": "national",
-    "protect_class": "2",
-    "protected": "perpetuity",
-    "protection_title": "National Park",
-    "type": "boundary",
-    "wikidata": "Q1137657",
-    "wikipedia": "en:Great Basin National Park",
-    "id": "relation/5974781"
+    "osm": {
+      "boundary": "national_park",
+      "boundary:type": "protected_area",
+      "gnis:feature_id": "862430",
+      "leisure": "nature_reserve",
+      "name": "Great Basin National Park",
+      "operator": "United States National Park Service",
+      "ownership": "national",
+      "protect_class": "2",
+      "protected": "perpetuity",
+      "protection_title": "National Park",
+      "type": "boundary",
+      "wikidata": "Q1137657",
+      "wikipedia": "en:Great Basin National Park"
+    },
+    "wiki": {
+      "name": "Great Basin National Park",
+      "wikidataId": "Q1137657",
+      "osmRelationId": "5974781",
+      "country": "United States of America",
+      "wikipedia": "Great_Basin_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

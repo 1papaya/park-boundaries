@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5979355,
   "properties": {
-    "@name": "Mount Charleston Wilderness",
-    "@wikidataId": "Q6920111",
-    "@osmRelationId": "5979355",
-    "@country": "United States of America",
-    "@wikipedia": "Mount_Charleston_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Mount Charleston Wilderness Area",
-    "operator": "BLM;US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q6920111",
-    "id": "relation/5979355"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Mount Charleston Wilderness Area",
+      "operator": "BLM;US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q6920111"
+    },
+    "wiki": {
+      "name": "Mount Charleston Wilderness",
+      "wikidataId": "Q6920111",
+      "osmRelationId": "5979355",
+      "country": "United States of America",
+      "wikipedia": "Mount_Charleston_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

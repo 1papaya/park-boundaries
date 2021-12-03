@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 377923,
   "properties": {
-    "@name": "Bükk National Park",
-    "@wikidataId": "Q855548",
-    "@osmRelationId": "377923",
-    "@country": "Hungary",
-    "@wikipedia": "B%C3%BCkk_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Bükki Nemzeti Park",
-    "name:de": "Nationalpark Bükk",
-    "name:en": "Bükk National Park",
-    "name:sk": "Národný park Bükk",
-    "protect_class": "2",
-    "type": "boundary",
-    "website": "http://bnpi.hu/",
-    "wikidata": "Q855548",
-    "wikipedia": "hu:Bükki Nemzeti Park",
-    "id": "relation/377923"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Bükki Nemzeti Park",
+      "name:de": "Nationalpark Bükk",
+      "name:en": "Bükk National Park",
+      "name:sk": "Národný park Bükk",
+      "protect_class": "2",
+      "type": "boundary",
+      "website": "http://bnpi.hu/",
+      "wikidata": "Q855548",
+      "wikipedia": "hu:Bükki Nemzeti Park"
+    },
+    "wiki": {
+      "name": "Bükk National Park",
+      "wikidataId": "Q855548",
+      "osmRelationId": "377923",
+      "country": "Hungary",
+      "wikipedia": "B%C3%BCkk_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

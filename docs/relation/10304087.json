@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 10304087,
   "properties": {
-    "@name": "Forêts National Park",
-    "@wikidataId": "Q3364499",
-    "@osmRelationId": "10304087",
-    "@country": "France",
-    "@wikipedia": "For%C3%AAts_National_Park",
-    "boundary": "protected_area",
-    "fixme": "Limite à mettre  à jour , voir \nhttps://trouver.ternum-bfc.fr/dataset/2d9872ee-ccc8-4a69-8721-8d01ffe6f461",
-    "leisure": "nature_reserve",
-    "name": "Parc national de forêts (cœur)",
-    "protect_class": "2",
-    "protection_title": "cœur",
-    "type": "boundary",
-    "valid_from": "2019",
-    "website": "http://www.forets-champagne-bourgogne.fr/",
-    "wikidata": "Q3364499",
-    "wikipedia": "fr:Parc national de forêts",
-    "id": "relation/10304087"
+    "osm": {
+      "boundary": "protected_area",
+      "fixme": "Limite à mettre  à jour , voir \nhttps://trouver.ternum-bfc.fr/dataset/2d9872ee-ccc8-4a69-8721-8d01ffe6f461",
+      "leisure": "nature_reserve",
+      "name": "Parc national de forêts (cœur)",
+      "protect_class": "2",
+      "protection_title": "cœur",
+      "type": "boundary",
+      "valid_from": "2019",
+      "website": "http://www.forets-champagne-bourgogne.fr/",
+      "wikidata": "Q3364499",
+      "wikipedia": "fr:Parc national de forêts"
+    },
+    "wiki": {
+      "name": "Forêts National Park",
+      "wikidataId": "Q3364499",
+      "osmRelationId": "10304087",
+      "country": "France",
+      "wikipedia": "For%C3%AAts_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 6407678,
   "properties": {
-    "@name": "Riserva naturale Piano degli Ontani",
-    "@wikidataId": "Q3936682",
-    "@osmRelationId": "6407678",
-    "@country": "Italy",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Riserva naturale Piano degli Ontani",
-    "protected_object": "nature",
-    "ref:EUAP": "0136",
-    "type": "multipolygon",
-    "wikidata": "Q3936682",
-    "wikipedia": "it:Riserva naturale Piano degli Ontani",
-    "id": "relation/6407678"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Riserva naturale Piano degli Ontani",
+      "protected_object": "nature",
+      "ref:EUAP": "0136",
+      "type": "multipolygon",
+      "wikidata": "Q3936682",
+      "wikipedia": "it:Riserva naturale Piano degli Ontani"
+    },
+    "wiki": {
+      "name": "Riserva naturale Piano degli Ontani",
+      "wikidataId": "Q3936682",
+      "osmRelationId": "6407678",
+      "country": "Italy",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

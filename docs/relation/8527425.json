@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 8527425,
   "properties": {
-    "@name": "Redfish Rocks Marine Reserve",
-    "@wikidataId": "Q38023595",
-    "@osmRelationId": "8527425",
-    "@country": "United States of America",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Redfish Rocks Marine Reserve",
-    "operator": "Oregon Department of Fish and Wildlife",
-    "protect_class": "1a",
-    "type": "boundary",
-    "website": "http://oregonmarinereserves.com/reserves/redfish-rocks/",
-    "wikidata": "Q38023595",
-    "id": "relation/8527425"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Redfish Rocks Marine Reserve",
+      "operator": "Oregon Department of Fish and Wildlife",
+      "protect_class": "1a",
+      "type": "boundary",
+      "website": "http://oregonmarinereserves.com/reserves/redfish-rocks/",
+      "wikidata": "Q38023595"
+    },
+    "wiki": {
+      "name": "Redfish Rocks Marine Reserve",
+      "wikidataId": "Q38023595",
+      "osmRelationId": "8527425",
+      "country": "United States of America",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

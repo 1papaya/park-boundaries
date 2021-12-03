@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 7149246,
   "properties": {
-    "@name": "Saltarö-Skärmarö nature reserve",
-    "@wikidataId": "Q29344882",
-    "@osmRelationId": "7149246",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "lst:anmärkning": "Dossienr. Lst: 0120-02-007",
-    "lst:area_ha": "126.74",
-    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
-    "lst:ref": "0102026",
-    "lst:tillkomst": "1965-01-22",
-    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
-    "name": "Saltarö-Skärmarö Naturreservat",
-    "type": "multipolygon",
-    "wikidata": "Q29344882",
-    "id": "relation/7149246"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "lst:anmärkning": "Dossienr. Lst: 0120-02-007",
+      "lst:area_ha": "126.74",
+      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+      "lst:ref": "0102026",
+      "lst:tillkomst": "1965-01-22",
+      "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+      "name": "Saltarö-Skärmarö Naturreservat",
+      "type": "multipolygon",
+      "wikidata": "Q29344882"
+    },
+    "wiki": {
+      "name": "Saltarö-Skärmarö nature reserve",
+      "wikidataId": "Q29344882",
+      "osmRelationId": "7149246",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

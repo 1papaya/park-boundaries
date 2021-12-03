@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5411100,
   "properties": {
-    "@name": "South Fork Eel River Wilderness",
-    "@wikidataId": "Q7567273",
-    "@osmRelationId": "5411100",
-    "@country": "United States of America",
-    "@wikipedia": "South_Fork_Eel_River_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "South Fork Eel River Wilderness",
-    "operator": "BLM",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "multipolygon",
-    "wikidata": "Q7567273",
-    "id": "relation/5411100"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "South Fork Eel River Wilderness",
+      "operator": "BLM",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "multipolygon",
+      "wikidata": "Q7567273"
+    },
+    "wiki": {
+      "name": "South Fork Eel River Wilderness",
+      "wikidataId": "Q7567273",
+      "osmRelationId": "5411100",
+      "country": "United States of America",
+      "wikipedia": "South_Fork_Eel_River_Wilderness"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

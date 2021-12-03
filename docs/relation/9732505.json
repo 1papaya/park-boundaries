@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 9732505,
   "properties": {
-    "@name": "Jaktstuguskogen",
-    "@wikidataId": "Q10539363",
-    "@osmRelationId": "9732505",
-    "@country": "Sweden",
-    "@wikipedia": "Jaktstuguskogen_Nature_Reserve",
-    "leisure": "nature_reserve",
-    "lst:area_ha": "53.16679081",
-    "lst:metodbeskrivning": "Digitaliserad mha diggbord från papperskarta i skala 1:10 000",
-    "lst:ref": "2001303.0",
-    "lst:reviderad": "2001-05-18",
-    "name": "Jaktstuguskogen",
-    "natural": "wood",
-    "start_date": "1919-08-2",
-    "type": "multipolygon",
-    "wikidata": "Q10539363",
-    "id": "relation/9732505"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:area_ha": "53.16679081",
+      "lst:metodbeskrivning": "Digitaliserad mha diggbord från papperskarta i skala 1:10 000",
+      "lst:ref": "2001303.0",
+      "lst:reviderad": "2001-05-18",
+      "name": "Jaktstuguskogen",
+      "natural": "wood",
+      "start_date": "1919-08-2",
+      "type": "multipolygon",
+      "wikidata": "Q10539363"
+    },
+    "wiki": {
+      "name": "Jaktstuguskogen",
+      "wikidataId": "Q10539363",
+      "osmRelationId": "9732505",
+      "country": "Sweden",
+      "wikipedia": "Jaktstuguskogen_Nature_Reserve"
+    }
   },
   "geometry": {
     "type": "Polygon",

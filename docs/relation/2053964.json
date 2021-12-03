@@ -2,15 +2,18 @@
   "type": "Feature",
   "id": 2053964,
   "properties": {
-    "@name": "Mistaken Point Ecological Reserve",
-    "@wikidataId": "Q3301928",
-    "@osmRelationId": "2053964",
-    "@country": "Canada",
-    "@wikipedia": "Mistaken_Point_Ecological_Reserve",
-    "leisure": "nature_reserve",
-    "name": "Mistaken Point Ecological Reserve",
-    "type": "multipolygon",
-    "id": "relation/2053964"
+    "osm": {
+      "leisure": "nature_reserve",
+      "name": "Mistaken Point Ecological Reserve",
+      "type": "multipolygon"
+    },
+    "wiki": {
+      "name": "Mistaken Point Ecological Reserve",
+      "wikidataId": "Q3301928",
+      "osmRelationId": "2053964",
+      "country": "Canada",
+      "wikipedia": "Mistaken_Point_Ecological_Reserve"
+    }
   },
   "geometry": {
     "type": "Polygon",

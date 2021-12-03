@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 2779216,
   "properties": {
-    "@name": "Chumash Wilderness",
-    "@wikidataId": "Q5116142",
-    "@osmRelationId": "2779216",
-    "@country": "United States of America",
-    "@wikipedia": "Chumash_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Chumash Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "park:type": "national_forest;wilderness",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "source": "http://fsgeodata.fs.fed.us/vector/lsrs.php",
-    "type": "boundary",
-    "wikidata": "Q5116142",
-    "id": "relation/2779216"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Chumash Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "park:type": "national_forest;wilderness",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "source": "http://fsgeodata.fs.fed.us/vector/lsrs.php",
+      "type": "boundary",
+      "wikidata": "Q5116142"
+    },
+    "wiki": {
+      "name": "Chumash Wilderness",
+      "wikidataId": "Q5116142",
+      "osmRelationId": "2779216",
+      "country": "United States of America",
+      "wikipedia": "Chumash_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

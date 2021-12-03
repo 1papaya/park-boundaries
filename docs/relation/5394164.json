@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5394164,
   "properties": {
-    "@name": "Lassen Volcanic Wilderness",
-    "@wikidataId": "Q27950428",
-    "@osmRelationId": "5394164",
-    "@country": "United States of America",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Lassen Volcanic Wilderness",
-    "operator": "National Park Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "multipolygon",
-    "wikidata": "Q27950428",
-    "id": "relation/5394164"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Lassen Volcanic Wilderness",
+      "operator": "National Park Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "multipolygon",
+      "wikidata": "Q27950428"
+    },
+    "wiki": {
+      "name": "Lassen Volcanic Wilderness",
+      "wikidataId": "Q27950428",
+      "osmRelationId": "5394164",
+      "country": "United States of America",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 551773,
   "properties": {
-    "@name": "Naracoorte Caves National Park",
-    "@wikidataId": "Q1135796",
-    "@osmRelationId": "551773",
-    "@country": "Australia",
-    "@wikipedia": "Naracoorte_Caves_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "II",
-    "leisure": "nature_reserve",
-    "name": "Naracoorte Caves National Park",
-    "protect_class": "2",
-    "ref:capad:pa_id": "SA_0097",
-    "ref:dew:park_id": "97",
-    "type": "boundary",
-    "wikidata": "Q1135796",
-    "wikimedia_commons": "Category:Naracoorte Caves National Park",
-    "wikipedia": "en:Naracoorte Caves National Park",
-    "id": "relation/551773"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "II",
+      "leisure": "nature_reserve",
+      "name": "Naracoorte Caves National Park",
+      "protect_class": "2",
+      "ref:capad:pa_id": "SA_0097",
+      "ref:dew:park_id": "97",
+      "type": "boundary",
+      "wikidata": "Q1135796",
+      "wikimedia_commons": "Category:Naracoorte Caves National Park",
+      "wikipedia": "en:Naracoorte Caves National Park"
+    },
+    "wiki": {
+      "name": "Naracoorte Caves National Park",
+      "wikidataId": "Q1135796",
+      "osmRelationId": "551773",
+      "country": "Australia",
+      "wikipedia": "Naracoorte_Caves_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

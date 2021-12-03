@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 7735079,
   "properties": {
-    "@name": "Yelverton National Park",
-    "@wikidataId": "Q39080069",
-    "@osmRelationId": "7735079",
-    "@country": "Australia",
-    "@wikipedia": "Yelverton_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "II",
-    "leisure": "nature_reserve",
-    "name": "Yelverton National Park",
-    "operator": "WA-Department of Parks and Wildlife (DPaW)",
-    "protect_class": "2",
-    "protection_title": "National Park",
-    "ref:capad:pa_id": "WA_47672",
-    "source": "CAPAD 2016 - Terrestrial",
-    "start_date": "2004-12-08",
-    "type": "boundary",
-    "wikidata": "Q39080069",
-    "id": "relation/7735079"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "II",
+      "leisure": "nature_reserve",
+      "name": "Yelverton National Park",
+      "operator": "WA-Department of Parks and Wildlife (DPaW)",
+      "protect_class": "2",
+      "protection_title": "National Park",
+      "ref:capad:pa_id": "WA_47672",
+      "source": "CAPAD 2016 - Terrestrial",
+      "start_date": "2004-12-08",
+      "type": "boundary",
+      "wikidata": "Q39080069"
+    },
+    "wiki": {
+      "name": "Yelverton National Park",
+      "wikidataId": "Q39080069",
+      "osmRelationId": "7735079",
+      "country": "Australia",
+      "wikipedia": "Yelverton_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

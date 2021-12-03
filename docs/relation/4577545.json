@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 4577545,
   "properties": {
-    "@name": "Q18481043",
-    "@wikidataId": "Q18481043",
-    "@osmRelationId": "4577545",
-    "@country": "Brazil",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "name": "Parque Estadual de Caxambu",
-    "protect_class": "2",
-    "protection_title": "parque estadual",
-    "related_law": "Decreto Estadual n. 3281, de 18 de novembro de 2011",
-    "type": "multipolygon",
-    "wikidata": "Q18481043",
-    "wikipedia": "pt:Parque Estadual de Caxambu",
-    "id": "relation/4577545"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Parque Estadual de Caxambu",
+      "protect_class": "2",
+      "protection_title": "parque estadual",
+      "related_law": "Decreto Estadual n. 3281, de 18 de novembro de 2011",
+      "type": "multipolygon",
+      "wikidata": "Q18481043",
+      "wikipedia": "pt:Parque Estadual de Caxambu"
+    },
+    "wiki": {
+      "name": "Q18481043",
+      "wikidataId": "Q18481043",
+      "osmRelationId": "4577545",
+      "country": "Brazil",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

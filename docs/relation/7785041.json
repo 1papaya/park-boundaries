@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 7785041,
   "properties": {
-    "@name": "Ilha Anchieta State Park",
-    "@wikidataId": "Q10301056",
-    "@osmRelationId": "7785041",
-    "@country": "Brazil",
-    "@wikipedia": "Ilha_Anchieta_State_Park",
-    "alt_name": "Ilha dos Porcos",
-    "name": "Ilha Anchieta",
-    "official_name": "Parque Estadual da Ilha Anchieta",
-    "place": "island",
-    "type": "multipolygon",
-    "wikidata": "Q10301056",
-    "wikipedia": "pt:Parque Estadual da Ilha Anchieta",
-    "id": "relation/7785041"
+    "osm": {
+      "alt_name": "Ilha dos Porcos",
+      "name": "Ilha Anchieta",
+      "official_name": "Parque Estadual da Ilha Anchieta",
+      "place": "island",
+      "type": "multipolygon",
+      "wikidata": "Q10301056",
+      "wikipedia": "pt:Parque Estadual da Ilha Anchieta"
+    },
+    "wiki": {
+      "name": "Ilha Anchieta State Park",
+      "wikidataId": "Q10301056",
+      "osmRelationId": "7785041",
+      "country": "Brazil",
+      "wikipedia": "Ilha_Anchieta_State_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

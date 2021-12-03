@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 6114550,
   "properties": {
-    "@name": "Wild Sky Wilderness",
-    "@wikidataId": "Q3568121",
-    "@osmRelationId": "6114550",
-    "@country": "United States of America",
-    "@wikipedia": "Wild_Sky_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Wild Sky Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "multipolygon",
-    "wikidata": "Q3568121",
-    "wikipedia": "en:Wild Sky Wilderness",
-    "id": "relation/6114550"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Wild Sky Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "multipolygon",
+      "wikidata": "Q3568121",
+      "wikipedia": "en:Wild Sky Wilderness"
+    },
+    "wiki": {
+      "name": "Wild Sky Wilderness",
+      "wikidataId": "Q3568121",
+      "osmRelationId": "6114550",
+      "country": "United States of America",
+      "wikipedia": "Wild_Sky_Wilderness"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

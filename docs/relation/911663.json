@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 911663,
   "properties": {
-    "@name": "Puinawai Natural Reserve",
-    "@wikidataId": "Q7259049",
-    "@osmRelationId": "911663",
-    "@country": "Colombia",
-    "@wikipedia": "Puinawai_Natural_Reserve",
-    "area": "yes",
-    "boundary": "national_park",
-    "name": "Reserva Nacional Natural Puinawai",
-    "name:en": "Puinawai Natural Reserve",
-    "norma_creacion": "AC 048 -IX/89",
-    "protect_id": "2",
-    "source": "SIGOT DANE UNODC-SIMCI OCHA-COLOMBIA",
-    "type": "multipolygon",
-    "wikidata": "Q7259049",
-    "wikipedia": "es:Reserva Nacional Natural Puinawai",
-    "id": "relation/911663"
+    "osm": {
+      "area": "yes",
+      "boundary": "national_park",
+      "name": "Reserva Nacional Natural Puinawai",
+      "name:en": "Puinawai Natural Reserve",
+      "norma_creacion": "AC 048 -IX/89",
+      "protect_id": "2",
+      "source": "SIGOT DANE UNODC-SIMCI OCHA-COLOMBIA",
+      "type": "multipolygon",
+      "wikidata": "Q7259049",
+      "wikipedia": "es:Reserva Nacional Natural Puinawai"
+    },
+    "wiki": {
+      "name": "Puinawai Natural Reserve",
+      "wikidataId": "Q7259049",
+      "osmRelationId": "911663",
+      "country": "Colombia",
+      "wikipedia": "Puinawai_Natural_Reserve"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 5868384,
   "properties": {
-    "@name": "Arches National Park",
-    "@wikidataId": "Q223969",
-    "@osmRelationId": "5868384",
-    "@country": "United States of America",
-    "@wikipedia": "Arches_National_Park",
-    "boundary": "national_park",
-    "boundary:type": "protected_area",
-    "gnis:feature_id": "1455716",
-    "leisure": "nature_reserve",
-    "name": "Arches National Park",
-    "operator": "National Park Service",
-    "ownership": "national",
-    "protect_class": "2",
-    "protected": "perpetuity",
-    "protection_title": "National Park",
-    "type": "boundary",
-    "wikidata": "Q223969",
-    "wikipedia": "en:Arches National Park",
-    "id": "relation/5868384"
+    "osm": {
+      "boundary": "national_park",
+      "boundary:type": "protected_area",
+      "gnis:feature_id": "1455716",
+      "leisure": "nature_reserve",
+      "name": "Arches National Park",
+      "operator": "National Park Service",
+      "ownership": "national",
+      "protect_class": "2",
+      "protected": "perpetuity",
+      "protection_title": "National Park",
+      "type": "boundary",
+      "wikidata": "Q223969",
+      "wikipedia": "en:Arches National Park"
+    },
+    "wiki": {
+      "name": "Arches National Park",
+      "wikidataId": "Q223969",
+      "osmRelationId": "5868384",
+      "country": "United States of America",
+      "wikipedia": "Arches_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

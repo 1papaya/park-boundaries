@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 6014846,
   "properties": {
-    "@name": "Aigüestortes i Estany de Sant Maurici National Park",
-    "@wikidataId": "Q1470066",
-    "@osmRelationId": "6014846",
-    "@country": "Spain",
-    "@wikipedia": "Aig%C3%BCestortes_i_Estany_de_Sant_Maurici_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
-    "name:es": "Parque Nacional de Aiguas Tortas y Lago de San Mauricio",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q1470066",
-    "wikipedia": "ca:Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
-    "id": "relation/6014846"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
+      "name:es": "Parque Nacional de Aiguas Tortas y Lago de San Mauricio",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q1470066",
+      "wikipedia": "ca:Parc Nacional d'Aigüestortes i Estany de Sant Maurici"
+    },
+    "wiki": {
+      "name": "Aigüestortes i Estany de Sant Maurici National Park",
+      "wikidataId": "Q1470066",
+      "osmRelationId": "6014846",
+      "country": "Spain",
+      "wikipedia": "Aig%C3%BCestortes_i_Estany_de_Sant_Maurici_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

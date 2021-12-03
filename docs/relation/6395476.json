@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 6395476,
   "properties": {
-    "@name": "Waterton Lakes National Park",
-    "@wikidataId": "Q902778",
-    "@osmRelationId": "6395476",
-    "@country": "Canada",
-    "@wikipedia": "Waterton_Lakes_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Waterton Lakes National Park",
-    "operator": "Parks Canada",
-    "protect_class": "2",
-    "protection_title": "National Park",
-    "source": "http://www.albertaparks.ca/media/2941843/parks_and_protected_areas_alberta.zip",
-    "type": "multipolygon",
-    "website": "https://www.pc.gc.ca/eng/pn-np/ab/waterton/index.aspx",
-    "wikidata": "Q902778",
-    "wikipedia": "en:Waterton Lakes National Park",
-    "id": "relation/6395476"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Waterton Lakes National Park",
+      "operator": "Parks Canada",
+      "protect_class": "2",
+      "protection_title": "National Park",
+      "source": "http://www.albertaparks.ca/media/2941843/parks_and_protected_areas_alberta.zip",
+      "type": "multipolygon",
+      "website": "https://www.pc.gc.ca/eng/pn-np/ab/waterton/index.aspx",
+      "wikidata": "Q902778",
+      "wikipedia": "en:Waterton Lakes National Park"
+    },
+    "wiki": {
+      "name": "Waterton Lakes National Park",
+      "wikidataId": "Q902778",
+      "osmRelationId": "6395476",
+      "country": "Canada",
+      "wikipedia": "Waterton_Lakes_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

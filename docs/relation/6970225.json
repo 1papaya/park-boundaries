@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 6970225,
   "properties": {
-    "@name": "Aoraki/Mount Cook National Park",
-    "@wikidataId": "Q1950336",
-    "@osmRelationId": "6970225",
-    "@country": "New Zealand",
-    "@wikipedia": "_Mount_Cook_National_Park",
-    "alt_name:mk": "Национален парк Кукова Планина",
-    "boundary": "protected_area",
-    "name": "Aoraki / Mount Cook National Park",
-    "name:cs": "Národní park Aoraki / Mount Cook",
-    "name:en": "Mount Cook National Park",
-    "name:mk": "Национален парк Аораки/Кукова Планина",
-    "protect_class": "2",
-    "source": "DOC",
-    "type": "boundary",
-    "wikidata": "Q1950336",
-    "wikipedia": "en:Aoraki/Mount Cook National Park",
-    "id": "relation/6970225"
+    "osm": {
+      "alt_name:mk": "Национален парк Кукова Планина",
+      "boundary": "protected_area",
+      "name": "Aoraki / Mount Cook National Park",
+      "name:cs": "Národní park Aoraki / Mount Cook",
+      "name:en": "Mount Cook National Park",
+      "name:mk": "Национален парк Аораки/Кукова Планина",
+      "protect_class": "2",
+      "source": "DOC",
+      "type": "boundary",
+      "wikidata": "Q1950336",
+      "wikipedia": "en:Aoraki/Mount Cook National Park"
+    },
+    "wiki": {
+      "name": "Aoraki/Mount Cook National Park",
+      "wikidataId": "Q1950336",
+      "osmRelationId": "6970225",
+      "country": "New Zealand",
+      "wikipedia": "_Mount_Cook_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

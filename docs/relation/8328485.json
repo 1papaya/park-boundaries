@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 8328485,
   "properties": {
-    "@name": "Burnt Lands Provincial Park",
-    "@wikidataId": "Q29106972",
-    "@osmRelationId": "8328485",
-    "@country": "Canada",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Burnt Lands Provincial Park",
-    "operator": "Ontario Parks",
-    "protect_class": "1",
-    "source": "Land Information Ontario",
-    "type": "multipolygon",
-    "website": "https://www.ontarioparks.com/park/burntlands",
-    "wikidata": "Q29106972",
-    "id": "relation/8328485"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Burnt Lands Provincial Park",
+      "operator": "Ontario Parks",
+      "protect_class": "1",
+      "source": "Land Information Ontario",
+      "type": "multipolygon",
+      "website": "https://www.ontarioparks.com/park/burntlands",
+      "wikidata": "Q29106972"
+    },
+    "wiki": {
+      "name": "Burnt Lands Provincial Park",
+      "wikidataId": "Q29106972",
+      "osmRelationId": "8328485",
+      "country": "Canada",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

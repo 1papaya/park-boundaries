@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 52473,
   "properties": {
-    "@name": "Charles Darwin National Park",
-    "@wikidataId": "Q1063366",
-    "@osmRelationId": "52473",
-    "@country": "Australia",
-    "@wikipedia": "Charles_Darwin_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "V",
-    "leisure": "nature_reserve",
-    "name": "Charles Darwin National Park",
-    "name:de": "Charles-Darwin-Nationalpark",
-    "name:en": "Charles Darwin National Park",
-    "protect_class": "5",
-    "ref:capad:pa_id": "NT_PA115",
-    "source": "CAPAD 2020",
-    "type": "boundary",
-    "wikidata": "Q1063366",
-    "wikipedia": "en:Charles Darwin National Park",
-    "id": "relation/52473"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "V",
+      "leisure": "nature_reserve",
+      "name": "Charles Darwin National Park",
+      "name:de": "Charles-Darwin-Nationalpark",
+      "name:en": "Charles Darwin National Park",
+      "protect_class": "5",
+      "ref:capad:pa_id": "NT_PA115",
+      "source": "CAPAD 2020",
+      "type": "boundary",
+      "wikidata": "Q1063366",
+      "wikipedia": "en:Charles Darwin National Park"
+    },
+    "wiki": {
+      "name": "Charles Darwin National Park",
+      "wikidataId": "Q1063366",
+      "osmRelationId": "52473",
+      "country": "Australia",
+      "wikipedia": "Charles_Darwin_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

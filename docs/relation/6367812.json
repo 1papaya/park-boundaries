@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 6367812,
   "properties": {
-    "@name": "Police Outpost Provincial Park",
-    "@wikidataId": "Q3364730",
-    "@osmRelationId": "6367812",
-    "@country": "Canada",
-    "@wikipedia": "Police_Outpost_Provincial_Park",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Police Outpost Provincial Park",
-    "protect_class": "2",
-    "protection_title": "Provincial Park",
-    "source": "http://www.albertaparks.ca/media/2941843/parks_and_protected_areas_alberta.zip",
-    "type": "multipolygon",
-    "id": "relation/6367812"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Police Outpost Provincial Park",
+      "protect_class": "2",
+      "protection_title": "Provincial Park",
+      "source": "http://www.albertaparks.ca/media/2941843/parks_and_protected_areas_alberta.zip",
+      "type": "multipolygon"
+    },
+    "wiki": {
+      "name": "Police Outpost Provincial Park",
+      "wikidataId": "Q3364730",
+      "osmRelationId": "6367812",
+      "country": "Canada",
+      "wikipedia": "Police_Outpost_Provincial_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

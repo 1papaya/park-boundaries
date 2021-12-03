@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 6109778,
   "properties": {
-    "@name": "Glacier View Wilderness",
-    "@wikidataId": "Q3108325",
-    "@osmRelationId": "6109778",
-    "@country": "United States of America",
-    "@wikipedia": "Glacier_View_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Glacier View Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "id": "relation/6109778"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Glacier View Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Glacier View Wilderness",
+      "wikidataId": "Q3108325",
+      "osmRelationId": "6109778",
+      "country": "United States of America",
+      "wikipedia": "Glacier_View_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

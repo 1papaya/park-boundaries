@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 6109129,
   "properties": {
-    "@name": "Mount Adams Wilderness",
-    "@wikidataId": "Q3326005",
-    "@osmRelationId": "6109129",
-    "@country": "United States of America",
-    "@wikipedia": "Mount_Adams_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Mount Adams Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q3326005",
-    "wikipedia": "en:Mount Adams Wilderness",
-    "id": "relation/6109129"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Mount Adams Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q3326005",
+      "wikipedia": "en:Mount Adams Wilderness"
+    },
+    "wiki": {
+      "name": "Mount Adams Wilderness",
+      "wikidataId": "Q3326005",
+      "osmRelationId": "6109129",
+      "country": "United States of America",
+      "wikipedia": "Mount_Adams_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

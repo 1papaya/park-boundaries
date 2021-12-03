@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 3171821,
   "properties": {
-    "@name": "Sibillini Mountains National Park",
-    "@wikidataId": "Q1425191",
-    "@osmRelationId": "3171821",
-    "@country": "Italy",
-    "@wikipedia": "Monti_Sibillini_National_Park",
-    "boundary": "national_park",
-    "name": "Parco Nazionale dei Monti Sibillini",
-    "name:de": "Nationalpark Sibillinische Berge",
-    "name:en": "Sibillini Mountains National Park",
-    "type": "multipolygon",
-    "wikidata": "Q1425191",
-    "wikipedia": "it:Parco nazionale dei Monti Sibillini",
-    "id": "relation/3171821"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Parco Nazionale dei Monti Sibillini",
+      "name:de": "Nationalpark Sibillinische Berge",
+      "name:en": "Sibillini Mountains National Park",
+      "type": "multipolygon",
+      "wikidata": "Q1425191",
+      "wikipedia": "it:Parco nazionale dei Monti Sibillini"
+    },
+    "wiki": {
+      "name": "Sibillini Mountains National Park",
+      "wikidataId": "Q1425191",
+      "osmRelationId": "3171821",
+      "country": "Italy",
+      "wikipedia": "Monti_Sibillini_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

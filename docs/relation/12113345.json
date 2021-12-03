@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 12113345,
   "properties": {
-    "@name": "Kui Buri National Park",
-    "@wikidataId": "Q4925853",
-    "@osmRelationId": "12113345",
-    "@country": "Thailand",
-    "@wikipedia": "Kui_Buri_National_Park",
-    "boundary": "national_park",
-    "fixme": "approximately",
-    "name": "อุทยานแห่งชาติกุยบุรี",
-    "name:en": "Kui Buri National Park",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q4925853",
-    "id": "relation/12113345"
+    "osm": {
+      "boundary": "national_park",
+      "fixme": "approximately",
+      "name": "อุทยานแห่งชาติกุยบุรี",
+      "name:en": "Kui Buri National Park",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q4925853"
+    },
+    "wiki": {
+      "name": "Kui Buri National Park",
+      "wikidataId": "Q4925853",
+      "osmRelationId": "12113345",
+      "country": "Thailand",
+      "wikipedia": "Kui_Buri_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

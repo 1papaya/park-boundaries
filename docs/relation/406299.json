@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 406299,
   "properties": {
-    "@name": "Monfragüe",
-    "@wikidataId": "Q1968939",
-    "@osmRelationId": "406299",
-    "@country": "Spain",
-    "@wikipedia": "Monfrag%C3%BCe",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Parque Nacional de Monfragüe",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q1968939",
-    "wikipedia": "es:Parque nacional de Monfragüe",
-    "id": "relation/406299"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Parque Nacional de Monfragüe",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q1968939",
+      "wikipedia": "es:Parque nacional de Monfragüe"
+    },
+    "wiki": {
+      "name": "Monfragüe",
+      "wikidataId": "Q1968939",
+      "osmRelationId": "406299",
+      "country": "Spain",
+      "wikipedia": "Monfrag%C3%BCe"
+    }
   },
   "geometry": {
     "type": "Polygon",

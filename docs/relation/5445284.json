@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5445284,
   "properties": {
-    "@name": "Flat Tops Wilderness Area",
-    "@wikidataId": "Q5457818",
-    "@osmRelationId": "5445284",
-    "@country": "United States of America",
-    "@wikipedia": "Flat_Tops_Wilderness_Area",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Flat Tops Wilderness Area",
-    "ownership": "national",
-    "protect_class": "1b",
-    "source": "http://data.fs.usda.gov/geodata",
-    "type": "multipolygon",
-    "wikidata": "Q5457818",
-    "wikipedia": "en:Flat Tops Wilderness Area",
-    "id": "relation/5445284"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Flat Tops Wilderness Area",
+      "ownership": "national",
+      "protect_class": "1b",
+      "source": "http://data.fs.usda.gov/geodata",
+      "type": "multipolygon",
+      "wikidata": "Q5457818",
+      "wikipedia": "en:Flat Tops Wilderness Area"
+    },
+    "wiki": {
+      "name": "Flat Tops Wilderness Area",
+      "wikidataId": "Q5457818",
+      "osmRelationId": "5445284",
+      "country": "United States of America",
+      "wikipedia": "Flat_Tops_Wilderness_Area"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 5711384,
   "properties": {
-    "@name": "Nascentes do Paranapanema State Park",
-    "@wikidataId": "Q18481027",
-    "@osmRelationId": "5711384",
-    "@country": "Brazil",
-    "@wikipedia": "Nascentes_do_Paranapanema_State_Park",
-    "boundary": "protected_area",
-    "name": "Parque Estadual Nascentes do Paranapanema",
-    "operator": "Fundação para Conservação e a Produção Florestal do Estado de São Paulo",
-    "protect_class": "2",
-    "protection_title": "parque estadual",
-    "ref:CNUC": "0000.35.2839",
-    "related_law": "Decreto 58.148",
-    "source": "law",
-    "start_date": "22/06/2012",
-    "type": "multipolygon",
-    "wikidata": "Q18481027",
-    "id": "relation/5711384"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Parque Estadual Nascentes do Paranapanema",
+      "operator": "Fundação para Conservação e a Produção Florestal do Estado de São Paulo",
+      "protect_class": "2",
+      "protection_title": "parque estadual",
+      "ref:CNUC": "0000.35.2839",
+      "related_law": "Decreto 58.148",
+      "source": "law",
+      "start_date": "22/06/2012",
+      "type": "multipolygon",
+      "wikidata": "Q18481027"
+    },
+    "wiki": {
+      "name": "Nascentes do Paranapanema State Park",
+      "wikidataId": "Q18481027",
+      "osmRelationId": "5711384",
+      "country": "Brazil",
+      "wikipedia": "Nascentes_do_Paranapanema_State_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 6031241,
   "properties": {
-    "@name": "Owyhee River Wilderness",
-    "@wikidataId": "Q7115014",
-    "@osmRelationId": "6031241",
-    "@country": "United States of America",
-    "@wikipedia": "Owyhee_River_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Owyhee River Wilderness",
-    "operator": "BLM",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q7115014",
-    "id": "relation/6031241"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Owyhee River Wilderness",
+      "operator": "BLM",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q7115014"
+    },
+    "wiki": {
+      "name": "Owyhee River Wilderness",
+      "wikidataId": "Q7115014",
+      "osmRelationId": "6031241",
+      "country": "United States of America",
+      "wikipedia": "Owyhee_River_Wilderness"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

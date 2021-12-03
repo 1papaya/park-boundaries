@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5273225,
   "properties": {
-    "@name": "Joyce Kilmer-Slickrock Wilderness",
-    "@wikidataId": "Q6297543",
-    "@osmRelationId": "5273225",
-    "@country": "United States of America",
-    "@wikipedia": "Joyce_Kilmer-Slickrock_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Joyce Kilmer-Slickrock Wilderness",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "source": "USDA Forest Service Geodata Clearinghouse",
-    "type": "multipolygon",
-    "wikidata": "Q6297543",
-    "wikipedia": "en:Joyce Kilmer-Slickrock Wilderness",
-    "id": "relation/5273225"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Joyce Kilmer-Slickrock Wilderness",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "source": "USDA Forest Service Geodata Clearinghouse",
+      "type": "multipolygon",
+      "wikidata": "Q6297543",
+      "wikipedia": "en:Joyce Kilmer-Slickrock Wilderness"
+    },
+    "wiki": {
+      "name": "Joyce Kilmer-Slickrock Wilderness",
+      "wikidataId": "Q6297543",
+      "osmRelationId": "5273225",
+      "country": "United States of America",
+      "wikipedia": "Joyce_Kilmer-Slickrock_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

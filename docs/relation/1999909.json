@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 1999909,
   "properties": {
-    "@name": "Wolf Trap National Park for the Performing Arts",
-    "@wikidataId": "Q3569664",
-    "@osmRelationId": "1999909",
-    "@country": "United States of America",
-    "@wikipedia": "Wolf_Trap_National_Park_for_the_Performing_Arts",
-    "alt_name": "Wolf Trap",
-    "boundary": "national_park",
-    "ele": "100",
-    "gnis:county_id": "059",
-    "gnis:created": "11/06/2000",
-    "gnis:feature_id": "1888974",
-    "gnis:state_id": "51",
-    "name": "Wolf Trap National Park for the Performing Arts",
-    "operator": "United States National Park Service",
-    "type": "multipolygon",
-    "website": "http://www.nps.gov/wotr/",
-    "wikidata": "Q3569664",
-    "wikipedia": "en:Wolf Trap National Park for the Performing Arts",
-    "id": "relation/1999909"
+    "osm": {
+      "alt_name": "Wolf Trap",
+      "boundary": "national_park",
+      "ele": "100",
+      "gnis:county_id": "059",
+      "gnis:created": "11/06/2000",
+      "gnis:feature_id": "1888974",
+      "gnis:state_id": "51",
+      "name": "Wolf Trap National Park for the Performing Arts",
+      "operator": "United States National Park Service",
+      "type": "multipolygon",
+      "website": "http://www.nps.gov/wotr/",
+      "wikidata": "Q3569664",
+      "wikipedia": "en:Wolf Trap National Park for the Performing Arts"
+    },
+    "wiki": {
+      "name": "Wolf Trap National Park for the Performing Arts",
+      "wikidataId": "Q3569664",
+      "osmRelationId": "1999909",
+      "country": "United States of America",
+      "wikipedia": "Wolf_Trap_National_Park_for_the_Performing_Arts"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

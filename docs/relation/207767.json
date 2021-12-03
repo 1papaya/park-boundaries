@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 207767,
   "properties": {
-    "@name": "Arcipelago di La Maddalena National Park",
-    "@wikidataId": "Q536703",
-    "@osmRelationId": "207767",
-    "@country": "Italy",
-    "@wikipedia": "Arcipelago_di_La_Maddalena_National_Park",
-    "boundary": "national_park",
-    "name": "Parco Nazionale dell'Arcipelago di La Maddalena",
-    "national_park": "marine",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q536703",
-    "wikipedia": "it:Parco nazionale dell'Arcipelago di La Maddalena",
-    "id": "relation/207767"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Parco Nazionale dell'Arcipelago di La Maddalena",
+      "national_park": "marine",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q536703",
+      "wikipedia": "it:Parco nazionale dell'Arcipelago di La Maddalena"
+    },
+    "wiki": {
+      "name": "Arcipelago di La Maddalena National Park",
+      "wikidataId": "Q536703",
+      "osmRelationId": "207767",
+      "country": "Italy",
+      "wikipedia": "Arcipelago_di_La_Maddalena_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

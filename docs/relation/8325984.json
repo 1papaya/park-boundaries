@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 8325984,
   "properties": {
-    "@name": "Christmas Island National Park",
-    "@wikidataId": "Q1089780",
-    "@osmRelationId": "8325984",
-    "@country": "Australia",
-    "@wikipedia": "Christmas_Island_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "II",
-    "leisure": "nature_reserve",
-    "name": "Christmas Island National Park",
-    "protect_class": "2",
-    "ref:capad2016_osm": "CWTH_05",
-    "source": "CAPAD 2016 - Terrestrial",
-    "type": "boundary",
-    "website": "http://www.environment.gov.au/topics/national-parks/christmas-island-national-park",
-    "wikidata": "Q1089780",
-    "wikipedia": "en:Christmas Island National Park",
-    "id": "relation/8325984"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "II",
+      "leisure": "nature_reserve",
+      "name": "Christmas Island National Park",
+      "protect_class": "2",
+      "ref:capad2016_osm": "CWTH_05",
+      "source": "CAPAD 2016 - Terrestrial",
+      "type": "boundary",
+      "website": "http://www.environment.gov.au/topics/national-parks/christmas-island-national-park",
+      "wikidata": "Q1089780",
+      "wikipedia": "en:Christmas Island National Park"
+    },
+    "wiki": {
+      "name": "Christmas Island National Park",
+      "wikidataId": "Q1089780",
+      "osmRelationId": "8325984",
+      "country": "Australia",
+      "wikipedia": "Christmas_Island_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

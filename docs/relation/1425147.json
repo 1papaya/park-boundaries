@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 1425147,
   "properties": {
-    "@name": "Porsbjär",
-    "@wikidataId": "Q10637929",
-    "@osmRelationId": "1425147",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:ref": "1302130",
-    "name": "Porsbjärs naturreservat",
-    "source": "Länsstyrelsen i Hallands län (gis.lst.se)",
-    "type": "multipolygon",
-    "wikidata": "Q10637929",
-    "id": "relation/1425147"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:ref": "1302130",
+      "name": "Porsbjärs naturreservat",
+      "source": "Länsstyrelsen i Hallands län (gis.lst.se)",
+      "type": "multipolygon",
+      "wikidata": "Q10637929"
+    },
+    "wiki": {
+      "name": "Porsbjär",
+      "wikidataId": "Q10637929",
+      "osmRelationId": "1425147",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

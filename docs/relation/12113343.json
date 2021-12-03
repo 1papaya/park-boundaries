@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 12113343,
   "properties": {
-    "@name": "Chaloem Phra Kiat Thai Prachan National Park",
-    "@wikidataId": "Q15707819",
-    "@osmRelationId": "12113343",
-    "@country": "Thailand",
-    "@wikipedia": null,
-    "boundary": "national_park",
-    "fixme": "approximately",
-    "name": "อุทยานแห่งชาติเฉลิมพระเกียรติไทยประจัน",
-    "name:en": "Chaloem Phra Kiat Thai Prachan National Park",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q15707819",
-    "id": "relation/12113343"
+    "osm": {
+      "boundary": "national_park",
+      "fixme": "approximately",
+      "name": "อุทยานแห่งชาติเฉลิมพระเกียรติไทยประจัน",
+      "name:en": "Chaloem Phra Kiat Thai Prachan National Park",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q15707819"
+    },
+    "wiki": {
+      "name": "Chaloem Phra Kiat Thai Prachan National Park",
+      "wikidataId": "Q15707819",
+      "osmRelationId": "12113343",
+      "country": "Thailand",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

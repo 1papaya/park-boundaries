@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 7618899,
   "properties": {
-    "@name": "Bränseln",
-    "@wikidataId": "Q30173054",
-    "@osmRelationId": "7618899",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:area_ha": "101.6",
-    "lst:diarienr": "511-9403-12",
-    "lst:land_ha": "101.35",
-    "lst:ref": "2045808",
-    "lst:tillkomst": "2016-07-11",
-    "lst:vatten_ha": "0.2",
-    "name": "Bränseln",
-    "operator": "Länsstyrelsen i Norrbottens län",
-    "protect_class": "1",
-    "type": "multipolygon",
-    "wikidata": "Q30173054",
-    "id": "relation/7618899"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:area_ha": "101.6",
+      "lst:diarienr": "511-9403-12",
+      "lst:land_ha": "101.35",
+      "lst:ref": "2045808",
+      "lst:tillkomst": "2016-07-11",
+      "lst:vatten_ha": "0.2",
+      "name": "Bränseln",
+      "operator": "Länsstyrelsen i Norrbottens län",
+      "protect_class": "1",
+      "type": "multipolygon",
+      "wikidata": "Q30173054"
+    },
+    "wiki": {
+      "name": "Bränseln",
+      "wikidataId": "Q30173054",
+      "osmRelationId": "7618899",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

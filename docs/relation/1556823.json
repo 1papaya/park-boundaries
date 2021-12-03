@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 1556823,
   "properties": {
-    "@name": "Rohkunborri National Park",
-    "@wikidataId": "Q1860450",
-    "@osmRelationId": "1556823",
-    "@country": "Norway",
-    "@wikipedia": "Rohkunborri_National_Park",
-    "boundary": "national_park",
-    "name": "Rohkunborri nasjonalpark",
-    "naturbase:url": "https://faktaark.naturbase.no/?id=VV00003005",
-    "naturbase:verneform": "Nasjonalpark",
-    "naturbase:verneplan": "Nasjonalpark",
-    "operator": "Rohkunborri Nasjonalparkstyre",
-    "protect_class": "2",
-    "ref:naturvern": "VV00003005",
-    "related_law": "https://lovdata.no/forskrift/2011-02-25-224",
-    "short_name": "Rohkunborri",
-    "start_date": "2011-02-25",
-    "type": "boundary",
-    "wikidata": "Q1860450",
-    "id": "relation/1556823"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Rohkunborri nasjonalpark",
+      "naturbase:url": "https://faktaark.naturbase.no/?id=VV00003005",
+      "naturbase:verneform": "Nasjonalpark",
+      "naturbase:verneplan": "Nasjonalpark",
+      "operator": "Rohkunborri Nasjonalparkstyre",
+      "protect_class": "2",
+      "ref:naturvern": "VV00003005",
+      "related_law": "https://lovdata.no/forskrift/2011-02-25-224",
+      "short_name": "Rohkunborri",
+      "start_date": "2011-02-25",
+      "type": "boundary",
+      "wikidata": "Q1860450"
+    },
+    "wiki": {
+      "name": "Rohkunborri National Park",
+      "wikidataId": "Q1860450",
+      "osmRelationId": "1556823",
+      "country": "Norway",
+      "wikipedia": "Rohkunborri_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

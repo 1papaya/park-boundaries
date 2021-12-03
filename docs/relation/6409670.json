@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 6409670,
   "properties": {
-    "@name": "Orrido di Botri",
-    "@wikidataId": "Q3936660",
-    "@osmRelationId": "6409670",
-    "@country": "Italy",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Riserva naturale Orrido di Botri",
-    "protected_object": "nature",
-    "ref:EUAP": "0133",
-    "type": "multipolygon",
-    "wikidata": "Q3936660",
-    "wikipedia": "it:Riserva naturale Orrido di Botri",
-    "id": "relation/6409670"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Riserva naturale Orrido di Botri",
+      "protected_object": "nature",
+      "ref:EUAP": "0133",
+      "type": "multipolygon",
+      "wikidata": "Q3936660",
+      "wikipedia": "it:Riserva naturale Orrido di Botri"
+    },
+    "wiki": {
+      "name": "Orrido di Botri",
+      "wikidataId": "Q3936660",
+      "osmRelationId": "6409670",
+      "country": "Italy",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

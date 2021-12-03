@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 7731898,
   "properties": {
-    "@name": "Bromo Tengger Semeru National Park",
-    "@wikidataId": "Q1135025",
-    "@osmRelationId": "7731898",
-    "@country": "Indonesia",
-    "@wikipedia": "Bromo_Tengger_Semeru_National_Park",
-    "boundary": "national_park",
-    "name": "Taman Nasional Bromo Tengger Semeru",
-    "name:en": "Bromo Tengger Semeru National Park",
-    "name:uk": "Бромо Тенґер Національний Парк",
-    "type": "boundary",
-    "wikidata": "Q1135025",
-    "wikipedia": "id:Taman Nasional Bromo Tengger Semeru",
-    "id": "relation/7731898"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Taman Nasional Bromo Tengger Semeru",
+      "name:en": "Bromo Tengger Semeru National Park",
+      "name:uk": "Бромо Тенґер Національний Парк",
+      "type": "boundary",
+      "wikidata": "Q1135025",
+      "wikipedia": "id:Taman Nasional Bromo Tengger Semeru"
+    },
+    "wiki": {
+      "name": "Bromo Tengger Semeru National Park",
+      "wikidataId": "Q1135025",
+      "osmRelationId": "7731898",
+      "country": "Indonesia",
+      "wikipedia": "Bromo_Tengger_Semeru_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

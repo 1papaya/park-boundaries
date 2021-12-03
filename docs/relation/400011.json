@@ -2,17 +2,20 @@
   "type": "Feature",
   "id": 400011,
   "properties": {
-    "@name": "Punta Entinas-Sabinar",
-    "@wikidataId": "Q6092932",
-    "@osmRelationId": "400011",
-    "@country": "Spain",
-    "@wikipedia": null,
-    "boundary": "national_park",
-    "name": "Paraje y Reserva Natural  de Punta Entinas-Sabinar",
-    "type": "multipolygon",
-    "wikidata": "Q6092932",
-    "wikipedia": "es:Punta Entinas-Sabinar",
-    "id": "relation/400011"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Paraje y Reserva Natural  de Punta Entinas-Sabinar",
+      "type": "multipolygon",
+      "wikidata": "Q6092932",
+      "wikipedia": "es:Punta Entinas-Sabinar"
+    },
+    "wiki": {
+      "name": "Punta Entinas-Sabinar",
+      "wikidataId": "Q6092932",
+      "osmRelationId": "400011",
+      "country": "Spain",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

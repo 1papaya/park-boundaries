@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 6135120,
   "properties": {
-    "@name": "Vashlovani National Park",
-    "@wikidataId": "Q2097137",
-    "@osmRelationId": "6135120",
-    "@country": "Georgia",
-    "@wikipedia": "Vashlovani_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "ვაშლოვანის ეროვნული პარკი",
-    "name:de": "Waschlowani-Nationalpark",
-    "name:en": "Vashlovani National Park",
-    "name:fr": "Parc national de Vashlovani",
-    "name:hy": "Վաշլովանի ազգային պարկ",
-    "name:ka": "ვაშლოვანის ეროვნული პარკი",
-    "name:ru": "Национальный парк «Вашловани»",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q2097137",
-    "wikipedia": "ka:ვაშლოვანის სახელმწიფო ნაკრძალი",
-    "id": "relation/6135120"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "ვაშლოვანის ეროვნული პარკი",
+      "name:de": "Waschlowani-Nationalpark",
+      "name:en": "Vashlovani National Park",
+      "name:fr": "Parc national de Vashlovani",
+      "name:hy": "Վաշլովանի ազգային պարկ",
+      "name:ka": "ვაშლოვანის ეროვნული პარკი",
+      "name:ru": "Национальный парк «Вашловани»",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q2097137",
+      "wikipedia": "ka:ვაშლოვანის სახელმწიფო ნაკრძალი"
+    },
+    "wiki": {
+      "name": "Vashlovani National Park",
+      "wikidataId": "Q2097137",
+      "osmRelationId": "6135120",
+      "country": "Georgia",
+      "wikipedia": "Vashlovani_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

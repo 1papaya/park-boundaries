@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 8687516,
   "properties": {
-    "@name": "Cape Falcon Marine Reserve",
-    "@wikidataId": "Q19876866",
-    "@osmRelationId": "8687516",
-    "@country": "United States of America",
-    "@wikipedia": "Cape_Falcon_Marine_Reserve",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Cape Falcon Marine Reserve",
-    "operator": "Oregon Department of Fish and Wildlife",
-    "protect_class": "1a",
-    "type": "boundary",
-    "website": "http://oregonmarinereserves.com/reserves/cape-falcon/",
-    "wikidata": "Q19876866",
-    "wikipedia": "en:Cape Falcon Marine Reserve",
-    "id": "relation/8687516"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Cape Falcon Marine Reserve",
+      "operator": "Oregon Department of Fish and Wildlife",
+      "protect_class": "1a",
+      "type": "boundary",
+      "website": "http://oregonmarinereserves.com/reserves/cape-falcon/",
+      "wikidata": "Q19876866",
+      "wikipedia": "en:Cape Falcon Marine Reserve"
+    },
+    "wiki": {
+      "name": "Cape Falcon Marine Reserve",
+      "wikidataId": "Q19876866",
+      "osmRelationId": "8687516",
+      "country": "United States of America",
+      "wikipedia": "Cape_Falcon_Marine_Reserve"
+    }
   },
   "geometry": {
     "type": "Polygon",

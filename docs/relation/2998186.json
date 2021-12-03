@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 2998186,
   "properties": {
-    "@name": "Wind Cave National Park",
-    "@wikidataId": "Q1334313",
-    "@osmRelationId": "2998186",
-    "@country": "United States of America",
-    "@wikipedia": "Wind_Cave_National_Park",
-    "boundary": "national_park",
-    "boundary:type": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Wind Cave National Park",
-    "operator": "United States National Park Service",
-    "ownership": "national",
-    "protect_id": "2",
-    "protected": "perpetuity",
-    "protection_title": "National Park",
-    "type": "multipolygon",
-    "website": "http://www.nps.gov/wica/",
-    "wikidata": "Q1334313",
-    "wikipedia": "en:Wind Cave National Park",
-    "id": "relation/2998186"
+    "osm": {
+      "boundary": "national_park",
+      "boundary:type": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Wind Cave National Park",
+      "operator": "United States National Park Service",
+      "ownership": "national",
+      "protect_id": "2",
+      "protected": "perpetuity",
+      "protection_title": "National Park",
+      "type": "multipolygon",
+      "website": "http://www.nps.gov/wica/",
+      "wikidata": "Q1334313",
+      "wikipedia": "en:Wind Cave National Park"
+    },
+    "wiki": {
+      "name": "Wind Cave National Park",
+      "wikidataId": "Q1334313",
+      "osmRelationId": "2998186",
+      "country": "United States of America",
+      "wikipedia": "Wind_Cave_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

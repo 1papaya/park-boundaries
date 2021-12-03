@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 7558382,
   "properties": {
-    "@name": "Tassili n'Ajjer Cultural Park",
-    "@wikidataId": "Q14629434",
-    "@osmRelationId": "7558382",
-    "@country": "Algeria",
-    "@wikipedia": null,
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "الحظيرة الثقافية للطاسيلي ناجر",
-    "name:ar": "الحظيرة الثقافية للطاسيلي ناجر",
-    "name:en": "Tassili n'Ajjer Cultural Park",
-    "name:fr": "Parc culturel du Tassili N'Ajjer",
-    "name:ru": "Культурный парк Тассили н-Аджер",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q14629434",
-    "id": "relation/7558382"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "الحظيرة الثقافية للطاسيلي ناجر",
+      "name:ar": "الحظيرة الثقافية للطاسيلي ناجر",
+      "name:en": "Tassili n'Ajjer Cultural Park",
+      "name:fr": "Parc culturel du Tassili N'Ajjer",
+      "name:ru": "Культурный парк Тассили н-Аджер",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q14629434"
+    },
+    "wiki": {
+      "name": "Tassili n'Ajjer Cultural Park",
+      "wikidataId": "Q14629434",
+      "osmRelationId": "7558382",
+      "country": "Algeria",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

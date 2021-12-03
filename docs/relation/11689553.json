@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 11689553,
   "properties": {
-    "@name": "Avon Valley National Park",
-    "@wikidataId": "Q791260",
-    "@osmRelationId": "11689553",
-    "@country": "Australia",
-    "@wikipedia": "Avon_Valley_National_Park",
-    "admin_level": "10",
-    "boundary": "administrative",
-    "name": "Avon Valley National Park",
-    "ref:psma:loc_pid": "WA2952",
-    "source": "PSMA_Admin_Boundaries",
-    "type": "boundary",
-    "id": "relation/11689553"
+    "osm": {
+      "admin_level": "10",
+      "boundary": "administrative",
+      "name": "Avon Valley National Park",
+      "ref:psma:loc_pid": "WA2952",
+      "source": "PSMA_Admin_Boundaries",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Avon Valley National Park",
+      "wikidataId": "Q791260",
+      "osmRelationId": "11689553",
+      "country": "Australia",
+      "wikipedia": "Avon_Valley_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

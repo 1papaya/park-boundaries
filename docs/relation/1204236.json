@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 1204236,
   "properties": {
-    "@name": "Lake Gairdner National Park",
-    "@wikidataId": "Q570270",
-    "@osmRelationId": "1204236",
-    "@country": "Australia",
-    "@wikipedia": "Lake_Gairdner_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "VI",
-    "leisure": "nature_reserve",
-    "name": "Lake Gairdner National Park",
-    "operator": "Department of Environment, Water and Natural Resources (South Australia)",
-    "protect_class": "6",
-    "protection_title": "National Park",
-    "ref:capad:pa_id": "SA_0004",
-    "ref:dew:park_id": "4",
-    "source": "SA Conservation Reserve Boundaries",
-    "type": "boundary",
-    "wikidata": "Q570270",
-    "wikipedia": "en:Lake Gairdner National Park",
-    "id": "relation/1204236"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "VI",
+      "leisure": "nature_reserve",
+      "name": "Lake Gairdner National Park",
+      "operator": "Department of Environment, Water and Natural Resources (South Australia)",
+      "protect_class": "6",
+      "protection_title": "National Park",
+      "ref:capad:pa_id": "SA_0004",
+      "ref:dew:park_id": "4",
+      "source": "SA Conservation Reserve Boundaries",
+      "type": "boundary",
+      "wikidata": "Q570270",
+      "wikipedia": "en:Lake Gairdner National Park"
+    },
+    "wiki": {
+      "name": "Lake Gairdner National Park",
+      "wikidataId": "Q570270",
+      "osmRelationId": "1204236",
+      "country": "Australia",
+      "wikipedia": "Lake_Gairdner_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 6478415,
   "properties": {
-    "@name": "Riserva naturale integrale Isola di Lachea e Faraglioni dei Ciclopi",
-    "@wikidataId": "Q3936831",
-    "@osmRelationId": "6478415",
-    "@country": "Italy",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "name": "Riserva Naturale Integrale Isola Lachea e Faraglioni dei Ciclopi",
-    "operator": "Università degli Studi di Catania",
-    "type": "multipolygon",
-    "wikidata": "Q3936831",
-    "wikipedia": "it:Riserva naturale integrale Isola Lachea e faraglioni dei Ciclopi",
-    "id": "relation/6478415"
+    "osm": {
+      "leisure": "nature_reserve",
+      "name": "Riserva Naturale Integrale Isola Lachea e Faraglioni dei Ciclopi",
+      "operator": "Università degli Studi di Catania",
+      "type": "multipolygon",
+      "wikidata": "Q3936831",
+      "wikipedia": "it:Riserva naturale integrale Isola Lachea e faraglioni dei Ciclopi"
+    },
+    "wiki": {
+      "name": "Riserva naturale integrale Isola di Lachea e Faraglioni dei Ciclopi",
+      "wikidataId": "Q3936831",
+      "osmRelationId": "6478415",
+      "country": "Italy",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

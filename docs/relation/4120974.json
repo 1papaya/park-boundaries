@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 4120974,
   "properties": {
-    "@name": "Hunsrück-Hochwald National Park",
-    "@wikidataId": "Q17393446",
-    "@osmRelationId": "4120974",
-    "@country": "Germany",
-    "@wikipedia": "Hunsr%C3%BCck-Hochwald_National_Park",
-    "boundary": "national_park",
-    "name": "Nationalpark Hunsrück-Hochwald",
-    "protect_class": "2",
-    "protection_title": "Nationalpark",
-    "short_protection_title": "NLP",
-    "type": "boundary",
-    "wikidata": "Q17393446",
-    "wikipedia": "de:Nationalpark Hunsrück-Hochwald",
-    "id": "relation/4120974"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Nationalpark Hunsrück-Hochwald",
+      "protect_class": "2",
+      "protection_title": "Nationalpark",
+      "short_protection_title": "NLP",
+      "type": "boundary",
+      "wikidata": "Q17393446",
+      "wikipedia": "de:Nationalpark Hunsrück-Hochwald"
+    },
+    "wiki": {
+      "name": "Hunsrück-Hochwald National Park",
+      "wikidataId": "Q17393446",
+      "osmRelationId": "4120974",
+      "country": "Germany",
+      "wikipedia": "Hunsr%C3%BCck-Hochwald_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

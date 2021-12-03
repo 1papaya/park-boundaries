@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 6182188,
   "properties": {
-    "@name": "Storängsudd nature reserve",
-    "@wikidataId": "Q23953365",
-    "@osmRelationId": "6182188",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Storängsudd",
-    "natural": "wood",
-    "start_date": "1936",
-    "type": "boundary",
-    "website": "http://www.lansstyrelsen.se/stockholm/sv/djur-och-natur/skyddad-natur/naturreservat/varmdo/Storangsudd/Pages/default.aspx",
-    "wikidata": "Q23953365",
-    "id": "relation/6182188"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Storängsudd",
+      "natural": "wood",
+      "start_date": "1936",
+      "type": "boundary",
+      "website": "http://www.lansstyrelsen.se/stockholm/sv/djur-och-natur/skyddad-natur/naturreservat/varmdo/Storangsudd/Pages/default.aspx",
+      "wikidata": "Q23953365"
+    },
+    "wiki": {
+      "name": "Storängsudd nature reserve",
+      "wikidataId": "Q23953365",
+      "osmRelationId": "6182188",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

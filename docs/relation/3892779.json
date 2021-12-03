@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 3892779,
   "properties": {
-    "@name": "Réserve naturelle des Marais-du-Nord",
-    "@wikidataId": "Q3457420",
-    "@osmRelationId": "3892779",
-    "@country": "Canada",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Réserve naturelle des Marais-du-Nord",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "website": "https://maraisdunord.com/",
-    "wikidata": "Q3457420",
-    "id": "relation/3892779"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Réserve naturelle des Marais-du-Nord",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "website": "https://maraisdunord.com/",
+      "wikidata": "Q3457420"
+    },
+    "wiki": {
+      "name": "Réserve naturelle des Marais-du-Nord",
+      "wikidataId": "Q3457420",
+      "osmRelationId": "3892779",
+      "country": "Canada",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

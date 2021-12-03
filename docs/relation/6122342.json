@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 6122342,
   "properties": {
-    "@name": "Buckhorn Wilderness",
-    "@wikidataId": "Q4983174",
-    "@osmRelationId": "6122342",
-    "@country": "United States of America",
-    "@wikipedia": "Buckhorn_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Buckhorn Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "id": "relation/6122342"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Buckhorn Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Buckhorn Wilderness",
+      "wikidataId": "Q4983174",
+      "osmRelationId": "6122342",
+      "country": "United States of America",
+      "wikipedia": "Buckhorn_Wilderness"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

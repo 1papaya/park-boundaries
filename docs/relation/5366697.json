@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5366697,
   "properties": {
-    "@name": "Kiavah Wilderness",
-    "@wikidataId": "Q6403901",
-    "@osmRelationId": "5366697",
-    "@country": "United States of America",
-    "@wikipedia": "Kiavah_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Kiavah Wilderness",
-    "operator": "US Forest Service;BLM",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "multipolygon",
-    "wikidata": "Q6403901",
-    "id": "relation/5366697"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Kiavah Wilderness",
+      "operator": "US Forest Service;BLM",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "multipolygon",
+      "wikidata": "Q6403901"
+    },
+    "wiki": {
+      "name": "Kiavah Wilderness",
+      "wikidataId": "Q6403901",
+      "osmRelationId": "5366697",
+      "country": "United States of America",
+      "wikipedia": "Kiavah_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

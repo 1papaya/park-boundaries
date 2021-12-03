@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 4829086,
   "properties": {
-    "@name": "Sierra Nevada National and Natural Park",
-    "@wikidataId": "Q1969050",
-    "@osmRelationId": "4829086",
-    "@country": "Spain",
-    "@wikipedia": "Sierra_Nevada_National_Park_(Spain)",
-    "boundary": "protected_area",
-    "heritage": "1",
-    "heritage:operator": "whc",
-    "leisure": "nature_reserve",
-    "name": "Parque Nacional de Sierra Nevada",
-    "name:ar": "سييرا نيفادا الوطنية بارك",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q1969050",
-    "wikipedia": "es:Parque nacional de Sierra Nevada (España)",
-    "id": "relation/4829086"
+    "osm": {
+      "boundary": "protected_area",
+      "heritage": "1",
+      "heritage:operator": "whc",
+      "leisure": "nature_reserve",
+      "name": "Parque Nacional de Sierra Nevada",
+      "name:ar": "سييرا نيفادا الوطنية بارك",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q1969050",
+      "wikipedia": "es:Parque nacional de Sierra Nevada (España)"
+    },
+    "wiki": {
+      "name": "Sierra Nevada National and Natural Park",
+      "wikidataId": "Q1969050",
+      "osmRelationId": "4829086",
+      "country": "Spain",
+      "wikipedia": "Sierra_Nevada_National_Park_(Spain)"
+    }
   },
   "geometry": {
     "type": "Polygon",

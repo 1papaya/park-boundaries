@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 2386081,
   "properties": {
-    "@name": "Kakadu National Park",
-    "@wikidataId": "Q189657",
-    "@osmRelationId": "2386081",
-    "@country": "Australia",
-    "@wikipedia": "Kakadu_National_Park",
-    "boundary": "protected_area",
-    "environment_gov_au:PLACE_ID": "105041",
-    "name": "Kakadu National Park World Heritage Site",
-    "protect_class": "98",
-    "ref:whc": "147",
-    "source": "environment.gov.au",
-    "type": "boundary",
-    "website": "https://whc.unesco.org/en/list/147/",
-    "whc:criteria": "1;6;7;9;10",
-    "whc:inscription_date": "1981;1987;1992",
-    "wikidata": "Q65096742",
-    "id": "relation/2386081"
+    "osm": {
+      "boundary": "protected_area",
+      "environment_gov_au:PLACE_ID": "105041",
+      "name": "Kakadu National Park World Heritage Site",
+      "protect_class": "98",
+      "ref:whc": "147",
+      "source": "environment.gov.au",
+      "type": "boundary",
+      "website": "https://whc.unesco.org/en/list/147/",
+      "whc:criteria": "1;6;7;9;10",
+      "whc:inscription_date": "1981;1987;1992",
+      "wikidata": "Q65096742"
+    },
+    "wiki": {
+      "name": "Kakadu National Park",
+      "wikidataId": "Q189657",
+      "osmRelationId": "2386081",
+      "country": "Australia",
+      "wikipedia": "Kakadu_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

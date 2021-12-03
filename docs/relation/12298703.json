@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 12298703,
   "properties": {
-    "@name": "Iluiliq National Park Reserve",
-    "@wikidataId": "Q3457184",
-    "@osmRelationId": "12298703",
-    "@country": "Canada",
-    "@wikipedia": "Iluiliq_National_Park_Reserve",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Réserve de parc national Iluiliq",
-    "name:en": "Iluiliq National Park Reserve",
-    "type": "multipolygon",
-    "wikidata": "Q3457184",
-    "id": "relation/12298703"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Réserve de parc national Iluiliq",
+      "name:en": "Iluiliq National Park Reserve",
+      "type": "multipolygon",
+      "wikidata": "Q3457184"
+    },
+    "wiki": {
+      "name": "Iluiliq National Park Reserve",
+      "wikidataId": "Q3457184",
+      "osmRelationId": "12298703",
+      "country": "Canada",
+      "wikipedia": "Iluiliq_National_Park_Reserve"
+    }
   },
   "geometry": {
     "type": "Polygon",

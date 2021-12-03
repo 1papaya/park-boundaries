@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 1582395,
   "properties": {
-    "@name": "Arcipelago Toscano National Park",
-    "@wikidataId": "Q1111568",
-    "@osmRelationId": "1582395",
-    "@country": "Italy",
-    "@wikipedia": "Arcipelago_Toscano_National_Park",
-    "boundary": "national_park",
-    "name": "Parco Nazionale dell'Arcipelago Toscano",
-    "name:de": "Nationalpark Toskanischer Archipel",
-    "name:es": "Parque nacional Archipiélago Toscano",
-    "name:fr": "Parc national de l’archipel toscan",
-    "name:it": "Parco Nazionale dell'Arcipelago Toscano",
-    "national_park": "marine",
-    "protect_class": "2",
-    "type": "boundary",
-    "url": "http://www.islepark.it/",
-    "wikidata": "Q1111568",
-    "wikipedia": "it:Parco nazionale dell'Arcipelago Toscano",
-    "id": "relation/1582395"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Parco Nazionale dell'Arcipelago Toscano",
+      "name:de": "Nationalpark Toskanischer Archipel",
+      "name:es": "Parque nacional Archipiélago Toscano",
+      "name:fr": "Parc national de l’archipel toscan",
+      "name:it": "Parco Nazionale dell'Arcipelago Toscano",
+      "national_park": "marine",
+      "protect_class": "2",
+      "type": "boundary",
+      "url": "http://www.islepark.it/",
+      "wikidata": "Q1111568",
+      "wikipedia": "it:Parco nazionale dell'Arcipelago Toscano"
+    },
+    "wiki": {
+      "name": "Arcipelago Toscano National Park",
+      "wikidataId": "Q1111568",
+      "osmRelationId": "1582395",
+      "country": "Italy",
+      "wikipedia": "Arcipelago_Toscano_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

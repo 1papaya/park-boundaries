@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 2695742,
   "properties": {
-    "@name": "Pendjari National Park",
-    "@wikidataId": "Q1474363",
-    "@osmRelationId": "2695742",
-    "@country": "Benin",
-    "@wikipedia": "Pendjari_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Parc National de la Pendjari",
-    "name:en": "Pendjari National Park",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q1474363",
-    "wikipedia": "en:Pendjari National Park",
-    "id": "relation/2695742"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Parc National de la Pendjari",
+      "name:en": "Pendjari National Park",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q1474363",
+      "wikipedia": "en:Pendjari National Park"
+    },
+    "wiki": {
+      "name": "Pendjari National Park",
+      "wikidataId": "Q1474363",
+      "osmRelationId": "2695742",
+      "country": "Benin",
+      "wikipedia": "Pendjari_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

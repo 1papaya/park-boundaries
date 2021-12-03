@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 10907997,
   "properties": {
-    "@name": "Babia Góra National Park",
-    "@wikidataId": "Q606000",
-    "@osmRelationId": "10907997",
-    "@country": "Poland",
-    "@wikipedia": "Babia_G%C3%B3ra_National_Park",
-    "boundary": "national_park",
-    "name": "Babiogórski Park Narodowy",
-    "name:de": "Nationalpark Teufelspitze",
-    "name:pl": "Babiogórski Park Narodowy",
-    "protect_class": "2",
-    "short_name": "BPN",
-    "source": "gps",
-    "type": "boundary",
-    "wikidata": "Q606000",
-    "wikipedia": "pl:Babiogórski Park Narodowy",
-    "id": "relation/10907997"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Babiogórski Park Narodowy",
+      "name:de": "Nationalpark Teufelspitze",
+      "name:pl": "Babiogórski Park Narodowy",
+      "protect_class": "2",
+      "short_name": "BPN",
+      "source": "gps",
+      "type": "boundary",
+      "wikidata": "Q606000",
+      "wikipedia": "pl:Babiogórski Park Narodowy"
+    },
+    "wiki": {
+      "name": "Babia Góra National Park",
+      "wikidataId": "Q606000",
+      "osmRelationId": "10907997",
+      "country": "Poland",
+      "wikipedia": "Babia_G%C3%B3ra_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

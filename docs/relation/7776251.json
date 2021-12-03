@@ -2,17 +2,20 @@
   "type": "Feature",
   "id": 7776251,
   "properties": {
-    "@name": "Q104547420",
-    "@wikidataId": "Q104547420",
-    "@osmRelationId": "7776251",
-    "@country": "Indonesia",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Cagar Alam Batukahu",
-    "name:en": "Batukahu Nature Reserve",
-    "type": "multipolygon",
-    "id": "relation/7776251"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Cagar Alam Batukahu",
+      "name:en": "Batukahu Nature Reserve",
+      "type": "multipolygon"
+    },
+    "wiki": {
+      "name": "Q104547420",
+      "wikidataId": "Q104547420",
+      "osmRelationId": "7776251",
+      "country": "Indonesia",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

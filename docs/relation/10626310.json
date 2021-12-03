@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 10626310,
   "properties": {
-    "@name": "Svartkobben",
-    "@wikidataId": "Q30158121",
-    "@osmRelationId": "10626310",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:anmärkning": "Dossienr. Lst: 0120-02-029",
-    "lst:area_ha": "0.78",
-    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
-    "lst:ref": "0102076",
-    "lst:tillkomst": "1974-04-02",
-    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
-    "name": "Svartkobben",
-    "type": "multipolygon",
-    "wikidata": "Q30158121",
-    "id": "relation/10626310"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:anmärkning": "Dossienr. Lst: 0120-02-029",
+      "lst:area_ha": "0.78",
+      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+      "lst:ref": "0102076",
+      "lst:tillkomst": "1974-04-02",
+      "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+      "name": "Svartkobben",
+      "type": "multipolygon",
+      "wikidata": "Q30158121"
+    },
+    "wiki": {
+      "name": "Svartkobben",
+      "wikidataId": "Q30158121",
+      "osmRelationId": "10626310",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

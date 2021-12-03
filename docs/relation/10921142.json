@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 10921142,
   "properties": {
-    "@name": "Pang Sida National Park",
-    "@wikidataId": "Q4925892",
-    "@osmRelationId": "10921142",
-    "@country": "Thailand",
-    "@wikipedia": "Pang_Sida_National_Park",
-    "boundary": "national_park",
-    "name": "อุทยานแห่งชาติปางสีดา",
-    "name:en": "Pang Sida National Park",
-    "name:th": "อุทยานแห่งชาติปางสีดา",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q4925892",
-    "id": "relation/10921142"
+    "osm": {
+      "boundary": "national_park",
+      "name": "อุทยานแห่งชาติปางสีดา",
+      "name:en": "Pang Sida National Park",
+      "name:th": "อุทยานแห่งชาติปางสีดา",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q4925892"
+    },
+    "wiki": {
+      "name": "Pang Sida National Park",
+      "wikidataId": "Q4925892",
+      "osmRelationId": "10921142",
+      "country": "Thailand",
+      "wikipedia": "Pang_Sida_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 3971116,
   "properties": {
-    "@name": "Jacarenema Ecological Reserve",
-    "@wikidataId": "Q10359653",
-    "@osmRelationId": "3971116",
-    "@country": "Brazil",
-    "@wikipedia": "Jacarenema_Ecological_Reserve",
-    "alt_name": "Reserva Ecológica Estadual de Jacarenema",
-    "boundary": "protected_area",
-    "name": "Parque Natural Municipal de Jacarenema",
-    "operator": "PMVV",
-    "protect_class": "2",
-    "protection_title": "parque natural municipal",
-    "ref:CNUC": "0520.32.2778",
-    "related_law": "Decreto Municipal Nº 33, de 09 de fevereiro de 2003",
-    "start_date": "1997-07-30",
-    "type": "boundary",
-    "wikidata": "Q10359653",
-    "wikipedia": "pt:Reserva Ecológica de Jacarenema",
-    "id": "relation/3971116"
+    "osm": {
+      "alt_name": "Reserva Ecológica Estadual de Jacarenema",
+      "boundary": "protected_area",
+      "name": "Parque Natural Municipal de Jacarenema",
+      "operator": "PMVV",
+      "protect_class": "2",
+      "protection_title": "parque natural municipal",
+      "ref:CNUC": "0520.32.2778",
+      "related_law": "Decreto Municipal Nº 33, de 09 de fevereiro de 2003",
+      "start_date": "1997-07-30",
+      "type": "boundary",
+      "wikidata": "Q10359653",
+      "wikipedia": "pt:Reserva Ecológica de Jacarenema"
+    },
+    "wiki": {
+      "name": "Jacarenema Ecological Reserve",
+      "wikidataId": "Q10359653",
+      "osmRelationId": "3971116",
+      "country": "Brazil",
+      "wikipedia": "Jacarenema_Ecological_Reserve"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

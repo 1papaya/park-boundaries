@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 552150,
   "properties": {
-    "@name": "Vulkathunha-Gammon Ranges National Park",
-    "@wikidataId": "Q2535413",
-    "@osmRelationId": "552150",
-    "@country": "Australia",
-    "@wikipedia": "Vulkathunha-Gammon_Ranges_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "II",
-    "leisure": "nature_reserve",
-    "name": "Vulkathunha-Gammon Ranges National Park",
-    "protect_class": "2",
-    "ref:capad:pa_id": "SA_0223",
-    "ref:dew:park_id": "223",
-    "source": "SA Conservation Reserve Boundaries",
-    "type": "boundary",
-    "id": "relation/552150"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "II",
+      "leisure": "nature_reserve",
+      "name": "Vulkathunha-Gammon Ranges National Park",
+      "protect_class": "2",
+      "ref:capad:pa_id": "SA_0223",
+      "ref:dew:park_id": "223",
+      "source": "SA Conservation Reserve Boundaries",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Vulkathunha-Gammon Ranges National Park",
+      "wikidataId": "Q2535413",
+      "osmRelationId": "552150",
+      "country": "Australia",
+      "wikipedia": "Vulkathunha-Gammon_Ranges_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

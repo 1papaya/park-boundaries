@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 1461873,
   "properties": {
-    "@name": "Hagalund",
-    "@wikidataId": "Q30170854",
-    "@osmRelationId": "1461873",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:area_ha": "37.2",
-    "lst:ref": "2002879.0",
-    "lst:tillkomst": "2004-12-23",
-    "name": "Hagalund",
-    "source": "Länsstyrelsen i Uppsala län (gis.lst.se)",
-    "type": "multipolygon",
-    "wikidata": "Q30170854",
-    "id": "relation/1461873"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:area_ha": "37.2",
+      "lst:ref": "2002879.0",
+      "lst:tillkomst": "2004-12-23",
+      "name": "Hagalund",
+      "source": "Länsstyrelsen i Uppsala län (gis.lst.se)",
+      "type": "multipolygon",
+      "wikidata": "Q30170854"
+    },
+    "wiki": {
+      "name": "Hagalund",
+      "wikidataId": "Q30170854",
+      "osmRelationId": "1461873",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 9529323,
   "properties": {
-    "@name": "Saguaro National Park",
-    "@wikidataId": "Q676206",
-    "@osmRelationId": "9529323",
-    "@country": "United States of America",
-    "@wikipedia": "Saguaro_National_Park",
-    "boundary": "national_park",
-    "boundary:type": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Saguaro National Park",
-    "operator": "National Park Service",
-    "phone": "+1-520-733-5153",
-    "protect_class": "2",
-    "protection_title": "National Park",
-    "type": "boundary",
-    "website": "https://www.nps.gov/sagu/",
-    "wikidata": "Q676206",
-    "wikipedia": "en:Saguaro National Park",
-    "id": "relation/9529323"
+    "osm": {
+      "boundary": "national_park",
+      "boundary:type": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Saguaro National Park",
+      "operator": "National Park Service",
+      "phone": "+1-520-733-5153",
+      "protect_class": "2",
+      "protection_title": "National Park",
+      "type": "boundary",
+      "website": "https://www.nps.gov/sagu/",
+      "wikidata": "Q676206",
+      "wikipedia": "en:Saguaro National Park"
+    },
+    "wiki": {
+      "name": "Saguaro National Park",
+      "wikidataId": "Q676206",
+      "osmRelationId": "9529323",
+      "country": "United States of America",
+      "wikipedia": "Saguaro_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

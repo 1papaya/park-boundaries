@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 5441762,
   "properties": {
-    "@name": "Serra do Tabuleiro State Park",
-    "@wikidataId": "Q10345046",
-    "@osmRelationId": "5441762",
-    "@country": "Brazil",
-    "@wikipedia": "Serra_do_Tabuleiro_State_Park",
-    "boundary": "protected_area",
-    "name": "Parque Estadual da Serra do Tabuleiro",
-    "operator": "Instituto do Meio Ambiente de Santa Catarina",
-    "protect_class": "2",
-    "protection_title": "área de proteção ambiental",
-    "ref:CNUC": "0000.42.0786",
-    "related_law": "Decreto Estadual 1.260, 01 de novembro de 1975",
-    "start_date": "1975-11-01",
-    "type": "boundary",
-    "website": "https://www.ima.sc.gov.br/index.php/biodiversidade/unidades-de-conservacao/parque-estadual-da-serra-do-tabuleiro",
-    "wikidata": "Q10345046",
-    "wikipedia": "pt:Parque Estadual da Serra do Tabuleiro",
-    "id": "relation/5441762"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Parque Estadual da Serra do Tabuleiro",
+      "operator": "Instituto do Meio Ambiente de Santa Catarina",
+      "protect_class": "2",
+      "protection_title": "área de proteção ambiental",
+      "ref:CNUC": "0000.42.0786",
+      "related_law": "Decreto Estadual 1.260, 01 de novembro de 1975",
+      "start_date": "1975-11-01",
+      "type": "boundary",
+      "website": "https://www.ima.sc.gov.br/index.php/biodiversidade/unidades-de-conservacao/parque-estadual-da-serra-do-tabuleiro",
+      "wikidata": "Q10345046",
+      "wikipedia": "pt:Parque Estadual da Serra do Tabuleiro"
+    },
+    "wiki": {
+      "name": "Serra do Tabuleiro State Park",
+      "wikidataId": "Q10345046",
+      "osmRelationId": "5441762",
+      "country": "Brazil",
+      "wikipedia": "Serra_do_Tabuleiro_State_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

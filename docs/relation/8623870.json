@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 8623870,
   "properties": {
-    "@name": "Montecristo National Park",
-    "@wikidataId": "Q6905054",
-    "@osmRelationId": "8623870",
-    "@country": "El Salvador",
-    "@wikipedia": "Montecristo_National_Park",
-    "WDPA_ID:ref": "9638",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Parque Nacional Montecristo",
-    "protect_class": "2",
-    "start_date": "18 de noviembre de 1987​",
-    "type": "multipolygon",
-    "id": "relation/8623870"
+    "osm": {
+      "WDPA_ID:ref": "9638",
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Parque Nacional Montecristo",
+      "protect_class": "2",
+      "start_date": "18 de noviembre de 1987​",
+      "type": "multipolygon"
+    },
+    "wiki": {
+      "name": "Montecristo National Park",
+      "wikidataId": "Q6905054",
+      "osmRelationId": "8623870",
+      "country": "El Salvador",
+      "wikipedia": "Montecristo_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",
