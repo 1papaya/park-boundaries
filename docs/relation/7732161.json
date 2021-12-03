@@ -1,0 +1,52 @@
+{
+  "type": "Feature",
+  "id": 7732161,
+  "properties": {
+    "@name": "Komodo National Park",
+    "@wikidataId": "Q4520",
+    "@osmRelationId": "7732161",
+    "@country": "Indonesia",
+    "@wikipedia": "Komodo_National_Park",
+    "boundary": "national_park",
+    "name": "Taman Nasional Komodo",
+    "name:de": "Nationalpark Komodo",
+    "name:en": "Komodo National Park",
+    "name:es": "Parque Nacional de Komodo",
+    "name:fr": "Parc national de Komodo",
+    "name:it": "Parco nazionale di Komodo",
+    "type": "boundary",
+    "wikidata": "Q4520",
+    "wikipedia": "id:Taman Nasional Komodo",
+    "id": "relation/7732161"
+  },
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [119.5834347, -8.4292434],
+          [119.455032, -8.4064886],
+          [119.3990704, -8.4319603],
+          [119.3444821, -8.5918841],
+          [119.3458554, -8.7642953],
+          [119.6623989, -8.8318126],
+          [119.7296902, -8.8100998],
+          [119.7863385, -8.7150915],
+          [119.8079678, -8.6220957],
+          [119.7931191, -8.5885742],
+          [119.6878048, -8.5256817],
+          [119.5834347, -8.4292434]
+        ]
+      ],
+      [
+        [
+          [119.7777554, -8.7775283],
+          [119.7550961, -8.8141711],
+          [119.7959515, -8.8396153],
+          [119.8168942, -8.8029751],
+          [119.7777554, -8.7775283]
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "id": 6243495,
+  "properties": {
+    "@name": "Skevik nature reserve",
+    "@wikidataId": "Q24197147",
+    "@osmRelationId": "6243495",
+    "@country": "Sweden",
+    "@wikipedia": null,
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "Dossienr. Lst: 0120-02-003",
+    "lst:area_ha": "3.26",
+    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+    "lst:ref": "0102014",
+    "lst:tillkomst": "1949-11-23",
+    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+    "name": "Skevik",
+    "type": "multipolygon",
+    "wikidata": "Q24197147",
+    "id": "relation/6243495"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [18.3902173, 59.3399986],
+        [18.3903032, 59.3396825],
+        [18.3904188, 59.3394108],
+        [18.3905784, 59.3391935],
+        [18.3921613, 59.3387948],
+        [18.3924687, 59.3387666],
+        [18.392639, 59.3388072],
+        [18.3928388, 59.3389342],
+        [18.3935017, 59.3396201],
+        [18.3935537, 59.3396689],
+        [18.3937157, 59.3398643],
+        [18.392507, 59.3406896],
+        [18.3928685, 59.3410506],
+        [18.3923245, 59.3412949],
+        [18.3912843, 59.3406779],
+        [18.3902173, 59.3399986]
+      ]
+    ]
+  }
+}

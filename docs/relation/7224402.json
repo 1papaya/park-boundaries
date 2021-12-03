@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "id": 7224402,
+  "properties": {
+    "@name": "Bladmyran och Granskogen",
+    "@wikidataId": "Q16503017",
+    "@osmRelationId": "7224402",
+    "@country": "Sweden",
+    "@wikipedia": null,
+    "leisure": "nature_reserve",
+    "lst:aktuell": "2007-01-23",
+    "lst:anmärkning": "Bildat av Gävle kommun. Inkluderar hela det tidigare Bladmyrans NR, upphävt av LST 2006-12-18.",
+    "lst:area_ha": "19.28",
+    "lst:beskrivning": "Skogsfru mm",
+    "lst:lägesnoggrannhet": "Medelgod",
+    "lst:metodbeskrivning": "Gränsen inte inmätt",
+    "lst:ref": "21-02-046",
+    "lst:skogsvärde": "yes",
+    "lst:syfte": "Att bevara den biologiska mångfalden och att vårda och bevara den värdefulla naturmiljön i området samt att tillgodose friluftslivets behov av områden.",
+    "lst:tillkomst": "2006-12-18",
+    "name": "Bladmyrans och Granskogens naturreservat",
+    "operator": "Gävle kommun",
+    "protect_class": "1a",
+    "protection_title": "Naturreservat",
+    "ref:NVRID": "2010870",
+    "source": "Naturvårdsverket",
+    "start_date": "2007-01-19",
+    "type": "multipolygon",
+    "wikidata": "Q16503017",
+    "id": "relation/7224402"
+  },
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [17.253108, 60.733779],
+          [17.254848, 60.734916],
+          [17.252899, 60.73551],
+          [17.251813, 60.73487],
+          [17.249399, 60.734963],
+          [17.246506, 60.734895],
+          [17.245395, 60.73436],
+          [17.245064, 60.733944],
+          [17.245777, 60.733585],
+          [17.247085, 60.733582],
+          [17.24818, 60.733762],
+          [17.249354, 60.733502],
+          [17.250402, 60.733836],
+          [17.252064, 60.733941],
+          [17.253108, 60.733779]
+        ]
+      ],
+      [
+        [
+          [17.233612, 60.737274],
+          [17.233085, 60.737378],
+          [17.23272, 60.737023],
+          [17.234351, 60.736269],
+          [17.239197, 60.734014],
+          [17.239787, 60.733742],
+          [17.241774, 60.734473],
+          [17.241624, 60.734768],
+          [17.24486, 60.735828],
+          [17.23955, 60.737247],
+          [17.238843, 60.736599],
+          [17.237216, 60.737101],
+          [17.236759, 60.737133],
+          [17.23556, 60.737397],
+          [17.234328, 60.737302],
+          [17.233612, 60.737274]
+        ]
+      ]
+    ]
+  }
+}

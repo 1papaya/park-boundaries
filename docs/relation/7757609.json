@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "id": 7757609,
+  "properties": {
+    "@name": "Q104546015",
+    "@wikidataId": "Q104546015",
+    "@osmRelationId": "7757609",
+    "@country": "Indonesia",
+    "@wikipedia": null,
+    "alt_name": "Cagar Alam Kepulauan Krakatau",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Krakatau",
+    "name:en": "Krakatau Nature Reserve",
+    "type": "multipolygon",
+    "id": "relation/7757609"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [105.3835201, -6.0667321],
+        [105.3497457, -6.1131605],
+        [105.4224014, -6.1672223],
+        [105.4632139, -6.1745183],
+        [105.4751443, -6.1517766],
+        [105.4720544, -6.0858075],
+        [105.4012012, -6.0573435],
+        [105.3835201, -6.0667321]
+      ]
+    ]
+  }
+}
