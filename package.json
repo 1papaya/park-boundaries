@@ -8,12 +8,16 @@
     "regenerate": "yarn generate-geojson && yarn build-mbtiles && yarn generate-index && yarn generate-features",
     "generate-geojson": "ts-node ./scripts/generate-geojson.ts",
     "generate-features": "ts-node ./scripts/generate-features.ts",
+    "generate-points": "ts-node ./scripts/generate-points.ts",
     "generate-index": "ts-node ./scripts/generate-index.ts",
     "build-mbtiles": "bash ./scripts/build-mbtiles.sh"
   },
   "dependencies": {
+    "@mapbox/polylabel": "^1.0.2",
+    "@turf/area": "^6.5.0",
     "@turf/bbox": "^6.5.0",
     "@types/node": "^16.11.11",
+    "@types/polylabel": "^1.0.5",
     "isomorphic-fetch": "^3.0.0",
     "json-stringify-pretty-compact": "^3.0.0",
     "osm-geojson": "^0.8.4",

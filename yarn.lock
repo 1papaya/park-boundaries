@@ -31,6 +31,13 @@
     minimist "1.2.0"
     sharkdown "^0.1.0"
 
+"@mapbox/polylabel@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@mapbox/polylabel/-/polylabel-1.0.2.tgz#c5714619b65add082638ea06027e69b14500efa6"
+  integrity sha1-xXFGGbZa3QgmOOoGAn5psUUA76Y=
+  dependencies:
+    tinyqueue "^1.1.0"
+
 "@tsconfig/node10@^1.0.7":
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/@tsconfig/node10/-/node10-1.0.8.tgz#c1e4e80d6f964fbecb3359c43bd48b40f7cadad9"
@@ -50,6 +57,14 @@
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@tsconfig/node16/-/node16-1.0.2.tgz#423c77877d0569db20e1fc80885ac4118314010e"
   integrity sha512-eZxlbI8GZscaGS7kkc/trHTT5xgrjH3/1n2JDwusC9iahPKWMRvRjJSAN5mCXviuTGQ/lHnhvv8Q1YTpnfz9gA==
+
+"@turf/area@^6.5.0":
+  version "6.5.0"
+  resolved "https://registry.yarnpkg.com/@turf/area/-/area-6.5.0.tgz#1d0d7aee01d8a4a3d4c91663ed35cc615f36ad56"
+  integrity sha512-xCZdiuojokLbQ+29qR6qoMD89hv+JAgWjLrwSEWL+3JV8IXKeNFl6XkEJz9HGkVpnXvQKJoRz4/liT+8ZZ5Jyg==
+  dependencies:
+    "@turf/helpers" "^6.5.0"
+    "@turf/meta" "^6.5.0"
 
 "@turf/bbox@^6.5.0":
   version "6.5.0"
@@ -80,6 +95,11 @@
   version "16.11.11"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.11.tgz#6ea7342dfb379ea1210835bada87b3c512120234"
   integrity sha512-KB0sixD67CeecHC33MYn+eYARkqTheIRNuu97y2XMjR7Wu3XibO1vaY6VBV6O/a89SPI81cEUIYT87UqUWlZNw==
+
+"@types/polylabel@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@types/polylabel/-/polylabel-1.0.5.tgz#9262f269de36f1e9248aeb9dee0ee9d10065e043"
+  integrity sha512-gnaNmo1OJiYNBFAZMZdqLZ3hKx2ee4ksAzqhKWBxuQ61PmhINHMcvIqsGmyCD1WFKCkwRt9NFhMSmKE6AgYY+w==
 
 JSONStream@0.8.0:
   version "0.8.0"
@@ -718,6 +738,11 @@ tiny-osmpbf@^0.1.0:
   dependencies:
     pbf "^3.0.4"
     tiny-inflate "^1.0.2"
+
+tinyqueue@^1.1.0:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/tinyqueue/-/tinyqueue-1.2.3.tgz#b6a61de23060584da29f82362e45df1ec7353f3d"
+  integrity sha512-Qz9RgWuO9l8lT+Y9xvbzhPT2efIUIFd69N7eF7tJ9lnQl0iLj1M7peK7IoUGZL9DJHw9XftqLreccfxcQgYLxA==
 
 tough-cookie@~2.5.0:
   version "2.5.0"
