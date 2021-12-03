@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 11116441,
   "properties": {
-    "@name": "Voyageurs National Park",
-    "@wikidataId": "Q1368788",
-    "@osmRelationId": "11116441",
-    "@country": "United States of America",
-    "@wikipedia": "Voyageurs_National_Park",
-    "boundary": "national_park",
-    "boundary:type": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Voyageurs National Park",
-    "operator": "United States National Park Service",
-    "ownership": "national",
-    "protect_class": "2",
-    "protected": "perpetuity",
-    "protection_title": "National Park",
-    "type": "multipolygon",
-    "website": "https://www.nps.gov/voya",
-    "wikidata": "Q1368788",
-    "wikipedia": "en:Voyageurs National Park",
-    "id": "relation/11116441"
+    "osm": {
+      "boundary": "national_park",
+      "boundary:type": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Voyageurs National Park",
+      "operator": "United States National Park Service",
+      "ownership": "national",
+      "protect_class": "2",
+      "protected": "perpetuity",
+      "protection_title": "National Park",
+      "type": "multipolygon",
+      "website": "https://www.nps.gov/voya",
+      "wikidata": "Q1368788",
+      "wikipedia": "en:Voyageurs National Park"
+    },
+    "wiki": {
+      "name": "Voyageurs National Park",
+      "wikidataId": "Q1368788",
+      "osmRelationId": "11116441",
+      "country": "United States of America",
+      "wikipedia": "Voyageurs_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

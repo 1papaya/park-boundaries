@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 4524956,
   "properties": {
-    "@name": "Świętokrzyski National Park",
-    "@wikidataId": "Q387818",
-    "@osmRelationId": "4524956",
-    "@country": "Poland",
-    "@wikipedia": "%C5%9Awi%C4%99tokrzyski_National_Park",
-    "boundary": "national_park",
-    "gid": "2485",
-    "kodinspire": "PL.ZIPOP.1393.PN.6",
-    "name": "Świętokrzyski Park Narodowy",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q387818",
-    "wikipedia": "pl:Świętokrzyski Park Narodowy",
-    "id": "relation/4524956"
+    "osm": {
+      "boundary": "national_park",
+      "gid": "2485",
+      "kodinspire": "PL.ZIPOP.1393.PN.6",
+      "name": "Świętokrzyski Park Narodowy",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q387818",
+      "wikipedia": "pl:Świętokrzyski Park Narodowy"
+    },
+    "wiki": {
+      "name": "Świętokrzyski National Park",
+      "wikidataId": "Q387818",
+      "osmRelationId": "4524956",
+      "country": "Poland",
+      "wikipedia": "%C5%9Awi%C4%99tokrzyski_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

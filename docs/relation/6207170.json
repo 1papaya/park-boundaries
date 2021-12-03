@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 6207170,
   "properties": {
-    "@name": "Caribou Wilderness",
-    "@wikidataId": "Q3457255",
-    "@osmRelationId": "6207170",
-    "@country": "United States of America",
-    "@wikipedia": "Caribou_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Caribou Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q3457255",
-    "id": "relation/6207170"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Caribou Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q3457255"
+    },
+    "wiki": {
+      "name": "Caribou Wilderness",
+      "wikidataId": "Q3457255",
+      "osmRelationId": "6207170",
+      "country": "United States of America",
+      "wikipedia": "Caribou_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 11992711,
   "properties": {
-    "@name": "Walpole-Nornalup National Park",
-    "@wikidataId": "Q1810964",
-    "@osmRelationId": "11992711",
-    "@country": "Australia",
-    "@wikipedia": "Walpole-Nornalup_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "II",
-    "leisure": "nature_reserve",
-    "name": "Walpole-Nornalup National Park",
-    "operator": "WA-Department of Parks and Wildlife (DPaW)",
-    "protect_class": "2",
-    "protection_title": "National Park",
-    "ref:capad:pa_id": "WA_13045",
-    "source": "CAPAD 2018 - Terrestrial",
-    "start_date": "1972-05-26",
-    "type": "boundary",
-    "id": "relation/11992711"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "II",
+      "leisure": "nature_reserve",
+      "name": "Walpole-Nornalup National Park",
+      "operator": "WA-Department of Parks and Wildlife (DPaW)",
+      "protect_class": "2",
+      "protection_title": "National Park",
+      "ref:capad:pa_id": "WA_13045",
+      "source": "CAPAD 2018 - Terrestrial",
+      "start_date": "1972-05-26",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Walpole-Nornalup National Park",
+      "wikidataId": "Q1810964",
+      "osmRelationId": "11992711",
+      "country": "Australia",
+      "wikipedia": "Walpole-Nornalup_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

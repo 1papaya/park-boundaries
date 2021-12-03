@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 8144456,
   "properties": {
-    "@name": "Cape Arid National Park",
-    "@wikidataId": "Q442279",
-    "@osmRelationId": "8144456",
-    "@country": "Australia",
-    "@wikipedia": "Cape_Arid_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "II",
-    "leisure": "nature_reserve",
-    "name": "Cape Arid National Park",
-    "operator": "Department of Parks and Wildlife, Western Australia",
-    "protect_class": "2",
-    "ref:capad:pa_id": "WA_24047",
-    "source": "CAPAD 2016 - Terrestrial",
-    "type": "boundary",
-    "website": "https://parks.dpaw.wa.gov.au/park/cape-arid",
-    "wikipedia": "en:Cape Arid National Park",
-    "id": "relation/8144456"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "II",
+      "leisure": "nature_reserve",
+      "name": "Cape Arid National Park",
+      "operator": "Department of Parks and Wildlife, Western Australia",
+      "protect_class": "2",
+      "ref:capad:pa_id": "WA_24047",
+      "source": "CAPAD 2016 - Terrestrial",
+      "type": "boundary",
+      "website": "https://parks.dpaw.wa.gov.au/park/cape-arid",
+      "wikipedia": "en:Cape Arid National Park"
+    },
+    "wiki": {
+      "name": "Cape Arid National Park",
+      "wikidataId": "Q442279",
+      "osmRelationId": "8144456",
+      "country": "Australia",
+      "wikipedia": "Cape_Arid_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

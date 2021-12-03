@@ -2,17 +2,20 @@
   "type": "Feature",
   "id": 2456039,
   "properties": {
-    "@name": "Serra da Tiririca State Park",
-    "@wikidataId": "Q10345037",
-    "@osmRelationId": "2456039",
-    "@country": "Brazil",
-    "@wikipedia": "Serra_da_Tiririca_State_Park",
-    "name": "Serra da Tiririca",
-    "natural": "wood",
-    "official_name": "Parque Estadual da Serra da Tiririca",
-    "type": "multipolygon",
-    "wikidata": "Q10345037",
-    "id": "relation/2456039"
+    "osm": {
+      "name": "Serra da Tiririca",
+      "natural": "wood",
+      "official_name": "Parque Estadual da Serra da Tiririca",
+      "type": "multipolygon",
+      "wikidata": "Q10345037"
+    },
+    "wiki": {
+      "name": "Serra da Tiririca State Park",
+      "wikidataId": "Q10345037",
+      "osmRelationId": "2456039",
+      "country": "Brazil",
+      "wikipedia": "Serra_da_Tiririca_State_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

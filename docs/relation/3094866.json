@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 3094866,
   "properties": {
-    "@name": "Samarskaya Luka National Park",
-    "@wikidataId": "Q4406360",
-    "@osmRelationId": "3094866",
-    "@country": "Russia",
-    "@wikipedia": "Samarskaya_Luka_National_Park",
-    "boundary": "national_park",
-    "name": "Национальный парк «Самарская Лука»",
-    "name:de": "Nationalpark Samarskaja Luka",
-    "name:en": "National Park \"Samarskaya Luka\"",
-    "name:nl": "Nationaal Park Boog van Samara",
-    "name:ru": "Национальный парк «Самарская Лука»",
-    "phone": "+78486221495",
-    "type": "multipolygon",
-    "website": "http://www.npsamluka.ru/",
-    "wikidata": "Q4406360",
-    "wikipedia": "ru:Самарская Лука (национальный парк)",
-    "id": "relation/3094866"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Национальный парк «Самарская Лука»",
+      "name:de": "Nationalpark Samarskaja Luka",
+      "name:en": "National Park \"Samarskaya Luka\"",
+      "name:nl": "Nationaal Park Boog van Samara",
+      "name:ru": "Национальный парк «Самарская Лука»",
+      "phone": "+78486221495",
+      "type": "multipolygon",
+      "website": "http://www.npsamluka.ru/",
+      "wikidata": "Q4406360",
+      "wikipedia": "ru:Самарская Лука (национальный парк)"
+    },
+    "wiki": {
+      "name": "Samarskaya Luka National Park",
+      "wikidataId": "Q4406360",
+      "osmRelationId": "3094866",
+      "country": "Russia",
+      "wikipedia": "Samarskaya_Luka_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

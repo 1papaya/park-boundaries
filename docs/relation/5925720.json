@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5925720,
   "properties": {
-    "@name": "Långsjön nature reserve",
-    "@wikidataId": "Q18292085",
-    "@osmRelationId": "5925720",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "landuse": "forest",
-    "leisure": "nature_reserve",
-    "lst:anmärkning": "Dossienr. Lst: 0182-02-006K",
-    "lst:area_ha": "25.63",
-    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Ospecificerad",
-    "lst:tillkomst": "2005-09-12",
-    "name": "Långsjöns naturreservat",
-    "type": "multipolygon",
-    "wikidata": "Q18292085",
-    "id": "relation/5925720"
+    "osm": {
+      "landuse": "forest",
+      "leisure": "nature_reserve",
+      "lst:anmärkning": "Dossienr. Lst: 0182-02-006K",
+      "lst:area_ha": "25.63",
+      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Ospecificerad",
+      "lst:tillkomst": "2005-09-12",
+      "name": "Långsjöns naturreservat",
+      "type": "multipolygon",
+      "wikidata": "Q18292085"
+    },
+    "wiki": {
+      "name": "Långsjön nature reserve",
+      "wikidataId": "Q18292085",
+      "osmRelationId": "5925720",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5413850,
   "properties": {
-    "@name": "Beauty Mountain Wilderness",
-    "@wikidataId": "Q27967277",
-    "@osmRelationId": "5413850",
-    "@country": "United States of America",
-    "@wikipedia": "Beauty_Mountain_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Beauty Mountain Wilderness",
-    "operator": "BLM",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q27967277",
-    "id": "relation/5413850"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Beauty Mountain Wilderness",
+      "operator": "BLM",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q27967277"
+    },
+    "wiki": {
+      "name": "Beauty Mountain Wilderness",
+      "wikidataId": "Q27967277",
+      "osmRelationId": "5413850",
+      "country": "United States of America",
+      "wikipedia": "Beauty_Mountain_Wilderness"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

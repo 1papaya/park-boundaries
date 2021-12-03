@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 11050476,
   "properties": {
-    "@name": "Bandhavgarh National Park",
-    "@wikidataId": "Q806310",
-    "@osmRelationId": "11050476",
-    "@country": "India",
-    "@wikipedia": "Bandhavgarh_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Bandhavgarh National Park/Tiger Reserve",
-    "name:zh": "班达迦国家公园",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q806310",
-    "wikipedia": "en:Bandhavgarh National Park",
-    "id": "relation/11050476"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Bandhavgarh National Park/Tiger Reserve",
+      "name:zh": "班达迦国家公园",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q806310",
+      "wikipedia": "en:Bandhavgarh National Park"
+    },
+    "wiki": {
+      "name": "Bandhavgarh National Park",
+      "wikidataId": "Q806310",
+      "osmRelationId": "11050476",
+      "country": "India",
+      "wikipedia": "Bandhavgarh_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

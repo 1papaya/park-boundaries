@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 9460113,
   "properties": {
-    "@name": "Auyuittuq National Park",
-    "@wikidataId": "Q789743",
-    "@osmRelationId": "9460113",
-    "@country": "Canada",
-    "@wikipedia": "Auyuittuq_National_Park",
-    "boundary": "national_park",
-    "land_area": "administrative",
-    "name": "Auyuittuq National Park",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q789743",
-    "wikipedia": "en:Auyuittuq National Park",
-    "id": "relation/9460113"
+    "osm": {
+      "boundary": "national_park",
+      "land_area": "administrative",
+      "name": "Auyuittuq National Park",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q789743",
+      "wikipedia": "en:Auyuittuq National Park"
+    },
+    "wiki": {
+      "name": "Auyuittuq National Park",
+      "wikidataId": "Q789743",
+      "osmRelationId": "9460113",
+      "country": "Canada",
+      "wikipedia": "Auyuittuq_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

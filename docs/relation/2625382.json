@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 2625382,
   "properties": {
-    "@name": "Big Bend National Park",
-    "@wikidataId": "Q1427197",
-    "@osmRelationId": "2625382",
-    "@country": "United States of America",
-    "@wikipedia": "Big_Bend_National_Park",
-    "boundary": "national_park",
-    "boundary:type": "protected_area",
-    "name": "Big Bend National Park",
-    "operator": "United States National Park Service",
-    "ownership": "national",
-    "protect_id": "2",
-    "protected": "perpetuity",
-    "protection_title": "National Park",
-    "type": "boundary",
-    "wikidata": "Q1427197",
-    "wikipedia": "en:Big Bend National Park",
-    "id": "relation/2625382"
+    "osm": {
+      "boundary": "national_park",
+      "boundary:type": "protected_area",
+      "name": "Big Bend National Park",
+      "operator": "United States National Park Service",
+      "ownership": "national",
+      "protect_id": "2",
+      "protected": "perpetuity",
+      "protection_title": "National Park",
+      "type": "boundary",
+      "wikidata": "Q1427197",
+      "wikipedia": "en:Big Bend National Park"
+    },
+    "wiki": {
+      "name": "Big Bend National Park",
+      "wikidataId": "Q1427197",
+      "osmRelationId": "2625382",
+      "country": "United States of America",
+      "wikipedia": "Big_Bend_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

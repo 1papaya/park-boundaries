@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5366640,
   "properties": {
-    "@name": "Carson-Iceberg Wilderness",
-    "@wikidataId": "Q5046898",
-    "@osmRelationId": "5366640",
-    "@country": "United States of America",
-    "@wikipedia": "Carson%E2%80%93Iceberg_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Carson-Iceberg Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q5046898",
-    "id": "relation/5366640"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Carson-Iceberg Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q5046898"
+    },
+    "wiki": {
+      "name": "Carson-Iceberg Wilderness",
+      "wikidataId": "Q5046898",
+      "osmRelationId": "5366640",
+      "country": "United States of America",
+      "wikipedia": "Carson%E2%80%93Iceberg_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

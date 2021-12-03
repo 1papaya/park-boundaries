@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 10036250,
   "properties": {
-    "@name": "Cabañeros National Park",
-    "@wikidataId": "Q117583",
-    "@osmRelationId": "10036250",
-    "@country": "Spain",
-    "@wikipedia": "Caba%C3%B1eros_National_Park",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Parque nacional de Cabañeros",
-    "name:ca": "Parc Nacional de Cabañeros",
-    "name:cs": "Národní park Cabañeros",
-    "name:de": "Nationalpark Cabañeros",
-    "name:en": "Cabañeros National Park",
-    "name:eu": "Cabañerosko parke nazionala",
-    "name:pt": "Parque Nacional de Cabañeros",
-    "protect_class": "2",
-    "type": "boundary",
-    "id": "relation/10036250"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Parque nacional de Cabañeros",
+      "name:ca": "Parc Nacional de Cabañeros",
+      "name:cs": "Národní park Cabañeros",
+      "name:de": "Nationalpark Cabañeros",
+      "name:en": "Cabañeros National Park",
+      "name:eu": "Cabañerosko parke nazionala",
+      "name:pt": "Parque Nacional de Cabañeros",
+      "protect_class": "2",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Cabañeros National Park",
+      "wikidataId": "Q117583",
+      "osmRelationId": "10036250",
+      "country": "Spain",
+      "wikipedia": "Caba%C3%B1eros_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

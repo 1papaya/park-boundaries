@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 8718929,
   "properties": {
-    "@name": "Möja Björndalen",
-    "@wikidataId": "Q30161339",
-    "@osmRelationId": "8718929",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:anmärkning": "Dossienr. Lst: 0120-02-046",
-    "lst:area_ha": "143.33",
-    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
-    "lst:ref": "0102135",
-    "lst:tillkomst": "1992-05-25",
-    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
-    "name": "Möja Björndalen",
-    "natural": "wood",
-    "type": "multipolygon",
-    "wikidata": "Q30161339",
-    "id": "relation/8718929"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:anmärkning": "Dossienr. Lst: 0120-02-046",
+      "lst:area_ha": "143.33",
+      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+      "lst:ref": "0102135",
+      "lst:tillkomst": "1992-05-25",
+      "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+      "name": "Möja Björndalen",
+      "natural": "wood",
+      "type": "multipolygon",
+      "wikidata": "Q30161339"
+    },
+    "wiki": {
+      "name": "Möja Björndalen",
+      "wikidataId": "Q30161339",
+      "osmRelationId": "8718929",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

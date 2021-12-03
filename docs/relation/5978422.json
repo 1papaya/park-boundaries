@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5978422,
   "properties": {
-    "@name": "Spirit Mountain Wilderness",
-    "@wikidataId": "Q7577903",
-    "@osmRelationId": "5978422",
-    "@country": "United States of America",
-    "@wikipedia": "Spirit_Mountain_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Spirit Mountain Wilderness",
-    "operator": "BLM;National Park Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q7577903",
-    "id": "relation/5978422"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Spirit Mountain Wilderness",
+      "operator": "BLM;National Park Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q7577903"
+    },
+    "wiki": {
+      "name": "Spirit Mountain Wilderness",
+      "wikidataId": "Q7577903",
+      "osmRelationId": "5978422",
+      "country": "United States of America",
+      "wikipedia": "Spirit_Mountain_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 4818345,
   "properties": {
-    "@name": "Dorob National Park",
-    "@wikidataId": "Q1246079",
-    "@osmRelationId": "4818345",
-    "@country": "Namibia",
-    "@wikipedia": "Dorob_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Dorob National Park",
-    "name:de": "Dorob-Nationalpark",
-    "name:en": "Dorob National Park",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q1246079",
-    "id": "relation/4818345"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Dorob National Park",
+      "name:de": "Dorob-Nationalpark",
+      "name:en": "Dorob National Park",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q1246079"
+    },
+    "wiki": {
+      "name": "Dorob National Park",
+      "wikidataId": "Q1246079",
+      "osmRelationId": "4818345",
+      "country": "Namibia",
+      "wikipedia": "Dorob_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

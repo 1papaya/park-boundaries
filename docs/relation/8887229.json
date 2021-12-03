@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 8887229,
   "properties": {
-    "@name": "Orhei National Park",
-    "@wikidataId": "Q15838244",
-    "@osmRelationId": "8887229",
-    "@country": "Moldova",
-    "@wikipedia": "Orhei_National_Park",
-    "area": "yes",
-    "boundary": "national_park",
-    "name": "Parcul Național „Orhei“",
-    "name:en": "Orhei National Park",
-    "name:ru": "Национальный парк «Орхей»",
-    "protect_class": "2",
-    "protection_title": "natural parc",
-    "type": "multipolygon",
-    "wikidata": "Q15838244",
-    "wikipedia": "ro:Parcul Național Orhei",
-    "id": "relation/8887229"
+    "osm": {
+      "area": "yes",
+      "boundary": "national_park",
+      "name": "Parcul Național „Orhei“",
+      "name:en": "Orhei National Park",
+      "name:ru": "Национальный парк «Орхей»",
+      "protect_class": "2",
+      "protection_title": "natural parc",
+      "type": "multipolygon",
+      "wikidata": "Q15838244",
+      "wikipedia": "ro:Parcul Național Orhei"
+    },
+    "wiki": {
+      "name": "Orhei National Park",
+      "wikidataId": "Q15838244",
+      "osmRelationId": "8887229",
+      "country": "Moldova",
+      "wikipedia": "Orhei_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

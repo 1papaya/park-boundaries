@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 1424445,
   "properties": {
-    "@name": "Ingaryd",
-    "@wikidataId": "Q30185488",
-    "@osmRelationId": "1424445",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:area_ha": "52.105",
-    "lst:beskrivning": "Ingaryd är mångformigt med naturskogsartad barrblandskog, ädellövskog samt ett odlingslandskap med alléer, skyddsvärda träd och lövträdshagmarker. Området är ett populärt närströvområde för Tenhultsborna.",
-    "lst:reviderad": "20091105",
-    "lst:tillkomst": "20081204",
-    "name": "Ingaryd",
-    "source": "Länsstyrelsen i Jönköpings län (gis.lst.se)",
-    "type": "multipolygon",
-    "wikidata": "Q30185488",
-    "id": "relation/1424445"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:area_ha": "52.105",
+      "lst:beskrivning": "Ingaryd är mångformigt med naturskogsartad barrblandskog, ädellövskog samt ett odlingslandskap med alléer, skyddsvärda träd och lövträdshagmarker. Området är ett populärt närströvområde för Tenhultsborna.",
+      "lst:reviderad": "20091105",
+      "lst:tillkomst": "20081204",
+      "name": "Ingaryd",
+      "source": "Länsstyrelsen i Jönköpings län (gis.lst.se)",
+      "type": "multipolygon",
+      "wikidata": "Q30185488"
+    },
+    "wiki": {
+      "name": "Ingaryd",
+      "wikidataId": "Q30185488",
+      "osmRelationId": "1424445",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

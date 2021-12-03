@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 6407742,
   "properties": {
-    "@name": "Riserva naturale Abetone",
-    "@wikidataId": "Q3936501",
-    "@osmRelationId": "6407742",
-    "@country": "Italy",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Riserva naturale Abetone",
-    "protected_object": "nature",
-    "ref:EUAP": "0113",
-    "type": "multipolygon",
-    "wikidata": "Q3936501",
-    "wikipedia": "it:Riserva naturale Abetone",
-    "id": "relation/6407742"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Riserva naturale Abetone",
+      "protected_object": "nature",
+      "ref:EUAP": "0113",
+      "type": "multipolygon",
+      "wikidata": "Q3936501",
+      "wikipedia": "it:Riserva naturale Abetone"
+    },
+    "wiki": {
+      "name": "Riserva naturale Abetone",
+      "wikidataId": "Q3936501",
+      "osmRelationId": "6407742",
+      "country": "Italy",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

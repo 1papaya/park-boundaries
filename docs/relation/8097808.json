@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 8097808,
   "properties": {
-    "@name": "Andringitra National Park",
-    "@wikidataId": "Q1116933",
-    "@osmRelationId": "8097808",
-    "@country": "Madagascar",
-    "@wikipedia": "Andringitra_National_Park",
-    "boundary": "national_park",
-    "name": "Parc National d'Andringitra",
-    "name:en": "Andringitra National Park",
-    "source": "ANGAP 2007",
-    "type": "boundary",
-    "wikidata": "Q1116933",
-    "wikipedia": "fr:Parc national d'Andringitra",
-    "id": "relation/8097808"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Parc National d'Andringitra",
+      "name:en": "Andringitra National Park",
+      "source": "ANGAP 2007",
+      "type": "boundary",
+      "wikidata": "Q1116933",
+      "wikipedia": "fr:Parc national d'Andringitra"
+    },
+    "wiki": {
+      "name": "Andringitra National Park",
+      "wikidataId": "Q1116933",
+      "osmRelationId": "8097808",
+      "country": "Madagascar",
+      "wikipedia": "Andringitra_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

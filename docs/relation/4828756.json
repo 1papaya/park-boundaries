@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 4828756,
   "properties": {
-    "@name": "Smolny National Park",
-    "@wikidataId": "Q4425090",
-    "@osmRelationId": "4828756",
-    "@country": "Russia",
-    "@wikipedia": "Smolny_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Национальный парк Смольный",
-    "type": "multipolygon",
-    "wikidata": "Q4425090",
-    "wikipedia:ru": "Смольный (национальный парк)",
-    "id": "relation/4828756"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Национальный парк Смольный",
+      "type": "multipolygon",
+      "wikidata": "Q4425090",
+      "wikipedia:ru": "Смольный (национальный парк)"
+    },
+    "wiki": {
+      "name": "Smolny National Park",
+      "wikidataId": "Q4425090",
+      "osmRelationId": "4828756",
+      "country": "Russia",
+      "wikipedia": "Smolny_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

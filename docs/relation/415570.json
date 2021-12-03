@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 415570,
   "properties": {
-    "@name": "Gulf of Mannar Marine National Park",
-    "@wikidataId": "Q5617576",
-    "@osmRelationId": "415570",
-    "@country": "India",
-    "@wikipedia": "Gulf_of_Mannar_Marine_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Gulf of Mannar Marine National Park",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q5617576",
-    "id": "relation/415570"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Gulf of Mannar Marine National Park",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q5617576"
+    },
+    "wiki": {
+      "name": "Gulf of Mannar Marine National Park",
+      "wikidataId": "Q5617576",
+      "osmRelationId": "415570",
+      "country": "India",
+      "wikipedia": "Gulf_of_Mannar_Marine_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

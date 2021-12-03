@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 8623692,
   "properties": {
-    "@name": "El Imposible National Park",
-    "@wikidataId": "Q5351426",
-    "@osmRelationId": "8623692",
-    "@country": "El Salvador",
-    "@wikipedia": "El_Imposible_National_Park",
-    "WDPA_ID:ref": "12494",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Parque Nacional El Imposible",
-    "name:en": "El Imposible National Park",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q5351426",
-    "id": "relation/8623692"
+    "osm": {
+      "WDPA_ID:ref": "12494",
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Parque Nacional El Imposible",
+      "name:en": "El Imposible National Park",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q5351426"
+    },
+    "wiki": {
+      "name": "El Imposible National Park",
+      "wikidataId": "Q5351426",
+      "osmRelationId": "8623692",
+      "country": "El Salvador",
+      "wikipedia": "El_Imposible_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

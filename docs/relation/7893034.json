@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 7893034,
   "properties": {
-    "@name": "Serra Ricardo Franco State Park",
-    "@wikidataId": "Q10345040",
-    "@osmRelationId": "7893034",
-    "@country": "Brazil",
-    "@wikipedia": "Serra_Ricardo_Franco_State_Park",
-    "boundary": "protected_area",
-    "name": "Parque Estadual Serra de Ricardo Franco",
-    "protect_class": "2",
-    "protection_title": "parque estadual",
-    "related_law": "DEC 1.796/1997",
-    "start_date": "1997",
-    "type": "boundary",
-    "wikidata": "Q10345040",
-    "wikipedia": "en:Serra Ricardo Franco State Park",
-    "id": "relation/7893034"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Parque Estadual Serra de Ricardo Franco",
+      "protect_class": "2",
+      "protection_title": "parque estadual",
+      "related_law": "DEC 1.796/1997",
+      "start_date": "1997",
+      "type": "boundary",
+      "wikidata": "Q10345040",
+      "wikipedia": "en:Serra Ricardo Franco State Park"
+    },
+    "wiki": {
+      "name": "Serra Ricardo Franco State Park",
+      "wikidataId": "Q10345040",
+      "osmRelationId": "7893034",
+      "country": "Brazil",
+      "wikipedia": "Serra_Ricardo_Franco_State_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

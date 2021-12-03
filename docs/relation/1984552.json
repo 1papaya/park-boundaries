@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 1984552,
   "properties": {
-    "@name": "Pieniny National Park",
-    "@wikidataId": "Q625500",
-    "@osmRelationId": "1984552",
-    "@country": "Poland",
-    "@wikipedia": "Pieniny_National_Park_(Poland)",
-    "boundary": "national_park",
-    "name": "Pieniński Park Narodowy",
-    "name:de": "Pieninen-Nationalpark",
-    "name:pl": "Pieniński Park Narodowy",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "id": "relation/1984552"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Pieniński Park Narodowy",
+      "name:de": "Pieninen-Nationalpark",
+      "name:pl": "Pieniński Park Narodowy",
+      "protect_class": "2",
+      "type": "multipolygon"
+    },
+    "wiki": {
+      "name": "Pieniny National Park",
+      "wikidataId": "Q625500",
+      "osmRelationId": "1984552",
+      "country": "Poland",
+      "wikipedia": "Pieniny_National_Park_(Poland)"
+    }
   },
   "geometry": {
     "type": "Polygon",

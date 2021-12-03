@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 2855708,
   "properties": {
-    "@name": "Tankwa Karoo National Park",
-    "@wikidataId": "Q1476888",
-    "@osmRelationId": "2855708",
-    "@country": "South Africa",
-    "@wikipedia": "Tankwa_Karoo_National_Park",
-    "boundary": "national_park",
-    "is_in": "Northern Cape, South Africa",
-    "leisure": "nature_reserve",
-    "name": "Tankwa-Karoo National Park",
-    "protect_class": "2",
-    "sagns_id": "66521",
-    "source": "sagns",
-    "type": "multipolygon",
-    "wikidata": "Q1476888",
-    "id": "relation/2855708"
+    "osm": {
+      "boundary": "national_park",
+      "is_in": "Northern Cape, South Africa",
+      "leisure": "nature_reserve",
+      "name": "Tankwa-Karoo National Park",
+      "protect_class": "2",
+      "sagns_id": "66521",
+      "source": "sagns",
+      "type": "multipolygon",
+      "wikidata": "Q1476888"
+    },
+    "wiki": {
+      "name": "Tankwa Karoo National Park",
+      "wikidataId": "Q1476888",
+      "osmRelationId": "2855708",
+      "country": "South Africa",
+      "wikipedia": "Tankwa_Karoo_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

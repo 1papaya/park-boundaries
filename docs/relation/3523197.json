@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 3523197,
   "properties": {
-    "@name": "Campos del Tuyú National Park",
-    "@wikidataId": "Q829966",
-    "@osmRelationId": "3523197",
-    "@country": "Argentina",
-    "@wikipedia": "Campos_del_Tuy%C3%BA_National_Park",
-    "boundary": "protected_area",
-    "name": "Parque Nacional Campos del Tuyú",
-    "operator": "Administración Parques Nacionales",
-    "operator:type": "government",
-    "protect_class": "2",
-    "protected_area": "national_park",
-    "protection_title": "Parque Nacional",
-    "related_law": "Ley Nacional 26499/09",
-    "type": "boundary",
-    "wikidata": "Q829966",
-    "wikipedia": "es:Parque nacional Campos del Tuyú",
-    "id": "relation/3523197"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Parque Nacional Campos del Tuyú",
+      "operator": "Administración Parques Nacionales",
+      "operator:type": "government",
+      "protect_class": "2",
+      "protected_area": "national_park",
+      "protection_title": "Parque Nacional",
+      "related_law": "Ley Nacional 26499/09",
+      "type": "boundary",
+      "wikidata": "Q829966",
+      "wikipedia": "es:Parque nacional Campos del Tuyú"
+    },
+    "wiki": {
+      "name": "Campos del Tuyú National Park",
+      "wikidataId": "Q829966",
+      "osmRelationId": "3523197",
+      "country": "Argentina",
+      "wikipedia": "Campos_del_Tuy%C3%BA_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

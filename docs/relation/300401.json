@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 300401,
   "properties": {
-    "@name": "Marsfjället",
-    "@wikidataId": "Q3468632",
-    "@osmRelationId": "300401",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:area_ha": "86173",
-    "lst:beslutdat": "1988-01-25",
-    "lst:datum_geo": "2006-03-01",
-    "lst:ref": "2402052",
-    "lst:url": "http://www.ac.lst.se/naturochmiljo/naturreservat/Vilhelminakommun/Marsfjallet",
-    "name": "Marsfjället",
-    "snowmobile": "no",
-    "type": "multipolygon",
-    "wikidata": "Q3468632",
-    "id": "relation/300401"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:area_ha": "86173",
+      "lst:beslutdat": "1988-01-25",
+      "lst:datum_geo": "2006-03-01",
+      "lst:ref": "2402052",
+      "lst:url": "http://www.ac.lst.se/naturochmiljo/naturreservat/Vilhelminakommun/Marsfjallet",
+      "name": "Marsfjället",
+      "snowmobile": "no",
+      "type": "multipolygon",
+      "wikidata": "Q3468632"
+    },
+    "wiki": {
+      "name": "Marsfjället",
+      "wikidataId": "Q3468632",
+      "osmRelationId": "300401",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

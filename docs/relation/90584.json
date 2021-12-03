@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 90584,
   "properties": {
-    "@name": "Harz National Park",
-    "@wikidataId": "Q702540",
-    "@osmRelationId": "90584",
-    "@country": "Germany",
-    "@wikipedia": "Harz_National_Park",
-    "boundary": "national_park",
-    "name": "Nationalpark Harz",
-    "protect_class": "2",
-    "protection_title": "Nationalpark",
-    "short_protection_title": "NLP",
-    "source": "Gesetz über den Nationalpark „Harz (Niedersachsen)”, 19.12.2005, Gesetz über den Nationalpark „Harz (Sachsen-Anhalt)”, 20.12.2005",
-    "type": "boundary",
-    "wikidata": "Q702540",
-    "wikipedia": "de:Nationalpark Harz",
-    "id": "relation/90584"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Nationalpark Harz",
+      "protect_class": "2",
+      "protection_title": "Nationalpark",
+      "short_protection_title": "NLP",
+      "source": "Gesetz über den Nationalpark „Harz (Niedersachsen)”, 19.12.2005, Gesetz über den Nationalpark „Harz (Sachsen-Anhalt)”, 20.12.2005",
+      "type": "boundary",
+      "wikidata": "Q702540",
+      "wikipedia": "de:Nationalpark Harz"
+    },
+    "wiki": {
+      "name": "Harz National Park",
+      "wikidataId": "Q702540",
+      "osmRelationId": "90584",
+      "country": "Germany",
+      "wikipedia": "Harz_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 902981,
   "properties": {
-    "@name": "Queen Elizabeth II Wildlands Provincial Park",
-    "@wikidataId": "Q7270370",
-    "@osmRelationId": "902981",
-    "@country": "Canada",
-    "@wikipedia": "Queen_Elizabeth_II_Wildlands_Provincial_Park",
-    "boundary": "national_park",
-    "boundary:type": "Natural Environment",
-    "date:protected": "2002",
-    "leisure": "nature_reserve",
-    "name": "Queen Elizabeth II Wildlands Provincial Park",
-    "operator": "Ontario Parks",
-    "operator:url": "www.ontarioparks.com/english/",
-    "type": "multipolygon",
-    "wikidata": "Q7270370",
-    "wikipedia": "en:Queen Elizabeth II Wildlands Provincial Park",
-    "id": "relation/902981"
+    "osm": {
+      "boundary": "national_park",
+      "boundary:type": "Natural Environment",
+      "date:protected": "2002",
+      "leisure": "nature_reserve",
+      "name": "Queen Elizabeth II Wildlands Provincial Park",
+      "operator": "Ontario Parks",
+      "operator:url": "www.ontarioparks.com/english/",
+      "type": "multipolygon",
+      "wikidata": "Q7270370",
+      "wikipedia": "en:Queen Elizabeth II Wildlands Provincial Park"
+    },
+    "wiki": {
+      "name": "Queen Elizabeth II Wildlands Provincial Park",
+      "wikidataId": "Q7270370",
+      "osmRelationId": "902981",
+      "country": "Canada",
+      "wikipedia": "Queen_Elizabeth_II_Wildlands_Provincial_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

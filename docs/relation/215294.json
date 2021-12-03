@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 215294,
   "properties": {
-    "@name": "Lower Oder Valley National Park",
-    "@wikidataId": "Q701525",
-    "@osmRelationId": "215294",
-    "@country": "Germany",
-    "@wikipedia": "Lower_Oder_Valley_National_Park",
-    "boundary": "national_park",
-    "name": "Nationalpark Unteres Odertal",
-    "name:en": "Lower Oder Valley National Park",
-    "natural": "grassland",
-    "protect_class": "2",
-    "protection_title": "Nationalpark",
-    "short_protection_title": "NLP",
-    "type": "boundary",
-    "website": "https://www.nationalpark-unteres-odertal.eu/",
-    "wikidata": "Q701525",
-    "wikipedia": "de:Nationalpark Unteres Odertal",
-    "id": "relation/215294"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Nationalpark Unteres Odertal",
+      "name:en": "Lower Oder Valley National Park",
+      "natural": "grassland",
+      "protect_class": "2",
+      "protection_title": "Nationalpark",
+      "short_protection_title": "NLP",
+      "type": "boundary",
+      "website": "https://www.nationalpark-unteres-odertal.eu/",
+      "wikidata": "Q701525",
+      "wikipedia": "de:Nationalpark Unteres Odertal"
+    },
+    "wiki": {
+      "name": "Lower Oder Valley National Park",
+      "wikidataId": "Q701525",
+      "osmRelationId": "215294",
+      "country": "Germany",
+      "wikipedia": "Lower_Oder_Valley_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

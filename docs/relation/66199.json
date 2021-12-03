@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 66199,
   "properties": {
-    "@name": "Tjeggelvas",
-    "@wikidataId": "Q3379089",
-    "@osmRelationId": "66199",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "ele": "451",
-    "name": "Tjeggelvas",
-    "name:sje": "Tjieggelvas",
-    "name:sv": "Tjeggelvas",
-    "natural": "water",
-    "note": "Bulk import: http://wiki.openstreetmap.org/index.php/User:Mikemenk/CIA_Coast_and_Lake_Import",
-    "source": "CIA World DataBank II [europe-cil] (is inacurat, smoothed lines)",
-    "type": "multipolygon",
-    "water": "lake",
-    "wikidata": "Q3379089",
-    "wikipedia": "sv:Tjeggelvas",
-    "id": "relation/66199"
+    "osm": {
+      "ele": "451",
+      "name": "Tjeggelvas",
+      "name:sje": "Tjieggelvas",
+      "name:sv": "Tjeggelvas",
+      "natural": "water",
+      "note": "Bulk import: http://wiki.openstreetmap.org/index.php/User:Mikemenk/CIA_Coast_and_Lake_Import",
+      "source": "CIA World DataBank II [europe-cil] (is inacurat, smoothed lines)",
+      "type": "multipolygon",
+      "water": "lake",
+      "wikidata": "Q3379089",
+      "wikipedia": "sv:Tjeggelvas"
+    },
+    "wiki": {
+      "name": "Tjeggelvas",
+      "wikidataId": "Q3379089",
+      "osmRelationId": "66199",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

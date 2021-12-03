@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 2923946,
   "properties": {
-    "@name": "Gila Wilderness",
-    "@wikidataId": "Q5560677",
-    "@osmRelationId": "2923946",
-    "@country": "United States of America",
-    "@wikipedia": "Gila_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Gila Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q5560677",
-    "wikipedia": "en:Gila Wilderness",
-    "id": "relation/2923946"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Gila Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q5560677",
+      "wikipedia": "en:Gila Wilderness"
+    },
+    "wiki": {
+      "name": "Gila Wilderness",
+      "wikidataId": "Q5560677",
+      "osmRelationId": "2923946",
+      "country": "United States of America",
+      "wikipedia": "Gila_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

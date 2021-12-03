@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 5731065,
   "properties": {
-    "@name": "Badlands National Park",
-    "@wikidataId": "Q306216",
-    "@osmRelationId": "5731065",
-    "@country": "United States of America",
-    "@wikipedia": "Badlands_National_Park",
-    "boundary": "national_park",
-    "boundary:type": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Badlands National Park",
-    "operator": "United States National Park Service",
-    "ownership": "national",
-    "protect_id": "2",
-    "protected": "perpetuity",
-    "protection_title": "National Park",
-    "type": "multipolygon",
-    "website": "http://www.nps.gov/badl/",
-    "wikidata": "Q306216",
-    "wikipedia": "en:Badlands National Park",
-    "id": "relation/5731065"
+    "osm": {
+      "boundary": "national_park",
+      "boundary:type": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Badlands National Park",
+      "operator": "United States National Park Service",
+      "ownership": "national",
+      "protect_id": "2",
+      "protected": "perpetuity",
+      "protection_title": "National Park",
+      "type": "multipolygon",
+      "website": "http://www.nps.gov/badl/",
+      "wikidata": "Q306216",
+      "wikipedia": "en:Badlands National Park"
+    },
+    "wiki": {
+      "name": "Badlands National Park",
+      "wikidataId": "Q306216",
+      "osmRelationId": "5731065",
+      "country": "United States of America",
+      "wikipedia": "Badlands_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

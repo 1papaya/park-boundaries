@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5366706,
   "properties": {
-    "@name": "Owens Peak Wilderness",
-    "@wikidataId": "Q3359007",
-    "@osmRelationId": "5366706",
-    "@country": "United States of America",
-    "@wikipedia": "Owens_Peak_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Owens Peak Wilderness",
-    "operator": "BLM",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "multipolygon",
-    "wikidata": "Q3359007",
-    "id": "relation/5366706"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Owens Peak Wilderness",
+      "operator": "BLM",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "multipolygon",
+      "wikidata": "Q3359007"
+    },
+    "wiki": {
+      "name": "Owens Peak Wilderness",
+      "wikidataId": "Q3359007",
+      "osmRelationId": "5366706",
+      "country": "United States of America",
+      "wikipedia": "Owens_Peak_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 4787747,
   "properties": {
-    "@name": "Cucamonga Wilderness",
-    "@wikidataId": "Q5192312",
-    "@osmRelationId": "4787747",
-    "@country": "United States of America",
-    "@wikipedia": "Cucamonga_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Cucamonga Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "park:type": "national_forest;wilderness",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q5192312",
-    "id": "relation/4787747"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Cucamonga Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "park:type": "national_forest;wilderness",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q5192312"
+    },
+    "wiki": {
+      "name": "Cucamonga Wilderness",
+      "wikidataId": "Q5192312",
+      "osmRelationId": "4787747",
+      "country": "United States of America",
+      "wikipedia": "Cucamonga_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

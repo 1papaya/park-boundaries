@@ -2,15 +2,18 @@
   "type": "Feature",
   "id": 13235948,
   "properties": {
-    "@name": "Theodore Roosevelt National Park",
-    "@wikidataId": "Q1137669",
-    "@osmRelationId": "13235948",
-    "@country": "United States of America",
-    "@wikipedia": "Theodore_Roosevelt_National_Park",
-    "boundary": "protected_area",
-    "name": "Theodore Roosevelt National Park",
-    "type": "boundary",
-    "id": "relation/13235948"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Theodore Roosevelt National Park",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Theodore Roosevelt National Park",
+      "wikidataId": "Q1137669",
+      "osmRelationId": "13235948",
+      "country": "United States of America",
+      "wikipedia": "Theodore_Roosevelt_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

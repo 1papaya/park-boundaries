@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 10130618,
   "properties": {
-    "@name": "Long Bay-Okura Marine Reserve",
-    "@wikidataId": "Q15242715",
-    "@osmRelationId": "10130618",
-    "@country": "New Zealand",
-    "@wikipedia": "Long_Bay-Okura_Marine_Reserve",
-    "description": "MARINE RESERVE. All marine life and habitats totally protected. No fishing, netting, taking or killing of marine life. Contact Department of Conservation for further information.",
-    "leisure": "nature_reserve",
-    "name": "Long Bay-Okura Marine Reserve",
-    "operator": "DOC",
-    "ref:linz:hydrographic_id": "115927",
-    "seamark:restricted_area:restriction": "restricted_anchoring",
-    "seamark:type": "restricted_area",
-    "source": "LINZ;Mahurangi Harbour to Rangitoto Island Chart",
-    "type": "multipolygon",
-    "wikidata": "Q15242715",
-    "wikipedia": "en:Long Bay-Okura Marine Reserve",
-    "id": "relation/10130618"
+    "osm": {
+      "description": "MARINE RESERVE. All marine life and habitats totally protected. No fishing, netting, taking or killing of marine life. Contact Department of Conservation for further information.",
+      "leisure": "nature_reserve",
+      "name": "Long Bay-Okura Marine Reserve",
+      "operator": "DOC",
+      "ref:linz:hydrographic_id": "115927",
+      "seamark:restricted_area:restriction": "restricted_anchoring",
+      "seamark:type": "restricted_area",
+      "source": "LINZ;Mahurangi Harbour to Rangitoto Island Chart",
+      "type": "multipolygon",
+      "wikidata": "Q15242715",
+      "wikipedia": "en:Long Bay-Okura Marine Reserve"
+    },
+    "wiki": {
+      "name": "Long Bay-Okura Marine Reserve",
+      "wikidataId": "Q15242715",
+      "osmRelationId": "10130618",
+      "country": "New Zealand",
+      "wikipedia": "Long_Bay-Okura_Marine_Reserve"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5444739,
   "properties": {
-    "@name": "Holy Cross Wilderness",
-    "@wikidataId": "Q5885354",
-    "@osmRelationId": "5444739",
-    "@country": "United States of America",
-    "@wikipedia": "Holy_Cross_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Holy Cross Wilderness Area",
-    "ownership": "national",
-    "protect_class": "1b",
-    "source": "http://data.fs.usda.gov/geodata",
-    "type": "multipolygon",
-    "wikidata": "Q5885354",
-    "wikipedia": "fr:Holy Cross Wilderness",
-    "id": "relation/5444739"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Holy Cross Wilderness Area",
+      "ownership": "national",
+      "protect_class": "1b",
+      "source": "http://data.fs.usda.gov/geodata",
+      "type": "multipolygon",
+      "wikidata": "Q5885354",
+      "wikipedia": "fr:Holy Cross Wilderness"
+    },
+    "wiki": {
+      "name": "Holy Cross Wilderness",
+      "wikidataId": "Q5885354",
+      "osmRelationId": "5444739",
+      "country": "United States of America",
+      "wikipedia": "Holy_Cross_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

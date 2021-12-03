@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 9561308,
   "properties": {
-    "@name": "Kluane National Park and Reserve",
-    "@wikidataId": "Q738582",
-    "@osmRelationId": "9561308",
-    "@country": "Canada",
-    "@wikipedia": "Kluane_National_Park_and_Reserve",
-    "admin_level": "6",
-    "attribution": "Natural Resources Canada",
-    "boundary": "national_park",
-    "land_area": "administrative",
-    "leisure": "nature_reserve",
-    "name": "Kluane National Park and Reserve",
-    "name:ar": "الحديقة الوطنية والمحمية كلؤاني",
-    "name:fr": "Kluane, parc national et réserve de parc national",
-    "operator": "Parks Canada",
-    "source": "NRCANprotarea_Import_2014",
-    "type": "boundary",
-    "wikidata": "Q738582",
-    "wikipedia": "en:Kluane National Park and Reserve",
-    "id": "relation/9561308"
+    "osm": {
+      "admin_level": "6",
+      "attribution": "Natural Resources Canada",
+      "boundary": "national_park",
+      "land_area": "administrative",
+      "leisure": "nature_reserve",
+      "name": "Kluane National Park and Reserve",
+      "name:ar": "الحديقة الوطنية والمحمية كلؤاني",
+      "name:fr": "Kluane, parc national et réserve de parc national",
+      "operator": "Parks Canada",
+      "source": "NRCANprotarea_Import_2014",
+      "type": "boundary",
+      "wikidata": "Q738582",
+      "wikipedia": "en:Kluane National Park and Reserve"
+    },
+    "wiki": {
+      "name": "Kluane National Park and Reserve",
+      "wikidataId": "Q738582",
+      "osmRelationId": "9561308",
+      "country": "Canada",
+      "wikipedia": "Kluane_National_Park_and_Reserve"
+    }
   },
   "geometry": {
     "type": "Polygon",

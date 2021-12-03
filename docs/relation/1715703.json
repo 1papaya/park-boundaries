@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 1715703,
   "properties": {
-    "@name": "Olympos Beydaglari National Park",
-    "@wikidataId": "Q10744969",
-    "@osmRelationId": "1715703",
-    "@country": "Turkey",
-    "@wikipedia": "Beyda%C4%9Flar%C4%B1_Coastal_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Olimpos Beydağları Millî Parkı",
-    "name:el": "Εθνικός Δρυμός Ολύμπου",
-    "name:en": "Olimpos Beydağları National Park",
-    "source": "gis2.cevreorman.gov.tr",
-    "type": "multipolygon",
-    "id": "relation/1715703"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Olimpos Beydağları Millî Parkı",
+      "name:el": "Εθνικός Δρυμός Ολύμπου",
+      "name:en": "Olimpos Beydağları National Park",
+      "source": "gis2.cevreorman.gov.tr",
+      "type": "multipolygon"
+    },
+    "wiki": {
+      "name": "Olympos Beydaglari National Park",
+      "wikidataId": "Q10744969",
+      "osmRelationId": "1715703",
+      "country": "Turkey",
+      "wikipedia": "Beyda%C4%9Flar%C4%B1_Coastal_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

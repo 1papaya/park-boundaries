@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 7785244,
   "properties": {
-    "@name": "Q104022099",
-    "@wikidataId": "Q104022099",
-    "@osmRelationId": "7785244",
-    "@country": "Indonesia",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Cagar Alam Gunung Tilu",
-    "name:en": "Mount Tilu Nature Reserve",
-    "protect_class": "3",
-    "type": "boundary",
-    "id": "relation/7785244"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Cagar Alam Gunung Tilu",
+      "name:en": "Mount Tilu Nature Reserve",
+      "protect_class": "3",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Q104022099",
+      "wikidataId": "Q104022099",
+      "osmRelationId": "7785244",
+      "country": "Indonesia",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

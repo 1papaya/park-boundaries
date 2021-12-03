@@ -2,16 +2,19 @@
   "type": "Feature",
   "id": 7248459,
   "properties": {
-    "@name": "Jarvis Island",
-    "@wikidataId": "Q62218",
-    "@osmRelationId": "7248459",
-    "@country": "United States of America",
-    "@wikipedia": "Jarvis_Island",
-    "ISO3166-2": "UM-86",
-    "boundary": "region",
-    "name": "Jarvis Island",
-    "type": "boundary",
-    "id": "relation/7248459"
+    "osm": {
+      "ISO3166-2": "UM-86",
+      "boundary": "region",
+      "name": "Jarvis Island",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Jarvis Island",
+      "wikidataId": "Q62218",
+      "osmRelationId": "7248459",
+      "country": "United States of America",
+      "wikipedia": "Jarvis_Island"
+    }
   },
   "geometry": {
     "type": "Polygon",

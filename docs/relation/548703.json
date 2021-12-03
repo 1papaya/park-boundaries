@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 548703,
   "properties": {
-    "@name": "Canunda National Park",
-    "@wikidataId": "Q1033936",
-    "@osmRelationId": "548703",
-    "@country": "Australia",
-    "@wikipedia": "Canunda_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "VI",
-    "leisure": "nature_reserve",
-    "name": "Canunda National Park",
-    "protect_class": "6",
-    "protection_title": "National Park",
-    "ref:capad:pa_id": "SA_0019",
-    "ref:dew:park_id": "19",
-    "type": "boundary",
-    "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/canunda-national-park",
-    "wikidata": "Q1033936",
-    "wikipedia": "en:Canunda National Park",
-    "id": "relation/548703"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "VI",
+      "leisure": "nature_reserve",
+      "name": "Canunda National Park",
+      "protect_class": "6",
+      "protection_title": "National Park",
+      "ref:capad:pa_id": "SA_0019",
+      "ref:dew:park_id": "19",
+      "type": "boundary",
+      "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/canunda-national-park",
+      "wikidata": "Q1033936",
+      "wikipedia": "en:Canunda National Park"
+    },
+    "wiki": {
+      "name": "Canunda National Park",
+      "wikidataId": "Q1033936",
+      "osmRelationId": "548703",
+      "country": "Australia",
+      "wikipedia": "Canunda_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

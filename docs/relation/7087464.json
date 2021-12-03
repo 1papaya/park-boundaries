@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 7087464,
   "properties": {
-    "@name": "Wood Buffalo National Park",
-    "@wikidataId": "Q391338",
-    "@osmRelationId": "7087464",
-    "@country": "Canada",
-    "@wikipedia": "Wood_Buffalo_National_Park",
-    "attribution": "Natural Resources Canada",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Wood Buffalo National Park",
-    "name:fr": "Parc national Wood Buffalo",
-    "type": "multipolygon",
-    "wikidata": "Q391338",
-    "wikipedia": "fr:Parc national Wood Buffalo",
-    "id": "relation/7087464"
+    "osm": {
+      "attribution": "Natural Resources Canada",
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Wood Buffalo National Park",
+      "name:fr": "Parc national Wood Buffalo",
+      "type": "multipolygon",
+      "wikidata": "Q391338",
+      "wikipedia": "fr:Parc national Wood Buffalo"
+    },
+    "wiki": {
+      "name": "Wood Buffalo National Park",
+      "wikidataId": "Q391338",
+      "osmRelationId": "7087464",
+      "country": "Canada",
+      "wikipedia": "Wood_Buffalo_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

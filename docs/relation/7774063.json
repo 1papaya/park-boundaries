@@ -2,17 +2,20 @@
   "type": "Feature",
   "id": 7774063,
   "properties": {
-    "@name": "Q104021765",
-    "@wikidataId": "Q104021765",
-    "@osmRelationId": "7774063",
-    "@country": "Indonesia",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Cagar Alam Salawati Utara",
-    "name:en": "North Salawati Nature Reserve",
-    "type": "multipolygon",
-    "id": "relation/7774063"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Cagar Alam Salawati Utara",
+      "name:en": "North Salawati Nature Reserve",
+      "type": "multipolygon"
+    },
+    "wiki": {
+      "name": "Q104021765",
+      "wikidataId": "Q104021765",
+      "osmRelationId": "7774063",
+      "country": "Indonesia",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,17 +2,20 @@
   "type": "Feature",
   "id": 10351694,
   "properties": {
-    "@name": "Prince Edward Island National Park",
-    "@wikidataId": "Q1314367",
-    "@osmRelationId": "10351694",
-    "@country": "Canada",
-    "@wikipedia": "Prince_Edward_Island_National_Park",
-    "boundary": "national_park",
-    "name": "Prince Edward Island National Park",
-    "operator": "Parks Canada",
-    "type": "multipolygon",
-    "wikidata": "Q1314367",
-    "id": "relation/10351694"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Prince Edward Island National Park",
+      "operator": "Parks Canada",
+      "type": "multipolygon",
+      "wikidata": "Q1314367"
+    },
+    "wiki": {
+      "name": "Prince Edward Island National Park",
+      "wikidataId": "Q1314367",
+      "osmRelationId": "10351694",
+      "country": "Canada",
+      "wikipedia": "Prince_Edward_Island_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

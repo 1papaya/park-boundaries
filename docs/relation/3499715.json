@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 3499715,
   "properties": {
-    "@name": "Bradwell Bay Wilderness",
-    "@wikidataId": "Q4955147",
-    "@osmRelationId": "3499715",
-    "@country": "United States of America",
-    "@wikipedia": "Bradwell_Bay_Wilderness",
-    "boundary": "national_park",
-    "boundary:type": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Bradwell Bay Wilderness",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness",
-    "type": "multipolygon",
-    "wikidata": "Q4955147",
-    "wikipedia": "en:Bradwell Bay Wilderness",
-    "id": "relation/3499715"
+    "osm": {
+      "boundary": "national_park",
+      "boundary:type": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Bradwell Bay Wilderness",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness",
+      "type": "multipolygon",
+      "wikidata": "Q4955147",
+      "wikipedia": "en:Bradwell Bay Wilderness"
+    },
+    "wiki": {
+      "name": "Bradwell Bay Wilderness",
+      "wikidataId": "Q4955147",
+      "osmRelationId": "3499715",
+      "country": "United States of America",
+      "wikipedia": "Bradwell_Bay_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

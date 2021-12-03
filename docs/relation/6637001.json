@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 6637001,
   "properties": {
-    "@name": "Chiribiquete National Park",
-    "@wikidataId": "Q2603196",
-    "@osmRelationId": "6637001",
-    "@country": "Colombia",
-    "@wikipedia": "Chiribiquete_National_Park",
-    "area": "yes",
-    "boundary": "protected_area",
-    "comment": "nuevo límite ampliado del parque nacional - edit Dic. 2019 y antes Oct. 2016",
-    "name": "Parque Nacional Natural Sierra de Chiribiquete",
-    "note": "este polígono reemplaza el límite de parque de 1989. Falta trazar el nuevo límite de ampliación de 2018.",
-    "protect_class": "2",
-    "protection_title": "National Park",
-    "related_law": "Res. 1256 de 2018 (ampliación) y Res 1038 del 21 de agosto de 2013, expedida por el Ministerio de Ambiente y Desarrollo Sostenible",
-    "type": "multipolygon",
-    "wikidata": "Q2603196",
-    "id": "relation/6637001"
+    "osm": {
+      "area": "yes",
+      "boundary": "protected_area",
+      "comment": "nuevo límite ampliado del parque nacional - edit Dic. 2019 y antes Oct. 2016",
+      "name": "Parque Nacional Natural Sierra de Chiribiquete",
+      "note": "este polígono reemplaza el límite de parque de 1989. Falta trazar el nuevo límite de ampliación de 2018.",
+      "protect_class": "2",
+      "protection_title": "National Park",
+      "related_law": "Res. 1256 de 2018 (ampliación) y Res 1038 del 21 de agosto de 2013, expedida por el Ministerio de Ambiente y Desarrollo Sostenible",
+      "type": "multipolygon",
+      "wikidata": "Q2603196"
+    },
+    "wiki": {
+      "name": "Chiribiquete National Park",
+      "wikidataId": "Q2603196",
+      "osmRelationId": "6637001",
+      "country": "Colombia",
+      "wikipedia": "Chiribiquete_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

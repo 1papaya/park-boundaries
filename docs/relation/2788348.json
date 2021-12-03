@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 2788348,
   "properties": {
-    "@name": "Agua Tibia Wilderness",
-    "@wikidataId": "Q18636180",
-    "@osmRelationId": "2788348",
-    "@country": "United States of America",
-    "@wikipedia": "Agua_Tibia_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Agua Tibia Wilderness",
-    "operator": "US Forest Service;BLM",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "source": "http://fsgeodata.fs.fed.us/vector/lsrs.php",
-    "type": "boundary",
-    "wikidata": "Q18636180",
-    "id": "relation/2788348"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Agua Tibia Wilderness",
+      "operator": "US Forest Service;BLM",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "source": "http://fsgeodata.fs.fed.us/vector/lsrs.php",
+      "type": "boundary",
+      "wikidata": "Q18636180"
+    },
+    "wiki": {
+      "name": "Agua Tibia Wilderness",
+      "wikidataId": "Q18636180",
+      "osmRelationId": "2788348",
+      "country": "United States of America",
+      "wikipedia": "Agua_Tibia_Wilderness"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

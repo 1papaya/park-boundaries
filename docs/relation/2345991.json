@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 2345991,
   "properties": {
-    "@name": "Eifel National Park",
-    "@wikidataId": "Q705097",
-    "@osmRelationId": "2345991",
-    "@country": "Germany",
-    "@wikipedia": "Eifel_National_Park",
-    "boundary": "national_park",
-    "contact:website": "http://nsg.naturschutzinformationen.nrw.de/nsg/de/fachinfo/gebiete/gesamt/NP-5304-001",
-    "name": "Nationalpark Eifel",
-    "protect_class": "2",
-    "protection_title": "Nationalpark",
-    "short_protection_title": "NLP",
-    "source": "Verordnung über den Nationalpark Eifel (NP-VO Eifel)",
-    "type": "boundary",
-    "wikidata": "Q705097",
-    "wikipedia": "de:Nationalpark Eifel",
-    "id": "relation/2345991"
+    "osm": {
+      "boundary": "national_park",
+      "contact:website": "http://nsg.naturschutzinformationen.nrw.de/nsg/de/fachinfo/gebiete/gesamt/NP-5304-001",
+      "name": "Nationalpark Eifel",
+      "protect_class": "2",
+      "protection_title": "Nationalpark",
+      "short_protection_title": "NLP",
+      "source": "Verordnung über den Nationalpark Eifel (NP-VO Eifel)",
+      "type": "boundary",
+      "wikidata": "Q705097",
+      "wikipedia": "de:Nationalpark Eifel"
+    },
+    "wiki": {
+      "name": "Eifel National Park",
+      "wikidataId": "Q705097",
+      "osmRelationId": "2345991",
+      "country": "Germany",
+      "wikipedia": "Eifel_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

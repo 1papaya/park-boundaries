@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5372303,
   "properties": {
-    "@name": "Owens River Headwaters Wilderness",
-    "@wikidataId": "Q7114742",
-    "@osmRelationId": "5372303",
-    "@country": "United States of America",
-    "@wikipedia": "Owens_River_Headwaters_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Owens River Headwaters Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "multipolygon",
-    "wikidata": "Q7114742",
-    "id": "relation/5372303"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Owens River Headwaters Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "multipolygon",
+      "wikidata": "Q7114742"
+    },
+    "wiki": {
+      "name": "Owens River Headwaters Wilderness",
+      "wikidataId": "Q7114742",
+      "osmRelationId": "5372303",
+      "country": "United States of America",
+      "wikipedia": "Owens_River_Headwaters_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

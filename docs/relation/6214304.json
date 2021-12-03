@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 6214304,
   "properties": {
-    "@name": "Devils Gullet State Reserve",
-    "@wikidataId": "Q5267406",
-    "@osmRelationId": "6214304",
-    "@country": "Australia",
-    "@wikipedia": "Devils_Gullet_State_Reserve",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Devils Gullet State Reserve",
-    "operator": "Tasmania Parks & Wildlife Service",
-    "operator:type": "government",
-    "protect_class": "2",
-    "protection_title": "State Reserve",
-    "source": "CAPAD 2014 - Terrestrial. JOSM simplified ways, 3m.",
-    "start_date": "1972-06-14",
-    "type": "boundary",
-    "wikidata": "Q5267406",
-    "id": "relation/6214304"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Devils Gullet State Reserve",
+      "operator": "Tasmania Parks & Wildlife Service",
+      "operator:type": "government",
+      "protect_class": "2",
+      "protection_title": "State Reserve",
+      "source": "CAPAD 2014 - Terrestrial. JOSM simplified ways, 3m.",
+      "start_date": "1972-06-14",
+      "type": "boundary",
+      "wikidata": "Q5267406"
+    },
+    "wiki": {
+      "name": "Devils Gullet State Reserve",
+      "wikidataId": "Q5267406",
+      "osmRelationId": "6214304",
+      "country": "Australia",
+      "wikipedia": "Devils_Gullet_State_Reserve"
+    }
   },
   "geometry": {
     "type": "Polygon",

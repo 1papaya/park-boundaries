@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 6196739,
   "properties": {
-    "@name": "Granite Chief Wilderness",
-    "@wikidataId": "Q5595840",
-    "@osmRelationId": "6196739",
-    "@country": "United States of America",
-    "@wikipedia": "Granite_Chief_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Granite Chief Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q5595840",
-    "id": "relation/6196739"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Granite Chief Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q5595840"
+    },
+    "wiki": {
+      "name": "Granite Chief Wilderness",
+      "wikidataId": "Q5595840",
+      "osmRelationId": "6196739",
+      "country": "United States of America",
+      "wikipedia": "Granite_Chief_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

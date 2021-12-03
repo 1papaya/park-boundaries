@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 2515179,
   "properties": {
-    "@name": "West Coast National Park",
-    "@wikidataId": "Q1760813",
-    "@osmRelationId": "2515179",
-    "@country": "South Africa",
-    "@wikipedia": "West_Coast_National_Park",
-    "area": "yes",
-    "boundary": "national_park",
-    "landuse": "conservation",
-    "leisure": "nature_reserve",
-    "name": "West Coast National Park",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q1760813",
-    "wikipedia": "en:West Coast National Park",
-    "id": "relation/2515179"
+    "osm": {
+      "area": "yes",
+      "boundary": "national_park",
+      "landuse": "conservation",
+      "leisure": "nature_reserve",
+      "name": "West Coast National Park",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q1760813",
+      "wikipedia": "en:West Coast National Park"
+    },
+    "wiki": {
+      "name": "West Coast National Park",
+      "wikidataId": "Q1760813",
+      "osmRelationId": "2515179",
+      "country": "South Africa",
+      "wikipedia": "West_Coast_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

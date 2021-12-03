@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 6911245,
   "properties": {
-    "@name": "Hällholmen nature reserve",
-    "@wikidataId": "Q28528531",
-    "@osmRelationId": "6911245",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:area_ha": "5.4",
-    "lst:beslut": "1916-05-22",
-    "lst:ref": "2000133",
-    "lst:skyddsform": "NR",
-    "name": "Hällholmen",
-    "type": "multipolygon",
-    "wikidata": "Q28528531",
-    "id": "relation/6911245"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:area_ha": "5.4",
+      "lst:beslut": "1916-05-22",
+      "lst:ref": "2000133",
+      "lst:skyddsform": "NR",
+      "name": "Hällholmen",
+      "type": "multipolygon",
+      "wikidata": "Q28528531"
+    },
+    "wiki": {
+      "name": "Hällholmen nature reserve",
+      "wikidataId": "Q28528531",
+      "osmRelationId": "6911245",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

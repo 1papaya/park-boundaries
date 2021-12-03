@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 4524964,
   "properties": {
-    "@name": "Wolin National Park",
-    "@wikidataId": "Q620392",
-    "@osmRelationId": "4524964",
-    "@country": "Poland",
-    "@wikipedia": "Wolin_National_Park",
-    "boundary": "national_park",
-    "gid": "2493",
-    "kodinspire": "PL.ZIPOP.1393.PN.4",
-    "name": "Woliński Park Narodowy",
-    "name:cs": "Volyňský národní park",
-    "name:de": "Nationalpark Wollin",
-    "name:it": "Parco Nazionale di Wolin",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "website": "http://www.wolinpn.pl/",
-    "wikidata": "Q620392",
-    "wikipedia": "pl:Woliński Park Narodowy",
-    "id": "relation/4524964"
+    "osm": {
+      "boundary": "national_park",
+      "gid": "2493",
+      "kodinspire": "PL.ZIPOP.1393.PN.4",
+      "name": "Woliński Park Narodowy",
+      "name:cs": "Volyňský národní park",
+      "name:de": "Nationalpark Wollin",
+      "name:it": "Parco Nazionale di Wolin",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "website": "http://www.wolinpn.pl/",
+      "wikidata": "Q620392",
+      "wikipedia": "pl:Woliński Park Narodowy"
+    },
+    "wiki": {
+      "name": "Wolin National Park",
+      "wikidataId": "Q620392",
+      "osmRelationId": "4524964",
+      "country": "Poland",
+      "wikipedia": "Wolin_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

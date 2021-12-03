@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 8174174,
   "properties": {
-    "@name": "Haleakalā National Park",
-    "@wikidataId": "Q1137640",
-    "@osmRelationId": "8174174",
-    "@country": "United States of America",
-    "@wikipedia": "Haleakal%C4%81_National_Park",
-    "boundary": "national_park",
-    "name": "Haleakalā National Park",
-    "name:en": "Haleakalā National Park",
-    "name:haw": "Pāka Aupuni ʻo Haleakalā",
-    "name:ru": "Национальный парк Халеакала",
-    "tourism": "park",
-    "type": "boundary",
-    "wikidata": "Q1137640",
-    "id": "relation/8174174"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Haleakalā National Park",
+      "name:en": "Haleakalā National Park",
+      "name:haw": "Pāka Aupuni ʻo Haleakalā",
+      "name:ru": "Национальный парк Халеакала",
+      "tourism": "park",
+      "type": "boundary",
+      "wikidata": "Q1137640"
+    },
+    "wiki": {
+      "name": "Haleakalā National Park",
+      "wikidataId": "Q1137640",
+      "osmRelationId": "8174174",
+      "country": "United States of America",
+      "wikipedia": "Haleakal%C4%81_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

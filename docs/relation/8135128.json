@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 8135128,
   "properties": {
-    "@name": "Fitzgerald River National Park",
-    "@wikidataId": "Q1421348",
-    "@osmRelationId": "8135128",
-    "@country": "Australia",
-    "@wikipedia": "Fitzgerald_River_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "II",
-    "leisure": "nature_reserve",
-    "name": "Fitzgerald River National Park",
-    "protect_class": "2",
-    "ref:capad:pa_id": "WA_31737",
-    "source": "CAPAD 2020",
-    "type": "boundary",
-    "website": "https://parks.dpaw.wa.gov.au/park/fitzgerald-river",
-    "wikipedia": "en:Fitzgerald River National Park",
-    "id": "relation/8135128"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "II",
+      "leisure": "nature_reserve",
+      "name": "Fitzgerald River National Park",
+      "protect_class": "2",
+      "ref:capad:pa_id": "WA_31737",
+      "source": "CAPAD 2020",
+      "type": "boundary",
+      "website": "https://parks.dpaw.wa.gov.au/park/fitzgerald-river",
+      "wikipedia": "en:Fitzgerald River National Park"
+    },
+    "wiki": {
+      "name": "Fitzgerald River National Park",
+      "wikidataId": "Q1421348",
+      "osmRelationId": "8135128",
+      "country": "Australia",
+      "wikipedia": "Fitzgerald_River_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

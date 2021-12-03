@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 4554689,
   "properties": {
-    "@name": "Duas Bocas Biological Reserve",
-    "@wikidataId": "Q10359638",
-    "@osmRelationId": "4554689",
-    "@country": "Brazil",
-    "@wikipedia": "Duas_Bocas_Biological_Reserve",
-    "alt_name": "Reserva Biológica de Duas Bocas",
-    "boundary": "protected_area",
-    "name": "Reserva Biológica Paulo Fraga Rodrigues",
-    "operator": "Instituto Estadual de Meio Ambiente e Recursos Hídricos",
-    "protect_class": "1",
-    "protection_title": "reserva biológia",
-    "ref:CNUC": "0000.32.1667",
-    "related_law": "Lei Nº 4.503 de 03/01/1991",
-    "start_date": "1991-01-03",
-    "type": "multipolygon",
-    "wikidata": "Q10359638",
-    "wikipedia": "pt:Reserva Biológica de Duas Bocas",
-    "id": "relation/4554689"
+    "osm": {
+      "alt_name": "Reserva Biológica de Duas Bocas",
+      "boundary": "protected_area",
+      "name": "Reserva Biológica Paulo Fraga Rodrigues",
+      "operator": "Instituto Estadual de Meio Ambiente e Recursos Hídricos",
+      "protect_class": "1",
+      "protection_title": "reserva biológia",
+      "ref:CNUC": "0000.32.1667",
+      "related_law": "Lei Nº 4.503 de 03/01/1991",
+      "start_date": "1991-01-03",
+      "type": "multipolygon",
+      "wikidata": "Q10359638",
+      "wikipedia": "pt:Reserva Biológica de Duas Bocas"
+    },
+    "wiki": {
+      "name": "Duas Bocas Biological Reserve",
+      "wikidataId": "Q10359638",
+      "osmRelationId": "4554689",
+      "country": "Brazil",
+      "wikipedia": "Duas_Bocas_Biological_Reserve"
+    }
   },
   "geometry": {
     "type": "Polygon",

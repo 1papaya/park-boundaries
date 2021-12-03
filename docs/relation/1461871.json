@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 1461871,
   "properties": {
-    "@name": "Bryggholmen",
-    "@wikidataId": "Q10436569",
-    "@osmRelationId": "1461871",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:area_ha": "172.26",
-    "lst:ref": "2002994.0",
-    "lst:tillkomst": "2005-11-28",
-    "name": "Bryggholmen",
-    "source": "Länsstyrelsen i Uppsala län (gis.lst.se)",
-    "type": "multipolygon",
-    "wikidata": "Q10436569",
-    "id": "relation/1461871"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:area_ha": "172.26",
+      "lst:ref": "2002994.0",
+      "lst:tillkomst": "2005-11-28",
+      "name": "Bryggholmen",
+      "source": "Länsstyrelsen i Uppsala län (gis.lst.se)",
+      "type": "multipolygon",
+      "wikidata": "Q10436569"
+    },
+    "wiki": {
+      "name": "Bryggholmen",
+      "wikidataId": "Q10436569",
+      "osmRelationId": "1461871",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

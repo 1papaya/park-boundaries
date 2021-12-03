@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 1155249,
   "properties": {
-    "@name": "Isalo National Park",
-    "@wikidataId": "Q120414",
-    "@osmRelationId": "1155249",
-    "@country": "Madagascar",
-    "@wikipedia": "Isalo_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Parc National de l'Isalo",
-    "name:en": "Isalo National Park",
-    "source": "ANGAP 2007",
-    "type": "multipolygon",
-    "wikidata": "Q120414",
-    "wikipedia": "fr:Parc national de l'Isalo",
-    "id": "relation/1155249"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Parc National de l'Isalo",
+      "name:en": "Isalo National Park",
+      "source": "ANGAP 2007",
+      "type": "multipolygon",
+      "wikidata": "Q120414",
+      "wikipedia": "fr:Parc national de l'Isalo"
+    },
+    "wiki": {
+      "name": "Isalo National Park",
+      "wikidataId": "Q120414",
+      "osmRelationId": "1155249",
+      "country": "Madagascar",
+      "wikipedia": "Isalo_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 7890483,
   "properties": {
-    "@name": "Müritz National Park",
-    "@wikidataId": "Q702495",
-    "@osmRelationId": "7890483",
-    "@country": "Germany",
-    "@wikipedia": "M%C3%BCritz_National_Park",
-    "alt_name": "Müritz-Nationalpark Teilgebiet Serrahn",
-    "boundary": "national_park",
-    "name": "Müritz-Nationalpark",
-    "protect_class": "2",
-    "protection_title": "Nationalpark",
-    "site_status": "designated",
-    "start_date": "1990",
-    "type": "boundary",
-    "website": "https://www.mueritz-nationalpark.de/",
-    "wikidata": "Q702495",
-    "wikipedia": "de:Müritz-Nationalpark",
-    "id": "relation/7890483"
+    "osm": {
+      "alt_name": "Müritz-Nationalpark Teilgebiet Serrahn",
+      "boundary": "national_park",
+      "name": "Müritz-Nationalpark",
+      "protect_class": "2",
+      "protection_title": "Nationalpark",
+      "site_status": "designated",
+      "start_date": "1990",
+      "type": "boundary",
+      "website": "https://www.mueritz-nationalpark.de/",
+      "wikidata": "Q702495",
+      "wikipedia": "de:Müritz-Nationalpark"
+    },
+    "wiki": {
+      "name": "Müritz National Park",
+      "wikidataId": "Q702495",
+      "osmRelationId": "7890483",
+      "country": "Germany",
+      "wikipedia": "M%C3%BCritz_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 6031121,
   "properties": {
-    "@name": "North Fork Owyhee Wilderness",
-    "@wikidataId": "Q7055415",
-    "@osmRelationId": "6031121",
-    "@country": "United States of America",
-    "@wikipedia": "North_Fork_Owyhee_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "North Fork Owyhee Wilderness",
-    "operator": "BLM",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q7055415",
-    "id": "relation/6031121"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "North Fork Owyhee Wilderness",
+      "operator": "BLM",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q7055415"
+    },
+    "wiki": {
+      "name": "North Fork Owyhee Wilderness",
+      "wikidataId": "Q7055415",
+      "osmRelationId": "6031121",
+      "country": "United States of America",
+      "wikipedia": "North_Fork_Owyhee_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 2125165,
   "properties": {
-    "@name": "Roztocze National Park",
-    "@wikidataId": "Q626392",
-    "@osmRelationId": "2125165",
-    "@country": "Poland",
-    "@wikipedia": "Roztocze_National_Park",
-    "SITE_CODE": "856",
-    "area:size:ha": "8481.76",
-    "boundary": "national_park",
-    "name": "Roztoczański Park Narodowy",
-    "protect_class": "2",
-    "start_date": "1974",
-    "type": "boundary",
-    "wikidata": "Q626392",
-    "wikipedia": "pl:Roztoczański Park Narodowy",
-    "id": "relation/2125165"
+    "osm": {
+      "SITE_CODE": "856",
+      "area:size:ha": "8481.76",
+      "boundary": "national_park",
+      "name": "Roztoczański Park Narodowy",
+      "protect_class": "2",
+      "start_date": "1974",
+      "type": "boundary",
+      "wikidata": "Q626392",
+      "wikipedia": "pl:Roztoczański Park Narodowy"
+    },
+    "wiki": {
+      "name": "Roztocze National Park",
+      "wikidataId": "Q626392",
+      "osmRelationId": "2125165",
+      "country": "Poland",
+      "wikipedia": "Roztocze_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

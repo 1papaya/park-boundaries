@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 8525111,
   "properties": {
-    "@name": "Komosse södra, Jönköpings län",
-    "@wikidataId": "Q30202670",
-    "@osmRelationId": "8525111",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:area_ha": "347.82",
-    "lst:beskrivning": "Komosse tillhör Europas värdefullaste myrområden och en av de största myrarna i södra Sverige. Området är så gott som orört av människan och rymmer en mångfald av olika sorters våtmarker. Det tidlösa landskapet är värd att upplevas många gånger, året om.",
-    "lst:ref": "06-2187",
-    "lst:reviderad": "20091105",
-    "lst:tillkomst": "20030917",
-    "name": "Komosse södra",
-    "type": "multipolygon",
-    "wikidata": "Q30202670",
-    "id": "relation/8525111"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:area_ha": "347.82",
+      "lst:beskrivning": "Komosse tillhör Europas värdefullaste myrområden och en av de största myrarna i södra Sverige. Området är så gott som orört av människan och rymmer en mångfald av olika sorters våtmarker. Det tidlösa landskapet är värd att upplevas många gånger, året om.",
+      "lst:ref": "06-2187",
+      "lst:reviderad": "20091105",
+      "lst:tillkomst": "20030917",
+      "name": "Komosse södra",
+      "type": "multipolygon",
+      "wikidata": "Q30202670"
+    },
+    "wiki": {
+      "name": "Komosse södra, Jönköpings län",
+      "wikidataId": "Q30202670",
+      "osmRelationId": "8525111",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

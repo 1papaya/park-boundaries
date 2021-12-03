@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 2640874,
   "properties": {
-    "@name": "Redes Natural Park",
-    "@wikidataId": "Q3384948",
-    "@osmRelationId": "2640874",
-    "@country": "Spain",
-    "@wikipedia": "Redes_Natural_Park",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Parque Natural de Redes",
-    "protect_class": "4",
-    "type": "boundary",
-    "wikidata": "Q3384948",
-    "id": "relation/2640874"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Parque Natural de Redes",
+      "protect_class": "4",
+      "type": "boundary",
+      "wikidata": "Q3384948"
+    },
+    "wiki": {
+      "name": "Redes Natural Park",
+      "wikidataId": "Q3384948",
+      "osmRelationId": "2640874",
+      "country": "Spain",
+      "wikipedia": "Redes_Natural_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 6183243,
   "properties": {
-    "@name": "Hain Wilderness",
-    "@wikidataId": "Q27977595",
-    "@osmRelationId": "6183243",
-    "@country": "United States of America",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Hain Wilderness",
-    "operator": "National Park Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q27977595",
-    "wikipedia": "fr:Hain Wilderness",
-    "id": "relation/6183243"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Hain Wilderness",
+      "operator": "National Park Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q27977595",
+      "wikipedia": "fr:Hain Wilderness"
+    },
+    "wiki": {
+      "name": "Hain Wilderness",
+      "wikidataId": "Q27977595",
+      "osmRelationId": "6183243",
+      "country": "United States of America",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

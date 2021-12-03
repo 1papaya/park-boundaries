@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 1518831,
   "properties": {
-    "@name": "Mowbray National Park",
-    "@wikidataId": "Q1674848",
-    "@osmRelationId": "1518831",
-    "@country": "Australia",
-    "@wikipedia": "Mowbray_National_Park",
-    "attribution": "Queensland Department of Environment and Science",
-    "boundary": "protected_area",
-    "governance_type": "government",
-    "iucn_level": "II",
-    "leisure": "nature_reserve",
-    "name": "Mowbray National Park",
-    "operator": "Queensland Department of Environment and Science",
-    "protect_class": "2",
-    "protection_title": "National Park",
-    "ref:capad:pa_id": "QLD_0799MOW001",
-    "ref:paoq:sysintcode": "0799MOW001",
-    "start_date": "2005-12-16",
-    "type": "boundary",
-    "id": "relation/1518831"
+    "osm": {
+      "attribution": "Queensland Department of Environment and Science",
+      "boundary": "protected_area",
+      "governance_type": "government",
+      "iucn_level": "II",
+      "leisure": "nature_reserve",
+      "name": "Mowbray National Park",
+      "operator": "Queensland Department of Environment and Science",
+      "protect_class": "2",
+      "protection_title": "National Park",
+      "ref:capad:pa_id": "QLD_0799MOW001",
+      "ref:paoq:sysintcode": "0799MOW001",
+      "start_date": "2005-12-16",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Mowbray National Park",
+      "wikidataId": "Q1674848",
+      "osmRelationId": "1518831",
+      "country": "Australia",
+      "wikipedia": "Mowbray_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

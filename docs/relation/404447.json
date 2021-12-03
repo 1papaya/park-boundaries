@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 404447,
   "properties": {
-    "@name": "Kahuzi-Biéga National Park",
-    "@wikidataId": "Q457324",
-    "@osmRelationId": "404447",
-    "@country": "Democratic Republic of the Congo",
-    "@wikipedia": "Kahuzi-Bi%C3%A9ga_National_Park",
-    "boundary": "protected_area",
-    "name": "Parc national de Kahuzi-Biega",
-    "name:de": "Nationalpark Kahuzi-Biéga",
-    "name:en": "Kahuzi-Biéga National Park",
-    "name:fr": "Parc National de Kahuzi-Biega",
-    "protect_class": "2",
-    "source": "www.rgc.cd",
-    "type": "multipolygon",
-    "wikidata": "Q457324",
-    "wikipedia": "fr:Parc national de Kahuzi-Biega",
-    "id": "relation/404447"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Parc national de Kahuzi-Biega",
+      "name:de": "Nationalpark Kahuzi-Biéga",
+      "name:en": "Kahuzi-Biéga National Park",
+      "name:fr": "Parc National de Kahuzi-Biega",
+      "protect_class": "2",
+      "source": "www.rgc.cd",
+      "type": "multipolygon",
+      "wikidata": "Q457324",
+      "wikipedia": "fr:Parc national de Kahuzi-Biega"
+    },
+    "wiki": {
+      "name": "Kahuzi-Biéga National Park",
+      "wikidataId": "Q457324",
+      "osmRelationId": "404447",
+      "country": "Democratic Republic of the Congo",
+      "wikipedia": "Kahuzi-Bi%C3%A9ga_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

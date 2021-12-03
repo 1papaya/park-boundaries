@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 7731918,
   "properties": {
-    "@name": "Teluk Cenderawasih National Park",
-    "@wikidataId": "Q36571",
-    "@osmRelationId": "7731918",
-    "@country": "Indonesia",
-    "@wikipedia": "Teluk_Cenderawasih_National_Park",
-    "boundary": "national_park",
-    "name": "Taman Nasional Teluk Cenderawasih",
-    "name:de": "Nationalpark Cenderawasih-Bucht",
-    "name:en": "Teluk Cenderawasih National Park",
-    "type": "boundary",
-    "wikidata": "Q36571",
-    "wikipedia": "id:Taman Nasional Teluk Cenderawasih",
-    "id": "relation/7731918"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Taman Nasional Teluk Cenderawasih",
+      "name:de": "Nationalpark Cenderawasih-Bucht",
+      "name:en": "Teluk Cenderawasih National Park",
+      "type": "boundary",
+      "wikidata": "Q36571",
+      "wikipedia": "id:Taman Nasional Teluk Cenderawasih"
+    },
+    "wiki": {
+      "name": "Teluk Cenderawasih National Park",
+      "wikidataId": "Q36571",
+      "osmRelationId": "7731918",
+      "country": "Indonesia",
+      "wikipedia": "Teluk_Cenderawasih_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

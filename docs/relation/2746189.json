@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 2746189,
   "properties": {
-    "@name": "Nationaal beek- en esdorpenlandschap Drentsche Aa",
-    "@wikidataId": "Q1702806",
-    "@osmRelationId": "2746189",
-    "@country": "Netherlands",
-    "@wikipedia": "Drentsche_Aa_National_Park",
-    "alt_name": "Nationaal beek- en esdorpenlandschap Drentsche Aa",
-    "boundary": "national_park",
-    "hectares": "10583.7038717",
-    "name": "Nationaal Landschap Drentsche Aa",
-    "source": "Prov. Drenthe",
-    "type": "boundary",
-    "wikidata": "Q1702806",
-    "id": "relation/2746189"
+    "osm": {
+      "alt_name": "Nationaal beek- en esdorpenlandschap Drentsche Aa",
+      "boundary": "national_park",
+      "hectares": "10583.7038717",
+      "name": "Nationaal Landschap Drentsche Aa",
+      "source": "Prov. Drenthe",
+      "type": "boundary",
+      "wikidata": "Q1702806"
+    },
+    "wiki": {
+      "name": "Nationaal beek- en esdorpenlandschap Drentsche Aa",
+      "wikidataId": "Q1702806",
+      "osmRelationId": "2746189",
+      "country": "Netherlands",
+      "wikipedia": "Drentsche_Aa_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

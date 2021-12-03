@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 9344353,
   "properties": {
-    "@name": "Gärdesudden",
-    "@wikidataId": "Q10512354",
-    "@osmRelationId": "9344353",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:area_ha": "21.77",
-    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Ospecificerad",
-    "lst:tillkomst": "2010-04-19",
-    "name": "Gärdesudden",
-    "type": "multipolygon",
-    "wikidata": "Q10512354",
-    "id": "relation/9344353"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:area_ha": "21.77",
+      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Ospecificerad",
+      "lst:tillkomst": "2010-04-19",
+      "name": "Gärdesudden",
+      "type": "multipolygon",
+      "wikidata": "Q10512354"
+    },
+    "wiki": {
+      "name": "Gärdesudden",
+      "wikidataId": "Q10512354",
+      "osmRelationId": "9344353",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

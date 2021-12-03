@@ -2,22 +2,25 @@
   "type": "Feature",
   "id": 10626317,
   "properties": {
-    "@name": "Angödrommen nature reserve",
-    "@wikidataId": "Q30162836",
-    "@osmRelationId": "10626317",
-    "@country": "Sweden",
-    "@wikipedia": null,
-    "leisure": "nature_reserve",
-    "lst:anmärkning": "Dossienr. Lst: 0120-02-004",
-    "lst:area_ha": "5.23",
-    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
-    "lst:ref": "0102019",
-    "lst:tillkomst": "1957-06-20",
-    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
-    "name": "Angödrommen",
-    "type": "multipolygon",
-    "wikidata": "Q30162836",
-    "id": "relation/10626317"
+    "osm": {
+      "leisure": "nature_reserve",
+      "lst:anmärkning": "Dossienr. Lst: 0120-02-004",
+      "lst:area_ha": "5.23",
+      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+      "lst:ref": "0102019",
+      "lst:tillkomst": "1957-06-20",
+      "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+      "name": "Angödrommen",
+      "type": "multipolygon",
+      "wikidata": "Q30162836"
+    },
+    "wiki": {
+      "name": "Angödrommen nature reserve",
+      "wikidataId": "Q30162836",
+      "osmRelationId": "10626317",
+      "country": "Sweden",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

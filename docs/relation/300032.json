@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 300032,
   "properties": {
-    "@name": "Stelvio National Park",
-    "@wikidataId": "Q1891711",
-    "@osmRelationId": "300032",
-    "@country": "Italy",
-    "@wikipedia": "Stelvio_National_Park",
-    "boundary": "national_park",
-    "name": "Parco Nazionale dello Stelvio - Nationalpark Stilfser Joch",
-    "name:de": "Nationalpark Stilfser Joch",
-    "name:it": "Parco Nazionale dello Stelvio",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "website": "http://www.stelviopark.bz.it/",
-    "wikidata": "Q1891711",
-    "wikipedia": "it:Parco nazionale dello Stelvio",
-    "id": "relation/300032"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Parco Nazionale dello Stelvio - Nationalpark Stilfser Joch",
+      "name:de": "Nationalpark Stilfser Joch",
+      "name:it": "Parco Nazionale dello Stelvio",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "website": "http://www.stelviopark.bz.it/",
+      "wikidata": "Q1891711",
+      "wikipedia": "it:Parco nazionale dello Stelvio"
+    },
+    "wiki": {
+      "name": "Stelvio National Park",
+      "wikidataId": "Q1891711",
+      "osmRelationId": "300032",
+      "country": "Italy",
+      "wikipedia": "Stelvio_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

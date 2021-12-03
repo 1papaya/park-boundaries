@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 6414018,
   "properties": {
-    "@name": "Indiana Dunes National Park",
-    "@wikidataId": "Q6023179",
-    "@osmRelationId": "6414018",
-    "@country": "United States of America",
-    "@wikipedia": "Indiana_Dunes_National_Park",
-    "boundary": "national_park",
-    "name": "Indiana Dunes National Park",
-    "name:en": "Indiana Dunes National Park",
-    "short_name": "Indiana Dunes",
-    "type": "multipolygon",
-    "wikidata": "Q6023179",
-    "wikipedia": "en:Indiana Dunes National Park",
-    "id": "relation/6414018"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Indiana Dunes National Park",
+      "name:en": "Indiana Dunes National Park",
+      "short_name": "Indiana Dunes",
+      "type": "multipolygon",
+      "wikidata": "Q6023179",
+      "wikipedia": "en:Indiana Dunes National Park"
+    },
+    "wiki": {
+      "name": "Indiana Dunes National Park",
+      "wikidataId": "Q6023179",
+      "osmRelationId": "6414018",
+      "country": "United States of America",
+      "wikipedia": "Indiana_Dunes_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

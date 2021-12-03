@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 8497759,
   "properties": {
-    "@name": "Abel Tasman National Park",
-    "@wikidataId": "Q318357",
-    "@osmRelationId": "8497759",
-    "@country": "New Zealand",
-    "@wikipedia": "Abel_Tasman_National_Park",
-    "boundary": "protected_area",
-    "name": "Abel Tasman National Park",
-    "name:cs": "Národní park Abel Tasman",
-    "name:mk": "Национален парк Абел Тасман",
-    "protect_class": "2",
-    "source": "PGS",
-    "type": "boundary",
-    "wikidata": "Q318357",
-    "wikipedia": "en:Abel Tasman National Park",
-    "id": "relation/8497759"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Abel Tasman National Park",
+      "name:cs": "Národní park Abel Tasman",
+      "name:mk": "Национален парк Абел Тасман",
+      "protect_class": "2",
+      "source": "PGS",
+      "type": "boundary",
+      "wikidata": "Q318357",
+      "wikipedia": "en:Abel Tasman National Park"
+    },
+    "wiki": {
+      "name": "Abel Tasman National Park",
+      "wikidataId": "Q318357",
+      "osmRelationId": "8497759",
+      "country": "New Zealand",
+      "wikipedia": "Abel_Tasman_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

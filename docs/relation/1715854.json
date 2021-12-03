@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 1715854,
   "properties": {
-    "@name": "İğneada Swamp National Park",
-    "@wikidataId": "Q19931239",
-    "@osmRelationId": "1715854",
-    "@country": "Turkey",
-    "@wikipedia": "%C4%B0%C4%9Fneada_Floodplain_Forests_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "İğneada Longoz Ormanları Millî Parkı",
-    "name:en": "İğneada Longoz Forest National Park",
-    "source": "gis2.cevreorman.gov.tr",
-    "type": "multipolygon",
-    "wikidata": "Q19931239",
-    "wikipedia": "tr:İğneada Longoz Ormanları Millî Parkı",
-    "id": "relation/1715854"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "İğneada Longoz Ormanları Millî Parkı",
+      "name:en": "İğneada Longoz Forest National Park",
+      "source": "gis2.cevreorman.gov.tr",
+      "type": "multipolygon",
+      "wikidata": "Q19931239",
+      "wikipedia": "tr:İğneada Longoz Ormanları Millî Parkı"
+    },
+    "wiki": {
+      "name": "İğneada Swamp National Park",
+      "wikidataId": "Q19931239",
+      "osmRelationId": "1715854",
+      "country": "Turkey",
+      "wikipedia": "%C4%B0%C4%9Fneada_Floodplain_Forests_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

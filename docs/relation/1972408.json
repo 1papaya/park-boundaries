@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 1972408,
   "properties": {
-    "@name": "Yariguíes National Park",
-    "@wikidataId": "Q3364553",
-    "@osmRelationId": "1972408",
-    "@country": "Colombia",
-    "@wikipedia": "Yarigu%C3%ADes_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Parque Nacional Natural Serranía de Los Yariguíes",
-    "protect_class": "2",
-    "source": "SD",
-    "type": "multipolygon",
-    "wikidata": "Q3364553",
-    "wikipedia": "en:Yariguíes National Park",
-    "id": "relation/1972408"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Parque Nacional Natural Serranía de Los Yariguíes",
+      "protect_class": "2",
+      "source": "SD",
+      "type": "multipolygon",
+      "wikidata": "Q3364553",
+      "wikipedia": "en:Yariguíes National Park"
+    },
+    "wiki": {
+      "name": "Yariguíes National Park",
+      "wikidataId": "Q3364553",
+      "osmRelationId": "1972408",
+      "country": "Colombia",
+      "wikipedia": "Yarigu%C3%ADes_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

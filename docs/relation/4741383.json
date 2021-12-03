@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 4741383,
   "properties": {
-    "@name": "Corcovado National Park",
-    "@wikidataId": "Q2900871",
-    "@osmRelationId": "4741383",
-    "@country": "Chile",
-    "@wikipedia": "Corcovado_National_Park_(Chile)",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Parque Nacional Corcovado",
-    "name:de": "Nationalpark Corcovado",
-    "name:en": "Corcovado National Park",
-    "name:fr": "Parc national Corcovado",
-    "name:it": "Parco nazionale del Corcovado",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q2900871",
-    "wikipedia": "es:Parque nacional Corcovado (Chile)",
-    "id": "relation/4741383"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Parque Nacional Corcovado",
+      "name:de": "Nationalpark Corcovado",
+      "name:en": "Corcovado National Park",
+      "name:fr": "Parc national Corcovado",
+      "name:it": "Parco nazionale del Corcovado",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q2900871",
+      "wikipedia": "es:Parque nacional Corcovado (Chile)"
+    },
+    "wiki": {
+      "name": "Corcovado National Park",
+      "wikidataId": "Q2900871",
+      "osmRelationId": "4741383",
+      "country": "Chile",
+      "wikipedia": "Corcovado_National_Park_(Chile)"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 3388788,
   "properties": {
-    "@name": "Aksu-Zhabagly Nature Reserve",
-    "@wikidataId": "Q1765261",
-    "@osmRelationId": "3388788",
-    "@country": "Soviet Union",
-    "@wikipedia": "Aksu-Zhabagly_Nature_Reserve",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Аксу-Джабаглинский заповедник",
-    "name:csb": "Ақсу́-Жабағылы́ мемлекетті́к табиғи́ қорығы́",
-    "name:de": "Naturreservat Aksu-Jabagly",
-    "name:en": "Aksu-Zhabagly Nature Reserve",
-    "name:fr": "Réserve naturelle Aksou-Jabagly",
-    "name:kk": "Ақсу́-Жабағылы́ мемлекетті́к табиғи́ қорығы́",
-    "name:ru": "Аксу-Жабаглинский государственный природный заповедник",
-    "type": "multipolygon",
-    "website": "http://www.aksu-jabagly.kz/",
-    "wikidata": "Q1765261",
-    "wikipedia": "ru:Аксу-Джабаглинский заповедник",
-    "id": "relation/3388788"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Аксу-Джабаглинский заповедник",
+      "name:csb": "Ақсу́-Жабағылы́ мемлекетті́к табиғи́ қорығы́",
+      "name:de": "Naturreservat Aksu-Jabagly",
+      "name:en": "Aksu-Zhabagly Nature Reserve",
+      "name:fr": "Réserve naturelle Aksou-Jabagly",
+      "name:kk": "Ақсу́-Жабағылы́ мемлекетті́к табиғи́ қорығы́",
+      "name:ru": "Аксу-Жабаглинский государственный природный заповедник",
+      "type": "multipolygon",
+      "website": "http://www.aksu-jabagly.kz/",
+      "wikidata": "Q1765261",
+      "wikipedia": "ru:Аксу-Джабаглинский заповедник"
+    },
+    "wiki": {
+      "name": "Aksu-Zhabagly Nature Reserve",
+      "wikidataId": "Q1765261",
+      "osmRelationId": "3388788",
+      "country": "Soviet Union",
+      "wikipedia": "Aksu-Zhabagly_Nature_Reserve"
+    }
   },
   "geometry": {
     "type": "Polygon",

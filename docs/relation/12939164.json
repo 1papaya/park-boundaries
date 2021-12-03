@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 12939164,
   "properties": {
-    "@name": "Serpentine National Park",
-    "@wikidataId": "Q957573",
-    "@osmRelationId": "12939164",
-    "@country": "Australia",
-    "@wikipedia": "Serpentine_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "II",
-    "leisure": "nature_reserve",
-    "name": "Serpentine National Park",
-    "protect_class": "2",
-    "ref:capad:pa_id": "WA_28862",
-    "source": "CAPAD 2020",
-    "type": "boundary",
-    "wikidata": "Q957573",
-    "id": "relation/12939164"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "II",
+      "leisure": "nature_reserve",
+      "name": "Serpentine National Park",
+      "protect_class": "2",
+      "ref:capad:pa_id": "WA_28862",
+      "source": "CAPAD 2020",
+      "type": "boundary",
+      "wikidata": "Q957573"
+    },
+    "wiki": {
+      "name": "Serpentine National Park",
+      "wikidataId": "Q957573",
+      "osmRelationId": "12939164",
+      "country": "Australia",
+      "wikipedia": "Serpentine_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

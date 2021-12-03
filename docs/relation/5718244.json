@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5718244,
   "properties": {
-    "@name": "Mount Evans Wilderness",
-    "@wikidataId": "Q6920692",
-    "@osmRelationId": "5718244",
-    "@country": "United States of America",
-    "@wikipedia": "Mount_Evans_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Mount Evans Wilderness Area",
-    "ownership": "national",
-    "protect_class": "1b",
-    "source": "http://data.fs.usda.gov/geodata/",
-    "type": "boundary",
-    "wikidata": "Q6920692",
-    "wikipedia": "fr:Mount Evans Wilderness",
-    "id": "relation/5718244"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Mount Evans Wilderness Area",
+      "ownership": "national",
+      "protect_class": "1b",
+      "source": "http://data.fs.usda.gov/geodata/",
+      "type": "boundary",
+      "wikidata": "Q6920692",
+      "wikipedia": "fr:Mount Evans Wilderness"
+    },
+    "wiki": {
+      "name": "Mount Evans Wilderness",
+      "wikidataId": "Q6920692",
+      "osmRelationId": "5718244",
+      "country": "United States of America",
+      "wikipedia": "Mount_Evans_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

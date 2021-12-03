@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 6133564,
   "properties": {
-    "@name": "Budawang National Park",
-    "@wikidataId": "Q1000715",
-    "@osmRelationId": "6133564",
-    "@country": "Australia",
-    "@wikipedia": "Budawang_National_Park",
-    "boundary": "protected_area",
-    "iucn_level": "IB",
-    "leisure": "nature_reserve",
-    "name": "Budawang National Park",
-    "note": "Way has been simplified using a maximum error criterion of 3m.",
-    "nswlpi:cadid": "108020664",
-    "protect_class": "1",
-    "protection_title": "National Park",
-    "ref": "N0045",
-    "ref:capad2014_osm": "NSW_N0045_IB",
-    "source": "NSW LPI Base Map",
-    "type": "boundary",
-    "id": "relation/6133564"
+    "osm": {
+      "boundary": "protected_area",
+      "iucn_level": "IB",
+      "leisure": "nature_reserve",
+      "name": "Budawang National Park",
+      "note": "Way has been simplified using a maximum error criterion of 3m.",
+      "nswlpi:cadid": "108020664",
+      "protect_class": "1",
+      "protection_title": "National Park",
+      "ref": "N0045",
+      "ref:capad2014_osm": "NSW_N0045_IB",
+      "source": "NSW LPI Base Map",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Budawang National Park",
+      "wikidataId": "Q1000715",
+      "osmRelationId": "6133564",
+      "country": "Australia",
+      "wikipedia": "Budawang_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 6122367,
   "properties": {
-    "@name": "Mount Skokomish Wilderness",
-    "@wikidataId": "Q6923714",
-    "@osmRelationId": "6122367",
-    "@country": "United States of America",
-    "@wikipedia": "Mount_Skokomish_Wilderness",
-    "boundary": "protected_area",
-    "gnis:created": "05/01/1991",
-    "gnis:feature_id": "1529458",
-    "leisure": "nature_reserve",
-    "name": "Mount Skokomish Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q6923714",
-    "wikipedia": "en:Mount Skokomish Wilderness",
-    "id": "relation/6122367"
+    "osm": {
+      "boundary": "protected_area",
+      "gnis:created": "05/01/1991",
+      "gnis:feature_id": "1529458",
+      "leisure": "nature_reserve",
+      "name": "Mount Skokomish Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q6923714",
+      "wikipedia": "en:Mount Skokomish Wilderness"
+    },
+    "wiki": {
+      "name": "Mount Skokomish Wilderness",
+      "wikidataId": "Q6923714",
+      "osmRelationId": "6122367",
+      "country": "United States of America",
+      "wikipedia": "Mount_Skokomish_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

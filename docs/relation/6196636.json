@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 6196636,
   "properties": {
-    "@name": "Desolation Wilderness",
-    "@wikidataId": "Q963788",
-    "@osmRelationId": "6196636",
-    "@country": "United States of America",
-    "@wikipedia": "Desolation_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Desolation Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q963788",
-    "id": "relation/6196636"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Desolation Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q963788"
+    },
+    "wiki": {
+      "name": "Desolation Wilderness",
+      "wikidataId": "Q963788",
+      "osmRelationId": "6196636",
+      "country": "United States of America",
+      "wikipedia": "Desolation_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

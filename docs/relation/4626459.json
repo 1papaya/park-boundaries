@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 4626459,
   "properties": {
-    "@name": "Kafue National Park",
-    "@wikidataId": "Q1721097",
-    "@osmRelationId": "4626459",
-    "@country": "Zambia",
-    "@wikipedia": "Kafue_National_Park",
-    "WDPA_ID:ref": "1085",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Kafue National Park",
-    "operator": "Department of National Parks and Wildlife (DPNW)",
-    "protect_class": "2",
-    "protection_title": "National Park",
-    "ref:IUCN": "II",
-    "start_date": "1971",
-    "type": "boundary",
-    "website": "https://www.zambiatourism.com/destinations/national-parks/kafue-national-park",
-    "wikidata": "Q1721097",
-    "wikipedia": "en:Kafue National Park",
-    "id": "relation/4626459"
+    "osm": {
+      "WDPA_ID:ref": "1085",
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Kafue National Park",
+      "operator": "Department of National Parks and Wildlife (DPNW)",
+      "protect_class": "2",
+      "protection_title": "National Park",
+      "ref:IUCN": "II",
+      "start_date": "1971",
+      "type": "boundary",
+      "website": "https://www.zambiatourism.com/destinations/national-parks/kafue-national-park",
+      "wikidata": "Q1721097",
+      "wikipedia": "en:Kafue National Park"
+    },
+    "wiki": {
+      "name": "Kafue National Park",
+      "wikidataId": "Q1721097",
+      "osmRelationId": "4626459",
+      "country": "Zambia",
+      "wikipedia": "Kafue_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 11689940,
   "properties": {
-    "@name": "Kalbarri National Park",
-    "@wikidataId": "Q1722083",
-    "@osmRelationId": "11689940",
-    "@country": "Australia",
-    "@wikipedia": "Kalbarri_National_Park",
-    "admin_level": "10",
-    "boundary": "administrative",
-    "name": "Kalbarri National Park",
-    "ref:psma:loc_pid": "WA1947",
-    "source": "PSMA_Admin_Boundaries",
-    "type": "boundary",
-    "id": "relation/11689940"
+    "osm": {
+      "admin_level": "10",
+      "boundary": "administrative",
+      "name": "Kalbarri National Park",
+      "ref:psma:loc_pid": "WA1947",
+      "source": "PSMA_Admin_Boundaries",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Kalbarri National Park",
+      "wikidataId": "Q1722083",
+      "osmRelationId": "11689940",
+      "country": "Australia",
+      "wikipedia": "Kalbarri_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

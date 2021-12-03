@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 171926,
   "properties": {
-    "@name": "Aldo Leopold Wilderness",
-    "@wikidataId": "Q4713893",
-    "@osmRelationId": "171926",
-    "@country": "United States of America",
-    "@wikipedia": "Aldo_Leopold_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Aldo Leopold Wilderness",
-    "operator": "US Forest Service",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "uuid": "AndyAyre_200907122",
-    "wikidata": "Q4713893",
-    "wikipedia": "en:Aldo Leopold Wilderness",
-    "id": "relation/171926"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Aldo Leopold Wilderness",
+      "operator": "US Forest Service",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "uuid": "AndyAyre_200907122",
+      "wikidata": "Q4713893",
+      "wikipedia": "en:Aldo Leopold Wilderness"
+    },
+    "wiki": {
+      "name": "Aldo Leopold Wilderness",
+      "wikidataId": "Q4713893",
+      "osmRelationId": "171926",
+      "country": "United States of America",
+      "wikipedia": "Aldo_Leopold_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

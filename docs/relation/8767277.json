@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 8767277,
   "properties": {
-    "@name": "Lore Lindu National Park",
-    "@wikidataId": "Q1517521",
-    "@osmRelationId": "8767277",
-    "@country": "Indonesia",
-    "@wikipedia": "Lore_Lindu_National_Park",
-    "boundary": "national_park",
-    "name": "Taman Nasional Lore Lindu",
-    "name:en": "Lore Lindu National Park",
-    "operator": "Balai Besar Taman Nasional Lore Lindu",
-    "protect_class": "2",
-    "type": "boundary",
-    "wikidata": "Q1517521",
-    "wikipedia": "id:Taman Nasional Lore Lindu",
-    "id": "relation/8767277"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Taman Nasional Lore Lindu",
+      "name:en": "Lore Lindu National Park",
+      "operator": "Balai Besar Taman Nasional Lore Lindu",
+      "protect_class": "2",
+      "type": "boundary",
+      "wikidata": "Q1517521",
+      "wikipedia": "id:Taman Nasional Lore Lindu"
+    },
+    "wiki": {
+      "name": "Lore Lindu National Park",
+      "wikidataId": "Q1517521",
+      "osmRelationId": "8767277",
+      "country": "Indonesia",
+      "wikipedia": "Lore_Lindu_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

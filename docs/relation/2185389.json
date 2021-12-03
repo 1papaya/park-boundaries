@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 2185389,
   "properties": {
-    "@name": "Tijuca Forest",
-    "@wikidataId": "Q14942956",
-    "@osmRelationId": "2185389",
-    "@country": "Brazil",
-    "@wikipedia": "Tijuca_Forest",
-    "leaf_cycle": "evergreen",
-    "name": "Floresta da Tijuca",
-    "name:en": "Tijuca Forest",
-    "name:ko": "티주카 숲",
-    "natural": "wood",
-    "type": "multipolygon",
-    "wikidata": "Q14942956",
-    "wikipedia": "pt:Floresta da Tijuca",
-    "id": "relation/2185389"
+    "osm": {
+      "leaf_cycle": "evergreen",
+      "name": "Floresta da Tijuca",
+      "name:en": "Tijuca Forest",
+      "name:ko": "티주카 숲",
+      "natural": "wood",
+      "type": "multipolygon",
+      "wikidata": "Q14942956",
+      "wikipedia": "pt:Floresta da Tijuca"
+    },
+    "wiki": {
+      "name": "Tijuca Forest",
+      "wikidataId": "Q14942956",
+      "osmRelationId": "2185389",
+      "country": "Brazil",
+      "wikipedia": "Tijuca_Forest"
+    }
   },
   "geometry": {
     "type": "Polygon",

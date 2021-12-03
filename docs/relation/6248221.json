@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 6248221,
   "properties": {
-    "@name": "Polesie National Park",
-    "@wikidataId": "Q625105",
-    "@osmRelationId": "6248221",
-    "@country": "Poland",
-    "@wikipedia": "Polesie_National_Park",
-    "boundary": "national_park",
-    "name": "Poleski Park Narodowy",
-    "name:de": "Nationalpark Polesie",
-    "name:en": "Polesie National Park",
-    "name:pl": "Poleski Park Narodowy",
-    "note": "old relation #1 395 293 left for historic info, but with tags removed",
-    "protect_class": "2",
-    "source": "Generalna Dyrekcja Ochrony Środowiska",
-    "type": "multipolygon",
-    "website": "http://www.poleskipn.pl",
-    "wikidata": "Q625105",
-    "wikipedia": "pl:Poleski Park Narodowy",
-    "id": "relation/6248221"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Poleski Park Narodowy",
+      "name:de": "Nationalpark Polesie",
+      "name:en": "Polesie National Park",
+      "name:pl": "Poleski Park Narodowy",
+      "note": "old relation #1 395 293 left for historic info, but with tags removed",
+      "protect_class": "2",
+      "source": "Generalna Dyrekcja Ochrony Środowiska",
+      "type": "multipolygon",
+      "website": "http://www.poleskipn.pl",
+      "wikidata": "Q625105",
+      "wikipedia": "pl:Poleski Park Narodowy"
+    },
+    "wiki": {
+      "name": "Polesie National Park",
+      "wikidataId": "Q625105",
+      "osmRelationId": "6248221",
+      "country": "Poland",
+      "wikipedia": "Polesie_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

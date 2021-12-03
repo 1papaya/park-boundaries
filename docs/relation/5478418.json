@@ -2,19 +2,22 @@
   "type": "Feature",
   "id": 5478418,
   "properties": {
-    "@name": "Gunnison Gorge Wilderness",
-    "@wikidataId": "Q5619269",
-    "@osmRelationId": "5478418",
-    "@country": "United States of America",
-    "@wikipedia": "Gunnison_Gorge_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Gunnison Gorge Wilderness Area",
-    "ownership": "national",
-    "protect_class": "1b",
-    "source": "BLM Colorado (http://www.blm.gov/co/st/en/BLM_Programs/geographical_sciences.html)",
-    "type": "boundary",
-    "id": "relation/5478418"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Gunnison Gorge Wilderness Area",
+      "ownership": "national",
+      "protect_class": "1b",
+      "source": "BLM Colorado (http://www.blm.gov/co/st/en/BLM_Programs/geographical_sciences.html)",
+      "type": "boundary"
+    },
+    "wiki": {
+      "name": "Gunnison Gorge Wilderness",
+      "wikidataId": "Q5619269",
+      "osmRelationId": "5478418",
+      "country": "United States of America",
+      "wikipedia": "Gunnison_Gorge_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

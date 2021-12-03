@@ -2,25 +2,28 @@
   "type": "Feature",
   "id": 4100859,
   "properties": {
-    "@name": "Cilento, Vallo di Diano and Alburni National Park",
-    "@wikidataId": "Q867361",
-    "@osmRelationId": "4100859",
-    "@country": "Italy",
-    "@wikipedia": "Parco_Nazionale_del_Cilento,_Vallo_di_Diano_e_Alburni",
-    "boundary": "national_park",
-    "heritage": "1",
-    "heritage:operator": "whc",
-    "leisure": "nature_reserve",
-    "name": "Parco Nazionale Cilento, Vallo di Diano e Alburni",
-    "protect_class": "2",
-    "protected_area": "national_park",
-    "ref:whc": "842",
-    "source": "cilentoediano.it (apparently uses Google maps to communicate its park boundary",
-    "type": "boundary",
-    "whc:inscription_date": "1998",
-    "wikidata": "Q867361",
-    "wikipedia": "it:Parco nazionale del Cilento, Vallo di Diano e Alburni",
-    "id": "relation/4100859"
+    "osm": {
+      "boundary": "national_park",
+      "heritage": "1",
+      "heritage:operator": "whc",
+      "leisure": "nature_reserve",
+      "name": "Parco Nazionale Cilento, Vallo di Diano e Alburni",
+      "protect_class": "2",
+      "protected_area": "national_park",
+      "ref:whc": "842",
+      "source": "cilentoediano.it (apparently uses Google maps to communicate its park boundary",
+      "type": "boundary",
+      "whc:inscription_date": "1998",
+      "wikidata": "Q867361",
+      "wikipedia": "it:Parco nazionale del Cilento, Vallo di Diano e Alburni"
+    },
+    "wiki": {
+      "name": "Cilento, Vallo di Diano and Alburni National Park",
+      "wikidataId": "Q867361",
+      "osmRelationId": "4100859",
+      "country": "Italy",
+      "wikipedia": "Parco_Nazionale_del_Cilento,_Vallo_di_Diano_e_Alburni"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 3961479,
   "properties": {
-    "@name": "Mount Revelstoke National Park",
-    "@wikidataId": "Q862265",
-    "@osmRelationId": "3961479",
-    "@country": "Canada",
-    "@wikipedia": "Mount_Revelstoke_National_Park",
-    "boundary": "national_park",
-    "name": "Mount Revelstoke National Park",
-    "name:fr": "Parc national du Mont-Revelstoke",
-    "official_name": "Mount Revelstoke National Park of Canada",
-    "snowmobile": "no",
-    "source": "National Framework Canada Lands Administrative Boundaries Level 1",
-    "type": "boundary",
-    "wikidata": "Q862265",
-    "id": "relation/3961479"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Mount Revelstoke National Park",
+      "name:fr": "Parc national du Mont-Revelstoke",
+      "official_name": "Mount Revelstoke National Park of Canada",
+      "snowmobile": "no",
+      "source": "National Framework Canada Lands Administrative Boundaries Level 1",
+      "type": "boundary",
+      "wikidata": "Q862265"
+    },
+    "wiki": {
+      "name": "Mount Revelstoke National Park",
+      "wikidataId": "Q862265",
+      "osmRelationId": "3961479",
+      "country": "Canada",
+      "wikipedia": "Mount_Revelstoke_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

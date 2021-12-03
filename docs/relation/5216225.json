@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 5216225,
   "properties": {
-    "@name": "Xixová-Japuí State Park",
-    "@wikidataId": "Q27924279",
-    "@osmRelationId": "5216225",
-    "@country": "Brazil",
-    "@wikipedia": "Xixov%C3%A1-Japu%C3%AD_State_Park",
-    "boundary": "protected_area",
-    "name": "Parque Estadual Xixová-Japuí",
-    "protect_class": "2",
-    "protection_title": "parque estadual",
-    "type": "boundary",
-    "wikidata": "Q27924279",
-    "id": "relation/5216225"
+    "osm": {
+      "boundary": "protected_area",
+      "name": "Parque Estadual Xixová-Japuí",
+      "protect_class": "2",
+      "protection_title": "parque estadual",
+      "type": "boundary",
+      "wikidata": "Q27924279"
+    },
+    "wiki": {
+      "name": "Xixová-Japuí State Park",
+      "wikidataId": "Q27924279",
+      "osmRelationId": "5216225",
+      "country": "Brazil",
+      "wikipedia": "Xixov%C3%A1-Japu%C3%AD_State_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

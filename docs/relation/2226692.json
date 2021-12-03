@@ -2,18 +2,21 @@
   "type": "Feature",
   "id": 2226692,
   "properties": {
-    "@name": "Miracle Beach Provincial Park",
-    "@wikidataId": "Q786926",
-    "@osmRelationId": "2226692",
-    "@country": "Canada",
-    "@wikipedia": "Miracle_Beach_Provincial_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Miracle Beach Provincial Park",
-    "operator": "BC Parks",
-    "type": "boundary",
-    "website": "http://www.env.gov.bc.ca/bcparks/explore/parkpgs/miracle_bch/",
-    "id": "relation/2226692"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Miracle Beach Provincial Park",
+      "operator": "BC Parks",
+      "type": "boundary",
+      "website": "http://www.env.gov.bc.ca/bcparks/explore/parkpgs/miracle_bch/"
+    },
+    "wiki": {
+      "name": "Miracle Beach Provincial Park",
+      "wikidataId": "Q786926",
+      "osmRelationId": "2226692",
+      "country": "Canada",
+      "wikipedia": "Miracle_Beach_Provincial_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 6757024,
   "properties": {
-    "@name": "Pieniny National Park",
-    "@wikidataId": "Q1783680",
-    "@osmRelationId": "6757024",
-    "@country": "Slovakia",
-    "@wikipedia": "Pieniny_National_Park_(Slovakia)",
-    "boundary": "national_park",
-    "name": "Pieninský národný park",
-    "name:cs": "Pieninský národní park",
-    "name:de": "Pieninen-Nationalpark",
-    "name:en": "Pieniny National Park",
-    "name:pl": "Pieniński Park Narodowy (Słowacja)",
-    "type": "boundary",
-    "wikidata": "Q1783680",
-    "wikipedia": "cs:Pieninský národní park",
-    "id": "relation/6757024"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Pieninský národný park",
+      "name:cs": "Pieninský národní park",
+      "name:de": "Pieninen-Nationalpark",
+      "name:en": "Pieniny National Park",
+      "name:pl": "Pieniński Park Narodowy (Słowacja)",
+      "type": "boundary",
+      "wikidata": "Q1783680",
+      "wikipedia": "cs:Pieninský národní park"
+    },
+    "wiki": {
+      "name": "Pieniny National Park",
+      "wikidataId": "Q1783680",
+      "osmRelationId": "6757024",
+      "country": "Slovakia",
+      "wikipedia": "Pieniny_National_Park_(Slovakia)"
+    }
   },
   "geometry": {
     "type": "Polygon",

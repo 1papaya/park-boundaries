@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 9432633,
   "properties": {
-    "@name": "Riserva naturale integrale Grotta Monello",
-    "@wikidataId": "Q3936822",
-    "@osmRelationId": "9432633",
-    "@country": "Italy",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Riserva naturale integrale Grotta Monello",
-    "operator": "CUTGANA",
-    "protect_class": "4",
-    "source": "http://www.sitr.regione.sicilia.it",
-    "type": "boundary",
-    "wikipedia": "it:Riserva naturale integrale Grotta Monello",
-    "id": "relation/9432633"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Riserva naturale integrale Grotta Monello",
+      "operator": "CUTGANA",
+      "protect_class": "4",
+      "source": "http://www.sitr.regione.sicilia.it",
+      "type": "boundary",
+      "wikipedia": "it:Riserva naturale integrale Grotta Monello"
+    },
+    "wiki": {
+      "name": "Riserva naturale integrale Grotta Monello",
+      "wikidataId": "Q3936822",
+      "osmRelationId": "9432633",
+      "country": "Italy",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

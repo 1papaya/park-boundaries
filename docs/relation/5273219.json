@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 5273219,
   "properties": {
-    "@name": "Citico Creek Wilderness",
-    "@wikidataId": "Q5122464",
-    "@osmRelationId": "5273219",
-    "@country": "United States of America",
-    "@wikipedia": "Citico_Creek_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Citico Creek Wilderness",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "source": "USDA Forest Service Geodata Clearinghouse",
-    "type": "multipolygon",
-    "wikidata": "Q5122464",
-    "wikipedia": "en:Citico Creek Wilderness",
-    "id": "relation/5273219"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Citico Creek Wilderness",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "source": "USDA Forest Service Geodata Clearinghouse",
+      "type": "multipolygon",
+      "wikidata": "Q5122464",
+      "wikipedia": "en:Citico Creek Wilderness"
+    },
+    "wiki": {
+      "name": "Citico Creek Wilderness",
+      "wikidataId": "Q5122464",
+      "osmRelationId": "5273219",
+      "country": "United States of America",
+      "wikipedia": "Citico_Creek_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

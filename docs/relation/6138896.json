@@ -2,21 +2,24 @@
   "type": "Feature",
   "id": 6138896,
   "properties": {
-    "@name": "Santa Rosa Wilderness",
-    "@wikidataId": "Q7419920",
-    "@osmRelationId": "6138896",
-    "@country": "United States of America",
-    "@wikipedia": "Santa_Rosa_Wilderness",
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Santa Rosa Wilderness",
-    "operator": "US Forest Service;BLM",
-    "ownership": "national",
-    "protect_class": "1b",
-    "protection_title": "Wilderness Area",
-    "type": "boundary",
-    "wikidata": "Q7419920",
-    "id": "relation/6138896"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Santa Rosa Wilderness",
+      "operator": "US Forest Service;BLM",
+      "ownership": "national",
+      "protect_class": "1b",
+      "protection_title": "Wilderness Area",
+      "type": "boundary",
+      "wikidata": "Q7419920"
+    },
+    "wiki": {
+      "name": "Santa Rosa Wilderness",
+      "wikidataId": "Q7419920",
+      "osmRelationId": "6138896",
+      "country": "United States of America",
+      "wikipedia": "Santa_Rosa_Wilderness"
+    }
   },
   "geometry": {
     "type": "Polygon",

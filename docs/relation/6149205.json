@@ -2,23 +2,26 @@
   "type": "Feature",
   "id": 6149205,
   "properties": {
-    "@name": "Vatnajökull National Park",
-    "@wikidataId": "Q1353292",
-    "@osmRelationId": "6149205",
-    "@country": "Iceland",
-    "@wikipedia": "Vatnaj%C3%B6kull_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Vatnajökulsþjóðgarður",
-    "name:de": "Vatnajökull-Nationalpark",
-    "name:en": "Vatnajökull National Park",
-    "note:en": "Camping rules are complicated. See: http://www.ust.is/einstaklingar/frettir/frett/2016/06/30/May-I-camp-anywhere-/",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "website": "https://www.vatnajokulsthjodgardur.is/",
-    "wikidata": "Q1353292",
-    "wikipedia": "en:Vatnajökull National Park",
-    "id": "relation/6149205"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Vatnajökulsþjóðgarður",
+      "name:de": "Vatnajökull-Nationalpark",
+      "name:en": "Vatnajökull National Park",
+      "note:en": "Camping rules are complicated. See: http://www.ust.is/einstaklingar/frettir/frett/2016/06/30/May-I-camp-anywhere-/",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "website": "https://www.vatnajokulsthjodgardur.is/",
+      "wikidata": "Q1353292",
+      "wikipedia": "en:Vatnajökull National Park"
+    },
+    "wiki": {
+      "name": "Vatnajökull National Park",
+      "wikidataId": "Q1353292",
+      "osmRelationId": "6149205",
+      "country": "Iceland",
+      "wikipedia": "Vatnaj%C3%B6kull_National_Park"
+    }
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,17 +2,20 @@
   "type": "Feature",
   "id": 7748231,
   "properties": {
-    "@name": "Q104546973",
-    "@wikidataId": "Q104546973",
-    "@osmRelationId": "7748231",
-    "@country": "Indonesia",
-    "@wikipedia": null,
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Cagar Alam Laut Karimata",
-    "name:en": "Karimata Marine Reserve",
-    "type": "multipolygon",
-    "id": "relation/7748231"
+    "osm": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Cagar Alam Laut Karimata",
+      "name:en": "Karimata Marine Reserve",
+      "type": "multipolygon"
+    },
+    "wiki": {
+      "name": "Q104546973",
+      "wikidataId": "Q104546973",
+      "osmRelationId": "7748231",
+      "country": "Indonesia",
+      "wikipedia": null
+    }
   },
   "geometry": {
     "type": "Polygon",

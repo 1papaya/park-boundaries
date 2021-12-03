@@ -2,24 +2,27 @@
   "type": "Feature",
   "id": 6757026,
   "properties": {
-    "@name": "Slovak Paradise National Park",
-    "@wikidataId": "Q1507799",
-    "@osmRelationId": "6757026",
-    "@country": "Slovakia",
-    "@wikipedia": "Slovak_Paradise_National_Park",
-    "boundary": "national_park",
-    "name": "Národný park Slovenský raj",
-    "name:cs": "Národní park Slovenský ráj",
-    "name:de": "Nationalpark Slowakisches Paradies",
-    "name:en": "Slovak Paradise National Park",
-    "name:hu": "Szlovák Paradicsom Nemzeti Park",
-    "name:pl": "Park Narodowy Słowacki Raj",
-    "name:ru": "Словацкий рай",
-    "name:sk": "Národný park Slovenský raj",
-    "type": "boundary",
-    "wikidata": "Q1507799",
-    "wikipedia": "sk:Národný park Slovenský raj",
-    "id": "relation/6757026"
+    "osm": {
+      "boundary": "national_park",
+      "name": "Národný park Slovenský raj",
+      "name:cs": "Národní park Slovenský ráj",
+      "name:de": "Nationalpark Slowakisches Paradies",
+      "name:en": "Slovak Paradise National Park",
+      "name:hu": "Szlovák Paradicsom Nemzeti Park",
+      "name:pl": "Park Narodowy Słowacki Raj",
+      "name:ru": "Словацкий рай",
+      "name:sk": "Národný park Slovenský raj",
+      "type": "boundary",
+      "wikidata": "Q1507799",
+      "wikipedia": "sk:Národný park Slovenský raj"
+    },
+    "wiki": {
+      "name": "Slovak Paradise National Park",
+      "wikidataId": "Q1507799",
+      "osmRelationId": "6757026",
+      "country": "Slovakia",
+      "wikipedia": "Slovak_Paradise_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",

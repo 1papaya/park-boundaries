@@ -2,15 +2,14 @@
   "type": "Feature",
   "id": 6106060,
   "properties": {
-    "@name": "Brämön",
-    "@wikidataId": "Q10436941",
-    "@osmRelationId": "6106060",
-    "@country": "Sweden",
-    "@wikipedia": "Br%C3%A4m%C3%B6n",
-    "name": "Brämön",
-    "place": "island",
-    "type": "multipolygon",
-    "id": "relation/6106060"
+    "osm": {"name": "Brämön", "place": "island", "type": "multipolygon"},
+    "wiki": {
+      "name": "Brämön",
+      "wikidataId": "Q10436941",
+      "osmRelationId": "6106060",
+      "country": "Sweden",
+      "wikipedia": "Br%C3%A4m%C3%B6n"
+    }
   },
   "geometry": {
     "type": "Polygon",

@@ -2,20 +2,23 @@
   "type": "Feature",
   "id": 6154329,
   "properties": {
-    "@name": "Yendegaia National Park",
-    "@wikidataId": "Q15867509",
-    "@osmRelationId": "6154329",
-    "@country": "Chile",
-    "@wikipedia": "Yendegaia_National_Park",
-    "boundary": "national_park",
-    "leisure": "nature_reserve",
-    "name": "Parque Nacional Yendegaia",
-    "name:mk": "Национален парк Јендегаја",
-    "protect_class": "2",
-    "type": "multipolygon",
-    "wikidata": "Q15867509",
-    "wikipedia": "es:Parque nacional Yendegaia",
-    "id": "relation/6154329"
+    "osm": {
+      "boundary": "national_park",
+      "leisure": "nature_reserve",
+      "name": "Parque Nacional Yendegaia",
+      "name:mk": "Национален парк Јендегаја",
+      "protect_class": "2",
+      "type": "multipolygon",
+      "wikidata": "Q15867509",
+      "wikipedia": "es:Parque nacional Yendegaia"
+    },
+    "wiki": {
+      "name": "Yendegaia National Park",
+      "wikidataId": "Q15867509",
+      "osmRelationId": "6154329",
+      "country": "Chile",
+      "wikipedia": "Yendegaia_National_Park"
+    }
   },
   "geometry": {
     "type": "Polygon",
