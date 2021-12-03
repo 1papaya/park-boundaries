@@ -6,7 +6,7 @@ import fs from "fs";
   const parksIndex = await getParksFeatureCollection().then(
     (parksFeatureCollection) =>
       parksFeatureCollection.features.map((parkFeature) => ({
-        name: parkFeature.properties["name"],
+        name: parkFeature.properties.osm["name"],
         id: parkFeature.id,
         bbox: turfBbox(parkFeature),
       }))

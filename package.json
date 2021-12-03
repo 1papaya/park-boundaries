@@ -5,8 +5,11 @@
   "repository": "git@github.com:1papaya/park-boundaries.git",
   "author": "1papaya <1love1papaya@gmail.com>",
   "scripts": {
-    "regenerate": "yarn generate-geojson && yarn build-mbtiles && yarn generate-index && yarn generate-features",
-    "generate-geojson": "ts-node ./scripts/generate-geojson.ts",
+    "build": "yarn pre:mbtiles && yarn build-mbtiles && yarn post:mbtiles",
+    "pre:mbtiles": "yarn download && yarn generate-boundaries && yarn generate-points",
+    "post:mbtiles": "yarn generate-index && yarn generate-features",
+    "download": "ts-node ./scripts/download.ts",
+    "generate-boundaries": "ts-node ./scripts/generate-boundaries.ts",
     "generate-features": "ts-node ./scripts/generate-features.ts",
     "generate-points": "ts-node ./scripts/generate-points.ts",
     "generate-index": "ts-node ./scripts/generate-index.ts",

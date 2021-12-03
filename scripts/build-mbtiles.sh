@@ -4,5 +4,5 @@
                  --maximum-zoom=11 \
                  --no-tile-compression \
                  --output-to-directory="./docs/" \
-                 --layer="parks" \
-                 ./cache/parksFeatureCollection.json
+                 ./data/boundaries.json \
+                 ./data/points.json

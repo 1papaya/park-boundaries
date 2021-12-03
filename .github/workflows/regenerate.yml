@@ -12,8 +12,8 @@ jobs:
       - name: Install dependencies
         run: yarn
 
-      - name: Regenerate tiles
-        run: yarn regenerate
+      - name: Build
+        run: yarn build
 
       - name: Commit built tiles
         run: |-
