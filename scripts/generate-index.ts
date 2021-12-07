@@ -7,7 +7,8 @@ import fs from "fs";
     (parksFeatureCollection) =>
       parksFeatureCollection.features.map((parkFeature) => ({
         name: parkFeature.properties.osm["name"],
-        id: parkFeature.id,
+        wikiId: parkFeature.properties.wiki.wikidataId,
+        osmId: parkFeature.id,
         bbox: turfBbox(parkFeature),
       }))
   );
