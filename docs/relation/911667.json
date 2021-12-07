@@ -7,11 +7,13 @@
       "boundary": "national_park",
       "description": "-",
       "name": "Parque Nacional Natural El Tuparro",
+      "name:en": "El Tuparro National Natural Park",
       "norma_creacion": "AC-27-V77",
       "protect_class": "2",
       "source": "SIGOT DANE UNODC-SIMCI OCHA-COLOMBIA",
       "type": "boundary",
-      "wikidata": "Q925217"
+      "wikidata": "Q925217",
+      "wikipedia": "en:El Tuparro National Natural Park"
     },
     "wiki": {
       "name": "El Tuparro National Natural Park",
