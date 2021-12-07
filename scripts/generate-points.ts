@@ -45,6 +45,7 @@ function getLabelPoint(
         ...parkFeature,
         properties: {
           name: parkFeature.properties.osm["name"],
+          area: parkFeature.properties["area"],
         },
         geometry: getLabelPoint(
           parkFeature as GeoJSON.Feature<GeoJSON.MultiPolygon | GeoJSON.Polygon>

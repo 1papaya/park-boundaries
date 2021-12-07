@@ -2,6 +2,7 @@ import { getWikidataNationalParks, WikiNationalPark } from "../src/wikidata";
 import { overpassJson, OverpassJson } from "overpass-ts";
 import stringify from "json-stringify-pretty-compact";
 import osmtogeojson from "osmtogeojson";
+import turfArea from "@turf/area";
 import fs from "fs";
 
 export const dataDir = "./data";
@@ -36,6 +37,14 @@ export const getParksFeatureCollection = () => {
               type: "Feature",
               id: parseInt(wikiPark.osmRelationId),
               properties: {
+                area:
+                  Math.round(
+                    turfArea({
+                      type: "Feature",
+                      properties: {},
+                      geometry: osmParkFeature.geometry,
+                    }) * 1e-4
+                  ) / 100,
                 osm: osmPark.tags,
                 wiki: wikiPark,
               },
