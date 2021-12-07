@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 404447,
   "properties": {
+    "area": 6778.88,
     "osm": {
       "boundary": "protected_area",
       "name": "Parc national de Kahuzi-Biega",

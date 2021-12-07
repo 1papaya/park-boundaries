@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 7497140,
   "properties": {
+    "area": 1.52,
     "osm": {
       "addr:city": "Singapore",
       "addr:country": "SG",

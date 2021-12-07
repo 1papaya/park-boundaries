@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 8174174,
   "properties": {
+    "area": 137.31,
     "osm": {
       "boundary": "national_park",
       "name": "Haleakalā National Park",

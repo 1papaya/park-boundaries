@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3659089,
   "properties": {
+    "area": 792.05,
     "osm": {
       "boundary": "protected_area",
       "name": "Tongariro National Park",

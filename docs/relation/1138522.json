@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1138522,
   "properties": {
+    "area": 798.35,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Vorpommersche Boddenlandschaft",

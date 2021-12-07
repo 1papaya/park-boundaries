@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 13496982,
   "properties": {
+    "area": 179.62,
     "osm": {
       "WDPA_ID:ref": "336",
       "alt_name": "Parque Nacional La Restinga",

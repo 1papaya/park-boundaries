@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6970225,
   "properties": {
+    "area": 723.53,
     "osm": {
       "alt_name:mk": "Национален парк Кукова Планина",
       "boundary": "protected_area",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6236296,
   "properties": {
+    "area": 1890.02,
     "osm": {
       "DESIGNATOR": "PARCEL 4 ROCKY HARBOUR",
       "PCL_STATE": "OTHER",

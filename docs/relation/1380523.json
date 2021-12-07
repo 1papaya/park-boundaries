@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1380523,
   "properties": {
+    "area": 124.85,
     "osm": {
       "boundary": "protected_area",
       "governance_type": "government_managed",

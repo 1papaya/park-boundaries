@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3164710,
   "properties": {
+    "area": 1434.55,
     "osm": {
       "boundary": "national_park",
       "name": "Parco Nazionale del Gran Sasso e Monti della Laga",

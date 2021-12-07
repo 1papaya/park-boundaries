@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2969425,
   "properties": {
+    "area": 103.88,
     "osm": {
       "alt_name:en": "Mu Ko Ang Thong National Marine Park",
       "boundary": "national_park",

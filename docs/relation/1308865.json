@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1308865,
   "properties": {
+    "area": 425.46,
     "osm": {
       "boundary": "national_park",
       "name": "Parque Nacional Corcovado",

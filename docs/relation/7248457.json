@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 7248457,
   "properties": {
+    "area": 2497.63,
     "osm": {
       "ISO3166-2": "UM-89",
       "boundary": "region",

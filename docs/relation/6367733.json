@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6367733,
   "properties": {
+    "area": 13.64,
     "osm": {
       "boundary": "protected_area",
       "leisure": "park",

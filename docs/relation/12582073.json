@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 12582073,
   "properties": {
+    "area": 245.42,
     "osm": {
       "boundary": "national_park",
       "name": "Parque nacional Cahuita",

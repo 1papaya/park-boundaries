@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3961479,
   "properties": {
+    "area": 262.8,
     "osm": {
       "boundary": "national_park",
       "name": "Mount Revelstoke National Park",

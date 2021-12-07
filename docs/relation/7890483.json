@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 7890483,
   "properties": {
+    "area": 62.78,
     "osm": {
       "alt_name": "Müritz-Nationalpark Teilgebiet Serrahn",
       "boundary": "national_park",

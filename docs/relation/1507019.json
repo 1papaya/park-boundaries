@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1507019,
   "properties": {
+    "area": 2250.47,
     "osm": {
       "attribution": "Queensland Department of National Parks, Sport and Racing",
       "boundary": "protected_area",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3159222,
   "properties": {
+    "area": 741.65,
     "osm": {
       "boundary": "national_park",
       "description:en": "https://en.wikipedia.org/wiki/en:Maiella%20National%20Park?uselang=en",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3618382,
   "properties": {
+    "area": 10567.45,
     "osm": {
       "boundary": "protected_area",
       "layer": "3",

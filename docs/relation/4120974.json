@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 4120974,
   "properties": {
+    "area": 101.8,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Hunsrück-Hochwald",

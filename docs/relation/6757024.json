@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6757024,
   "properties": {
+    "area": 37.14,
     "osm": {
       "boundary": "national_park",
       "name": "Pieninský národný park",

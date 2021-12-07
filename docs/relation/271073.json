@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 271073,
   "properties": {
+    "area": 353.54,
     "osm": {
       "boundary": "national_park",
       "name": "Ytre Hvaler nasjonalpark",

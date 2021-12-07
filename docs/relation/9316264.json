@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 9316264,
   "properties": {
+    "area": 62.67,
     "osm": {
       "boundary": "national_park",
       "name": "Národní park Podyjí",

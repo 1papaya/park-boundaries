@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2745823,
   "properties": {
+    "area": 41.76,
     "osm": {
       "boundary": "national_park",
       "name": "Nationaal Park De Maasduinen",

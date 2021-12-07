@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 300032,
   "properties": {
+    "area": 1307.48,
     "osm": {
       "boundary": "national_park",
       "name": "Parco Nazionale dello Stelvio - Nationalpark Stilfser Joch",

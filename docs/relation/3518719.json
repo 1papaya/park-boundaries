@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3518719,
   "properties": {
+    "area": 113.87,
     "osm": {
       "alt_name:en": "Yangmingshan",
       "boundary": "national_park",

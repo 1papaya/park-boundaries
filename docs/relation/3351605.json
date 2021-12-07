@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3351605,
   "properties": {
+    "area": 2.5,
     "osm": {
       "addr:city": "Aragona",
       "addr:housenumber": "53",

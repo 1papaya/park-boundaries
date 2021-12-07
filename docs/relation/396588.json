@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 396588,
   "properties": {
+    "area": 168.36,
     "osm": {
       "attribution": "US Forest Service",
       "boundary": "protected_area",

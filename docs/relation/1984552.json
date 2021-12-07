@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1984552,
   "properties": {
+    "area": 23.29,
     "osm": {
       "boundary": "national_park",
       "name": "Pieniński Park Narodowy",

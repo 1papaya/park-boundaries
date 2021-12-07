@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1850539,
   "properties": {
+    "area": 15.82,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Estadual Paulo César Vinha",

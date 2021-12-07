@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 252148,
   "properties": {
+    "area": 105.03,
     "osm": {
       "alt_name:cs": "Bělověžský prales",
       "boundary": "national_park",

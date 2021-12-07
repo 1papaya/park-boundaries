@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 183377,
   "properties": {
+    "area": 4876.22,
     "osm": {
       "attribution": "US National Park Service",
       "boundary": "national_park",

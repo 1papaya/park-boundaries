@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 4463692,
   "properties": {
+    "area": 557.87,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Nacional Monte León",

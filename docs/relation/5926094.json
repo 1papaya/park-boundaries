@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 5926094,
   "properties": {
+    "area": 1.86,
     "osm": {
       "leaf_cycle": "deciduous",
       "leaf_type": "needleleaved",

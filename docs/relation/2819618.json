@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2819618,
   "properties": {
+    "area": 1420.28,
     "osm": {
       "alt_name": "Hawaii Volcanoes National Park",
       "boundary": "national_park",

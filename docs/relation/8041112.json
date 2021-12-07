@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 8041112,
   "properties": {
+    "area": 472.16,
     "osm": {
       "alt_name": "Maaduru Oya National Park",
       "boundary": "national_park",

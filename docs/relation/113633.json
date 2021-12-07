@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 113633,
   "properties": {
+    "area": 170.26,
     "osm": {
       "access": "restricted",
       "area": "yes",

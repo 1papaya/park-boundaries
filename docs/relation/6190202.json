@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6190202,
   "properties": {
+    "area": 30.74,
     "osm": {
       "access": "yes",
       "boundary": "protected_area",

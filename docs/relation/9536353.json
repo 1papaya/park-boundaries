@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 9536353,
   "properties": {
+    "area": 30.11,
     "osm": {
       "boundary": "protected_area",
       "gnis:feature_id": "163631",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3397849,
   "properties": {
+    "area": 2212.71,
     "osm": {
       "access": "private",
       "boundary": "hazard",

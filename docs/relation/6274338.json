@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6274338,
   "properties": {
+    "area": 247.64,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Estadual do Jurupará",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1421712,
   "properties": {
+    "area": 8.39,
     "osm": {
       "attribution": "http://www.naturemaps.sa.gov.au",
       "boundary": "protected_area",

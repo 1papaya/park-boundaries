@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2620953,
   "properties": {
+    "area": 1884.39,
     "osm": {
       "alt_name": "Parque Nacional de Los Alerces",
       "boundary": "protected_area",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 919270,
   "properties": {
+    "area": 710.81,
     "osm": {
       "boundary": "national_park",
       "name": "Parco Nazionale Gran Paradiso",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6414018,
   "properties": {
+    "area": 51.91,
     "osm": {
       "boundary": "national_park",
       "name": "Indiana Dunes National Park",

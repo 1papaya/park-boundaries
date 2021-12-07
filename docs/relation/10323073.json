@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 10323073,
   "properties": {
+    "area": 587.11,
     "osm": {
       "boundary": "national_park",
       "name": "Parque Nacional Tapantí - Macizo Cerro de la Muerte",

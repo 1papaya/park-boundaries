@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 13235948,
   "properties": {
+    "area": 284.79,
     "osm": {
       "boundary": "protected_area",
       "name": "Theodore Roosevelt National Park",

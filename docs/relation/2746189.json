@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2746189,
   "properties": {
+    "area": 105.33,
     "osm": {
       "alt_name": "Nationaal beek- en esdorpenlandschap Drentsche Aa",
       "boundary": "national_park",

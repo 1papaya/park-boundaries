@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2691138,
   "properties": {
+    "area": 410.71,
     "osm": {
       "leisure": "nature_reserve",
       "name": "Parque Natural de Corona Forestal",

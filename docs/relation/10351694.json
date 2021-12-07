@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 10351694,
   "properties": {
+    "area": 24.32,
     "osm": {
       "boundary": "national_park",
       "name": "Prince Edward Island National Park",

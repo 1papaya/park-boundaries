@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2746127,
   "properties": {
+    "area": 37.6,
     "osm": {
       "boundary": "national_park",
       "name": "Nationaal Park Dwingelderveld",

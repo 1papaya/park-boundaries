@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 4554689,
   "properties": {
+    "area": 30.16,
     "osm": {
       "alt_name": "Reserva Biológica de Duas Bocas",
       "boundary": "protected_area",

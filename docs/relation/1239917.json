@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1239917,
   "properties": {
+    "area": 5,
     "osm": {
       "alt_name": "Botany Bay National Park",
       "boundary": "national_park",

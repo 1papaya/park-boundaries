@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 5441762,
   "properties": {
+    "area": 842.89,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Estadual da Serra do Tabuleiro",

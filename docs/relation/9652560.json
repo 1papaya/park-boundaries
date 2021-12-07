@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 9652560,
   "properties": {
+    "area": 51.42,
     "osm": {
       "boundary": "national_park",
       "leisure": "nature_reserve",

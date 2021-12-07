@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 10076228,
   "properties": {
+    "area": 5.34,
     "osm": {
       "leisure": "nature_reserve",
       "name": "Mundy Regional Park",

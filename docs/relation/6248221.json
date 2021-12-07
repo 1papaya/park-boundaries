@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6248221,
   "properties": {
+    "area": 97.44,
     "osm": {
       "boundary": "national_park",
       "name": "Poleski Park Narodowy",

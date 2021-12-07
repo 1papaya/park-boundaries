@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 7224395,
   "properties": {
+    "area": 15.69,
     "osm": {
       "governance_type": "Länsstyrelse",
       "leisure": "nature_reserve",

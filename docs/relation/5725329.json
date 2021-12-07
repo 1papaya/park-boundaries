@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 5725329,
   "properties": {
+    "area": 23.22,
     "osm": {
       "addr:postcode": "60110",
       "admin_level": "8",

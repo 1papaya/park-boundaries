@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3213872,
   "properties": {
+    "area": 699.07,
     "osm": {
       "boundary": "protected_area",
       "description": "Esta conformada por areas con diferente grado de protección. Una Reserva Natural Estricta que es zona intangible y solo se permite el acceso con fines de investigación y un area con protección de Parque Nacional de acceso limitado al publico",

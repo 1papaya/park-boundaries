@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2196323,
   "properties": {
+    "area": 13.89,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Thayatal",

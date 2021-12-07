@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2383411,
   "properties": {
+    "area": 696.45,
     "osm": {
       "WDPA_ID:ref": "860",
       "alt_name": "Peneda-Gerês",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 5122781,
   "properties": {
+    "area": 843.27,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Provincial Urugua-í",

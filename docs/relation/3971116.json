@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3971116,
   "properties": {
+    "area": 3.55,
     "osm": {
       "alt_name": "Reserva Ecológica Estadual de Jacarenema",
       "boundary": "protected_area",

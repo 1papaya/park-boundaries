@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3523197,
   "properties": {
+    "area": 30.68,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Nacional Campos del Tuyú",

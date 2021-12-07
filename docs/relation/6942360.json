@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6942360,
   "properties": {
+    "area": 601.4,
     "osm": {
       "boundary": "protected_area",
       "fixme": "Ajustar traçado entre os nodes com tag decreto:ponto",

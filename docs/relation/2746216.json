@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2746216,
   "properties": {
+    "area": 35.58,
     "osm": {
       "boundary": "national_park",
       "name": "Nationaal Park Zuid-Kennemerland",

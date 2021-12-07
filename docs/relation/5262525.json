@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 5262525,
   "properties": {
+    "area": 96.35,
     "osm": {
       "boundary": "protected_area",
       "name": "Southern Nantahala Wilderness",

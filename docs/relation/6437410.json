@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6437410,
   "properties": {
+    "area": 0.4,
     "osm": {
       "boundary": "protected_area",
       "loc_name": "Parque da Guarita",

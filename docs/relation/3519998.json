@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3519998,
   "properties": {
+    "area": 512.93,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Nacional Iguazú",

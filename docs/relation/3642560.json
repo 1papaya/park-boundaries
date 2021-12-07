@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3642560,
   "properties": {
+    "area": 4906.86,
     "osm": {
       "alt_name:en": "Glaciers National Park",
       "boundary": "protected_area",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1582395,
   "properties": {
+    "area": 773.41,
     "osm": {
       "boundary": "national_park",
       "name": "Parco Nazionale dell'Arcipelago Toscano",

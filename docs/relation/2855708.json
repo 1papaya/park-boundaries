@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2855708,
   "properties": {
+    "area": 1450.05,
     "osm": {
       "boundary": "national_park",
       "is_in": "Northern Cape, South Africa",

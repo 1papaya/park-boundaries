@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 7893034,
   "properties": {
+    "area": 1591.22,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Estadual Serra de Ricardo Franco",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2868142,
   "properties": {
+    "area": 840.42,
     "osm": {
       "boundary": "national_park",
       "email": "dom-tnp.trenta@tnp.gov.si",

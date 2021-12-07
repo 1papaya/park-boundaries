@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1124867,
   "properties": {
+    "area": 129.34,
     "osm": {
       "IPP:ATOLEGAL": "LE 2377",
       "IPP:CATEGORIA": "Parque",

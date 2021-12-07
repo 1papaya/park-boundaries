@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3094866,
   "properties": {
+    "area": 1329.23,
     "osm": {
       "boundary": "national_park",
       "name": "Национальный парк «Самарская Лука»",

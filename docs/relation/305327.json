@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 305327,
   "properties": {
+    "area": 3.41,
     "osm": {
       "leisure": "nature_reserve",
       "lst:anmärkning": "Justering gränser 2008-08-06/A-KL",

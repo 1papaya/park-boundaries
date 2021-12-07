@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 5242502,
   "properties": {
+    "area": 55.79,
     "osm": {
       "boundary": "protected_area",
       "name": "Reserva Biológica de Santa Isabel",

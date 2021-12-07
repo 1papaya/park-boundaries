@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 12582065,
   "properties": {
+    "area": 256.22,
     "osm": {
       "boundary": "national_park",
       "fax": "2686-4969",

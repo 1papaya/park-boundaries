@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2197993,
   "properties": {
+    "area": 91.38,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Neusiedler See - Seewinkel",

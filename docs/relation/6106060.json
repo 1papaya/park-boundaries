@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6106060,
   "properties": {
+    "area": 10.95,
     "osm": {"name": "Brämön", "place": "island", "type": "multipolygon"},
     "wiki": {
       "name": "Brämön",

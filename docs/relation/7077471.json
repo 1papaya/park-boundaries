@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 7077471,
   "properties": {
+    "area": 66.93,
     "osm": {
       "boundary": "protected_area",
       "description": "Unidade de Conservação Estadual",

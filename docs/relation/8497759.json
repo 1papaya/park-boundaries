@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 8497759,
   "properties": {
+    "area": 245.51,
     "osm": {
       "boundary": "protected_area",
       "name": "Abel Tasman National Park",

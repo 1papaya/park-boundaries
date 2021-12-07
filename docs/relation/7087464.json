@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 7087464,
   "properties": {
+    "area": 45402.54,
     "osm": {
       "attribution": "Natural Resources Canada",
       "boundary": "national_park",

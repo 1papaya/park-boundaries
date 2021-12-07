@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1024513,
   "properties": {
+    "area": 457.15,
     "osm": {
       "boundary": "national_park",
       "dog": "no",

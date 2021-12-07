@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1464358,
   "properties": {
+    "area": 3.16,
     "osm": {
       "alt_name": "Långviksträsks naturreservat",
       "boundary": "protected_area",

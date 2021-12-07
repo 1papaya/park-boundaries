@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 5912382,
   "properties": {
+    "area": 8.47,
     "osm": {
       "leisure": "nature_reserve",
       "name": "Parque Estadual Lago Azul",

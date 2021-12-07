@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 8623692,
   "properties": {
+    "area": 17.39,
     "osm": {
       "WDPA_ID:ref": "12494",
       "boundary": "protected_area",

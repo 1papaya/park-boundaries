@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6572144,
   "properties": {
+    "area": 217.2,
     "osm": {
       "boundary": "protected_area",
       "image": "http://static.panoramio.com/photos/original/59243532.jpg",

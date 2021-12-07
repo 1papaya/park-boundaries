@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1969016,
   "properties": {
+    "area": 7466.93,
     "osm": {
       "alt_name:pl": "Jezioro Turkana",
       "is_in:country": "Kenya",

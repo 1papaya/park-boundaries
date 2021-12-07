@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 10304087,
   "properties": {
+    "area": 566.5,
     "osm": {
       "boundary": "protected_area",
       "fixme": "Limite à mettre  à jour , voir \nhttps://trouver.ternum-bfc.fr/dataset/2d9872ee-ccc8-4a69-8721-8d01ffe6f461",

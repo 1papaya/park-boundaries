@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 9740757,
   "properties": {
+    "area": 0.34,
     "osm": {
       "leisure": "nature_reserve",
       "lst:ajour": "2008-02-06",

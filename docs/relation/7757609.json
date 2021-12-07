@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 7757609,
   "properties": {
+    "area": 117.46,
     "osm": {
       "alt_name": "Cagar Alam Kepulauan Krakatau",
       "boundary": "protected_area",

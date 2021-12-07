@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 10740421,
   "properties": {
+    "area": 64.88,
     "osm": {
       "boundary": "national_park",
       "name": "Taman Nasional Gunung Merapi",

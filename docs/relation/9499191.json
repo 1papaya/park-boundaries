@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 9499191,
   "properties": {
+    "area": 122,
     "osm": {
       "boundary": "national_park",
       "communication:amateur_radio:pota": "YT-0003",

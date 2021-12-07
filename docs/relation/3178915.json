@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3178915,
   "properties": {
+    "area": 292.59,
     "osm": {
       "boundary": "national_park",
       "name": "New River Gorge National Park and Preserve",

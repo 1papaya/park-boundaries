@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 13498156,
   "properties": {
+    "area": 69.23,
     "osm": {
       "WDPA_ID:ref": "338",
       "alt_name": "Parque Nacional Jóvito Villalba",

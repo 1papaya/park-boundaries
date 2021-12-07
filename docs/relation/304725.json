@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 304725,
   "properties": {
+    "area": 104.43,
     "osm": {
       "boundary": "national_park",
       "name": "Färnebofjärden",

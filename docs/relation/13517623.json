@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 13517623,
   "properties": {
+    "area": 2340.2,
     "osm": {
       "boundary": "national_park",
       "name": "Parque Nacional Jaua-Sarisariñama",

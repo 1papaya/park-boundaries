@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 10133173,
   "properties": {
+    "area": 0.61,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Natural Municipal Morro da Pescaria",

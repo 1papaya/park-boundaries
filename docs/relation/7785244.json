@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 7785244,
   "properties": {
+    "area": 75.12,
     "osm": {
       "boundary": "protected_area",
       "leisure": "nature_reserve",

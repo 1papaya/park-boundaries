@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 9561308,
   "properties": {
+    "area": 22046.32,
     "osm": {
       "admin_level": "6",
       "attribution": "Natural Resources Canada",

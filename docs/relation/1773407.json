@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1773407,
   "properties": {
+    "area": 93.46,
     "osm": {
       "alt_name": "Nationalpark Donau-Auen",
       "boundary": "national_park",

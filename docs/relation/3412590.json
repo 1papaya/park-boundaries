@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3412590,
   "properties": {
+    "area": 100.08,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Schwarzwald",

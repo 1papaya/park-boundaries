@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 9465507,
   "properties": {
+    "area": 0.16,
     "osm": {
       "boundary": "protected_area",
       "fixme": "geometry rough approximation from signage",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 215294,
   "properties": {
+    "area": 106.43,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Unteres Odertal",

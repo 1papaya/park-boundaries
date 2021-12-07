@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 300401,
   "properties": {
+    "area": 858,
     "osm": {
       "leisure": "nature_reserve",
       "lst:area_ha": "86173",

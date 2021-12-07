@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 400011,
   "properties": {
+    "area": 18.31,
     "osm": {
       "boundary": "national_park",
       "name": "Paraje y Reserva Natural  de Punta Entinas-Sabinar",

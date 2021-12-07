@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 10130618,
   "properties": {
+    "area": 9.02,
     "osm": {
       "description": "MARINE RESERVE. All marine life and habitats totally protected. No fishing, netting, taking or killing of marine life. Contact Department of Conservation for further information.",
       "leisure": "nature_reserve",

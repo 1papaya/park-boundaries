@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3530422,
   "properties": {
+    "area": 82.48,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Nacional El Palmar",

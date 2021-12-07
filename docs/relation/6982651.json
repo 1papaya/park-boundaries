@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6982651,
   "properties": {
+    "area": 4551.1,
     "osm": {
       "boundary": "national_park",
       "name": "Kahurangi National Park",

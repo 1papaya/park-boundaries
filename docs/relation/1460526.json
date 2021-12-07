@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1460526,
   "properties": {
+    "area": 1.18,
     "osm": {
       "leisure": "nature_reserve",
       "lst:anmärkning": "11. Myllrande våtmarker, 16. Ett rikt växt- och djurliv, 13. Ett rikt odlingslandskap",

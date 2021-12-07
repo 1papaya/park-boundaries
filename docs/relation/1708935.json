@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1708935,
   "properties": {
+    "area": 1085.24,
     "osm": {
       "boundary": "protected_area",
       "name": "Akagera National Park",

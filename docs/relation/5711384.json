@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 5711384,
   "properties": {
+    "area": 223.57,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Estadual Nascentes do Paranapanema",

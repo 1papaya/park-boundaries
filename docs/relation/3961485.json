@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3961485,
   "properties": {
+    "area": 1351.8,
     "osm": {
       "boundary": "national_park",
       "name": "Glacier National Park",

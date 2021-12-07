@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6072287,
   "properties": {
+    "area": 2483.57,
     "osm": {
       "admin_level": "10",
       "boundary": "administrative",

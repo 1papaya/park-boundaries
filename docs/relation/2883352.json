@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2883352,
   "properties": {
+    "area": 8.56,
     "osm": {
       "boundary": "protected_area",
       "description": "TAPUTERANGA MARINE RESERVE. The disturbance of any species or the collection of any specimen is prohibited in the Marine Reserve. Contact the Department of Conservation for further information.",

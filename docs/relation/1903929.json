@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1903929,
   "properties": {
+    "area": 79.62,
     "osm": {
       "alt_name:es": "Parque nacional de la Suiza checa",
       "boundary": "protected_area",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6175700,
   "properties": {
+    "area": 23243.22,
     "osm": {
       "WDPA_ID:ref": "4162",
       "boundary": "national_park",

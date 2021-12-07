@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2345991,
   "properties": {
+    "area": 108.75,
     "osm": {
       "boundary": "national_park",
       "contact:website": "http://nsg.naturschutzinformationen.nrw.de/nsg/de/fachinfo/gebiete/gesamt/NP-5304-001",

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 90584,
   "properties": {
+    "area": 246.41,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Harz",

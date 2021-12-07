@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1999909,
   "properties": {
+    "area": 0.62,
     "osm": {
       "alt_name": "Wolf Trap",
       "boundary": "national_park",

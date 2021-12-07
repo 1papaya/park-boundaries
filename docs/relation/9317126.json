@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 9317126,
   "properties": {
+    "area": 3.76,
     "osm": {
       "WDPA_ID:ref": "555545815",
       "alt_name": "Garajau",

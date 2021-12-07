@@ -2,10 +2,12 @@
   "type": "Feature",
   "id": 6014846,
   "properties": {
+    "area": 139.93,
     "osm": {
       "boundary": "national_park",
       "leisure": "nature_reserve",
       "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
+      "name:ca": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
       "name:es": "Parque Nacional de Aiguas Tortas y Lago de San Mauricio",
       "protect_class": "2",
       "type": "boundary",

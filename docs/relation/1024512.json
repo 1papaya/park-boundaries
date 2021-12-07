@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1024512,
   "properties": {
+    "area": 938.58,
     "osm": {
       "alt_name:cs": "Národní park Cévennes",
       "boundary": "national_park",

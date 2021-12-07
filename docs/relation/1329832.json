@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1329832,
   "properties": {
+    "area": 59.25,
     "osm": {
       "boundary": "national_park",
       "name": "Karkonoski Park Narodowy",

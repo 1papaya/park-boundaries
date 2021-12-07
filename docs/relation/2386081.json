@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2386081,
   "properties": {
+    "area": 19223.27,
     "osm": {
       "boundary": "protected_area",
       "environment_gov_au:PLACE_ID": "105041",

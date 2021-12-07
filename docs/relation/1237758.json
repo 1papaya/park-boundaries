@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1237758,
   "properties": {
+    "area": 4361.02,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Schleswig-Holsteinisches Wattenmeer",

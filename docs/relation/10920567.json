@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 10920567,
   "properties": {
+    "area": 621.88,
     "osm": {
       "boundary": "national_park",
       "name": "อุทยานแห่งชาติตาพระยา",

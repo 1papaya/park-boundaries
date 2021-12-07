@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 9201857,
   "properties": {
+    "area": 2.04,
     "osm": {
       "landuse": "recreation_ground",
       "leisure": "nature_reserve",

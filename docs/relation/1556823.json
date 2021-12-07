@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1556823,
   "properties": {
+    "area": 553.36,
     "osm": {
       "boundary": "national_park",
       "name": "Rohkunborri nasjonalpark",

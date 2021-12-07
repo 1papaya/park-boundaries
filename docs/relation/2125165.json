@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2125165,
   "properties": {
+    "area": 84.48,
     "osm": {
       "SITE_CODE": "856",
       "area:size:ha": "8481.76",

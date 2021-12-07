@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6921728,
   "properties": {
+    "area": 4.48,
     "osm": {
       "GNS:id": "-1404968",
       "admin_level": "6",

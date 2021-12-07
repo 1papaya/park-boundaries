@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 8135128,
   "properties": {
+    "area": 2964.58,
     "osm": {
       "boundary": "protected_area",
       "iucn_level": "II",

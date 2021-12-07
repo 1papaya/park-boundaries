@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 10907997,
   "properties": {
+    "area": 33.29,
     "osm": {
       "boundary": "national_park",
       "name": "Babiogórski Park Narodowy",

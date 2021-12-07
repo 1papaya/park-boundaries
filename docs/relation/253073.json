@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 253073,
   "properties": {
+    "area": 32.58,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Jasmund",

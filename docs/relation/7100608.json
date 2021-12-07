@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 7100608,
   "properties": {
+    "area": 0.77,
     "osm": {
       "name": "Horto Florestal",
       "natural": "wood",

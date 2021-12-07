@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6503266,
   "properties": {
+    "area": 792.13,
     "osm": {
       "alt_name": "HNP Egyek - Pusztakócs",
       "boundary": "national_park",

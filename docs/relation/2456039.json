@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2456039,
   "properties": {
+    "area": 16.11,
     "osm": {
       "name": "Serra da Tiririca",
       "natural": "wood",

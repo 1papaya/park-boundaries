@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 157811,
   "properties": {
+    "area": 3448.62,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Niedersächsisches Wattenmeer",

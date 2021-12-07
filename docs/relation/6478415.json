@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6478415,
   "properties": {
+    "area": 0.03,
     "osm": {
       "leisure": "nature_reserve",
       "name": "Riserva Naturale Integrale Isola Lachea e Faraglioni dei Ciclopi",

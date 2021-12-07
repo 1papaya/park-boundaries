@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 4577545,
   "properties": {
+    "area": 10.77,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Estadual de Caxambu",

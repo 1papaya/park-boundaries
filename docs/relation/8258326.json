@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 8258326,
   "properties": {
+    "area": 31.65,
     "osm": {
       "boundary": "protected_area",
       "name": "Parque Estadual Campina do Encantado",

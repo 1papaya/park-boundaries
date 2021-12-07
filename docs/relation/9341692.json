@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 9341692,
   "properties": {
+    "area": 94.69,
     "osm": {
       "WDPA_ID:ref": "32568",
       "alt_name": "Ilhas Selvagens",

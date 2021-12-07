@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 3009056,
   "properties": {
+    "area": 11.09,
     "osm": {
       "name": "Marismas de Isla Cristina",
       "natural": "wetland",

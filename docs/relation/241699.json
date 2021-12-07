@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 241699,
   "properties": {
+    "area": 161.18,
     "osm": {
       "boundary": "national_park",
       "name": "Rago nasjonalpark",

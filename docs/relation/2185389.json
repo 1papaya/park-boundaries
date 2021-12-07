@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 2185389,
   "properties": {
+    "area": 69.58,
     "osm": {
       "leaf_cycle": "evergreen",
       "name": "Floresta da Tijuca",

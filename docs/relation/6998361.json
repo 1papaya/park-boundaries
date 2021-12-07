@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 6998361,
   "properties": {
+    "area": 12737.5,
     "osm": {
       "boundary": "protected_area",
       "name": "Fiordland National Park",

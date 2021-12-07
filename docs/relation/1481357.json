@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1481357,
   "properties": {
+    "area": 65.77,
     "osm": {
       "attribution": "Queensland Department of Environment and Science",
       "boundary": "protected_area",

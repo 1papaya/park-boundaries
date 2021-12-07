@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": 1643367,
   "properties": {
+    "area": 3029.51,
     "osm": {
       "addr:city": "Yosemite National Park",
       "addr:housenumber": "PO box 577",
