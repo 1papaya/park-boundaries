@@ -19,7 +19,7 @@
       "name": "Sierra Nevada National and Natural Park",
       "wikidataId": "Q1969050",
       "osmRelationId": "4829086",
-      "country": "Spain",
+      "country": "ESP",
       "wikipedia": "Sierra_Nevada_National_Park_(Spain)"
     }
   },
@@ -1245,6 +1245,7 @@
         [-3.4765161, 37.0001393],
         [-3.4793383, 36.9981416],
         [-3.4814273, 36.9946446],
+        [-3.482485, 36.9941752],
         [-3.4840718, 36.9934661],
         [-3.4848906, 36.9922035],
         [-3.4858689, 36.9917465],

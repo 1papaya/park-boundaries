@@ -22,7 +22,7 @@
       "name": "Abruzzo, Lazio and Molise National Park",
       "wikidataId": "Q1438999",
       "osmRelationId": "8426003",
-      "country": "Italy",
+      "country": "ITA",
       "wikipedia": "Abruzzo,_Lazio_and_Molise_National_Park"
     }
   },
@@ -281,6 +281,7 @@
         [13.7469432, 41.9944736],
         [13.7404855, 42.0006647],
         [13.7223721, 42.0009299],
+        [13.7210398, 41.9987746],
         [13.7200692, 41.9972045],
         [13.6942907, 41.9970825],
         [13.6862168, 41.999485],

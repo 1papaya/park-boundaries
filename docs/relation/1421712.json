@@ -12,13 +12,14 @@
       "protect_class": "2",
       "ref:capad:pa_id": "SA_0248",
       "ref:dew:park_id": "248",
-      "type": "boundary"
+      "type": "boundary",
+      "wikidata": "Q643818"
     },
     "wiki": {
       "name": "Belair National Park",
       "wikidataId": "Q643818",
       "osmRelationId": "1421712",
-      "country": "Australia",
+      "country": "AUS",
       "wikipedia": "Belair_National_Park"
     }
   },

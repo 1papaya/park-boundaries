@@ -12,7 +12,7 @@
       "name": "Mistaken Point Ecological Reserve",
       "wikidataId": "Q3301928",
       "osmRelationId": "2053964",
-      "country": "Canada",
+      "country": "CAN",
       "wikipedia": "Mistaken_Point_Ecological_Reserve"
     }
   },
@@ -88,6 +88,7 @@
         [-53.2603547, 46.686782],
         [-53.2604819, 46.6866245],
         [-53.2605958, 46.6863475],
+        [-53.2608531, 46.6855746],
         [-53.2608727, 46.6855158],
         [-53.2608706, 46.6852111],
         [-53.2607981, 46.6850714],
