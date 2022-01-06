@@ -22,13 +22,14 @@
       "ref:paoq:sysintcode": "0007LAM001",
       "source": "CAPAD 2016 - Terrestrial",
       "start_date": "2004-12-03",
-      "type": "boundary"
+      "type": "boundary",
+      "wikidata": "Q751274"
     },
     "wiki": {
       "name": "Lamington National Park",
       "wikidataId": "Q751274",
       "osmRelationId": "306382",
-      "country": "Australia",
+      "country": "AUS",
       "wikipedia": "Lamington_National_Park"
     }
   },

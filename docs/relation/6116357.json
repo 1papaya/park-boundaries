@@ -7,6 +7,7 @@
       "boundary": "protected_area",
       "leisure": "nature_reserve",
       "name": "Mount Baker Wilderness",
+      "natural": "wood",
       "operator": "US Forest Service",
       "ownership": "national",
       "protect_class": "1b",
@@ -18,7 +19,7 @@
       "name": "Mount Baker Wilderness",
       "wikidataId": "Q3326014",
       "osmRelationId": "6116357",
-      "country": "United States of America",
+      "country": "USA",
       "wikipedia": "Mount_Baker_Wilderness"
     }
   },

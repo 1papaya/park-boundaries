@@ -13,7 +13,7 @@
       "name": "Dwingelderveld National Park",
       "wikidataId": "Q1651303",
       "osmRelationId": "2746127",
-      "country": "Netherlands",
+      "country": "NLD",
       "wikipedia": "Dwingelderveld_National_Park"
     }
   },
@@ -1146,9 +1146,6 @@
         [6.4212732, 52.7810246],
         [6.4213879, 52.7810382]
       ]
-    ]
-  }
-}  ]
     ]
   }
 }

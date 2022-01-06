@@ -6,10 +6,10 @@
     "osm": {
       "boundary": "national_park",
       "leisure": "nature_reserve",
-      "name": "Dilek Yarımadası Milli Parkı",
+      "name": "Dilek Yarımadası Millî Parkı",
       "name:de": "Nationalpark Dilek-Halbinsel",
       "name:en": "Dilek Peninsula National Park",
-      "name:tr": "Dilek Yarımadası Milli Parkı",
+      "name:tr": "Dilek Yarımadası Millî Parkı",
       "type": "multipolygon",
       "wikidata": "Q20650897",
       "wikipedia": "tr:Dilek Yarımadası-Büyük Menderes Deltası Millî Parkı"
@@ -18,7 +18,7 @@
       "name": "Dilek Peninsula-Büyük Menderes Delta National Park",
       "wikidataId": "Q20650897",
       "osmRelationId": "1197579",
-      "country": "Turkey",
+      "country": "TUR",
       "wikipedia": "Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park"
     }
   },
@@ -42,7 +42,6 @@
         [27.2308699, 37.5704978],
         [27.2286168, 37.5777234],
         [27.2274089, 37.5816173],
-        [27.2272977, 37.5819829],
         [27.2265065, 37.5845828],
         [27.2246718, 37.5904368],
         [27.2231568, 37.5952707],

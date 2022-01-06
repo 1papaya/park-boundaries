@@ -17,13 +17,14 @@
       "ref:capad:pa_id": "071",
       "ref:dew:park_id": "355",
       "source": "SA Conservation Reserve Boundaries",
-      "type": "boundary"
+      "type": "boundary",
+      "wikidata": "Q21930528"
     },
     "wiki": {
       "name": "Great Australian Bight Marine National Park",
       "wikidataId": "Q21930528",
       "osmRelationId": "540817",
-      "country": "Australia",
+      "country": "AUS",
       "wikipedia": "Great_Australian_Bight_Marine_National_Park"
     }
   },

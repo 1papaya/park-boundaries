@@ -28,7 +28,7 @@
       "name": "Sydney Harbour National Park",
       "wikidataId": "Q746452",
       "osmRelationId": "296933",
-      "country": "Australia",
+      "country": "AUS",
       "wikipedia": "Sydney_Harbour_National_Park"
     }
   },
@@ -457,6 +457,7 @@
           [151.301088, -33.81134],
           [151.300984, -33.811879],
           [151.301164, -33.811918],
+          [151.3016248, -33.8136117],
           [151.301995, -33.814972],
           [151.299887, -33.817537],
           [151.29928, -33.818444],

@@ -21,7 +21,7 @@
       "name": "Uzhanskyi National Nature Park",
       "wikidataId": "Q4469611",
       "osmRelationId": "6446164",
-      "country": "Ukraine",
+      "country": "UKR",
       "wikipedia": "Uzhanskyi_National_Nature_Park"
     }
   },
@@ -863,6 +863,7 @@
           [22.8617206, 49.0024124],
           [22.8606895, 49.0022292],
           [22.8596669, 49.0020468],
+          [22.859469, 49.0020679],
           [22.8588187, 49.0021372],
           [22.8575304, 49.0022744],
           [22.8563492, 49.0024014],
