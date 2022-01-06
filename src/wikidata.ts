@@ -25,9 +25,11 @@ SERVICE wikibase:label {
 
 OPTIONAL {
   ?park wdt:P17 ?country_ .
+  ?country_ wdt:P298 ?countryCode_ .
+  
   SERVICE wikibase:label {
       bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" .
-      ?country_ rdfs:label ?country .
+      ?countryCode_ rdfs:label ?country .
     }
 }
 
