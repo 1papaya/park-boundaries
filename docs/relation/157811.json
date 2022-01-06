@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 157811,
   "properties": {
-    "area": 3448.62,
+    "area": 3448.56,
     "osm": {
       "boundary": "national_park",
       "name": "Nationalpark Niedersächsisches Wattenmeer",
@@ -19,7 +19,7 @@
       "name": "Lower Saxon Wadden Sea National Park",
       "wikidataId": "Q661217",
       "osmRelationId": "157811",
-      "country": "Germany",
+      "country": "DEU",
       "wikipedia": "Lower_Saxon_Wadden_Sea_National_Park"
     }
   },
@@ -1988,7 +1988,7 @@
           [8.076389, 53.664167],
           [8.046944, 53.698333],
           [8.041944, 53.716389],
-          [8.093056, 53.728611],
+          [8.0932269, 53.7287029],
           [8.150833, 53.670278],
           [8.196944, 53.554722],
           [8.226667, 53.520278],

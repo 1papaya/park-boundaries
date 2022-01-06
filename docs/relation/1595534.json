@@ -23,7 +23,7 @@
       "name": "Saxon Switzerland National Park",
       "wikidataId": "Q702566",
       "osmRelationId": "1595534",
-      "country": "Germany",
+      "country": "DEU",
       "wikipedia": "Saxon_Switzerland_National_Park"
     }
   },
@@ -1242,6 +1242,7 @@
           [14.3821684, 50.9400536],
           [14.3818239, 50.9400832],
           [14.381403, 50.9400974],
+          [14.3813638, 50.9400824],
           [14.3812924, 50.9400551],
           [14.3810202, 50.9399505],
           [14.3807899, 50.9398699],

@@ -9,6 +9,7 @@
       "gnis:feature_id": "1529458",
       "leisure": "nature_reserve",
       "name": "Mount Skokomish Wilderness",
+      "natural": "wood",
       "operator": "US Forest Service",
       "ownership": "national",
       "protect_class": "1b",
@@ -21,7 +22,7 @@
       "name": "Mount Skokomish Wilderness",
       "wikidataId": "Q6923714",
       "osmRelationId": "6122367",
-      "country": "United States of America",
+      "country": "USA",
       "wikipedia": "Mount_Skokomish_Wilderness"
     }
   },

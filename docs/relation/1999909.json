@@ -12,7 +12,13 @@
       "gnis:feature_id": "1888974",
       "gnis:state_id": "51",
       "name": "Wolf Trap National Park for the Performing Arts",
-      "operator": "United States National Park Service",
+      "operator": "National Park Service",
+      "operator:short": "NPS",
+      "operator:type": "public",
+      "operator:wikidata": "Q308439",
+      "operator:wikipedia": "en:National Park Service",
+      "ownership": "national",
+      "protected": "perpetuity",
       "type": "multipolygon",
       "website": "http://www.nps.gov/wotr/",
       "wikidata": "Q3569664",
@@ -22,7 +28,7 @@
       "name": "Wolf Trap National Park for the Performing Arts",
       "wikidataId": "Q3569664",
       "osmRelationId": "1999909",
-      "country": "United States of America",
+      "country": "USA",
       "wikipedia": "Wolf_Trap_National_Park_for_the_Performing_Arts"
     }
   },

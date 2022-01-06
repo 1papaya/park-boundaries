@@ -13,7 +13,11 @@
       "leisure": "nature_reserve",
       "name": "Zion National Park",
       "name:s-pai": "Mukuntuweap",
-      "operator": "United States National Park Service",
+      "operator": "National Park Service",
+      "operator:short": "NPS",
+      "operator:type": "public",
+      "operator:wikidata": "Q308439",
+      "operator:wikipedia": "en:National Park Service",
       "ownership": "national",
       "protect_class": "2",
       "protected": "perpetuity",
@@ -26,7 +30,7 @@
       "name": "Zion National Park",
       "wikidataId": "Q205325",
       "osmRelationId": "5758583",
-      "country": "United States of America",
+      "country": "USA",
       "wikipedia": "Zion_National_Park"
     }
   },

@@ -16,7 +16,7 @@
       "name": "Nationaal beek- en esdorpenlandschap Drentsche Aa",
       "wikidataId": "Q1702806",
       "osmRelationId": "2746189",
-      "country": "Netherlands",
+      "country": "NLD",
       "wikipedia": "Drentsche_Aa_National_Park"
     }
   },
@@ -430,9 +430,6 @@
         [6.5962819, 53.0090018],
         [6.5877627, 53.0053462]
       ]
-    ]
-  }
-}  ]
     ]
   }
 }

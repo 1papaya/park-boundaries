@@ -7,6 +7,7 @@
       "boundary": "protected_area",
       "leisure": "nature_reserve",
       "name": "Pasayten Wilderness",
+      "natural": "wood",
       "operator": "US Forest Service",
       "ownership": "national",
       "protect_class": "1b",
@@ -19,7 +20,7 @@
       "name": "Pasayten Wilderness",
       "wikidataId": "Q3367227",
       "osmRelationId": "6116548",
-      "country": "United States of America",
+      "country": "USA",
       "wikipedia": "Pasayten_Wilderness"
     }
   },

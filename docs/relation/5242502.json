@@ -6,6 +6,7 @@
     "osm": {
       "boundary": "protected_area",
       "name": "Reserva Biológica de Santa Isabel",
+      "name:en": "Santa Isabel Biological Reserve",
       "operator": "Instituto Chico Mendes de Conservação da Biodiversidade",
       "protect_class": "1",
       "protection_title": "reserva biológica",
@@ -13,13 +14,14 @@
       "related_law": "DEC 96.999 de 20/10/1988",
       "start_date": "1988",
       "type": "multipolygon",
-      "wikidata": "Q7419619"
+      "wikidata": "Q7419619",
+      "wikipedia": "en:Santa Isabel Biological Reserve"
     },
     "wiki": {
       "name": "Santa Isabel Biological Reserve",
       "wikidataId": "Q7419619",
       "osmRelationId": "5242502",
-      "country": "Brazil",
+      "country": "BRA",
       "wikipedia": "Santa_Isabel_Biological_Reserve"
     }
   },
