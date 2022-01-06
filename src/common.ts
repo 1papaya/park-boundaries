@@ -3,10 +3,13 @@ import { overpassJson, OverpassJson } from "overpass-ts";
 import stringify from "json-stringify-pretty-compact";
 import osmtogeojson from "osmtogeojson";
 import turfArea from "@turf/area";
+import urlSlug from "url-slug";
 import fs from "fs";
 
 export const dataDir = "./data";
 export const outDir = "./docs";
+
+export const slugify = (str: string) => urlSlug(str);
 
 export const getParksFeatureCollection = () => {
   return fromCache("feature-collection", async () => {
@@ -33,6 +36,7 @@ export const getParksFeatureCollection = () => {
 
             const osmParkFeature = osmtogeojson({ elements: [osmPark] })
               .features[0];
+
             return {
               type: "Feature",
               id: parseInt(wikiPark.osmRelationId),
