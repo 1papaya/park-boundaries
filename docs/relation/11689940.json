@@ -9,7 +9,8 @@
       "name": "Kalbarri National Park",
       "ref:psma:loc_pid": "WA1947",
       "source": "PSMA_Admin_Boundaries",
-      "type": "boundary"
+      "type": "boundary",
+      "wikidata": "Q1722083"
     },
     "wiki": {
       "name": "Kalbarri National Park",
