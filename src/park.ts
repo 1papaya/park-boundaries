@@ -5,6 +5,7 @@ import osmtogeojson from "osmtogeojson";
 import turfArea from "@turf/area";
 import turfBbox from "@turf/bbox";
 import { slugify } from "./common";
+import { rawListeners } from "process";
 
 export interface ParkData {
   wiki: WikiNationalPark;
@@ -40,7 +41,7 @@ export class Park {
   }
 
   getBoundaryFeature(
-    fullMetadata = false
+    properties: "index" | "osm" = "index"
   ): GeoJSON.Feature<GeoJSON.Polygon | GeoJSON.MultiPolygon, any> | null {
     const boundaryGeom = this.getBoundaryGeometry();
 
@@ -48,12 +49,8 @@ export class Park {
       ? {
           type: "Feature",
           id: this.id,
-          properties: fullMetadata
-            ? this.osm.tags
-            : {
-                name: this.name,
-                slug: this.slug,
-              },
+          properties:
+            properties == "osm" ? this.osm.tags : this.getIndexFeature(),
           geometry: boundaryGeom,
         }
       : null;

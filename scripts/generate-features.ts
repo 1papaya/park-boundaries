@@ -8,7 +8,7 @@ import stringify from "json-stringify-pretty-compact";
   return fs.promises.mkdir(`${outDir}/relation`, { recursive: true }).then(() =>
     Promise.all(
       parks
-        .map((park) => park.getBoundaryFeature(true))
+        .map((park) => park.getBoundaryFeature("osm"))
         .filter((boundaryFeature) => !!boundaryFeature)
         .map((boundaryFeature) =>
           fs.promises.writeFile(
