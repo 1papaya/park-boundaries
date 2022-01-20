@@ -10,6 +10,7 @@
     "post:mbtiles": "yarn generate-index",
     "download": "ts-node ./scripts/download.ts",
     "generate-boundaries": "ts-node ./scripts/generate-boundaries.ts",
+    "generate-features": "ts-node ./scripts/generate-features.ts",
     "generate-points": "ts-node ./scripts/generate-points.ts",
     "generate-index": "ts-node ./scripts/generate-index.ts",
     "get-polygon": "ts-node ./scripts/get-polygon.ts",
