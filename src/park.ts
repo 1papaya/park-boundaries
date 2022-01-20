@@ -12,6 +12,14 @@ export interface ParkData {
 }
 export type ParkBoundary = GeoJSON.Polygon | GeoJSON.MultiPolygon;
 
+export interface ParkIndex {
+  name: string;
+  slug: string;
+  wikidataId: string;
+  osmRelationId: number;
+  bbox: number[];
+}
+
 export class Park {
   wiki: WikiNationalPark;
   osm: OverpassRelation | null;
@@ -50,8 +58,16 @@ export class Park {
       : null;
   }
 
-  getIndexFeature(): [string, number, string] | null {
-    return this.osm ? [this.wiki.wikidataId, this.osm.id, this.slug] : null;
+  getIndexFeature(): ParkIndex | null {
+    return this.osm
+      ? {
+          name: this.name,
+          wikidataId: this.wiki.wikidataId,
+          osmRelationId: this.osm.id,
+          slug: this.slug,
+          bbox: this.getBbox(),
+        }
+      : null;
   }
 
   getBbox(): number[] {
