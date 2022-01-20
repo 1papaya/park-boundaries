@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5360757,
   "properties": {
-    "area": 125.13,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Dinkey Lakes Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q5278368"
-    },
-    "wiki": {
-      "name": "Dinkey Lakes Wilderness",
-      "wikidataId": "Q5278368",
-      "osmRelationId": "5360757",
-      "country": "USA",
-      "wikipedia": "Dinkey_Lakes_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Dinkey Lakes Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q5278368"
   },
   "geometry": {
     "type": "Polygon",

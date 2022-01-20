@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 10689887,
   "properties": {
-    "area": 533.11,
-    "osm": {
-      "name": "Kangia",
-      "name:da": "Ilulissat Isfjord",
-      "name:en": "Ilulissat Icefjord",
-      "natural": "bay",
-      "type": "multipolygon",
-      "wikidata": "Q828071",
-      "wikipedia": "en:Ilulissat Icefjord"
-    },
-    "wiki": {
-      "name": "Ilulissat Icefjord",
-      "wikidataId": "Q828071",
-      "osmRelationId": "10689887",
-      "country": "GRL",
-      "wikipedia": "Ilulissat_Icefjord"
-    }
+    "name": "Kangia",
+    "name:da": "Ilulissat Isfjord",
+    "name:en": "Ilulissat Icefjord",
+    "natural": "bay",
+    "type": "multipolygon",
+    "wikidata": "Q828071",
+    "wikipedia": "en:Ilulissat Icefjord"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 5926094,
   "properties": {
-    "area": 1.86,
-    "osm": {
-      "leaf_cycle": "deciduous",
-      "leaf_type": "needleleaved",
-      "leisure": "nature_reserve",
-      "name": "Ussangoda National Park",
-      "natural": "wood",
-      "type": "multipolygon",
-      "wikidata": "Q7902106"
-    },
-    "wiki": {
-      "name": "Ussangoda",
-      "wikidataId": "Q7902105",
-      "osmRelationId": "5926094",
-      "country": "LKA",
-      "wikipedia": "Ussangoda_National_Park"
-    }
+    "leaf_cycle": "deciduous",
+    "leaf_type": "needleleaved",
+    "leisure": "nature_reserve",
+    "name": "Ussangoda National Park",
+    "natural": "wood",
+    "type": "multipolygon",
+    "wikidata": "Q7902106"
   },
   "geometry": {
     "type": "Polygon",

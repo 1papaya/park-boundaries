@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 2827630,
   "properties": {
-    "area": 759.62,
-    "osm": {
-      "boundary": "national_park",
-      "import_ref": "sk_sopsr",
-      "name": "Národný park Nízke Tatry",
-      "name:de": "Nationalpark Niedere Tatra",
-      "name:en": "Low Tatras National Park",
-      "name:pl": "Park Narodowy Niżne Tatry",
-      "protect_class": "2",
-      "ref": "NAPANT",
-      "sopsr:id": "41",
-      "sopsr:objectid": "18",
-      "sopsr:zone": "3",
-      "source": "(C)2008 Štátna ochrana prírody SR Banská Bystrica www.sopsr.sk",
-      "type": "boundary",
-      "wikidata": "Q1767601",
-      "wikipedia": "sk:Národný park Nízke Tatry"
-    },
-    "wiki": {
-      "name": "Low Tatras National Park",
-      "wikidataId": "Q1767601",
-      "osmRelationId": "2827630",
-      "country": "SVK",
-      "wikipedia": "Low_Tatras_National_Park"
-    }
+    "boundary": "national_park",
+    "import_ref": "sk_sopsr",
+    "name": "Národný park Nízke Tatry",
+    "name:de": "Nationalpark Niedere Tatra",
+    "name:en": "Low Tatras National Park",
+    "name:pl": "Park Narodowy Niżne Tatry",
+    "protect_class": "2",
+    "ref": "NAPANT",
+    "sopsr:id": "41",
+    "sopsr:objectid": "18",
+    "sopsr:zone": "3",
+    "source": "(C)2008 Štátna ochrana prírody SR Banská Bystrica www.sopsr.sk",
+    "type": "boundary",
+    "wikidata": "Q1767601",
+    "wikipedia": "sk:Národný park Nízke Tatry"
   },
   "geometry": {
     "type": "MultiPolygon",

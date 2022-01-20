@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 12581797,
   "properties": {
-    "area": 143.8,
-    "osm": {
-      "area": "yes",
-      "boundary": "national_park",
-      "name": "Parque Nacional Juan Castro Blanco",
-      "name:en": "Juan Castro Blanco National Park",
-      "name:pl": "Park Narodowy Juan Castro Blanco",
-      "name:sk": "Národný park Juan Castro Blanco",
-      "name:zh": "胡安卡斯特羅布蘭科國家公園",
-      "note": "Please don't delete the relation, it is required to link with Wikidata.",
-      "operator": "Área de Conservación Arenal Huetar Norte (ACAHN)",
-      "protect_class": "2",
-      "ref:CR:SINAC": "P03",
-      "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
-      "start_date": "1992",
-      "type": "boundary",
-      "wikidata": "Q4175950",
-      "wikipedia": "en:Juan Castro Blanco National Park"
-    },
-    "wiki": {
-      "name": "Juan Castro Blanco National Park",
-      "wikidataId": "Q4175950",
-      "osmRelationId": "12581797",
-      "country": "CRI",
-      "wikipedia": "Juan_Castro_Blanco_National_Park"
-    }
+    "area": "yes",
+    "boundary": "national_park",
+    "name": "Parque Nacional Juan Castro Blanco",
+    "name:en": "Juan Castro Blanco National Park",
+    "name:pl": "Park Narodowy Juan Castro Blanco",
+    "name:sk": "Národný park Juan Castro Blanco",
+    "name:zh": "胡安卡斯特羅布蘭科國家公園",
+    "note": "Please don't delete the relation, it is required to link with Wikidata.",
+    "operator": "Área de Conservación Arenal Huetar Norte (ACAHN)",
+    "protect_class": "2",
+    "ref:CR:SINAC": "P03",
+    "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
+    "start_date": "1992",
+    "type": "boundary",
+    "wikidata": "Q4175950",
+    "wikipedia": "en:Juan Castro Blanco National Park"
   },
   "geometry": {
     "type": "Polygon",

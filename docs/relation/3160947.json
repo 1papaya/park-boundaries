@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 3160947,
   "properties": {
-    "area": 38.04,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "maritime": "yes",
-      "name": "Point Hicks Marine National Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "Marine National Park - Schedule 7, National Parks Act",
-      "short_name": "Point Hicks MNP",
-      "source": "VicMap ParkRes",
-      "start_date": "2002-11-16",
-      "type": "boundary",
-      "vicmap:prims_id": "4309",
-      "vicmap:uid": "4309_II",
-      "wikidata": "Q7208040"
-    },
-    "wiki": {
-      "name": "Point Hicks Marine National Park",
-      "wikidataId": "Q7208040",
-      "osmRelationId": "3160947",
-      "country": "AUS",
-      "wikipedia": "Point_Hicks_Marine_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "maritime": "yes",
+    "name": "Point Hicks Marine National Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "Marine National Park - Schedule 7, National Parks Act",
+    "short_name": "Point Hicks MNP",
+    "source": "VicMap ParkRes",
+    "start_date": "2002-11-16",
+    "type": "boundary",
+    "vicmap:prims_id": "4309",
+    "vicmap:uid": "4309_II",
+    "wikidata": "Q7208040"
   },
   "geometry": {
     "type": "Polygon",

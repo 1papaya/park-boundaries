@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 9890402,
   "properties": {
-    "area": 934.42,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Чорноморський біосферний заповідник",
-      "name:de": "Biosphärenreservat Schwarzes Meer",
-      "name:en": "Black Sea Biosphere Reserve",
-      "name:ru": "Черноморский биосферный заповедник",
-      "name:uk": "Чорноморський біосферний заповідник",
-      "note": "referencing is normal",
-      "operator": "Національна академія наук України",
-      "protect_class": "98",
-      "protection_status": "state",
-      "protection_title": "biosphere_reserve",
-      "type": "boundary",
-      "wikidata": "Q864774",
-      "wikipedia": "uk:Чорноморський біосферний заповідник"
-    },
-    "wiki": {
-      "name": "Black Sea Biosphere Reserve",
-      "wikidataId": "Q864774",
-      "osmRelationId": "9890402",
-      "country": "UKR",
-      "wikipedia": "Black_Sea_Biosphere_Reserve"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Чорноморський біосферний заповідник",
+    "name:de": "Biosphärenreservat Schwarzes Meer",
+    "name:en": "Black Sea Biosphere Reserve",
+    "name:ru": "Черноморский биосферный заповедник",
+    "name:uk": "Чорноморський біосферний заповідник",
+    "note": "referencing is normal",
+    "operator": "Національна академія наук України",
+    "protect_class": "98",
+    "protection_status": "state",
+    "protection_title": "biosphere_reserve",
+    "type": "boundary",
+    "wikidata": "Q864774",
+    "wikipedia": "uk:Чорноморський біосферний заповідник"
   },
   "geometry": {
     "type": "MultiPolygon",

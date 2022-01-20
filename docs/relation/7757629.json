@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 7757629,
   "properties": {
-    "area": 15.35,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Cagar Alam Gunung Tukung Gede",
-      "name:en": "Gunung Tukung Gede Nature Reserve",
-      "type": "multipolygon"
-    },
-    "wiki": {
-      "name": "Q104545837",
-      "wikidataId": "Q104545837",
-      "osmRelationId": "7757629",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Gunung Tukung Gede",
+    "name:en": "Gunung Tukung Gede Nature Reserve",
+    "type": "multipolygon"
   },
   "geometry": {
     "type": "MultiPolygon",

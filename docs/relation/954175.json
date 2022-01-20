@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 954175,
   "properties": {
-    "area": 214.88,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Lincoln National Park",
-      "operator": "Department of Environment, Water and Natural Resources (South Australia)",
-      "protect_class": "2",
-      "ref:capad:pa_id": "SA_0222",
-      "ref:dew:park_id": "222",
-      "source": "SA Conservation Reserve Boundaries",
-      "type": "boundary",
-      "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/lincoln-national-park",
-      "wikidata": "Q920056",
-      "wikipedia": "en:Lincoln National Park"
-    },
-    "wiki": {
-      "name": "Lincoln National Park",
-      "wikidataId": "Q920056",
-      "osmRelationId": "954175",
-      "country": "AUS",
-      "wikipedia": "Lincoln_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Lincoln National Park",
+    "operator": "Department of Environment, Water and Natural Resources (South Australia)",
+    "protect_class": "2",
+    "ref:capad:pa_id": "SA_0222",
+    "ref:dew:park_id": "222",
+    "source": "SA Conservation Reserve Boundaries",
+    "type": "boundary",
+    "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/lincoln-national-park",
+    "wikidata": "Q920056",
+    "wikipedia": "en:Lincoln National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

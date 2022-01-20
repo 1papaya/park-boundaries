@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 6998361,
   "properties": {
-    "area": 12737.43,
-    "osm": {
-      "boundary": "protected_area",
-      "name": "Fiordland National Park",
-      "name:cs": "Národní park Fiordland",
-      "name:en": "Fiordland National Park",
-      "name:mk": "Национален парк Фјордленд",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q877719"
-    },
-    "wiki": {
-      "name": "Fiordland National Park",
-      "wikidataId": "Q877719",
-      "osmRelationId": "6998361",
-      "country": "NZL",
-      "wikipedia": "Fiordland_National_Park"
-    }
+    "boundary": "protected_area",
+    "name": "Fiordland National Park",
+    "name:cs": "Národní park Fiordland",
+    "name:en": "Fiordland National Park",
+    "name:mk": "Национален парк Фјордленд",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q877719"
   },
   "geometry": {
     "type": "MultiPolygon",

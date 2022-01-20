@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 2818270,
   "properties": {
-    "area": 10.98,
-    "osm": {
-      "WDPA_ID:ref": "555595193",
-      "boundary": "protected_area",
-      "iucn_level": "2",
-      "leisure": "nature_reserve",
-      "name": "Wildnispark Zürich Sihlwald",
-      "name:de": "Wildnispark Zürich Sihlwald",
-      "name:en": "Wildnispark Zürich Sihlwald",
-      "name:fr": "Wildnispark Zürich Sihlwald",
-      "name:it": "Riserva naturale integrale di Zurigo",
-      "protect_class": "1a",
-      "protection_title": "Naturerlebnispark",
-      "source": "http://www.paerke.ch;http://www.swisstopo.ch",
-      "type": "boundary",
-      "website": "https://www.wildnispark.ch/",
-      "wikidata": "Q1384428",
-      "wikipedia": "de:Wildnispark Zürich"
-    },
-    "wiki": {
-      "name": "Zurich Wilderness Park",
-      "wikidataId": "Q1384428",
-      "osmRelationId": "2818270",
-      "country": "CHE",
-      "wikipedia": "Z%C3%BCrich_Wilderness_Park"
-    }
+    "WDPA_ID:ref": "555595193",
+    "boundary": "protected_area",
+    "iucn_level": "2",
+    "leisure": "nature_reserve",
+    "name": "Wildnispark Zürich Sihlwald",
+    "name:de": "Wildnispark Zürich Sihlwald",
+    "name:en": "Wildnispark Zürich Sihlwald",
+    "name:fr": "Wildnispark Zürich Sihlwald",
+    "name:it": "Riserva naturale integrale di Zurigo",
+    "protect_class": "1a",
+    "protection_title": "Naturerlebnispark",
+    "source": "http://www.paerke.ch;http://www.swisstopo.ch",
+    "type": "boundary",
+    "website": "https://www.wildnispark.ch/",
+    "wikidata": "Q1384428",
+    "wikipedia": "de:Wildnispark Zürich"
   },
   "geometry": {
     "type": "Polygon",

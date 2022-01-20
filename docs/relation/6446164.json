@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 6446164,
   "properties": {
-    "area": 394.33,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Ужанський національний природний парк",
-      "name:de": "Nationaler Naturpark Usch",
-      "name:en": "Uzhanskyi National Nature Park",
-      "name:uk": "Ужанський національний природний парк",
-      "protect_class": "2",
-      "protection_title": "national_park",
-      "type": "boundary",
-      "website": "https://unpp.com.ua/",
-      "wikidata": "Q4469611",
-      "wikipedia": "uk:Ужанський національний природний парк"
-    },
-    "wiki": {
-      "name": "Uzhanskyi National Nature Park",
-      "wikidataId": "Q4469611",
-      "osmRelationId": "6446164",
-      "country": "UKR",
-      "wikipedia": "Uzhanskyi_National_Nature_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Ужанський національний природний парк",
+    "name:de": "Nationaler Naturpark Usch",
+    "name:en": "Uzhanskyi National Nature Park",
+    "name:uk": "Ужанський національний природний парк",
+    "protect_class": "2",
+    "protection_title": "national_park",
+    "type": "boundary",
+    "website": "https://unpp.com.ua/",
+    "wikidata": "Q4469611",
+    "wikipedia": "uk:Ужанський національний природний парк"
   },
   "geometry": {
     "type": "MultiPolygon",

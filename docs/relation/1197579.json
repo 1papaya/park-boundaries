@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 1197579,
   "properties": {
-    "area": 284.73,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Dilek Yarımadası Millî Parkı",
-      "name:de": "Nationalpark Dilek-Halbinsel",
-      "name:en": "Dilek Peninsula National Park",
-      "name:tr": "Dilek Yarımadası Millî Parkı",
-      "type": "multipolygon",
-      "wikidata": "Q20650897",
-      "wikipedia": "tr:Dilek Yarımadası-Büyük Menderes Deltası Millî Parkı"
-    },
-    "wiki": {
-      "name": "Dilek Peninsula-Büyük Menderes Delta National Park",
-      "wikidataId": "Q20650897",
-      "osmRelationId": "1197579",
-      "country": "TUR",
-      "wikipedia": "Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Dilek Yarımadası Millî Parkı",
+    "name:de": "Nationalpark Dilek-Halbinsel",
+    "name:en": "Dilek Peninsula National Park",
+    "name:tr": "Dilek Yarımadası Millî Parkı",
+    "type": "multipolygon",
+    "wikidata": "Q20650897",
+    "wikipedia": "tr:Dilek Yarımadası-Büyük Menderes Deltası Millî Parkı"
   },
   "geometry": {
     "type": "Polygon",

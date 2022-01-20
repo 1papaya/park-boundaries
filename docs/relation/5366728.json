@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5366728,
   "properties": {
-    "area": 545.52,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Domeland Wilderness",
-      "operator": "US Forest Service;BLM",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "multipolygon",
-      "wikidata": "Q5290033"
-    },
-    "wiki": {
-      "name": "Domeland Wilderness",
-      "wikidataId": "Q5290033",
-      "osmRelationId": "5366728",
-      "country": "USA",
-      "wikipedia": "Domeland_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Domeland Wilderness",
+    "operator": "US Forest Service;BLM",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "multipolygon",
+    "wikidata": "Q5290033"
   },
   "geometry": {
     "type": "Polygon",

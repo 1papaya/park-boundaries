@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 2196323,
   "properties": {
-    "area": 13.89,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Nationalpark Thayatal",
-      "protect_class": "2",
-      "protection_title": "Nationalpark Thayatal",
-      "type": "multipolygon",
-      "website": "https://www.np-thayatal.at/",
-      "wikidata": "Q612901"
-    },
-    "wiki": {
-      "name": "National Park Thayatal",
-      "wikidataId": "Q612901",
-      "osmRelationId": "2196323",
-      "country": "AUT",
-      "wikipedia": "Thayatal_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Nationalpark Thayatal",
+    "protect_class": "2",
+    "protection_title": "Nationalpark Thayatal",
+    "type": "multipolygon",
+    "website": "https://www.np-thayatal.at/",
+    "wikidata": "Q612901"
   },
   "geometry": {
     "type": "MultiPolygon",

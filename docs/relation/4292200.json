@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 4292200,
   "properties": {
-    "area": 208.14,
-    "osm": {
-      "boundary": "national_park",
-      "boundary_type": "protected_area",
-      "name": "Nationalpark Berchtesgaden",
-      "phone": "+49 8652 9686-0",
-      "protect_class": "2",
-      "protection_title": "Nationalpark",
-      "short_protection_title": "NLP",
-      "type": "boundary",
-      "website": "https://www.nationalpark-berchtesgaden.bayern.de/",
-      "wikidata": "Q702489",
-      "wikipedia": "de:Nationalpark Berchtesgaden"
-    },
-    "wiki": {
-      "name": "Berchtesgaden National Park",
-      "wikidataId": "Q702489",
-      "osmRelationId": "4292200",
-      "country": "DEU",
-      "wikipedia": "Berchtesgaden_National_Park"
-    }
+    "boundary": "national_park",
+    "boundary_type": "protected_area",
+    "name": "Nationalpark Berchtesgaden",
+    "phone": "+49 8652 9686-0",
+    "protect_class": "2",
+    "protection_title": "Nationalpark",
+    "short_protection_title": "NLP",
+    "type": "boundary",
+    "website": "https://www.nationalpark-berchtesgaden.bayern.de/",
+    "wikidata": "Q702489",
+    "wikipedia": "de:Nationalpark Berchtesgaden"
   },
   "geometry": {
     "type": "Polygon",

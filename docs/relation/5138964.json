@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 5138964,
   "properties": {
-    "area": 349.66,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Государственный природный национальный парк «Марий Чодра»",
-      "name:cs": "Národní park Marij Čodra",
-      "name:en": "Mariy Chodra National Park",
-      "name:ru": "Государственный природный национальный парк «Марий Чодра»",
-      "protect_class": "2",
-      "type": "multipolygon",
-      "wikidata": "Q2427533",
-      "wikipedia": "ru:Марий Чодра"
-    },
-    "wiki": {
-      "name": "Mariy Chodra National Park",
-      "wikidataId": "Q2427533",
-      "osmRelationId": "5138964",
-      "country": "RUS",
-      "wikipedia": "Mariy_Chodra_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Государственный природный национальный парк «Марий Чодра»",
+    "name:cs": "Národní park Marij Čodra",
+    "name:en": "Mariy Chodra National Park",
+    "name:ru": "Государственный природный национальный парк «Марий Чодра»",
+    "protect_class": "2",
+    "type": "multipolygon",
+    "wikidata": "Q2427533",
+    "wikipedia": "ru:Марий Чодра"
   },
   "geometry": {
     "type": "Polygon",

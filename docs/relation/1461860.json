@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 1461860,
   "properties": {
-    "area": 13.51,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "1356.1",
-      "lst:ref": "2001434.0",
-      "lst:tillkomst": "2003-06-16",
-      "name": "Norra Lunsen",
-      "source": "Länsstyrelsen i Uppsala län (gis.lst.se)",
-      "type": "multipolygon",
-      "wikidata": "Q10570906"
-    },
-    "wiki": {
-      "name": "Norra Lunsen",
-      "wikidataId": "Q10570906",
-      "osmRelationId": "1461860",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "1356.1",
+    "lst:ref": "2001434.0",
+    "lst:tillkomst": "2003-06-16",
+    "name": "Norra Lunsen",
+    "source": "Länsstyrelsen i Uppsala län (gis.lst.se)",
+    "type": "multipolygon",
+    "wikidata": "Q10570906"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 303360,
   "properties": {
-    "area": 80.75,
-    "osm": {
-      "boundary": "national_park",
-      "gid": "2507",
-      "kodinspire": "PL.ZIPOP.1393.PN.23",
-      "name": "Park Narodowy Ujście Warty",
-      "name:de": "Nationalpark Warthemündung",
-      "name:en": "Warta River Mouth National Park",
-      "name:pl": "Park Narodowy Ujście Warty",
-      "protect_class": "2",
-      "type": "boundary",
-      "website": "https://www.pnujsciewarty.gov.pl/",
-      "wikidata": "Q618092",
-      "wikipedia": "pl:Park Narodowy „Ujście Warty”"
-    },
-    "wiki": {
-      "name": "Ujście Warty National Park",
-      "wikidataId": "Q618092",
-      "osmRelationId": "303360",
-      "country": "POL",
-      "wikipedia": "Warta_Mouth_National_Park"
-    }
+    "boundary": "national_park",
+    "gid": "2507",
+    "kodinspire": "PL.ZIPOP.1393.PN.23",
+    "name": "Park Narodowy Ujście Warty",
+    "name:de": "Nationalpark Warthemündung",
+    "name:en": "Warta River Mouth National Park",
+    "name:pl": "Park Narodowy Ujście Warty",
+    "protect_class": "2",
+    "type": "boundary",
+    "website": "https://www.pnujsciewarty.gov.pl/",
+    "wikidata": "Q618092",
+    "wikipedia": "pl:Park Narodowy „Ujście Warty”"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 7126576,
   "properties": {
-    "area": 58.11,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Nacionalni Park Biogradska Gora",
-      "name:de": "Nationalpark Biogradska Gora",
-      "name:en": "Biogradska Gora National Park",
-      "name:fr": "Parc national de Biogradska gora",
-      "name:hr": "Nacionalni park Biogradska gora",
-      "name:sr": "Национални парк Биоградска гора",
-      "type": "multipolygon",
-      "wikidata": "Q1258880"
-    },
-    "wiki": {
-      "name": "Biogradska Gora",
-      "wikidataId": "Q1258880",
-      "osmRelationId": "7126576",
-      "country": "MNE",
-      "wikipedia": "Biogradska_Gora"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Nacionalni Park Biogradska Gora",
+    "name:de": "Nationalpark Biogradska Gora",
+    "name:en": "Biogradska Gora National Park",
+    "name:fr": "Parc national de Biogradska gora",
+    "name:hr": "Nacionalni park Biogradska gora",
+    "name:sr": "Национални парк Биоградска гора",
+    "type": "multipolygon",
+    "wikidata": "Q1258880"
   },
   "geometry": {
     "type": "Polygon",

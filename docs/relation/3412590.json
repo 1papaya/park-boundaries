@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 3412590,
   "properties": {
-    "area": 100.08,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Nationalpark Schwarzwald",
-      "protect_class": "2",
-      "short_protection_title": "NLP",
-      "type": "boundary",
-      "wikidata": "Q1968948",
-      "wikipedia": "de:Nationalpark Schwarzwald"
-    },
-    "wiki": {
-      "name": "Black Forest National Park",
-      "wikidataId": "Q1968948",
-      "osmRelationId": "3412590",
-      "country": "DEU",
-      "wikipedia": "Black_Forest_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Nationalpark Schwarzwald",
+    "protect_class": "2",
+    "short_protection_title": "NLP",
+    "type": "boundary",
+    "wikidata": "Q1968948",
+    "wikipedia": "de:Nationalpark Schwarzwald"
   },
   "geometry": {
     "type": "MultiPolygon",

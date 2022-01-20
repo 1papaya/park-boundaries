@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5366747,
   "properties": {
-    "area": 244.61,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "South Sierra Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "multipolygon",
-      "wikidata": "Q7568499"
-    },
-    "wiki": {
-      "name": "South Sierra Wilderness",
-      "wikidataId": "Q7568499",
-      "osmRelationId": "5366747",
-      "country": "USA",
-      "wikipedia": "South_Sierra_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "South Sierra Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "multipolygon",
+    "wikidata": "Q7568499"
   },
   "geometry": {
     "type": "Polygon",

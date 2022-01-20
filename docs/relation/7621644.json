@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 7621644,
   "properties": {
-    "area": 23.63,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Björnlandets nationalpark",
-      "protect_class": "2",
-      "short_name": "Björnlandet",
-      "snowmobile": "no",
-      "type": "multipolygon",
-      "wikidata": "Q119150"
-    },
-    "wiki": {
-      "name": "Björnlandet National Park",
-      "wikidataId": "Q119150",
-      "osmRelationId": "7621644",
-      "country": "SWE",
-      "wikipedia": "Bj%C3%B6rnlandet_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Björnlandets nationalpark",
+    "protect_class": "2",
+    "short_name": "Björnlandet",
+    "snowmobile": "no",
+    "type": "multipolygon",
+    "wikidata": "Q119150"
   },
   "geometry": {
     "type": "Polygon",

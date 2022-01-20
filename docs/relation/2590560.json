@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 2590560,
   "properties": {
-    "area": 9436.07,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Tatshenshini-Alsek Provincial Park",
-      "source": "DataBC TANTALIS - Parks, Ecological Reserves, and Protected Areas",
-      "type": "boundary",
-      "wikidata": "Q935426"
-    },
-    "wiki": {
-      "name": "Tatshenshini-Alsek Provincial Park",
-      "wikidataId": "Q935426",
-      "osmRelationId": "2590560",
-      "country": "CAN",
-      "wikipedia": "Tatshenshini-Alsek_Provincial_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Tatshenshini-Alsek Provincial Park",
+    "source": "DataBC TANTALIS - Parks, Ecological Reserves, and Protected Areas",
+    "type": "boundary",
+    "wikidata": "Q935426"
   },
   "geometry": {
     "type": "Polygon",

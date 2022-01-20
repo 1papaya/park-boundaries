@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 10206060,
   "properties": {
-    "area": 53.93,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Nacionalni park Mljet",
-      "name:de": "Nationalpark Mljet",
-      "protect_class": "2",
-      "source": "Zakon o izmjenama Zakona o proglašenju zapadnog dijela otoka Mljeta Nacionalnim parkom NN 13/97",
-      "type": "multipolygon",
-      "wikidata": "Q1574010"
-    },
-    "wiki": {
-      "name": "Mljet Nacionalni Park",
-      "wikidataId": "Q1574010",
-      "osmRelationId": "10206060",
-      "country": "HRV",
-      "wikipedia": null
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Nacionalni park Mljet",
+    "name:de": "Nationalpark Mljet",
+    "protect_class": "2",
+    "source": "Zakon o izmjenama Zakona o proglašenju zapadnog dijela otoka Mljeta Nacionalnim parkom NN 13/97",
+    "type": "multipolygon",
+    "wikidata": "Q1574010"
   },
   "geometry": {
     "type": "Polygon",

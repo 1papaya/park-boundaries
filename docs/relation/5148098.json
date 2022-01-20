@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 5148098,
   "properties": {
-    "area": 537.74,
-    "osm": {
-      "boundary": "national_park",
-      "name": "霧島錦江湾国立公園",
-      "name:en": "Kirishima-Kinkowan National Park",
-      "name:ja": "霧島錦江湾国立公園",
-      "name:ru": "Национальный парк Кирисима-Кинкован",
-      "source": "interpolation and extrapolation reffering to Bing arial, existing objects, wikipedia and goverment documents",
-      "type": "multipolygon",
-      "wikidata": "Q1132024"
-    },
-    "wiki": {
-      "name": "Kirishima-Kinkōwan National Park",
-      "wikidataId": "Q1132024",
-      "osmRelationId": "5148098",
-      "country": "JPN",
-      "wikipedia": "Kirishima-Kinkowan_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "霧島錦江湾国立公園",
+    "name:en": "Kirishima-Kinkowan National Park",
+    "name:ja": "霧島錦江湾国立公園",
+    "name:ru": "Национальный парк Кирисима-Кинкован",
+    "source": "interpolation and extrapolation reffering to Bing arial, existing objects, wikipedia and goverment documents",
+    "type": "multipolygon",
+    "wikidata": "Q1132024"
   },
   "geometry": {
     "type": "MultiPolygon",

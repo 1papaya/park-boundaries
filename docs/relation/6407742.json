@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 6407742,
   "properties": {
-    "area": 6.07,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Riserva naturale Abetone",
-      "protected_object": "nature",
-      "ref:EUAP": "0113",
-      "type": "multipolygon",
-      "wikidata": "Q3936501",
-      "wikipedia": "it:Riserva naturale Abetone"
-    },
-    "wiki": {
-      "name": "Riserva naturale Abetone",
-      "wikidataId": "Q3936501",
-      "osmRelationId": "6407742",
-      "country": "ITA",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Riserva naturale Abetone",
+    "protected_object": "nature",
+    "ref:EUAP": "0113",
+    "type": "multipolygon",
+    "wikidata": "Q3936501",
+    "wikipedia": "it:Riserva naturale Abetone"
   },
   "geometry": {
     "type": "Polygon",

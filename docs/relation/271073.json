@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 271073,
   "properties": {
-    "area": 353.54,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Ytre Hvaler nasjonalpark",
-      "naturbase:url": "https://faktaark.naturbase.no/?id=VV00002752",
-      "naturbase:verneform": "Nasjonalpark",
-      "naturbase:verneplan": "Nasjonalpark",
-      "operator": "Ytre Hvaler nasjonalparkstyre",
-      "protect_class": "2",
-      "ref:naturvern": "VV00002752",
-      "related_law": "https://lovdata.no/forskrift/2009-06-26-883",
-      "short_name": "Ytre Hvaler",
-      "start_date": "2009-06-26",
-      "type": "boundary",
-      "wikidata": "Q684121"
-    },
-    "wiki": {
-      "name": "Ytre Hvaler National Park",
-      "wikidataId": "Q684121",
-      "osmRelationId": "271073",
-      "country": "NOR",
-      "wikipedia": "Ytre_Hvaler_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Ytre Hvaler nasjonalpark",
+    "naturbase:url": "https://faktaark.naturbase.no/?id=VV00002752",
+    "naturbase:verneform": "Nasjonalpark",
+    "naturbase:verneplan": "Nasjonalpark",
+    "operator": "Ytre Hvaler nasjonalparkstyre",
+    "protect_class": "2",
+    "ref:naturvern": "VV00002752",
+    "related_law": "https://lovdata.no/forskrift/2009-06-26-883",
+    "short_name": "Ytre Hvaler",
+    "start_date": "2009-06-26",
+    "type": "boundary",
+    "wikidata": "Q684121"
   },
   "geometry": {
     "type": "Polygon",

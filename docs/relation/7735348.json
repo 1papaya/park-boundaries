@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 7735348,
   "properties": {
-    "area": 63.7,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Whicher National Park",
-      "operator": "WA-Department of Parks and Wildlife (DPaW)",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "ref:capad:pa_id": "WA_47887",
-      "source": "CAPAD 2016 - Terrestrial",
-      "start_date": "2004-12-08",
-      "type": "boundary",
-      "wikidata": "Q39080105"
-    },
-    "wiki": {
-      "name": "Whicher National Park",
-      "wikidataId": "Q39080105",
-      "osmRelationId": "7735348",
-      "country": "AUS",
-      "wikipedia": "Whicher_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Whicher National Park",
+    "operator": "WA-Department of Parks and Wildlife (DPaW)",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "ref:capad:pa_id": "WA_47887",
+    "source": "CAPAD 2016 - Terrestrial",
+    "start_date": "2004-12-08",
+    "type": "boundary",
+    "wikidata": "Q39080105"
   },
   "geometry": {
     "type": "MultiPolygon",

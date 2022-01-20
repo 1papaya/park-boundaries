@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 6076709,
   "properties": {
-    "area": 143.49,
-    "osm": {
-      "admin_level": "10",
-      "boundary": "administrative",
-      "fixme": "Needs a label node and review place tag",
-      "name": "Royal National Park",
-      "place": "locality",
-      "postal_code": "2232",
-      "ref:nswlpi:cadid": "108033121",
-      "ref:psma:loc_pid": "NSW3465",
-      "source": "NSW LPI Base Map",
-      "type": "boundary",
-      "wikidata": "Q113523",
-      "wikipedia": "en:Royal National Park"
-    },
-    "wiki": {
-      "name": "Royal National Park",
-      "wikidataId": "Q113523",
-      "osmRelationId": "6076709",
-      "country": "AUS",
-      "wikipedia": "Royal_National_Park"
-    }
+    "admin_level": "10",
+    "boundary": "administrative",
+    "fixme": "Needs a label node and review place tag",
+    "name": "Royal National Park",
+    "place": "locality",
+    "postal_code": "2232",
+    "ref:nswlpi:cadid": "108033121",
+    "ref:psma:loc_pid": "NSW3465",
+    "source": "NSW LPI Base Map",
+    "type": "boundary",
+    "wikidata": "Q113523",
+    "wikipedia": "en:Royal National Park"
   },
   "geometry": {
     "type": "Polygon",

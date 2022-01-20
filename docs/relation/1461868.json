@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 1461868,
   "properties": {
-    "area": 1.74,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "175.06",
-      "lst:ref": "2010910.0",
-      "lst:tillkomst": "2005-11-28",
-      "name": "Idön",
-      "source": "Länsstyrelsen i Uppsala län (gis.lst.se)",
-      "type": "multipolygon",
-      "wikidata": "Q30158672"
-    },
-    "wiki": {
-      "name": "Idön",
-      "wikidataId": "Q30158672",
-      "osmRelationId": "1461868",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "175.06",
+    "lst:ref": "2010910.0",
+    "lst:tillkomst": "2005-11-28",
+    "name": "Idön",
+    "source": "Länsstyrelsen i Uppsala län (gis.lst.se)",
+    "type": "multipolygon",
+    "wikidata": "Q30158672"
   },
   "geometry": {
     "type": "Polygon",

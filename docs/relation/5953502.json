@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 5953502,
   "properties": {
-    "area": 353.53,
-    "osm": {
-      "boundary": "national_park",
-      "boundary:type": "protected_area",
-      "gnis:feature_id": "1377201",
-      "leisure": "nature_reserve",
-      "name": "Guadalupe Mountains National Park",
-      "name:pl": "Park Narodowy Guadalupe Mountains",
-      "operator": "National Park Service",
-      "ownership": "national",
-      "protect_class": "2",
-      "protected": "perpetuity",
-      "protection_title": "National Park",
-      "type": "boundary",
-      "website": "https://www.nps.gov/gumo/index.htm",
-      "wikidata": "Q370501",
-      "wikipedia": "en:Guadalupe Mountains National Park"
-    },
-    "wiki": {
-      "name": "Guadalupe Mountains National Park",
-      "wikidataId": "Q370501",
-      "osmRelationId": "5953502",
-      "country": "USA",
-      "wikipedia": "Guadalupe_Mountains_National_Park"
-    }
+    "boundary": "national_park",
+    "boundary:type": "protected_area",
+    "gnis:feature_id": "1377201",
+    "leisure": "nature_reserve",
+    "name": "Guadalupe Mountains National Park",
+    "name:pl": "Park Narodowy Guadalupe Mountains",
+    "operator": "National Park Service",
+    "ownership": "national",
+    "protect_class": "2",
+    "protected": "perpetuity",
+    "protection_title": "National Park",
+    "type": "boundary",
+    "website": "https://www.nps.gov/gumo/index.htm",
+    "wikidata": "Q370501",
+    "wikipedia": "en:Guadalupe Mountains National Park"
   },
   "geometry": {
     "type": "Polygon",

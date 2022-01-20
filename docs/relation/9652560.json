@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 9652560,
   "properties": {
-    "area": 51.42,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parco Nazionale dell'Asinara",
-      "protect_class": "1",
-      "protection_title": "Parco Nazionale",
-      "type": "boundary",
-      "wikidata": "Q1091068",
-      "wikipedia": "it:Parco nazionale dell'Asinara"
-    },
-    "wiki": {
-      "name": "Asinara National Park",
-      "wikidataId": "Q1091068",
-      "osmRelationId": "9652560",
-      "country": "ITA",
-      "wikipedia": "Asinara_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parco Nazionale dell'Asinara",
+    "protect_class": "1",
+    "protection_title": "Parco Nazionale",
+    "type": "boundary",
+    "wikidata": "Q1091068",
+    "wikipedia": "it:Parco nazionale dell'Asinara"
   },
   "geometry": {
     "type": "MultiPolygon",

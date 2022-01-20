@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 8008852,
   "properties": {
-    "area": 536.74,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parc national de la Mauricie",
-      "protect_class": "2",
-      "type": "multipolygon",
-      "wikidata": "Q1798539",
-      "wikipedia": "fr:Parc national de la Mauricie"
-    },
-    "wiki": {
-      "name": "La Mauricie National Park",
-      "wikidataId": "Q1798539",
-      "osmRelationId": "8008852",
-      "country": "CAN",
-      "wikipedia": "La_Mauricie_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parc national de la Mauricie",
+    "protect_class": "2",
+    "type": "multipolygon",
+    "wikidata": "Q1798539",
+    "wikipedia": "fr:Parc national de la Mauricie"
   },
   "geometry": {
     "type": "Polygon",

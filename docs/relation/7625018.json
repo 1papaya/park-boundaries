@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 7625018,
   "properties": {
-    "area": 0.89,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "89.28",
-      "lst:beslutdat": "2016-10-26",
-      "lst:diarienr": "511-8912-13",
-      "lst:land_ha": "89.13",
-      "lst:ref": "2044938",
-      "lst:skog_ha": "83.93",
-      "lst:tillkomst": "2016-11-24",
-      "lst:vatten_ha": "0.18",
-      "name": "Grannässkogen",
-      "operator": "Länsstyrelsen i Västernorrlands län",
-      "protect_class": "1",
-      "type": "multipolygon",
-      "wikidata": "Q30166115"
-    },
-    "wiki": {
-      "name": "Grannässkogen",
-      "wikidataId": "Q30166115",
-      "osmRelationId": "7625018",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "89.28",
+    "lst:beslutdat": "2016-10-26",
+    "lst:diarienr": "511-8912-13",
+    "lst:land_ha": "89.13",
+    "lst:ref": "2044938",
+    "lst:skog_ha": "83.93",
+    "lst:tillkomst": "2016-11-24",
+    "lst:vatten_ha": "0.18",
+    "name": "Grannässkogen",
+    "operator": "Länsstyrelsen i Västernorrlands län",
+    "protect_class": "1",
+    "type": "multipolygon",
+    "wikidata": "Q30166115"
   },
   "geometry": {
     "type": "Polygon",

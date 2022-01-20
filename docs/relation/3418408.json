@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 3418408,
   "properties": {
-    "area": 28834.32,
-    "osm": {
-      "WDPA_ID:ref": "313",
-      "boundary": "national_park",
-      "name": "Parque Nacional Canaima",
-      "name:en": "Canaima National Park",
-      "name:es": "Parque Nacional Canaima",
-      "name:fr": "Parc national Canaima",
-      "operator": "Inparques",
-      "operator:type": "public",
-      "protect_class": "2",
-      "protection_title": "Parque Nacional",
-      "related_law": "Decreto n.° 770 del 12 de junio de 1962",
-      "source": "Inparques; Maxar (2021)",
-      "start_date": "1962-06-12",
-      "type": "boundary",
-      "wikidata": "Q1244337",
-      "wikipedia": "es:Parque nacional Canaima"
-    },
-    "wiki": {
-      "name": "Canaima National Park",
-      "wikidataId": "Q1244337",
-      "osmRelationId": "3418408",
-      "country": "VEN",
-      "wikipedia": "Canaima_National_Park"
-    }
+    "WDPA_ID:ref": "313",
+    "boundary": "national_park",
+    "name": "Parque Nacional Canaima",
+    "name:en": "Canaima National Park",
+    "name:es": "Parque Nacional Canaima",
+    "name:fr": "Parc national Canaima",
+    "operator": "Inparques",
+    "operator:type": "public",
+    "protect_class": "2",
+    "protection_title": "Parque Nacional",
+    "related_law": "Decreto n.° 770 del 12 de junio de 1962",
+    "source": "Inparques; Maxar (2021)",
+    "start_date": "1962-06-12",
+    "type": "boundary",
+    "wikidata": "Q1244337",
+    "wikipedia": "es:Parque nacional Canaima"
   },
   "geometry": {
     "type": "Polygon",

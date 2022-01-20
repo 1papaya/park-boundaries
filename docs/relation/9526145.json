@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 9526145,
   "properties": {
-    "area": 5.7,
-    "osm": {
-      "boundary": "protected_area",
-      "description": "MARINE RESERVE. All marine life and habitats totally protected. No fishing, netting, taking or killing of marine life. Contact Department of Conservation for further information.",
-      "leisure": "nature_reserve",
-      "name": "Long Island - Kokomohua Marine Reserve",
-      "protection_title": "Marine Reserve",
-      "ref:linz:hydrographic_id": "57091",
-      "seamark:restricted_area:category": "fish_sanctuary",
-      "seamark:restricted_area:restriction": "restricted_anchoring",
-      "seamark:type": "restricted_area",
-      "source": "LINZ;Kurakura Point to Cape Koamaru Chart",
-      "type": "multipolygon",
-      "wikidata": "Q108523737",
-      "wikipedia": "en:Long Island-Kokomohua Marine Reserve"
-    },
-    "wiki": {
-      "name": "Long Island - Kokomohua Marine Reserve",
-      "wikidataId": "Q105623948",
-      "osmRelationId": "9526145",
-      "country": "NZL",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "description": "MARINE RESERVE. All marine life and habitats totally protected. No fishing, netting, taking or killing of marine life. Contact Department of Conservation for further information.",
+    "leisure": "nature_reserve",
+    "name": "Long Island - Kokomohua Marine Reserve",
+    "protection_title": "Marine Reserve",
+    "ref:linz:hydrographic_id": "57091",
+    "seamark:restricted_area:category": "fish_sanctuary",
+    "seamark:restricted_area:restriction": "restricted_anchoring",
+    "seamark:type": "restricted_area",
+    "source": "LINZ;Kurakura Point to Cape Koamaru Chart",
+    "type": "multipolygon",
+    "wikidata": "Q108523737",
+    "wikipedia": "en:Long Island-Kokomohua Marine Reserve"
   },
   "geometry": {
     "type": "Polygon",

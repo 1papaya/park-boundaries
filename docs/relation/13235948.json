@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 13235948,
   "properties": {
-    "area": 284.81,
-    "osm": {
-      "boundary": "national_park",
-      "gnis:feature_id": "1033824",
-      "name": "Theodore Roosevelt National Park",
-      "operator": "National Park Service",
-      "operator:short": "NPS",
-      "operator:type": "public",
-      "operator:wikidata": "Q308439",
-      "operator:wikipedia": "en:National Park Service",
-      "ownership": "national",
-      "protect_class": "2",
-      "protected": "perpetuity",
-      "protection_title": "National Park",
-      "type": "boundary",
-      "website": "http://www.nps.gov/thro/",
-      "wikidata": "Q1137669",
-      "wikipedia": "en:Theodore Roosevelt National Park"
-    },
-    "wiki": {
-      "name": "Theodore Roosevelt National Park",
-      "wikidataId": "Q1137669",
-      "osmRelationId": "13235948",
-      "country": "USA",
-      "wikipedia": "Theodore_Roosevelt_National_Park"
-    }
+    "boundary": "national_park",
+    "gnis:feature_id": "1033824",
+    "name": "Theodore Roosevelt National Park",
+    "operator": "National Park Service",
+    "operator:short": "NPS",
+    "operator:type": "public",
+    "operator:wikidata": "Q308439",
+    "operator:wikipedia": "en:National Park Service",
+    "ownership": "national",
+    "protect_class": "2",
+    "protected": "perpetuity",
+    "protection_title": "National Park",
+    "type": "boundary",
+    "website": "http://www.nps.gov/thro/",
+    "wikidata": "Q1137669",
+    "wikipedia": "en:Theodore Roosevelt National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 3659089,
   "properties": {
-    "area": 792.05,
-    "osm": {
-      "boundary": "protected_area",
-      "name": "Tongariro National Park",
-      "name:cs": "Národní park Tongariro",
-      "name:ja": "トンガリロ国立公園",
-      "name:mk": "Национален парк Тонгариро",
-      "protect_class": "2",
-      "source": "DoC",
-      "type": "boundary",
-      "wikidata": "Q202845"
-    },
-    "wiki": {
-      "name": "Tongariro National Park",
-      "wikidataId": "Q202845",
-      "osmRelationId": "3659089",
-      "country": "NZL",
-      "wikipedia": "Tongariro_National_Park"
-    }
+    "boundary": "protected_area",
+    "name": "Tongariro National Park",
+    "name:cs": "Národní park Tongariro",
+    "name:ja": "トンガリロ国立公園",
+    "name:mk": "Национален парк Тонгариро",
+    "protect_class": "2",
+    "source": "DoC",
+    "type": "boundary",
+    "wikidata": "Q202845"
   },
   "geometry": {
     "type": "MultiPolygon",

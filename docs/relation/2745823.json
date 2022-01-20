@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 2745823,
   "properties": {
-    "area": 41.76,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Nationaal Park De Maasduinen",
-      "name:de": "Nationalpark Die Massdünen",
-      "name:nl": "Nationaal Park De Maasduinen",
-      "source": "prov. Limburg",
-      "type": "multipolygon",
-      "wikidata": "Q1702950"
-    },
-    "wiki": {
-      "name": "De Maasduinen National Park",
-      "wikidataId": "Q1702950",
-      "osmRelationId": "2745823",
-      "country": "NLD",
-      "wikipedia": "De_Maasduinen_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Nationaal Park De Maasduinen",
+    "name:de": "Nationalpark Die Massdünen",
+    "name:nl": "Nationaal Park De Maasduinen",
+    "source": "prov. Limburg",
+    "type": "multipolygon",
+    "wikidata": "Q1702950"
   },
   "geometry": {
     "type": "MultiPolygon",

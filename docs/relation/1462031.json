@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 1462031,
   "properties": {
-    "area": 14.74,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "park",
-      "name": "Point Pelee National Park",
-      "phone": "+1-888-773-8888",
-      "type": "multipolygon",
-      "website": "https://www.pc.gc.ca/en/pn-np/on/pelee",
-      "wikidata": "Q1153938"
-    },
-    "wiki": {
-      "name": "Point Pelee National Park",
-      "wikidataId": "Q1153938",
-      "osmRelationId": "1462031",
-      "country": "CAN",
-      "wikipedia": "Point_Pelee_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "park",
+    "name": "Point Pelee National Park",
+    "phone": "+1-888-773-8888",
+    "type": "multipolygon",
+    "website": "https://www.pc.gc.ca/en/pn-np/on/pelee",
+    "wikidata": "Q1153938"
   },
   "geometry": {
     "type": "Polygon",

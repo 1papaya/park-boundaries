@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 10076228,
   "properties": {
-    "area": 5.34,
-    "osm": {
-      "leisure": "nature_reserve",
-      "name": "Mundy Regional Park",
-      "type": "multipolygon",
-      "wikidata": "Q1414828",
-      "wikipedia": "en:Mundy Regional Park"
-    },
-    "wiki": {
-      "name": "Mundy Regional Park",
-      "wikidataId": "Q1414828",
-      "osmRelationId": "10076228",
-      "country": "AUS",
-      "wikipedia": "Mundy_Regional_Park"
-    }
+    "leisure": "nature_reserve",
+    "name": "Mundy Regional Park",
+    "type": "multipolygon",
+    "wikidata": "Q1414828",
+    "wikipedia": "en:Mundy Regional Park"
   },
   "geometry": {
     "type": "Polygon",

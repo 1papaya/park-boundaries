@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 7737469,
   "properties": {
-    "area": 39.02,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Bramley National Park",
-      "operator": "WA-Department of Parks and Wildlife (DPaW)",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "ref:capad:pa_id": "WA_47956",
-      "source": "CAPAD 2016 - Terrestrial",
-      "start_date": "2004-12-08",
-      "type": "boundary",
-      "wikidata": "Q39080056"
-    },
-    "wiki": {
-      "name": "Bramley National Park",
-      "wikidataId": "Q39080056",
-      "osmRelationId": "7737469",
-      "country": "AUS",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Bramley National Park",
+    "operator": "WA-Department of Parks and Wildlife (DPaW)",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "ref:capad:pa_id": "WA_47956",
+    "source": "CAPAD 2016 - Terrestrial",
+    "start_date": "2004-12-08",
+    "type": "boundary",
+    "wikidata": "Q39080056"
   },
   "geometry": {
     "type": "MultiPolygon",

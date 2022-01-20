@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 7761352,
   "properties": {
-    "area": 312.05,
-    "osm": {
-      "boundary": "national_park",
-      "heritage": "1",
-      "heritage:operator": "whc",
-      "name": "Parco Nazionale delle Dolomiti Bellunesi",
-      "name:de": "Nationalpark Belluneser Dolomiten",
-      "name:fr": "Parc national des Dolomites Bellunesi",
-      "name:it": "Parco Nazionale Dolomiti Bellunesi",
-      "protect_class": "2",
-      "protected_area": "national_park",
-      "ref:EUAP": "0015",
-      "related_law": "DMA 20/04/1990;DPR 12/07/1993",
-      "type": "multipolygon",
-      "website": "http://www.dolomitipark.it/",
-      "wikidata": "Q1086637",
-      "wikipedia": "it:Parco nazionale delle Dolomiti Bellunesi"
-    },
-    "wiki": {
-      "name": "Dolomiti Bellunesi National Park",
-      "wikidataId": "Q1086637",
-      "osmRelationId": "7761352",
-      "country": "ITA",
-      "wikipedia": "Dolomiti_Bellunesi_National_Park"
-    }
+    "boundary": "national_park",
+    "heritage": "1",
+    "heritage:operator": "whc",
+    "name": "Parco Nazionale delle Dolomiti Bellunesi",
+    "name:de": "Nationalpark Belluneser Dolomiten",
+    "name:fr": "Parc national des Dolomites Bellunesi",
+    "name:it": "Parco Nazionale Dolomiti Bellunesi",
+    "protect_class": "2",
+    "protected_area": "national_park",
+    "ref:EUAP": "0015",
+    "related_law": "DMA 20/04/1990;DPR 12/07/1993",
+    "type": "multipolygon",
+    "website": "http://www.dolomitipark.it/",
+    "wikidata": "Q1086637",
+    "wikipedia": "it:Parco nazionale delle Dolomiti Bellunesi"
   },
   "geometry": {
     "type": "Polygon",

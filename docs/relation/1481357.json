@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 1481357,
   "properties": {
-    "area": 65.77,
-    "osm": {
-      "attribution": "Queensland Department of Environment and Science",
-      "boundary": "protected_area",
-      "governance_type": "government",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Herberton Range National Park",
-      "operator": "Queensland Department of Environment and Science",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "ref:capad:pa_id": "QLD_1003HRP001",
-      "ref:paoq:sysintcode": "1003HRP001",
-      "start_date": "2008-11-28",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Herberton Range National Park",
-      "wikidataId": "Q1609380",
-      "osmRelationId": "1481357",
-      "country": "AUS",
-      "wikipedia": null
-    }
+    "attribution": "Queensland Department of Environment and Science",
+    "boundary": "protected_area",
+    "governance_type": "government",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Herberton Range National Park",
+    "operator": "Queensland Department of Environment and Science",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "ref:capad:pa_id": "QLD_1003HRP001",
+    "ref:paoq:sysintcode": "1003HRP001",
+    "start_date": "2008-11-28",
+    "type": "boundary"
   },
   "geometry": {
     "type": "MultiPolygon",

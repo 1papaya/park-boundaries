@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 10241242,
   "properties": {
-    "area": 421.12,
-    "osm": {
-      "boundary": "national_park",
-      "heritage": "1",
-      "heritage:operator": "whc",
-      "name": "Nacionalni Park Durmitor",
-      "name:cs": "Národní park Durmitor",
-      "name:de": "Nationalpark Durmitor",
-      "name:en": "Durmitor National Park",
-      "name:es": "Parque nacional Durmitor",
-      "name:ru": "Национальный парк Дурмитор",
-      "name:sr": "Национални парк Дурмитор",
-      "name:sr-Latn": "Nacionalni park Durmitor",
-      "ref:whc": "100",
-      "start_date": "1952",
-      "type": "boundary",
-      "whc:inscription_date": "1980",
-      "wikidata": "Q3364446"
-    },
-    "wiki": {
-      "name": "Durmitor National Park",
-      "wikidataId": "Q3364446",
-      "osmRelationId": "10241242",
-      "country": "MNE",
-      "wikipedia": null
-    }
+    "boundary": "national_park",
+    "heritage": "1",
+    "heritage:operator": "whc",
+    "name": "Nacionalni Park Durmitor",
+    "name:cs": "Národní park Durmitor",
+    "name:de": "Nationalpark Durmitor",
+    "name:en": "Durmitor National Park",
+    "name:es": "Parque nacional Durmitor",
+    "name:ru": "Национальный парк Дурмитор",
+    "name:sr": "Национални парк Дурмитор",
+    "name:sr-Latn": "Nacionalni park Durmitor",
+    "ref:whc": "100",
+    "start_date": "1952",
+    "type": "boundary",
+    "whc:inscription_date": "1980",
+    "wikidata": "Q3364446"
   },
   "geometry": {
     "type": "Polygon",

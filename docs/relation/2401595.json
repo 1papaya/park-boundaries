@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 2401595,
   "properties": {
-    "area": 664.52,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parque Nacional de Picos de Europa",
-      "name:en": "Picos de Europa National Park",
-      "name:fr": "Parc national des pics d'Europe",
-      "protect_class": "2",
-      "type": "boundary",
-      "website": "https://parquenacionalpicoseuropa.es/",
-      "wikidata": "Q48567",
-      "wikimedia_commons": "Category:Picos de Europa National Park",
-      "wikipedia": "es:Parque nacional de Picos de Europa"
-    },
-    "wiki": {
-      "name": "Picos de Europa National Park",
-      "wikidataId": "Q48567",
-      "osmRelationId": "2401595",
-      "country": "ESP",
-      "wikipedia": "Picos_de_Europa_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parque Nacional de Picos de Europa",
+    "name:en": "Picos de Europa National Park",
+    "name:fr": "Parc national des pics d'Europe",
+    "protect_class": "2",
+    "type": "boundary",
+    "website": "https://parquenacionalpicoseuropa.es/",
+    "wikidata": "Q48567",
+    "wikimedia_commons": "Category:Picos de Europa National Park",
+    "wikipedia": "es:Parque nacional de Picos de Europa"
   },
   "geometry": {
     "type": "Polygon",

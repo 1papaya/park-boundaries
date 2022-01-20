@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 2746216,
   "properties": {
-    "area": 35.59,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Nationaal Park Zuid-Kennemerland",
-      "source": "NP2002+BIP",
-      "source:date": "1995-11-21",
-      "type": "multipolygon",
-      "wikidata": "Q774464"
-    },
-    "wiki": {
-      "name": "Zuid-Kennemerland National Park",
-      "wikidataId": "Q774464",
-      "osmRelationId": "2746216",
-      "country": "NLD",
-      "wikipedia": "Zuid-Kennemerland_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Nationaal Park Zuid-Kennemerland",
+    "source": "NP2002+BIP",
+    "source:date": "1995-11-21",
+    "type": "multipolygon",
+    "wikidata": "Q774464"
   },
   "geometry": {
     "type": "Polygon",

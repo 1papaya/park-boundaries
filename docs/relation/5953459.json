@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 5953459,
   "properties": {
-    "area": 189.94,
-    "osm": {
-      "boundary": "national_park",
-      "boundary:type": "protected_area",
-      "gnis:feature_id": "904780",
-      "leisure": "nature_reserve",
-      "name": "Carlsbad Caverns National Park",
-      "operator": "National Park Service",
-      "ownership": "national",
-      "protect_class": "2",
-      "protected": "perpetuity",
-      "protection_title": "National Park",
-      "type": "boundary",
-      "website": "https://www.nps.gov/cave/index.htm",
-      "wikidata": "Q273195",
-      "wikipedia": "en:Carlsbad Caverns National Park"
-    },
-    "wiki": {
-      "name": "Carlsbad Caverns National Park",
-      "wikidataId": "Q273195",
-      "osmRelationId": "5953459",
-      "country": "USA",
-      "wikipedia": "Carlsbad_Caverns_National_Park"
-    }
+    "boundary": "national_park",
+    "boundary:type": "protected_area",
+    "gnis:feature_id": "904780",
+    "leisure": "nature_reserve",
+    "name": "Carlsbad Caverns National Park",
+    "operator": "National Park Service",
+    "ownership": "national",
+    "protect_class": "2",
+    "protected": "perpetuity",
+    "protection_title": "National Park",
+    "type": "boundary",
+    "website": "https://www.nps.gov/cave/index.htm",
+    "wikidata": "Q273195",
+    "wikipedia": "en:Carlsbad Caverns National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

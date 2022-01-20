@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 3361243,
   "properties": {
-    "area": 26.88,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Mornington Peninsula National Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "National Park - Schedule 2, National Parks Act",
-      "short_name": "Mornington Peninsula NP",
-      "source": "VicMap ParkRes",
-      "start_date": "1975-12-01",
-      "type": "boundary",
-      "vicmap:prims_id": "3290",
-      "vicmap:uid": "3290_II",
-      "wikidata": "Q1534934"
-    },
-    "wiki": {
-      "name": "Mornington Peninsula National Park",
-      "wikidataId": "Q1534934",
-      "osmRelationId": "3361243",
-      "country": "AUS",
-      "wikipedia": "Mornington_Peninsula_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Mornington Peninsula National Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "National Park - Schedule 2, National Parks Act",
+    "short_name": "Mornington Peninsula NP",
+    "source": "VicMap ParkRes",
+    "start_date": "1975-12-01",
+    "type": "boundary",
+    "vicmap:prims_id": "3290",
+    "vicmap:uid": "3290_II",
+    "wikidata": "Q1534934"
   },
   "geometry": {
     "type": "MultiPolygon",

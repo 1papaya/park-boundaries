@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 541798,
   "properties": {
-    "area": 108.53,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Dhilba Guuranda-Innes National Park",
-      "protect_class": "2",
-      "ref:capad:pa_id": "SA_0224",
-      "ref:dew:park_id": "224",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Innes National Park",
-      "wikidataId": "Q1234100",
-      "osmRelationId": "541798",
-      "country": "AUS",
-      "wikipedia": "Dhilba_Guuranda%E2%80%93Innes_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Dhilba Guuranda-Innes National Park",
+    "protect_class": "2",
+    "ref:capad:pa_id": "SA_0224",
+    "ref:dew:park_id": "224",
+    "type": "boundary"
   },
   "geometry": {
     "type": "MultiPolygon",

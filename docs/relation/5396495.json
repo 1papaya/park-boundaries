@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5396495,
   "properties": {
-    "area": 113.89,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Lava Beds Wilderness",
-      "operator": "National Park Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "multipolygon",
-      "wikidata": "Q27994981"
-    },
-    "wiki": {
-      "name": "Lava Beds Wilderness",
-      "wikidataId": "Q27994981",
-      "osmRelationId": "5396495",
-      "country": "USA",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Lava Beds Wilderness",
+    "operator": "National Park Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "multipolygon",
+    "wikidata": "Q27994981"
   },
   "geometry": {
     "type": "MultiPolygon",

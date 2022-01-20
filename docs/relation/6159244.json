@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 6159244,
   "properties": {
-    "area": 98.53,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "El Paso Mountains Wilderness",
-      "operator": "BLM",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q5351780"
-    },
-    "wiki": {
-      "name": "El Paso Mountains Wilderness",
-      "wikidataId": "Q5351780",
-      "osmRelationId": "6159244",
-      "country": "USA",
-      "wikipedia": "El_Paso_Mountains_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "El Paso Mountains Wilderness",
+    "operator": "BLM",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q5351780"
   },
   "geometry": {
     "type": "Polygon",

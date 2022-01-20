@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 8104388,
   "properties": {
-    "area": 184.08,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Flood Plains National Park",
-      "note": "Border is approximate",
-      "start_date": "7-8-1984",
-      "type": "multipolygon",
-      "wikidata": "Q5460051"
-    },
-    "wiki": {
-      "name": "Flood Plains National Park",
-      "wikidataId": "Q5460051",
-      "osmRelationId": "8104388",
-      "country": "LKA",
-      "wikipedia": "Flood_Plains_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Flood Plains National Park",
+    "note": "Border is approximate",
+    "start_date": "7-8-1984",
+    "type": "multipolygon",
+    "wikidata": "Q5460051"
   },
   "geometry": {
     "type": "Polygon",

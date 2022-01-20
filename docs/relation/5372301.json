@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5372301,
   "properties": {
-    "area": 2649.34,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "John Muir Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q1701164"
-    },
-    "wiki": {
-      "name": "John Muir Wilderness",
-      "wikidataId": "Q1701164",
-      "osmRelationId": "5372301",
-      "country": "USA",
-      "wikipedia": "John_Muir_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "John Muir Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q1701164"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 7774053,
   "properties": {
-    "area": 171.71,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Cagar Alam Pulau Batanta Barat",
-      "name:en": "West Batanta Island Nature Reserve",
-      "type": "multipolygon"
-    },
-    "wiki": {
-      "name": "Q104603717",
-      "wikidataId": "Q104603717",
-      "osmRelationId": "7774053",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Pulau Batanta Barat",
+    "name:en": "West Batanta Island Nature Reserve",
+    "type": "multipolygon"
   },
   "geometry": {
     "type": "Polygon",

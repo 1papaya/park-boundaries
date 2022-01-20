@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 7224395,
   "properties": {
-    "area": 15.69,
-    "osm": {
-      "governance_type": "Länsstyrelse",
-      "leisure": "nature_reserve",
-      "lst:area_ha": "1573.85",
-      "lst:ref": "2002531.0",
-      "lst:tillkomst": "1990-08-31",
-      "name": "Båtfors",
-      "operator": "Länsstyrelsen i Uppsala län",
-      "protect_class": "1",
-      "protection_title": "Naturreservat",
-      "ref:DIARIENR": "511-4747-11",
-      "ref:NVRID": "2002531",
-      "related_law": "Miljöbalken",
-      "snowmobile": "no",
-      "start_date": "2014/01/30",
-      "type": "multipolygon",
-      "wikidata": "Q30180455"
-    },
-    "wiki": {
-      "name": "Båtfors",
-      "wikidataId": "Q30180455",
-      "osmRelationId": "7224395",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "governance_type": "Länsstyrelse",
+    "leisure": "nature_reserve",
+    "lst:area_ha": "1573.85",
+    "lst:ref": "2002531.0",
+    "lst:tillkomst": "1990-08-31",
+    "name": "Båtfors",
+    "operator": "Länsstyrelsen i Uppsala län",
+    "protect_class": "1",
+    "protection_title": "Naturreservat",
+    "ref:DIARIENR": "511-4747-11",
+    "ref:NVRID": "2002531",
+    "related_law": "Miljöbalken",
+    "snowmobile": "no",
+    "start_date": "2014/01/30",
+    "type": "multipolygon",
+    "wikidata": "Q30180455"
   },
   "geometry": {
     "type": "Polygon",

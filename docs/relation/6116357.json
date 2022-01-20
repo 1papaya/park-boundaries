@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 6116357,
   "properties": {
-    "area": 481.53,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Mount Baker Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "multipolygon",
-      "wikidata": "Q3326014"
-    },
-    "wiki": {
-      "name": "Mount Baker Wilderness",
-      "wikidataId": "Q3326014",
-      "osmRelationId": "6116357",
-      "country": "USA",
-      "wikipedia": "Mount_Baker_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Mount Baker Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "multipolygon",
+    "wikidata": "Q3326014"
   },
   "geometry": {
     "type": "Polygon",

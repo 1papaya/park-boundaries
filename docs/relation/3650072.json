@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 3650072,
   "properties": {
-    "area": 75.65,
-    "osm": {
-      "boundary": "national_park",
-      "heritage": "1",
-      "heritage:operator": "whc",
-      "heritage:website": "http://whc.unesco.org/en/list/1133",
-      "name": "Nationalpark Hainich",
-      "protect_class": "2",
-      "ref:whc": "1133",
-      "short_protection_title": "NLP",
-      "type": "boundary",
-      "website": "https://www.nationalpark-hainich.de/",
-      "whc:criteria": "(ix)",
-      "whc:inscription_date": "2011",
-      "wikidata": "Q702528",
-      "wikipedia": "de:Nationalpark Hainich"
-    },
-    "wiki": {
-      "name": "Hainich National Park",
-      "wikidataId": "Q702528",
-      "osmRelationId": "3650072",
-      "country": "DEU",
-      "wikipedia": "Hainich_National_Park"
-    }
+    "boundary": "national_park",
+    "heritage": "1",
+    "heritage:operator": "whc",
+    "heritage:website": "http://whc.unesco.org/en/list/1133",
+    "name": "Nationalpark Hainich",
+    "protect_class": "2",
+    "ref:whc": "1133",
+    "short_protection_title": "NLP",
+    "type": "boundary",
+    "website": "https://www.nationalpark-hainich.de/",
+    "whc:criteria": "(ix)",
+    "whc:inscription_date": "2011",
+    "wikidata": "Q702528",
+    "wikipedia": "de:Nationalpark Hainich"
   },
   "geometry": {
     "type": "Polygon",

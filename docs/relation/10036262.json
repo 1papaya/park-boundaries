@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 10036262,
   "properties": {
-    "area": 31.39,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Parque nacional de las Tablas de Daimiel",
-      "name:ca": "Parc Nacional de Tablas de Daimiel",
-      "name:en": "Tablas de Daimiel National Park",
-      "name:eu": "Tablas de Daimiel Parke Nazionala",
-      "name:fr": "Parc national des Tablas de Daimiel",
-      "name:nl": "Nationaal park Tablas de Daimiel",
-      "protect_class": "2",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Tablas de Daimiel National Park",
-      "wikidataId": "Q1520216",
-      "osmRelationId": "10036262",
-      "country": "ESP",
-      "wikipedia": "Tablas_de_Daimiel_National_Park"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque nacional de las Tablas de Daimiel",
+    "name:ca": "Parc Nacional de Tablas de Daimiel",
+    "name:en": "Tablas de Daimiel National Park",
+    "name:eu": "Tablas de Daimiel Parke Nazionala",
+    "name:fr": "Parc national des Tablas de Daimiel",
+    "name:nl": "Nationaal park Tablas de Daimiel",
+    "protect_class": "2",
+    "type": "boundary"
   },
   "geometry": {
     "type": "Polygon",

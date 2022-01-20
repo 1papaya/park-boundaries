@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 9348947,
   "properties": {
-    "area": 0.5,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:anmärkning": "Dossienr. Lst: 0120-02-031",
-      "lst:area_ha": "49.95",
-      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
-      "lst:ref": "0102079",
-      "lst:tillkomst": "1974-05-07",
-      "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
-      "name": "Mörtö-Bunsö",
-      "type": "multipolygon",
-      "wikidata": "Q10593699"
-    },
-    "wiki": {
-      "name": "Mörtö-Bunsö",
-      "wikidataId": "Q10593699",
-      "osmRelationId": "9348947",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "Dossienr. Lst: 0120-02-031",
+    "lst:area_ha": "49.95",
+    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+    "lst:ref": "0102079",
+    "lst:tillkomst": "1974-05-07",
+    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+    "name": "Mörtö-Bunsö",
+    "type": "multipolygon",
+    "wikidata": "Q10593699"
   },
   "geometry": {
     "type": "MultiPolygon",

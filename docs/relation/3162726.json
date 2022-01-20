@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 3162726,
   "properties": {
-    "area": 6.27,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "VI",
-      "leisure": "nature_reserve",
-      "name": "Wilsons Promontory Marine Reserve",
-      "operator": "Parks Victoria",
-      "protect_class": "6",
-      "protection_title": "National Parks Act Schedule 4 Park Or Reserve",
-      "short_name": "Wilsons Promontory MR",
-      "source": "VicMap ParkRes",
-      "start_date": "1986-04-18",
-      "type": "boundary",
-      "vicmap:prims_id": "3392",
-      "vicmap:uid": "3392_VI"
-    },
-    "wiki": {
-      "name": "Wilsons Promontory Marine National Park",
-      "wikidataId": "Q8023301",
-      "osmRelationId": "3162726",
-      "country": "AUS",
-      "wikipedia": "Wilsons_Promontory_Marine_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "VI",
+    "leisure": "nature_reserve",
+    "name": "Wilsons Promontory Marine Reserve",
+    "operator": "Parks Victoria",
+    "protect_class": "6",
+    "protection_title": "National Parks Act Schedule 4 Park Or Reserve",
+    "short_name": "Wilsons Promontory MR",
+    "source": "VicMap ParkRes",
+    "start_date": "1986-04-18",
+    "type": "boundary",
+    "vicmap:prims_id": "3392",
+    "vicmap:uid": "3392_VI"
   },
   "geometry": {
     "type": "MultiPolygon",

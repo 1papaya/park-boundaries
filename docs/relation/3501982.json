@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 3501982,
   "properties": {
-    "area": 4.03,
-    "osm": {
-      "boundary": "national_park",
-      "boundary:type": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Leaf Wilderness",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "wilderness",
-      "type": "multipolygon",
-      "wikidata": "Q6508848",
-      "wikipedia": "en:Leaf River Wildlife Management Area"
-    },
-    "wiki": {
-      "name": "Leaf River Wildlife Management Area",
-      "wikidataId": "Q6508848",
-      "osmRelationId": "3501982",
-      "country": "USA",
-      "wikipedia": "Leaf_River_Wildlife_Management_Area"
-    }
+    "boundary": "national_park",
+    "boundary:type": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Leaf Wilderness",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "wilderness",
+    "type": "multipolygon",
+    "wikidata": "Q6508848",
+    "wikipedia": "en:Leaf River Wildlife Management Area"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,20 +2,10 @@
   "type": "Feature",
   "id": 2746127,
   "properties": {
-    "area": 37.6,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Nationaal Park Dwingelderveld",
-      "type": "boundary",
-      "wikidata": "Q1651303"
-    },
-    "wiki": {
-      "name": "Dwingelderveld National Park",
-      "wikidataId": "Q1651303",
-      "osmRelationId": "2746127",
-      "country": "NLD",
-      "wikipedia": "Dwingelderveld_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Nationaal Park Dwingelderveld",
+    "type": "boundary",
+    "wikidata": "Q1651303"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 9367812,
   "properties": {
-    "area": 0.35,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:anmärkning": "Dossienr. Lst: 0192-02-006",
-      "lst:area_ha": "35.3",
-      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Slutligt inmätt",
-      "lst:tillkomst": "2004-09-22",
-      "name": "Rosenlundsskogen",
-      "natural": "wood",
-      "type": "multipolygon",
-      "wikidata": "Q19721299"
-    },
-    "wiki": {
-      "name": "Rosenlundsskogen Nature Reserve",
-      "wikidataId": "Q19721299",
-      "osmRelationId": "9367812",
-      "country": "SWE",
-      "wikipedia": "Rosenlundsskogen_Nature_Reserve"
-    }
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "Dossienr. Lst: 0192-02-006",
+    "lst:area_ha": "35.3",
+    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Slutligt inmätt",
+    "lst:tillkomst": "2004-09-22",
+    "name": "Rosenlundsskogen",
+    "natural": "wood",
+    "type": "multipolygon",
+    "wikidata": "Q19721299"
   },
   "geometry": {
     "type": "Polygon",

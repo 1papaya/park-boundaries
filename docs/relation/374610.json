@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 374610,
   "properties": {
-    "area": 264.92,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Lower Glenelg National Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "National Park - Schedule 2, National Parks Act",
-      "short_name": "Lower Glenelg NP",
-      "source": "VicMap ParkRes",
-      "start_date": "1969-12-16",
-      "type": "boundary",
-      "vicmap:prims_id": "3300",
-      "vicmap:uid": "3300_II",
-      "wikidata": "Q671808"
-    },
-    "wiki": {
-      "name": "Lower Glenelg National Park",
-      "wikidataId": "Q671808",
-      "osmRelationId": "374610",
-      "country": "AUS",
-      "wikipedia": "Lower_Glenelg_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Lower Glenelg National Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "National Park - Schedule 2, National Parks Act",
+    "short_name": "Lower Glenelg NP",
+    "source": "VicMap ParkRes",
+    "start_date": "1969-12-16",
+    "type": "boundary",
+    "vicmap:prims_id": "3300",
+    "vicmap:uid": "3300_II",
+    "wikidata": "Q671808"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 1536362,
   "properties": {
-    "area": 2830.34,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "281521.6",
-      "lst:note": "N2000 SITE: SE0820216",
-      "lst:ref": "NR2001071",
-      "lst:restrictions": "Älgjakt delomr 1 mink hela området",
-      "lst:tillkomst": "1986",
-      "lst:url": "http://www.bd.lst.se/skydd_gvare",
-      "name": "Sjaunja",
-      "type": "multipolygon",
-      "wikidata": "Q1789523"
-    },
-    "wiki": {
-      "name": "Sjaunja Nature Reserve",
-      "wikidataId": "Q1789523",
-      "osmRelationId": "1536362",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "281521.6",
+    "lst:note": "N2000 SITE: SE0820216",
+    "lst:ref": "NR2001071",
+    "lst:restrictions": "Älgjakt delomr 1 mink hela området",
+    "lst:tillkomst": "1986",
+    "lst:url": "http://www.bd.lst.se/skydd_gvare",
+    "name": "Sjaunja",
+    "type": "multipolygon",
+    "wikidata": "Q1789523"
   },
   "geometry": {
     "type": "Polygon",

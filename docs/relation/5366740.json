@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5366740,
   "properties": {
-    "area": 53.71,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Chimney Peak Wilderness",
-      "operator": "BLM",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "multipolygon",
-      "wikidata": "Q5099402"
-    },
-    "wiki": {
-      "name": "Chimney Peak Wilderness",
-      "wikidataId": "Q5099402",
-      "osmRelationId": "5366740",
-      "country": "USA",
-      "wikipedia": "Chimney_Peak_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Chimney Peak Wilderness",
+    "operator": "BLM",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "multipolygon",
+    "wikidata": "Q5099402"
   },
   "geometry": {
     "type": "Polygon",

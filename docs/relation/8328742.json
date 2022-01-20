@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 8328742,
   "properties": {
-    "area": 2451.79,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Purnululu National Park",
-      "protect_class": "2",
-      "ref:capad:pa_id": "WA_39897",
-      "source": "CAPAD 2016 - Terrestrial",
-      "type": "boundary",
-      "wikidata": "Q679568",
-      "wikipedia": "en:Purnululu National Park"
-    },
-    "wiki": {
-      "name": "Purnululu National Park",
-      "wikidataId": "Q679568",
-      "osmRelationId": "8328742",
-      "country": "AUS",
-      "wikipedia": "Purnululu_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Purnululu National Park",
+    "protect_class": "2",
+    "ref:capad:pa_id": "WA_39897",
+    "source": "CAPAD 2016 - Terrestrial",
+    "type": "boundary",
+    "wikidata": "Q679568",
+    "wikipedia": "en:Purnululu National Park"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 12582137,
   "properties": {
-    "area": 25.9,
-    "osm": {
-      "area": "yes",
-      "boundary": "national_park",
-      "name": "Parque nacional La Cangreja",
-      "name:en": "La Cangreja National Park",
-      "name:pl": "Park Narodowy La Cangreja",
-      "name:zh": "拉坎格雷哈國家公園",
-      "note": "please don't delete the relation, it is required to link with wikidata",
-      "operator": "Área de Conservación Central (ACC)",
-      "protect_class": "2",
-      "ref:CR:SINAC": "P26",
-      "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
-      "start_date": "2002",
-      "type": "boundary",
-      "wikidata": "Q4552189",
-      "wikipedia": "es:Parque nacional La Cangreja"
-    },
-    "wiki": {
-      "name": "La Cangreja National Park",
-      "wikidataId": "Q4552189",
-      "osmRelationId": "12582137",
-      "country": "CRI",
-      "wikipedia": "La_Cangreja_National_Park"
-    }
+    "area": "yes",
+    "boundary": "national_park",
+    "name": "Parque nacional La Cangreja",
+    "name:en": "La Cangreja National Park",
+    "name:pl": "Park Narodowy La Cangreja",
+    "name:zh": "拉坎格雷哈國家公園",
+    "note": "please don't delete the relation, it is required to link with wikidata",
+    "operator": "Área de Conservación Central (ACC)",
+    "protect_class": "2",
+    "ref:CR:SINAC": "P26",
+    "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
+    "start_date": "2002",
+    "type": "boundary",
+    "wikidata": "Q4552189",
+    "wikipedia": "es:Parque nacional La Cangreja"
   },
   "geometry": {
     "type": "Polygon",

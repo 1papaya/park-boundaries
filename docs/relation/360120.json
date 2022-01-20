@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 360120,
   "properties": {
-    "area": 7,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area": "7029108.341",
-      "lst:area_ha": "702.9",
-      "lst:objnr": "81055",
-      "lst:tillkomst": "2008-06-10",
-      "name": "Salen",
-      "type": "multipolygon",
-      "wikidata": "Q30179147"
-    },
-    "wiki": {
-      "name": "Salen",
-      "wikidataId": "Q30179147",
-      "osmRelationId": "360120",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area": "7029108.341",
+    "lst:area_ha": "702.9",
+    "lst:objnr": "81055",
+    "lst:tillkomst": "2008-06-10",
+    "name": "Salen",
+    "type": "multipolygon",
+    "wikidata": "Q30179147"
   },
   "geometry": {
     "type": "Polygon",

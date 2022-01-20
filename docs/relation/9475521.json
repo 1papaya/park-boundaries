@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 9475521,
   "properties": {
-    "area": 1107.56,
-    "osm": {
-      "boundary": "national_park",
-      "iucn_level": "2",
-      "leisure": "nature_reserve",
-      "name": "Chiquibul National Park",
-      "operator": "Friends for Conservation and Development",
-      "start_date": "1995",
-      "type": "multipolygon",
-      "wikidata": "Q5101755"
-    },
-    "wiki": {
-      "name": "Chiquibul National Park",
-      "wikidataId": "Q5101755",
-      "osmRelationId": "9475521",
-      "country": "BLZ",
-      "wikipedia": "Chiquibul_National_Park"
-    }
+    "boundary": "national_park",
+    "iucn_level": "2",
+    "leisure": "nature_reserve",
+    "name": "Chiquibul National Park",
+    "operator": "Friends for Conservation and Development",
+    "start_date": "1995",
+    "type": "multipolygon",
+    "wikidata": "Q5101755"
   },
   "geometry": {
     "type": "Polygon",

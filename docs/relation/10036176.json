@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 10036176,
   "properties": {
-    "area": 623.8,
-    "osm": {
-      "boundary": "protected_area",
-      "heritage": "yes",
-      "heritage:operator": "whc",
-      "leisure": "nature_reserve",
-      "name": "Parque Nacional de Doñana",
-      "name:ar": "بارك دنانة الوطنية",
-      "name:ca": "Parc Nacional de Doñana",
-      "name:de": "Nationalpark Doñana",
-      "name:en": "Doñana National Park",
-      "name:pt": "Parque Nacional de Doñana",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q463141"
-    },
-    "wiki": {
-      "name": "Doñana National and Natural Park",
-      "wikidataId": "Q463141",
-      "osmRelationId": "10036176",
-      "country": "ESP",
-      "wikipedia": "Do%C3%B1ana_National_Park"
-    }
+    "boundary": "protected_area",
+    "heritage": "yes",
+    "heritage:operator": "whc",
+    "leisure": "nature_reserve",
+    "name": "Parque Nacional de Doñana",
+    "name:ar": "بارك دنانة الوطنية",
+    "name:ca": "Parc Nacional de Doñana",
+    "name:de": "Nationalpark Doñana",
+    "name:en": "Doñana National Park",
+    "name:pt": "Parque Nacional de Doñana",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q463141"
   },
   "geometry": {
     "type": "MultiPolygon",

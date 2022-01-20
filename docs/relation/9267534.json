@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 9267534,
   "properties": {
-    "area": 20.19,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Paddys Ranges State Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "State Park - Schedule 2B, National Parks Act",
-      "short_name": "Paddys Ranges SP",
-      "source": "VicMap ParkRes",
-      "start_date": "1989-10-27",
-      "type": "boundary",
-      "vicmap:prims_id": "3348",
-      "vicmap:uid": "3348_II",
-      "wikidata": "Q7123662"
-    },
-    "wiki": {
-      "name": "Paddys Ranges State Park",
-      "wikidataId": "Q7123662",
-      "osmRelationId": "9267534",
-      "country": "AUS",
-      "wikipedia": "Paddys_Ranges_State_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Paddys Ranges State Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "State Park - Schedule 2B, National Parks Act",
+    "short_name": "Paddys Ranges SP",
+    "source": "VicMap ParkRes",
+    "start_date": "1989-10-27",
+    "type": "boundary",
+    "vicmap:prims_id": "3348",
+    "vicmap:uid": "3348_II",
+    "wikidata": "Q7123662"
   },
   "geometry": {
     "type": "MultiPolygon",

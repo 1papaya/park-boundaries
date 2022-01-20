@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 7785020,
   "properties": {
-    "area": 3.89,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Cagar Alam Pananjung Pangandaran",
-      "name:en": "Pananjung Pangandaran Nature Reserve",
-      "type": "multipolygon"
-    },
-    "wiki": {
-      "name": "Q97237607",
-      "wikidataId": "Q97237607",
-      "osmRelationId": "7785020",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Pananjung Pangandaran",
+    "name:en": "Pananjung Pangandaran Nature Reserve",
+    "type": "multipolygon"
   },
   "geometry": {
     "type": "Polygon",

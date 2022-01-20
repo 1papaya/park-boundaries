@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 10323874,
   "properties": {
-    "area": 0.59,
-    "osm": {
-      "boundary": "protected_area",
-      "name": "Reserva Natural Absoluta Nicolas Wessberg",
-      "operator": "Área de Conservación Tempisque (ACT)",
-      "ref:CR:SINAC": "N02",
-      "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
-      "start_date": "1994",
-      "type": "boundary",
-      "wikidata": "Q96395591",
-      "wikipedia": "en:Nicolas Wessberg Absolute Natural Reserve"
-    },
-    "wiki": {
-      "name": "Nicolas Wessberg Absolute Natural Reserve",
-      "wikidataId": "Q96395591",
-      "osmRelationId": "10323874",
-      "country": "CRI",
-      "wikipedia": "Nicolas_Wessberg_Absolute_Natural_Reserve"
-    }
+    "boundary": "protected_area",
+    "name": "Reserva Natural Absoluta Nicolas Wessberg",
+    "operator": "Área de Conservación Tempisque (ACT)",
+    "ref:CR:SINAC": "N02",
+    "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
+    "start_date": "1994",
+    "type": "boundary",
+    "wikidata": "Q96395591",
+    "wikipedia": "en:Nicolas Wessberg Absolute Natural Reserve"
   },
   "geometry": {
     "type": "Polygon",

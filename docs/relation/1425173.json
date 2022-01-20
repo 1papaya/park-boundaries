@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 1425173,
   "properties": {
-    "area": 1.58,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:ref": "1302090",
-      "name": "Gårdshults naturreservat",
-      "source": "Länsstyrelsen i Hallands län (gis.lst.se)",
-      "type": "multipolygon",
-      "wikidata": "Q10512535"
-    },
-    "wiki": {
-      "name": "Gårdshult",
-      "wikidataId": "Q10512535",
-      "osmRelationId": "1425173",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:ref": "1302090",
+    "name": "Gårdshults naturreservat",
+    "source": "Länsstyrelsen i Hallands län (gis.lst.se)",
+    "type": "multipolygon",
+    "wikidata": "Q10512535"
   },
   "geometry": {
     "type": "Polygon",

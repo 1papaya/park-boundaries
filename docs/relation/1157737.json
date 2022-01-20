@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 1157737,
   "properties": {
-    "area": 52.04,
-    "osm": {
-      "boundary": "protected_area",
-      "contact:website": "http://www.gobiernodecanarias.org/cmayot/espaciosnaturales/espaciosnaturales/lanzarote/l0.html",
-      "leisure": "nature_reserve",
-      "name": "Parque Nacional de Timanfaya",
-      "name:ar": "تيمانفايا الحديقة الوطنية",
-      "name:de": "Nationalpark Timanfaya",
-      "name:en": "Timanfaya National Park",
-      "name:fr": "Parc national de Timanfaya",
-      "operator": "Comunidad Autónoma de Canarias",
-      "protect_class": "2",
-      "protection_title": "Parques Nacionales",
-      "ref": "L-00",
-      "source": "http://www.iag-lgl.csic.es/images/MAPA_TIMANFAYA_LARGE.jpg",
-      "type": "multipolygon",
-      "wikidata": "Q1480521",
-      "wikipedia": "es:Parque nacional de Timanfaya"
-    },
-    "wiki": {
-      "name": "Timanfaya National Park",
-      "wikidataId": "Q1480521",
-      "osmRelationId": "1157737",
-      "country": "ESP",
-      "wikipedia": "Timanfaya_National_Park"
-    }
+    "boundary": "protected_area",
+    "contact:website": "http://www.gobiernodecanarias.org/cmayot/espaciosnaturales/espaciosnaturales/lanzarote/l0.html",
+    "leisure": "nature_reserve",
+    "name": "Parque Nacional de Timanfaya",
+    "name:ar": "تيمانفايا الحديقة الوطنية",
+    "name:de": "Nationalpark Timanfaya",
+    "name:en": "Timanfaya National Park",
+    "name:fr": "Parc national de Timanfaya",
+    "operator": "Comunidad Autónoma de Canarias",
+    "protect_class": "2",
+    "protection_title": "Parques Nacionales",
+    "ref": "L-00",
+    "source": "http://www.iag-lgl.csic.es/images/MAPA_TIMANFAYA_LARGE.jpg",
+    "type": "multipolygon",
+    "wikidata": "Q1480521",
+    "wikipedia": "es:Parque nacional de Timanfaya"
   },
   "geometry": {
     "type": "Polygon",

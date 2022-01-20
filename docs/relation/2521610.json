@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 2521610,
   "properties": {
-    "area": 316.8,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Воронежский государственный природный биосферный заповедник имени В.М. Пескова",
-      "name:en": "Voronezh Nature Reserve",
-      "name:ru": "Воронежский государственный заповедник",
-      "name:uk": "Воронезький заповідник",
-      "official_name": "Воронежский государственный природный биосферный заповедник имени В.М. Пескова",
-      "type": "boundary",
-      "website": "http://www.zapovednik-vrn.ru/",
-      "wikidata": "Q4125414",
-      "wikipedia": "ru:Воронежский заповедник"
-    },
-    "wiki": {
-      "name": "V. Peskov Voronezhsky State Nature Biosphere Reserve",
-      "wikidataId": "Q4125414",
-      "osmRelationId": "2521610",
-      "country": "RUS",
-      "wikipedia": "Voronezh_Nature_Reserve"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Воронежский государственный природный биосферный заповедник имени В.М. Пескова",
+    "name:en": "Voronezh Nature Reserve",
+    "name:ru": "Воронежский государственный заповедник",
+    "name:uk": "Воронезький заповідник",
+    "official_name": "Воронежский государственный природный биосферный заповедник имени В.М. Пескова",
+    "type": "boundary",
+    "website": "http://www.zapovednik-vrn.ru/",
+    "wikidata": "Q4125414",
+    "wikipedia": "ru:Воронежский заповедник"
   },
   "geometry": {
     "type": "Polygon",

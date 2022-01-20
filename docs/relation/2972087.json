@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 2972087,
   "properties": {
-    "area": 18.19,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Walyunga National Park",
-      "protect_class": "2",
-      "ref:capad:pa_id": "WA_02065",
-      "source": "CAPAD 2020",
-      "type": "boundary",
-      "wikidata": "Q614773",
-      "wikipedia": "en:Walyunga National Park"
-    },
-    "wiki": {
-      "name": "Walyunga National Park",
-      "wikidataId": "Q614773",
-      "osmRelationId": "2972087",
-      "country": "AUS",
-      "wikipedia": "Walyunga_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Walyunga National Park",
+    "protect_class": "2",
+    "ref:capad:pa_id": "WA_02065",
+    "source": "CAPAD 2020",
+    "type": "boundary",
+    "wikidata": "Q614773",
+    "wikipedia": "en:Walyunga National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 4521239,
   "properties": {
-    "area": 164.03,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Malolotja Nature Reserve",
-      "type": "multipolygon",
-      "wikidata": "Q6744480"
-    },
-    "wiki": {
-      "name": "Malolotja Nature Reserve",
-      "wikidataId": "Q6744480",
-      "osmRelationId": "4521239",
-      "country": "SWZ",
-      "wikipedia": "Malolotja_National_Park"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Malolotja Nature Reserve",
+    "type": "multipolygon",
+    "wikidata": "Q6744480"
   },
   "geometry": {
     "type": "Polygon",

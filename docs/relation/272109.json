@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 272109,
   "properties": {
-    "area": 195.06,
-    "osm": {
-      "boundary": "national_park",
-      "date_added": "15-Apr-98",
-      "layer": "-1",
-      "leisure": "nature_reserve",
-      "name": "Yumurtalık Lagünü Millî Parkı",
-      "name:en": "Yumurtalik Lagoon National Park",
-      "network": "Ramsar site",
-      "ramsar": "yes",
-      "ramsar_no": "1619",
-      "source": "http://rega.basbakanlik.gov.tr/Eskiler/2005/02/20050209-10.htm",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Yumurtalık Lagoon",
-      "wikidataId": "Q20476308",
-      "osmRelationId": "272109",
-      "country": "TUR",
-      "wikipedia": "Yumurtal%C4%B1k_Lagoon"
-    }
+    "boundary": "national_park",
+    "date_added": "15-Apr-98",
+    "layer": "-1",
+    "leisure": "nature_reserve",
+    "name": "Yumurtalık Lagünü Millî Parkı",
+    "name:en": "Yumurtalik Lagoon National Park",
+    "network": "Ramsar site",
+    "ramsar": "yes",
+    "ramsar_no": "1619",
+    "source": "http://rega.basbakanlik.gov.tr/Eskiler/2005/02/20050209-10.htm",
+    "type": "boundary"
   },
   "geometry": {
     "type": "Polygon",

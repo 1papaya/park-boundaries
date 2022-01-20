@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 2971173,
   "properties": {
-    "area": 3724.42,
-    "osm": {
-      "boundary": "protected_area",
-      "fixme": "approximately",
-      "heritage": "1",
-      "heritage:operator": "whc",
-      "name": "เขตรักษาพันธุ์สัตว์ป่าทุ่งใหญ่นเรศวร",
-      "name:en": "Thung Yai Naresuan Wildlife Sanctuary",
-      "name:fr": "Sanctuaires de faune de Thung Yai-Huai Kha Khaeng",
-      "protect_class": "1a",
-      "ref:whc": "591",
-      "type": "boundary",
-      "whc:criteria": "(vii)(ix)(x)",
-      "whc:inscription_date": "1991",
-      "wikidata": "Q422995",
-      "wikipedia": "en:Thungyai Naresuan Wildlife Sanctuary"
-    },
-    "wiki": {
-      "name": "Thungyai Naresuan Wildlife Sanctuary",
-      "wikidataId": "Q422995",
-      "osmRelationId": "2971173",
-      "country": "THA",
-      "wikipedia": "Thung_Yai_Naresuan_Wildlife_Sanctuary"
-    }
+    "boundary": "protected_area",
+    "fixme": "approximately",
+    "heritage": "1",
+    "heritage:operator": "whc",
+    "name": "เขตรักษาพันธุ์สัตว์ป่าทุ่งใหญ่นเรศวร",
+    "name:en": "Thung Yai Naresuan Wildlife Sanctuary",
+    "name:fr": "Sanctuaires de faune de Thung Yai-Huai Kha Khaeng",
+    "protect_class": "1a",
+    "ref:whc": "591",
+    "type": "boundary",
+    "whc:criteria": "(vii)(ix)(x)",
+    "whc:inscription_date": "1991",
+    "wikidata": "Q422995",
+    "wikipedia": "en:Thungyai Naresuan Wildlife Sanctuary"
   },
   "geometry": {
     "type": "Polygon",

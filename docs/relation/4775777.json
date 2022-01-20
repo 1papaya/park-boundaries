@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 4775777,
   "properties": {
-    "area": 60.66,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parc national du Mont-Mégantic",
-      "type": "multipolygon",
-      "wikidata": "Q1751092",
-      "wikipedia": "fr:Parc national du Mont-Mégantic"
-    },
-    "wiki": {
-      "name": "Mont-Mégantic National Park",
-      "wikidataId": "Q1751092",
-      "osmRelationId": "4775777",
-      "country": "CAN",
-      "wikipedia": "Mont-M%C3%A9gantic_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parc national du Mont-Mégantic",
+    "type": "multipolygon",
+    "wikidata": "Q1751092",
+    "wikipedia": "fr:Parc national du Mont-Mégantic"
   },
   "geometry": {
     "type": "Polygon",

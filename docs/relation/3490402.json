@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 3490402,
   "properties": {
-    "area": 502.04,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Cape Range National Park",
-      "name:de": "Cape-Range-Nationalpark",
-      "protect_class": "2",
-      "ref:capad:pa_id": "WA_27288",
-      "source": "CAPAD 2016 - Terrestrial",
-      "type": "boundary",
-      "wikidata": "Q586786",
-      "wikipedia": "en:Cape Range National Park"
-    },
-    "wiki": {
-      "name": "Cape Range National Park",
-      "wikidataId": "Q586786",
-      "osmRelationId": "3490402",
-      "country": "AUS",
-      "wikipedia": "Cape_Range_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Cape Range National Park",
+    "name:de": "Cape-Range-Nationalpark",
+    "protect_class": "2",
+    "ref:capad:pa_id": "WA_27288",
+    "source": "CAPAD 2016 - Terrestrial",
+    "type": "boundary",
+    "wikidata": "Q586786",
+    "wikipedia": "en:Cape Range National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 144422,
   "properties": {
-    "area": 61.19,
-    "osm": {
-      "boundary": "national_park",
-      "ele": "379",
-      "gnis:county_id": "037",
-      "gnis:created": "09/08/1979",
-      "gnis:feature_id": "877100",
-      "gnis:state_id": "34",
-      "name": "High Point State Park",
-      "operator": "New Jersey Divison of Parks and Forestry",
-      "type": "boundary",
-      "wikidata": "Q24257055"
-    },
-    "wiki": {
-      "name": "High Point State Park",
-      "wikidataId": "Q24257055",
-      "osmRelationId": "144422",
-      "country": "USA",
-      "wikipedia": "High_Point_State_Park"
-    }
+    "boundary": "national_park",
+    "ele": "379",
+    "gnis:county_id": "037",
+    "gnis:created": "09/08/1979",
+    "gnis:feature_id": "877100",
+    "gnis:state_id": "34",
+    "name": "High Point State Park",
+    "operator": "New Jersey Divison of Parks and Forestry",
+    "type": "boundary",
+    "wikidata": "Q24257055"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 2883352,
   "properties": {
-    "area": 8.56,
-    "osm": {
-      "boundary": "protected_area",
-      "description": "TAPUTERANGA MARINE RESERVE. The disturbance of any species or the collection of any specimen is prohibited in the Marine Reserve. Contact the Department of Conservation for further information.",
-      "leisure": "nature_reserve",
-      "maritime": "yes",
-      "name": "Taputeranga Marine Reserve",
-      "protect_class": "4",
-      "protection_title": "Marine Reserve",
-      "ref:linz:hydrographic_id": "195324",
-      "seamark:restricted_area:category": "nature_reserve",
-      "seamark:restricted_area:restriction": "restricted_anchoring",
-      "seamark:type": "restricted_area",
-      "source": "DOC;LINZ;Wellington Harbour Chart;Chart NZ4633",
-      "source:date": "2014-12-01",
-      "type": "boundary",
-      "wikidata": "Q7684872",
-      "wikipedia": "en:Taputeranga Marine Reserve"
-    },
-    "wiki": {
-      "name": "Taputeranga Marine Reserve",
-      "wikidataId": "Q7684872",
-      "osmRelationId": "2883352",
-      "country": "NZL",
-      "wikipedia": "Taputeranga_Marine_Reserve"
-    }
+    "boundary": "protected_area",
+    "description": "TAPUTERANGA MARINE RESERVE. The disturbance of any species or the collection of any specimen is prohibited in the Marine Reserve. Contact the Department of Conservation for further information.",
+    "leisure": "nature_reserve",
+    "maritime": "yes",
+    "name": "Taputeranga Marine Reserve",
+    "protect_class": "4",
+    "protection_title": "Marine Reserve",
+    "ref:linz:hydrographic_id": "195324",
+    "seamark:restricted_area:category": "nature_reserve",
+    "seamark:restricted_area:restriction": "restricted_anchoring",
+    "seamark:type": "restricted_area",
+    "source": "DOC;LINZ;Wellington Harbour Chart;Chart NZ4633",
+    "source:date": "2014-12-01",
+    "type": "boundary",
+    "wikidata": "Q7684872",
+    "wikipedia": "en:Taputeranga Marine Reserve"
   },
   "geometry": {
     "type": "Polygon",

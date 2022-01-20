@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 304725,
   "properties": {
-    "area": 104.43,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Färnebofjärden",
-      "name:en": "Färnebofjärden National Park",
-      "protect_class": "2",
-      "snowmobile": "no",
-      "type": "multipolygon",
-      "wikidata": "Q1505461"
-    },
-    "wiki": {
-      "name": "Färnebofjärden National Park",
-      "wikidataId": "Q1505461",
-      "osmRelationId": "304725",
-      "country": "SWE",
-      "wikipedia": "F%C3%A4rnebofj%C3%A4rden_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Färnebofjärden",
+    "name:en": "Färnebofjärden National Park",
+    "protect_class": "2",
+    "snowmobile": "no",
+    "type": "multipolygon",
+    "wikidata": "Q1505461"
   },
   "geometry": {
     "type": "Polygon",

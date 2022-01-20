@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 7757609,
   "properties": {
-    "area": 117.46,
-    "osm": {
-      "alt_name": "Cagar Alam Kepulauan Krakatau",
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Cagar Alam Krakatau",
-      "name:en": "Krakatau Nature Reserve",
-      "type": "multipolygon"
-    },
-    "wiki": {
-      "name": "Q104546015",
-      "wikidataId": "Q104546015",
-      "osmRelationId": "7757609",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "alt_name": "Cagar Alam Kepulauan Krakatau",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Krakatau",
+    "name:en": "Krakatau Nature Reserve",
+    "type": "multipolygon"
   },
   "geometry": {
     "type": "Polygon",

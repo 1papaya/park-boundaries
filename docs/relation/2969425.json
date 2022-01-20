@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 2969425,
   "properties": {
-    "area": 103.88,
-    "osm": {
-      "alt_name:en": "Mu Ko Ang Thong National Marine Park",
-      "boundary": "national_park",
-      "name": "อุทยานแห่งชาติหมู่เกาะอ่างทอง",
-      "name:en": "Mu Ko Ang Thong National Park",
-      "name:ru": "национальный парк Му-Ко-Анг-Тхонг",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q1255783"
-    },
-    "wiki": {
-      "name": "Mu Ko Ang Thong National Park",
-      "wikidataId": "Q1255783",
-      "osmRelationId": "2969425",
-      "country": "THA",
-      "wikipedia": "Mu_Ko_Ang_Thong_National_Park"
-    }
+    "alt_name:en": "Mu Ko Ang Thong National Marine Park",
+    "boundary": "national_park",
+    "name": "อุทยานแห่งชาติหมู่เกาะอ่างทอง",
+    "name:en": "Mu Ko Ang Thong National Park",
+    "name:ru": "национальный парк Му-Ко-Анг-Тхонг",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q1255783"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 1138522,
   "properties": {
-    "area": 798.35,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Nationalpark Vorpommersche Boddenlandschaft",
-      "name:pl": "Park Narodowy Mierzei Pomorza Przedniego",
-      "protect_class": "2",
-      "protection_title": "Nationalpark",
-      "short_protection_title": "NLP",
-      "source": "Verordnung über die Festsetzung des Nationalparkes Vorpommersche Boddenlandschaft",
-      "type": "multipolygon",
-      "wikidata": "Q708477",
-      "wikipedia": "de:Nationalpark Vorpommersche Boddenlandschaft"
-    },
-    "wiki": {
-      "name": "Western Pomerania Lagoon Area National Park",
-      "wikidataId": "Q708477",
-      "osmRelationId": "1138522",
-      "country": "DEU",
-      "wikipedia": "Western_Pomerania_Lagoon_Area_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Nationalpark Vorpommersche Boddenlandschaft",
+    "name:pl": "Park Narodowy Mierzei Pomorza Przedniego",
+    "protect_class": "2",
+    "protection_title": "Nationalpark",
+    "short_protection_title": "NLP",
+    "source": "Verordnung über die Festsetzung des Nationalparkes Vorpommersche Boddenlandschaft",
+    "type": "multipolygon",
+    "wikidata": "Q708477",
+    "wikipedia": "de:Nationalpark Vorpommersche Boddenlandschaft"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 9201857,
   "properties": {
-    "area": 2.04,
-    "osm": {
-      "landuse": "recreation_ground",
-      "leisure": "nature_reserve",
-      "name": "Ferris Provincial Park",
-      "type": "multipolygon",
-      "wikidata": "Q22463303"
-    },
-    "wiki": {
-      "name": "Ferris Provincial Park",
-      "wikidataId": "Q22463303",
-      "osmRelationId": "9201857",
-      "country": "CAN",
-      "wikipedia": "Ferris_Provincial_Park"
-    }
+    "landuse": "recreation_ground",
+    "leisure": "nature_reserve",
+    "name": "Ferris Provincial Park",
+    "type": "multipolygon",
+    "wikidata": "Q22463303"
   },
   "geometry": {
     "type": "Polygon",

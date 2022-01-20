@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 3501981,
   "properties": {
-    "area": 20.64,
-    "osm": {
-      "boundary": "national_park",
-      "boundary:type": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Black Creek Wilderness",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "wilderness",
-      "type": "multipolygon",
-      "wikidata": "Q4920604",
-      "wikipedia": "en:Black Creek Wilderness"
-    },
-    "wiki": {
-      "name": "Black Creek Wilderness",
-      "wikidataId": "Q4920604",
-      "osmRelationId": "3501981",
-      "country": "USA",
-      "wikipedia": "Black_Creek_Wilderness"
-    }
+    "boundary": "national_park",
+    "boundary:type": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Black Creek Wilderness",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "wilderness",
+    "type": "multipolygon",
+    "wikidata": "Q4920604",
+    "wikipedia": "en:Black Creek Wilderness"
   },
   "geometry": {
     "type": "Polygon",

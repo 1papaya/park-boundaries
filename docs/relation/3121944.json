@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 3121944,
   "properties": {
-    "area": 340.24,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Parque Nacional de la Sierra de Guadarrama",
-      "protect_class": "2",
-      "protection_title": "Parque Nacional",
-      "type": "multipolygon",
-      "wikidata": "Q1324805",
-      "wikipedia": "es:Parque nacional de la Sierra de Guadarrama"
-    },
-    "wiki": {
-      "name": "Guadarrama National Park",
-      "wikidataId": "Q1324805",
-      "osmRelationId": "3121944",
-      "country": "ESP",
-      "wikipedia": "Guadarrama_National_Park"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque Nacional de la Sierra de Guadarrama",
+    "protect_class": "2",
+    "protection_title": "Parque Nacional",
+    "type": "multipolygon",
+    "wikidata": "Q1324805",
+    "wikipedia": "es:Parque nacional de la Sierra de Guadarrama"
   },
   "geometry": {
     "type": "Polygon",

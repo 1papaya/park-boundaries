@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 6813178,
   "properties": {
-    "area": 204.62,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Fundy National Park",
-      "name:en": "Fundy National Park of Canada",
-      "name:fr": "Parc national Fundy",
-      "source": "Natural Resources Canada",
-      "type": "boundary",
-      "wikidata": "Q1474238",
-      "wikipedia": "fr:Parc national de Fundy"
-    },
-    "wiki": {
-      "name": "Fundy National Park",
-      "wikidataId": "Q1474238",
-      "osmRelationId": "6813178",
-      "country": "CAN",
-      "wikipedia": "Fundy_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Fundy National Park",
+    "name:en": "Fundy National Park of Canada",
+    "name:fr": "Parc national Fundy",
+    "source": "Natural Resources Canada",
+    "type": "boundary",
+    "wikidata": "Q1474238",
+    "wikipedia": "fr:Parc national de Fundy"
   },
   "geometry": {
     "type": "Polygon",

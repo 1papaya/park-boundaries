@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 10655058,
   "properties": {
-    "area": 0.22,
-    "osm": {
-      "boundary": "national_park",
-      "designation": "National Park",
-      "iucn_level": "2",
-      "leisure": "park",
-      "name": "Guanacaste National Park",
-      "operator": "Belize Audubon Society",
-      "source": "GOB",
-      "type": "boundary",
-      "wikidata": "Q973934"
-    },
-    "wiki": {
-      "name": "Guanacaste National Park",
-      "wikidataId": "Q973934",
-      "osmRelationId": "10655058",
-      "country": "BLZ",
-      "wikipedia": "Guanacaste_National_Park_(Belize)"
-    }
+    "boundary": "national_park",
+    "designation": "National Park",
+    "iucn_level": "2",
+    "leisure": "park",
+    "name": "Guanacaste National Park",
+    "operator": "Belize Audubon Society",
+    "source": "GOB",
+    "type": "boundary",
+    "wikidata": "Q973934"
   },
   "geometry": {
     "type": "Polygon",

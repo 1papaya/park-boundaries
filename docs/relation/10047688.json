@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 10047688,
   "properties": {
-    "area": 33.97,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Nacionalni park Brijuni",
-      "name:de": "Nationalpark Brijuni-Inseln",
-      "name:en": "Brijuni Islands National Park",
-      "name:it": "Parco Nazionale delle Isole Brioni",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q525105",
-      "wikipedia": "it:Parco nazionale di Brioni"
-    },
-    "wiki": {
-      "name": "Brijuni",
-      "wikidataId": "Q849748",
-      "osmRelationId": "10047688",
-      "country": "HRV",
-      "wikipedia": "Brijuni"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Nacionalni park Brijuni",
+    "name:de": "Nationalpark Brijuni-Inseln",
+    "name:en": "Brijuni Islands National Park",
+    "name:it": "Parco Nazionale delle Isole Brioni",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q525105",
+    "wikipedia": "it:Parco nazionale di Brioni"
   },
   "geometry": {
     "type": "Polygon",

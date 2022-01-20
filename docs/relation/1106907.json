@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 1106907,
   "properties": {
-    "area": 221.87,
-    "osm": {
-      "boundary": "national_park",
-      "foot": "yes",
-      "id_spn": "FR3300007",
-      "leisure": "nature_reserve",
-      "name": "Parc national de Guadeloupe (cœur)",
-      "name:de": "Nationalpark Guadeloupe",
-      "name:en": "Guadeloupe National Park",
-      "protect_class": "2",
-      "protection_title": "Cœur de Parc national",
-      "short_name": "PN de la Guadeloupe",
-      "source": "Inventaire National du Patrimoine Naturel 2010",
-      "type": "boundary",
-      "valid_from": "1989-02-20",
-      "wikidata": "Q1028479",
-      "wikipedia": "fr:Parc national de la Guadeloupe"
-    },
-    "wiki": {
-      "name": "Guadeloupe National Park",
-      "wikidataId": "Q1028479",
-      "osmRelationId": "1106907",
-      "country": "FRA",
-      "wikipedia": "Guadeloupe_National_Park"
-    }
+    "boundary": "national_park",
+    "foot": "yes",
+    "id_spn": "FR3300007",
+    "leisure": "nature_reserve",
+    "name": "Parc national de Guadeloupe (cœur)",
+    "name:de": "Nationalpark Guadeloupe",
+    "name:en": "Guadeloupe National Park",
+    "protect_class": "2",
+    "protection_title": "Cœur de Parc national",
+    "short_name": "PN de la Guadeloupe",
+    "source": "Inventaire National du Patrimoine Naturel 2010",
+    "type": "boundary",
+    "valid_from": "1989-02-20",
+    "wikidata": "Q1028479",
+    "wikipedia": "fr:Parc national de la Guadeloupe"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 2779221,
   "properties": {
-    "area": 890.66,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Sespe Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "park:type": "national_forest;wilderness",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "source": "http://fsgeodata.fs.fed.us/vector/lsrs.php",
-      "type": "boundary",
-      "wikidata": "Q20881478"
-    },
-    "wiki": {
-      "name": "Sespe Wilderness",
-      "wikidataId": "Q20881478",
-      "osmRelationId": "2779221",
-      "country": "USA",
-      "wikipedia": "Sespe_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Sespe Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "park:type": "national_forest;wilderness",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "source": "http://fsgeodata.fs.fed.us/vector/lsrs.php",
+    "type": "boundary",
+    "wikidata": "Q20881478"
   },
   "geometry": {
     "type": "Polygon",

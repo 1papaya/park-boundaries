@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 13617703,
   "properties": {
-    "area": 1527.01,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Sunderbans National Park",
-      "protect_class": "2",
-      "type": "multipolygon",
-      "wikidata": "Q532440"
-    },
-    "wiki": {
-      "name": "Sundarbans National Park",
-      "wikidataId": "Q532440",
-      "osmRelationId": "13617703",
-      "country": "IND",
-      "wikipedia": "Sundarbans_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Sunderbans National Park",
+    "protect_class": "2",
+    "type": "multipolygon",
+    "wikidata": "Q532440"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 3164710,
   "properties": {
-    "area": 1434.55,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Parco Nazionale del Gran Sasso e Monti della Laga",
-      "start_date": "1991",
-      "type": "multipolygon",
-      "wikidata": "Q1027914",
-      "wikipedia": "it:Parco nazionale del Gran Sasso e Monti della Laga"
-    },
-    "wiki": {
-      "name": "Gran Sasso e Monti della Laga National Park",
-      "wikidataId": "Q1027914",
-      "osmRelationId": "3164710",
-      "country": "ITA",
-      "wikipedia": "Gran_Sasso_e_Monti_della_Laga_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Parco Nazionale del Gran Sasso e Monti della Laga",
+    "start_date": "1991",
+    "type": "multipolygon",
+    "wikidata": "Q1027914",
+    "wikipedia": "it:Parco nazionale del Gran Sasso e Monti della Laga"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 6207158,
   "properties": {
-    "area": 434.81,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Lassen Volcanic National Park",
-      "operator": "United States National Park Service",
-      "ownership": "national",
-      "protect_class": "2",
-      "protected": "perpetuity",
-      "protection_title": "National Park",
-      "type": "boundary",
-      "website": "https://www.nps.gov/lavo/index.htm",
-      "wikidata": "Q1163542",
-      "wikipedia": "en:Lassen Volcanic National Park"
-    },
-    "wiki": {
-      "name": "Lassen Volcanic National Park",
-      "wikidataId": "Q1163542",
-      "osmRelationId": "6207158",
-      "country": "USA",
-      "wikipedia": "Lassen_Volcanic_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Lassen Volcanic National Park",
+    "operator": "United States National Park Service",
+    "ownership": "national",
+    "protect_class": "2",
+    "protected": "perpetuity",
+    "protection_title": "National Park",
+    "type": "boundary",
+    "website": "https://www.nps.gov/lavo/index.htm",
+    "wikidata": "Q1163542",
+    "wikipedia": "en:Lassen Volcanic National Park"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5411085,
   "properties": {
-    "area": 746.6,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Yolla Bolly-Middle Eel Wilderness",
-      "operator": "US Forest Service;BLM",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q8054791"
-    },
-    "wiki": {
-      "name": "Yolla Bolly-Middle Eel Wilderness",
-      "wikidataId": "Q8054791",
-      "osmRelationId": "5411085",
-      "country": "USA",
-      "wikipedia": "Yolla_Bolly%E2%80%93Middle_Eel_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Yolla Bolly-Middle Eel Wilderness",
+    "operator": "US Forest Service;BLM",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q8054791"
   },
   "geometry": {
     "type": "Polygon",

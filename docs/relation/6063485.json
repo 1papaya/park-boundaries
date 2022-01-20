@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 6063485,
   "properties": {
-    "area": 53.77,
-    "osm": {
-      "admin_level": "10",
-      "boundary": "administrative",
-      "fixme": "Needs a label node and review place tag",
-      "name": "Crowdy Bay",
-      "place": "locality",
-      "postal_code": "2443",
-      "ref:nswlpi:cadid": "108034107",
-      "ref:psma:loc_pid": "NSW5141",
-      "source": "NSW LPI Base Map",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Crowdy Bay National Park",
-      "wikidataId": "Q1141720",
-      "osmRelationId": "6063485",
-      "country": "AUS",
-      "wikipedia": "Crowdy_Bay_National_Park"
-    }
+    "admin_level": "10",
+    "boundary": "administrative",
+    "fixme": "Needs a label node and review place tag",
+    "name": "Crowdy Bay",
+    "place": "locality",
+    "postal_code": "2443",
+    "ref:nswlpi:cadid": "108034107",
+    "ref:psma:loc_pid": "NSW5141",
+    "source": "NSW LPI Base Map",
+    "type": "boundary"
   },
   "geometry": {
     "type": "Polygon",

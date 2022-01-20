@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 7745631,
   "properties": {
-    "area": 317.32,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parc national des Grands-Jardins",
-      "type": "boundary",
-      "website": "https://www.sepaq.com/pq/grj",
-      "wikidata": "Q1553329"
-    },
-    "wiki": {
-      "name": "Grands-Jardins National Park",
-      "wikidataId": "Q1553329",
-      "osmRelationId": "7745631",
-      "country": "CAN",
-      "wikipedia": "Grands-Jardins_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parc national des Grands-Jardins",
+    "type": "boundary",
+    "website": "https://www.sepaq.com/pq/grj",
+    "wikidata": "Q1553329"
   },
   "geometry": {
     "type": "Polygon",

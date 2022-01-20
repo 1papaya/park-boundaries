@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 3201965,
   "properties": {
-    "area": 194.53,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Nambung National Park",
-      "name:de": "Nambung-Nationalpark",
-      "name:en": "Nambung National Park",
-      "protect_class": "2",
-      "ref:capad:pa_id": "WA_24522",
-      "source": "CAPAD 2020",
-      "tourism": "yes",
-      "type": "boundary",
-      "wikidata": "Q1362815"
-    },
-    "wiki": {
-      "name": "Nambung National Park",
-      "wikidataId": "Q1362815",
-      "osmRelationId": "3201965",
-      "country": "AUS",
-      "wikipedia": "Nambung_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Nambung National Park",
+    "name:de": "Nambung-Nationalpark",
+    "name:en": "Nambung National Park",
+    "protect_class": "2",
+    "ref:capad:pa_id": "WA_24522",
+    "source": "CAPAD 2020",
+    "tourism": "yes",
+    "type": "boundary",
+    "wikidata": "Q1362815"
   },
   "geometry": {
     "type": "MultiPolygon",

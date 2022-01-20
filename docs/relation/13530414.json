@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 13530414,
   "properties": {
-    "area": 2381.47,
-    "osm": {
-      "WDPA_ID:ref": "4366",
-      "boundary": "national_park",
-      "name": "Parque Nacional Duida-Marahuaca",
-      "name:en": "Duida-Marahuaca National Park",
-      "name:es": "Parque Nacional Duida-Marahuaca",
-      "operator": "Inparques",
-      "operator:type": "public",
-      "protect_class": "2",
-      "protection_title": "Parque Nacional",
-      "source": "Inparques; Maxar (2021)",
-      "start_date": "1978-12-12",
-      "type": "boundary",
-      "wikidata": "Q4845652",
-      "wikipedia": "es:Parque nacional Duida-Marahuaca"
-    },
-    "wiki": {
-      "name": "Duida-Marahuaca National Park",
-      "wikidataId": "Q4845652",
-      "osmRelationId": "13530414",
-      "country": "VEN",
-      "wikipedia": "Duida%E2%80%93Marahuaca_National_Park"
-    }
+    "WDPA_ID:ref": "4366",
+    "boundary": "national_park",
+    "name": "Parque Nacional Duida-Marahuaca",
+    "name:en": "Duida-Marahuaca National Park",
+    "name:es": "Parque Nacional Duida-Marahuaca",
+    "operator": "Inparques",
+    "operator:type": "public",
+    "protect_class": "2",
+    "protection_title": "Parque Nacional",
+    "source": "Inparques; Maxar (2021)",
+    "start_date": "1978-12-12",
+    "type": "boundary",
+    "wikidata": "Q4845652",
+    "wikipedia": "es:Parque nacional Duida-Marahuaca"
   },
   "geometry": {
     "type": "MultiPolygon",

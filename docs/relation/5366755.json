@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5366755,
   "properties": {
-    "area": 1238.3,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Golden Trout Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "multipolygon",
-      "wikidata": "Q5579923"
-    },
-    "wiki": {
-      "name": "Golden Trout Wilderness",
-      "wikidataId": "Q5579923",
-      "osmRelationId": "5366755",
-      "country": "USA",
-      "wikipedia": "Golden_Trout_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Golden Trout Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "multipolygon",
+    "wikidata": "Q5579923"
   },
   "geometry": {
     "type": "Polygon",

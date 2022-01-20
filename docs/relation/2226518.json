@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 2226518,
   "properties": {
-    "area": 211.57,
-    "osm": {
-      "boundary": "national_park",
-      "hazard": "wild_animals",
-      "name": "Tatrzański Park Narodowy",
-      "name:de": "Tatra-Nationalpark",
-      "name:hu": "Tátrai Nemzeti Park",
-      "name:pl": "Tatrzański Park Narodowy",
-      "protect_class": "2",
-      "short_name": "TPN",
-      "source:hazard": "signage at NP boundary",
-      "species": "Arctos ursus",
-      "species:en": "Brown Bear",
-      "species:pl": "Niedźwiedź brunatny",
-      "type": "boundary",
-      "website": "http://tpn.pl/",
-      "wikidata": "Q609353",
-      "wikipedia": "pl:Tatrzański Park Narodowy (Polska)"
-    },
-    "wiki": {
-      "name": "Tatra National Park",
-      "wikidataId": "Q609353",
-      "osmRelationId": "2226518",
-      "country": "POL",
-      "wikipedia": "Tatra_National_Park,_Poland"
-    }
+    "boundary": "national_park",
+    "hazard": "wild_animals",
+    "name": "Tatrzański Park Narodowy",
+    "name:de": "Tatra-Nationalpark",
+    "name:hu": "Tátrai Nemzeti Park",
+    "name:pl": "Tatrzański Park Narodowy",
+    "protect_class": "2",
+    "short_name": "TPN",
+    "source:hazard": "signage at NP boundary",
+    "species": "Arctos ursus",
+    "species:en": "Brown Bear",
+    "species:pl": "Niedźwiedź brunatny",
+    "type": "boundary",
+    "website": "http://tpn.pl/",
+    "wikidata": "Q609353",
+    "wikipedia": "pl:Tatrzański Park Narodowy (Polska)"
   },
   "geometry": {
     "type": "MultiPolygon",

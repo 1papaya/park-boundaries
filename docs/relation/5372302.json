@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5372302,
   "properties": {
-    "area": 179.37,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Monarch Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q6898028"
-    },
-    "wiki": {
-      "name": "Monarch Wilderness",
-      "wikidataId": "Q6898028",
-      "osmRelationId": "5372302",
-      "country": "USA",
-      "wikipedia": "Monarch_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Monarch Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q6898028"
   },
   "geometry": {
     "type": "MultiPolygon",

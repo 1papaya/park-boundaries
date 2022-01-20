@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 3726929,
   "properties": {
-    "area": 0.09,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Tomboli di Follonica",
-      "operator": "Corpo Forestale dello Stato",
-      "protect_class": "4",
-      "protection_title": "Riserva Naturale Statale",
-      "ref:IUCN": "4",
-      "ref:IUCN:source": "International Union for Conservation of Nature (IUCN)",
-      "ref:WPDA": "31136",
-      "start_date": "1977-01-01",
-      "type": "multipolygon",
-      "website": "https://www.protectedplanet.net/sites/Tomboli_Di_Follonica_State_Nature_Reserve",
-      "wikidata": "Q3936728",
-      "wikipedia": "it:Riserva naturale Tomboli di Follonica"
-    },
-    "wiki": {
-      "name": "Riserva naturale Tomboli di Follonica",
-      "wikidataId": "Q3936728",
-      "osmRelationId": "3726929",
-      "country": "ITA",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Tomboli di Follonica",
+    "operator": "Corpo Forestale dello Stato",
+    "protect_class": "4",
+    "protection_title": "Riserva Naturale Statale",
+    "ref:IUCN": "4",
+    "ref:IUCN:source": "International Union for Conservation of Nature (IUCN)",
+    "ref:WPDA": "31136",
+    "start_date": "1977-01-01",
+    "type": "multipolygon",
+    "website": "https://www.protectedplanet.net/sites/Tomboli_Di_Follonica_State_Nature_Reserve",
+    "wikidata": "Q3936728",
+    "wikipedia": "it:Riserva naturale Tomboli di Follonica"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 3178915,
   "properties": {
-    "area": 292.59,
-    "osm": {
-      "boundary": "national_park",
-      "name": "New River Gorge National Park and Preserve",
-      "operator": "United States National Park Service",
-      "ownership": "national",
-      "protect_class": "2",
-      "protected": "perpetuity",
-      "protection_title": "National Park and Preserve",
-      "source": "http://www1.usgs.gov/vip/neri/neribdy.zip",
-      "type": "multipolygon",
-      "website": "http://www.nps.gov/neri/",
-      "wikidata": "Q7011245",
-      "wikipedia": "en:New River Gorge National Park and Preserve"
-    },
-    "wiki": {
-      "name": "New River Gorge National Park and Preserve",
-      "wikidataId": "Q7011245",
-      "osmRelationId": "3178915",
-      "country": "USA",
-      "wikipedia": "New_River_Gorge_National_Park_and_Preserve"
-    }
+    "boundary": "national_park",
+    "name": "New River Gorge National Park and Preserve",
+    "operator": "United States National Park Service",
+    "ownership": "national",
+    "protect_class": "2",
+    "protected": "perpetuity",
+    "protection_title": "National Park and Preserve",
+    "source": "http://www1.usgs.gov/vip/neri/neribdy.zip",
+    "type": "multipolygon",
+    "website": "http://www.nps.gov/neri/",
+    "wikidata": "Q7011245",
+    "wikipedia": "en:New River Gorge National Park and Preserve"
   },
   "geometry": {
     "type": "MultiPolygon",

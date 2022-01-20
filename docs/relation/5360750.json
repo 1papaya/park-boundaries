@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5360750,
   "properties": {
-    "area": 423.07,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Mokelumne Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q14683385"
-    },
-    "wiki": {
-      "name": "Mokelumne Wilderness",
-      "wikidataId": "Q14683385",
-      "osmRelationId": "5360750",
-      "country": "USA",
-      "wikipedia": "Mokelumne_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Mokelumne Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q14683385"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 1463747,
   "properties": {
-    "area": 1.49,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:anmärkning": "Dossienr. Lst: 0182-02-005K",
-      "lst:area_ha": "149.24",
-      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
-      "lst:ref": "0102166",
-      "lst:tillkomst": "1997-06-02",
-      "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
-      "name": "Skogsö",
-      "source": "Länsstyrelsen i Stockholms län (gis.lst.se)",
-      "type": "multipolygon",
-      "wikidata": "Q3562577"
-    },
-    "wiki": {
-      "name": "Skogsö",
-      "wikidataId": "Q3562577",
-      "osmRelationId": "1463747",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "Dossienr. Lst: 0182-02-005K",
+    "lst:area_ha": "149.24",
+    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+    "lst:ref": "0102166",
+    "lst:tillkomst": "1997-06-02",
+    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+    "name": "Skogsö",
+    "source": "Länsstyrelsen i Stockholms län (gis.lst.se)",
+    "type": "multipolygon",
+    "wikidata": "Q3562577"
   },
   "geometry": {
     "type": "Polygon",

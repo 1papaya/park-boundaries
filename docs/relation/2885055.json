@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 2885055,
   "properties": {
-    "area": 5.31,
-    "osm": {
-      "boundary": "protected_area",
-      "description": "MARINE RESERVE. All marine life and habitats are totally protected. No fishing, netting, taking or killing of marine life. Contact Department of Conservation for further information.",
-      "leisure": "nature_reserve",
-      "loc_name": "Goat Island Marine Reserve",
-      "name": "Leigh Marine Reserve",
-      "name:mk": "Морски резерват „Ли“",
-      "nat_name": "Cape Rodney-Okakari Point Marine Reserve",
-      "ref:linz:hydrographic_id": "3205768",
-      "seamark:restricted_area:category": "fish_sanctuary",
-      "seamark:restricted_area:restriction": "restricted_anchoring",
-      "seamark:type": "restricted_area",
-      "source": "LINZ;Te Hāwere-a-Maki/Goat Island To Waiwera River Chart",
-      "type": "multipolygon",
-      "wikidata": "Q3457285",
-      "wikipedia": "en:Cape Rodney-Okakari Point Marine Reserve"
-    },
-    "wiki": {
-      "name": "Cape Rodney-Okakari Point Marine Reserve",
-      "wikidataId": "Q3457285",
-      "osmRelationId": "2885055",
-      "country": "NZL",
-      "wikipedia": "Cape_Rodney-Okakari_Point_Marine_Reserve"
-    }
+    "boundary": "protected_area",
+    "description": "MARINE RESERVE. All marine life and habitats are totally protected. No fishing, netting, taking or killing of marine life. Contact Department of Conservation for further information.",
+    "leisure": "nature_reserve",
+    "loc_name": "Goat Island Marine Reserve",
+    "name": "Leigh Marine Reserve",
+    "name:mk": "Морски резерват „Ли“",
+    "nat_name": "Cape Rodney-Okakari Point Marine Reserve",
+    "ref:linz:hydrographic_id": "3205768",
+    "seamark:restricted_area:category": "fish_sanctuary",
+    "seamark:restricted_area:restriction": "restricted_anchoring",
+    "seamark:type": "restricted_area",
+    "source": "LINZ;Te Hāwere-a-Maki/Goat Island To Waiwera River Chart",
+    "type": "multipolygon",
+    "wikidata": "Q3457285",
+    "wikipedia": "en:Cape Rodney-Okakari Point Marine Reserve"
   },
   "geometry": {
     "type": "Polygon",

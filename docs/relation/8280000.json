@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 8280000,
   "properties": {
-    "area": 226.46,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parc national des Hautes-Gorges-de-la-Rivière-Malbaie",
-      "protect_class": "2",
-      "type": "multipolygon",
-      "website": "https://www.sepaq.com/pq/hgo/",
-      "wikidata": "Q1145575",
-      "wikipedia": "fr:Parc national des Hautes-Gorges-de-la-Rivière-Malbaie"
-    },
-    "wiki": {
-      "name": "Hautes-Gorges-de-la-Rivière-Malbaie National Park",
-      "wikidataId": "Q1145575",
-      "osmRelationId": "8280000",
-      "country": "CAN",
-      "wikipedia": "Hautes-Gorges-de-la-Rivi%C3%A8re-Malbaie_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parc national des Hautes-Gorges-de-la-Rivière-Malbaie",
+    "protect_class": "2",
+    "type": "multipolygon",
+    "website": "https://www.sepaq.com/pq/hgo/",
+    "wikidata": "Q1145575",
+    "wikipedia": "fr:Parc national des Hautes-Gorges-de-la-Rivière-Malbaie"
   },
   "geometry": {
     "type": "Polygon",

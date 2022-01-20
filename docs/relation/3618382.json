@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 3618382,
   "properties": {
-    "area": 10567.46,
-    "osm": {
-      "boundary": "protected_area",
-      "layer": "3",
-      "leisure": "nature_reserve",
-      "name": "Chobe National Park",
-      "protect_class": "2",
-      "protection_title": "national_park",
-      "source": "NMP HOT Field Survey",
-      "type": "boundary",
-      "wikidata": "Q859389",
-      "wikipedia": "en:Chobe National Park"
-    },
-    "wiki": {
-      "name": "Chobe National Park",
-      "wikidataId": "Q859389",
-      "osmRelationId": "3618382",
-      "country": "BWA",
-      "wikipedia": "Chobe_National_Park"
-    }
+    "boundary": "protected_area",
+    "layer": "3",
+    "leisure": "nature_reserve",
+    "name": "Chobe National Park",
+    "protect_class": "2",
+    "protection_title": "national_park",
+    "source": "NMP HOT Field Survey",
+    "type": "boundary",
+    "wikidata": "Q859389",
+    "wikipedia": "en:Chobe National Park"
   },
   "geometry": {
     "type": "Polygon",

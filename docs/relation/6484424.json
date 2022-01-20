@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 6484424,
   "properties": {
-    "area": 238.6,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Hannah Bay Migratory Bird Sanctuary",
-      "protect_class": "1",
-      "source": "https://www.ec.gc.ca/ap-pa/default.asp?lang=En&n=852A1105-1",
-      "type": "multipolygon",
-      "website": "https://www.ec.gc.ca/ap-pa/default.asp?lang=En&n=852A1105-1",
-      "wikidata": "Q19941561"
-    },
-    "wiki": {
-      "name": "Hannah Bay Migratory Bird Sanctuary",
-      "wikidataId": "Q19941561",
-      "osmRelationId": "6484424",
-      "country": "CAN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Hannah Bay Migratory Bird Sanctuary",
+    "protect_class": "1",
+    "source": "https://www.ec.gc.ca/ap-pa/default.asp?lang=En&n=852A1105-1",
+    "type": "multipolygon",
+    "website": "https://www.ec.gc.ca/ap-pa/default.asp?lang=En&n=852A1105-1",
+    "wikidata": "Q19941561"
   },
   "geometry": {
     "type": "Polygon",

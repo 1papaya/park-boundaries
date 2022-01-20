@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 5989782,
   "properties": {
-    "area": 155.76,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Ku-ring-gai Chase National Park",
-      "nswlpi:cadid": "108020820",
-      "operator": "NSW National Parks and Wildlife Service",
-      "operator:wikidata": "Q6974770",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "ref": "N0019",
-      "ref:capad2014_osm": "NSW_N0019_II",
-      "source": "LPI Admin boundary Feb 2016. JOSM simplifed ways 3m.",
-      "type": "boundary",
-      "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/Kuringgai-Chase-National-Park",
-      "wikidata": "Q1322496",
-      "wikipedia": "en:Ku-ring-gai Chase National Park"
-    },
-    "wiki": {
-      "name": "Ku-ring-gai Chase National Park",
-      "wikidataId": "Q1322496",
-      "osmRelationId": "5989782",
-      "country": "AUS",
-      "wikipedia": "Ku-ring-gai_Chase_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Ku-ring-gai Chase National Park",
+    "nswlpi:cadid": "108020820",
+    "operator": "NSW National Parks and Wildlife Service",
+    "operator:wikidata": "Q6974770",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "ref": "N0019",
+    "ref:capad2014_osm": "NSW_N0019_II",
+    "source": "LPI Admin boundary Feb 2016. JOSM simplifed ways 3m.",
+    "type": "boundary",
+    "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/Kuringgai-Chase-National-Park",
+    "wikidata": "Q1322496",
+    "wikipedia": "en:Ku-ring-gai Chase National Park"
   },
   "geometry": {
     "type": "MultiPolygon",
@@ -816,6 +806,7 @@
         [
           [151.1247273, -33.694804],
           [151.1407909, -33.6970521],
+          [151.142521, -33.6972937],
           [151.144951, -33.697633],
           [151.145081, -33.696977],
           [151.1456744, -33.6940199],

@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 812876,
   "properties": {
-    "area": 347.26,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Flinders Chase National Park",
-      "protect_class": "2",
-      "ref:capad:pa_id": "SA_0225",
-      "ref:dew:park_id": "225",
-      "type": "boundary",
-      "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Flinders_Chase",
-      "wikidata": "Q1428780"
-    },
-    "wiki": {
-      "name": "Flinders Chase National Park",
-      "wikidataId": "Q1428780",
-      "osmRelationId": "812876",
-      "country": "AUS",
-      "wikipedia": "Flinders_Chase_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Flinders Chase National Park",
+    "protect_class": "2",
+    "ref:capad:pa_id": "SA_0225",
+    "ref:dew:park_id": "225",
+    "type": "boundary",
+    "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Flinders_Chase",
+    "wikidata": "Q1428780"
   },
   "geometry": {
     "type": "MultiPolygon",

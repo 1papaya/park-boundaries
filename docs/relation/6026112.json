@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 6026112,
   "properties": {
-    "area": 57.99,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Gooding City of Rocks East Wilderness Study Area",
-      "operator": "BLM",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Study Area",
-      "type": "boundary",
-      "wikidata": "Q5583402"
-    },
-    "wiki": {
-      "name": "Gooding City of Rocks East Wilderness Study Area",
-      "wikidataId": "Q5583402",
-      "osmRelationId": "6026112",
-      "country": "USA",
-      "wikipedia": "Gooding_City_of_Rocks_East_Wilderness_Study_Area"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Gooding City of Rocks East Wilderness Study Area",
+    "operator": "BLM",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Study Area",
+    "type": "boundary",
+    "wikidata": "Q5583402"
   },
   "geometry": {
     "type": "Polygon",

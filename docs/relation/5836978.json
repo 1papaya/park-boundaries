@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 5836978,
   "properties": {
-    "area": 239.32,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Warrumbungle National Park",
-      "name:de": "Warrumbungle-Nationalpark",
-      "nswlpi:cadid": "108020984",
-      "operator": "NSW National Parks and Wildlife Service",
-      "operator:wikidata": "Q6974770",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "ref": "N0035",
-      "ref:capad2014_osm": "NSW_N0035_II",
-      "source": "NSW LPI Base Map",
-      "type": "boundary",
-      "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/Warrumbungle-National-Park"
-    },
-    "wiki": {
-      "name": "Warrumbungle National Park",
-      "wikidataId": "Q847071",
-      "osmRelationId": "5836978",
-      "country": "AUS",
-      "wikipedia": "Warrumbungle_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Warrumbungle National Park",
+    "name:de": "Warrumbungle-Nationalpark",
+    "nswlpi:cadid": "108020984",
+    "operator": "NSW National Parks and Wildlife Service",
+    "operator:wikidata": "Q6974770",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "ref": "N0035",
+    "ref:capad2014_osm": "NSW_N0035_II",
+    "source": "NSW LPI Base Map",
+    "type": "boundary",
+    "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/Warrumbungle-National-Park"
   },
   "geometry": {
     "type": "MultiPolygon",

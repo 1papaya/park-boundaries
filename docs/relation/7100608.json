@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 7100608,
   "properties": {
-    "area": 0.77,
-    "osm": {
-      "name": "Horto Florestal",
-      "natural": "wood",
-      "note": "Atenção, não retirar a etiqueta \"Natural = Wood\", pois se trata de uma área de preservação mais rigorosa, não sendo um simples parque",
-      "official_name": "Parque Estadual Alberto Löfgren",
-      "operator": "Instituto Florestal",
-      "start_date": "1968-09-24",
-      "type": "multipolygon",
-      "wikidata": "Q3457241",
-      "wikipedia": "pt:Horto Florestal de São Paulo"
-    },
-    "wiki": {
-      "name": "Albert Löfgren State Park",
-      "wikidataId": "Q3457241",
-      "osmRelationId": "7100608",
-      "country": "BRA",
-      "wikipedia": "Albert_L%C3%B6fgren_State_Park"
-    }
+    "name": "Horto Florestal",
+    "natural": "wood",
+    "note": "Atenção, não retirar a etiqueta \"Natural = Wood\", pois se trata de uma área de preservação mais rigorosa, não sendo um simples parque",
+    "official_name": "Parque Estadual Alberto Löfgren",
+    "operator": "Instituto Florestal",
+    "start_date": "1968-09-24",
+    "type": "multipolygon",
+    "wikidata": "Q3457241",
+    "wikipedia": "pt:Horto Florestal de São Paulo"
   },
   "geometry": {
     "type": "MultiPolygon",

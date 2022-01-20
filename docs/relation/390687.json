@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 390687,
   "properties": {
-    "area": 1.13,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "112.7",
-      "lst:note": "N2000 SITE: -",
-      "lst:ref": "NR20010941",
-      "lst:restrictions": "Lst kan vid behov anvisa plats för eldning",
-      "lst:tillkomst": "2007-06-01",
-      "lst:url": "http://www.bd.lst.se/skydd_lulea",
-      "name": "Svallmyrberget",
-      "type": "multipolygon",
-      "wikidata": "Q30204039"
-    },
-    "wiki": {
-      "name": "Svallmyrberget",
-      "wikidataId": "Q30204039",
-      "osmRelationId": "390687",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "112.7",
+    "lst:note": "N2000 SITE: -",
+    "lst:ref": "NR20010941",
+    "lst:restrictions": "Lst kan vid behov anvisa plats för eldning",
+    "lst:tillkomst": "2007-06-01",
+    "lst:url": "http://www.bd.lst.se/skydd_lulea",
+    "name": "Svallmyrberget",
+    "type": "multipolygon",
+    "wikidata": "Q30204039"
   },
   "geometry": {
     "type": "Polygon",

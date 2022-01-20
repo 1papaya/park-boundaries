@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 1715902,
   "properties": {
-    "area": 92.51,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Honaz Dağı Millî Parkı",
-      "name:en": "Honaz Mountain National Park",
-      "source": "gis2.cevreorman.gov.tr",
-      "type": "multipolygon",
-      "wikidata": "Q611484",
-      "wikipedia": "tr:Honaz Dağı Millî Parkı"
-    },
-    "wiki": {
-      "name": "Mount Honaz",
-      "wikidataId": "Q611484",
-      "osmRelationId": "1715902",
-      "country": "TUR",
-      "wikipedia": "Mount_Honaz"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Honaz Dağı Millî Parkı",
+    "name:en": "Honaz Mountain National Park",
+    "source": "gis2.cevreorman.gov.tr",
+    "type": "multipolygon",
+    "wikidata": "Q611484",
+    "wikipedia": "tr:Honaz Dağı Millî Parkı"
   },
   "geometry": {
     "type": "MultiPolygon",

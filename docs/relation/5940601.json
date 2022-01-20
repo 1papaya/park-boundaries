@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 5940601,
   "properties": {
-    "area": 52.86,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Koreelah National Park",
-      "nswlpi:cadid": "108020686",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "ref": "N0141",
-      "ref:capad2014_osm": "NSW_N0141_II",
-      "source": "LPI Admin Boundaries Feb 2016. Simplified ways JOSM 3m",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Koreelah National Park",
-      "wikidataId": "Q1165387",
-      "osmRelationId": "5940601",
-      "country": "AUS",
-      "wikipedia": "Koreelah_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Koreelah National Park",
+    "nswlpi:cadid": "108020686",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "ref": "N0141",
+    "ref:capad2014_osm": "NSW_N0141_II",
+    "source": "LPI Admin Boundaries Feb 2016. Simplified ways JOSM 3m",
+    "type": "boundary"
   },
   "geometry": {
     "type": "MultiPolygon",

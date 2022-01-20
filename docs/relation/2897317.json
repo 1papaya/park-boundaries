@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 2897317,
   "properties": {
-    "area": 18168.32,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Taman Nasional Lorentz",
-      "name:de": "Nationalpark Lorentz",
-      "name:en": "Lorentz National Park",
-      "name:es": "Parque Nacional de Lorentz",
-      "name:fr": "Parc national de Lorentz",
-      "name:it": "Parco nazionale di Lorentz",
-      "name:pt": "Parque Nacional de Lorentz",
-      "name:ro": "Parcul național Lorentz",
-      "source": "georeferenced image from http://www.dephut.go.id/INFORMASI/TN%20INDO-ENGLISH/lorentz_NP.htm",
-      "type": "multipolygon",
-      "wikidata": "Q4516"
-    },
-    "wiki": {
-      "name": "Lorentz National Park",
-      "wikidataId": "Q4516",
-      "osmRelationId": "2897317",
-      "country": "IDN",
-      "wikipedia": "Lorentz_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Taman Nasional Lorentz",
+    "name:de": "Nationalpark Lorentz",
+    "name:en": "Lorentz National Park",
+    "name:es": "Parque Nacional de Lorentz",
+    "name:fr": "Parc national de Lorentz",
+    "name:it": "Parco nazionale di Lorentz",
+    "name:pt": "Parque Nacional de Lorentz",
+    "name:ro": "Parcul național Lorentz",
+    "source": "georeferenced image from http://www.dephut.go.id/INFORMASI/TN%20INDO-ENGLISH/lorentz_NP.htm",
+    "type": "multipolygon",
+    "wikidata": "Q4516"
   },
   "geometry": {
     "type": "Polygon",

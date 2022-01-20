@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5372304,
   "properties": {
-    "area": 215.18,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Sacatar Trail Wilderness",
-      "operator": "BLM",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "multipolygon",
-      "wikidata": "Q7396573"
-    },
-    "wiki": {
-      "name": "Sacatar Trail Wilderness",
-      "wikidataId": "Q7396573",
-      "osmRelationId": "5372304",
-      "country": "USA",
-      "wikipedia": "Sacatar_Trail_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Sacatar Trail Wilderness",
+    "operator": "BLM",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "multipolygon",
+    "wikidata": "Q7396573"
   },
   "geometry": {
     "type": "Polygon",

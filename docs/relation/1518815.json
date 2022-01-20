@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 1518815,
   "properties": {
-    "area": 3016.91,
-    "osm": {
-      "attribution": "Queensland Department of Environment and Science",
-      "boundary": "protected_area",
-      "governance_type": "government",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Girringun National Park",
-      "note:capad": "CAPAD 2020 has this national park being smaller, using QLD data instead",
-      "operator": "Queensland Department of Environment and Science",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "ref:capad:pa_id": "QLD_0193LHZ001",
-      "ref:paoq:sysintcode": "0193LHZ001",
-      "start_date": "2010-06-04",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Girringun National Park",
-      "wikidataId": "Q2700765",
-      "osmRelationId": "1518815",
-      "country": "AUS",
-      "wikipedia": "Girringun_National_Park"
-    }
+    "attribution": "Queensland Department of Environment and Science",
+    "boundary": "protected_area",
+    "governance_type": "government",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Girringun National Park",
+    "note:capad": "CAPAD 2020 has this national park being smaller, using QLD data instead",
+    "operator": "Queensland Department of Environment and Science",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "ref:capad:pa_id": "QLD_0193LHZ001",
+    "ref:paoq:sysintcode": "0193LHZ001",
+    "start_date": "2010-06-04",
+    "type": "boundary"
   },
   "geometry": {
     "type": "MultiPolygon",

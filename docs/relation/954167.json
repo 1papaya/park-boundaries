@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 954167,
   "properties": {
-    "area": 309.6,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Coffin Bay National Park",
-      "protect_class": "2",
-      "ref:capad:pa_id": "SA_0226",
-      "ref:dew:park_id": "226",
-      "source": "SA Conservation Reserve Boundaries",
-      "type": "boundary",
-      "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/coffin-bay-national-park",
-      "wikidata": "Q1106855",
-      "wikipedia": "en:Coffin Bay National Park"
-    },
-    "wiki": {
-      "name": "Coffin Bay National Park",
-      "wikidataId": "Q1106855",
-      "osmRelationId": "954167",
-      "country": "AUS",
-      "wikipedia": "Coffin_Bay_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Coffin Bay National Park",
+    "protect_class": "2",
+    "ref:capad:pa_id": "SA_0226",
+    "ref:dew:park_id": "226",
+    "source": "SA Conservation Reserve Boundaries",
+    "type": "boundary",
+    "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/coffin-bay-national-park",
+    "wikidata": "Q1106855",
+    "wikipedia": "en:Coffin Bay National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

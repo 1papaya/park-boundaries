@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 1024513,
   "properties": {
-    "area": 457.15,
-    "osm": {
-      "boundary": "national_park",
-      "dog": "no",
-      "leisure": "nature_reserve",
-      "name": "Parc national des Pyrénées (cœur)",
-      "name:de": "Nationalpark Pyrenäen",
-      "name:es": "Parque nacional de los Pirineos",
-      "protect_class": "2",
-      "protection_title": "cœur",
-      "ref:FR:INPN": "FR3300003",
-      "short_name": "PNP",
-      "source": "Inventaire National du Patrimoine Naturel 2010",
-      "type": "boundary",
-      "valid_from": "1967-03-23",
-      "wikidata": "Q738435",
-      "wikipedia": "fr:Parc national des Pyrénées",
-      "year_import": "2010"
-    },
-    "wiki": {
-      "name": "Pyrénées National Park",
-      "wikidataId": "Q738435",
-      "osmRelationId": "1024513",
-      "country": "FRA",
-      "wikipedia": "Pyr%C3%A9n%C3%A9es_National_Park"
-    }
+    "boundary": "national_park",
+    "dog": "no",
+    "leisure": "nature_reserve",
+    "name": "Parc national des Pyrénées (cœur)",
+    "name:de": "Nationalpark Pyrenäen",
+    "name:es": "Parque nacional de los Pirineos",
+    "protect_class": "2",
+    "protection_title": "cœur",
+    "ref:FR:INPN": "FR3300003",
+    "short_name": "PNP",
+    "source": "Inventaire National du Patrimoine Naturel 2010",
+    "type": "boundary",
+    "valid_from": "1967-03-23",
+    "wikidata": "Q738435",
+    "wikipedia": "fr:Parc national des Pyrénées",
+    "year_import": "2010"
   },
   "geometry": {
     "type": "Polygon",

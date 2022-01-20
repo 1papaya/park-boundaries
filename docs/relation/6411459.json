@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 6411459,
   "properties": {
-    "area": 13.32,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Riserva naturale Vallombrosa",
-      "protected_object": "nature",
-      "ref:EUAP": "0145",
-      "type": "multipolygon",
-      "wikidata": "Q56629842",
-      "wikipedia": "it:Riserva naturale Vallombrosa"
-    },
-    "wiki": {
-      "name": "Riserva naturale Vallombrosa",
-      "wikidataId": "Q56629842",
-      "osmRelationId": "6411459",
-      "country": "ITA",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Riserva naturale Vallombrosa",
+    "protected_object": "nature",
+    "ref:EUAP": "0145",
+    "type": "multipolygon",
+    "wikidata": "Q56629842",
+    "wikipedia": "it:Riserva naturale Vallombrosa"
   },
   "geometry": {
     "type": "Polygon",

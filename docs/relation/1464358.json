@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 1464358,
   "properties": {
-    "area": 3.16,
-    "osm": {
-      "alt_name": "Långviksträsks naturreservat",
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "lst:anmärkning": "Dossienr. Lst: 0120-02-050",
-      "lst:area_ha": "313.21",
-      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Slutligt inmätt",
-      "lst:tillkomst": "2009-12-03",
-      "name": "Långviksträsk",
-      "natural": "wood",
-      "source": "Länsstyrelsen i Stockholms län (gis.lst.se)",
-      "type": "multipolygon",
-      "wikidata": "Q24197187"
-    },
-    "wiki": {
-      "name": "Långviksträsk nature reserve",
-      "wikidataId": "Q24197187",
-      "osmRelationId": "1464358",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "alt_name": "Långviksträsks naturreservat",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "Dossienr. Lst: 0120-02-050",
+    "lst:area_ha": "313.21",
+    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Slutligt inmätt",
+    "lst:tillkomst": "2009-12-03",
+    "name": "Långviksträsk",
+    "natural": "wood",
+    "source": "Länsstyrelsen i Stockholms län (gis.lst.se)",
+    "type": "multipolygon",
+    "wikidata": "Q24197187"
   },
   "geometry": {
     "type": "Polygon",

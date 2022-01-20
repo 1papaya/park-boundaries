@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 1308865,
   "properties": {
-    "area": 425.46,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Parque Nacional Corcovado",
-      "name:de": "Nationalpark Corcovado",
-      "name:en": "Corcovado National Park",
-      "name:fr": "Parc national Corcovado",
-      "name:it": "Parco nazionale del Corcovado",
-      "name:pt": "Parque Nacional Corcovado",
-      "operator": "Área de Conservación Osa (ACOSA)",
-      "protect_class": "2",
-      "ref:CR:SINAC": "P12",
-      "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
-      "start_date": "1975",
-      "type": "boundary",
-      "wikidata": "Q869074",
-      "wikipedia": "en:Corcovado National Park"
-    },
-    "wiki": {
-      "name": "Corcovado National Park",
-      "wikidataId": "Q869074",
-      "osmRelationId": "1308865",
-      "country": "CRI",
-      "wikipedia": "Corcovado_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Parque Nacional Corcovado",
+    "name:de": "Nationalpark Corcovado",
+    "name:en": "Corcovado National Park",
+    "name:fr": "Parc national Corcovado",
+    "name:it": "Parco nazionale del Corcovado",
+    "name:pt": "Parque Nacional Corcovado",
+    "operator": "Área de Conservación Osa (ACOSA)",
+    "protect_class": "2",
+    "ref:CR:SINAC": "P12",
+    "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
+    "start_date": "1975",
+    "type": "boundary",
+    "wikidata": "Q869074",
+    "wikipedia": "en:Corcovado National Park"
   },
   "geometry": {
     "type": "Polygon",

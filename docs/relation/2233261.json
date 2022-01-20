@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 2233261,
   "properties": {
-    "area": 381.33,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Carp Lake Provincial Park",
-      "source": "DataBC TANTALIS - Parks, Ecological Reserves, and Protected Areas",
-      "type": "multipolygon"
-    },
-    "wiki": {
-      "name": "Carp Lake Provincial Park",
-      "wikidataId": "Q316107",
-      "osmRelationId": "2233261",
-      "country": "CAN",
-      "wikipedia": "Carp_Lake_Provincial_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Carp Lake Provincial Park",
+    "source": "DataBC TANTALIS - Parks, Ecological Reserves, and Protected Areas",
+    "type": "multipolygon"
   },
   "geometry": {
     "type": "MultiPolygon",

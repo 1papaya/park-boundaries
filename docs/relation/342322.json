@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 342322,
   "properties": {
-    "area": 420.44,
-    "osm": {
-      "admin_level": "8",
-      "boundary": "administrative",
-      "idee:name": "Bardenas Reales de Navarra",
-      "name": "Bardenas Reales de Navarra",
-      "name:es": "Bardenas Reales de Navarra",
-      "name:eu": "Errege Bardea",
-      "note": "Esta relación es para la división administrativa. El parque natural (que coincide en extensión) va en otra.",
-      "source": "BDLL25, EGRN, Instituto Geográfico Nacional",
-      "type": "boundary",
-      "wikidata": "Q521527",
-      "wikipedia": "es:Bardenas Reales"
-    },
-    "wiki": {
-      "name": "Bardenas Reales",
-      "wikidataId": "Q521527",
-      "osmRelationId": "342322",
-      "country": "ESP",
-      "wikipedia": "Bardenas_Reales"
-    }
+    "admin_level": "8",
+    "boundary": "administrative",
+    "idee:name": "Bardenas Reales de Navarra",
+    "name": "Bardenas Reales de Navarra",
+    "name:es": "Bardenas Reales de Navarra",
+    "name:eu": "Errege Bardea",
+    "note": "Esta relación es para la división administrativa. El parque natural (que coincide en extensión) va en otra.",
+    "source": "BDLL25, EGRN, Instituto Geográfico Nacional",
+    "type": "boundary",
+    "wikidata": "Q521527",
+    "wikipedia": "es:Bardenas Reales"
   },
   "geometry": {
     "type": "Polygon",

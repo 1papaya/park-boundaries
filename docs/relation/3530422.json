@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 3530422,
   "properties": {
-    "area": 82.48,
-    "osm": {
-      "boundary": "protected_area",
-      "name": "Parque Nacional El Palmar",
-      "operator": "Administración Parques Nacionales",
-      "operator:type": "government",
-      "protect_class": "2",
-      "protected_area": "national_park",
-      "protection_title": "Parque Nacional",
-      "related_law": "Ley Nacional 16802/66",
-      "start_date": "1966",
-      "type": "boundary",
-      "wikidata": "Q828918",
-      "wikipedia": "es:Parque nacional El Palmar"
-    },
-    "wiki": {
-      "name": "El Palmar National Park",
-      "wikidataId": "Q828918",
-      "osmRelationId": "3530422",
-      "country": "ARG",
-      "wikipedia": "El_Palmar_National_Park"
-    }
+    "boundary": "protected_area",
+    "name": "Parque Nacional El Palmar",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protect_class": "2",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Ley Nacional 16802/66",
+    "start_date": "1966",
+    "type": "boundary",
+    "wikidata": "Q828918",
+    "wikipedia": "es:Parque nacional El Palmar"
   },
   "geometry": {
     "type": "Polygon",

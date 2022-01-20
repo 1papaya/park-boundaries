@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 7077471,
   "properties": {
-    "area": 66.93,
-    "osm": {
-      "boundary": "protected_area",
-      "description": "Unidade de Conservação Estadual",
-      "name": "Parque Estadual Acaraí",
-      "operator": "Fundação do Meio Ambiente - FATMA",
-      "protect_class": "2",
-      "protection_title": "parque estadual",
-      "ref:CNUC": "0000.42.0791",
-      "related_law": "Decreto Estadual Nº 3.517",
-      "start_date": "2005-09-23",
-      "type": "boundary",
-      "wikidata": "Q10345063",
-      "wikipedia": "pt:Parque Estadual do Acaraí"
-    },
-    "wiki": {
-      "name": "Acaraí State Park",
-      "wikidataId": "Q10345063",
-      "osmRelationId": "7077471",
-      "country": "BRA",
-      "wikipedia": "Acara%C3%AD_State_Park"
-    }
+    "boundary": "protected_area",
+    "description": "Unidade de Conservação Estadual",
+    "name": "Parque Estadual Acaraí",
+    "operator": "Fundação do Meio Ambiente - FATMA",
+    "protect_class": "2",
+    "protection_title": "parque estadual",
+    "ref:CNUC": "0000.42.0791",
+    "related_law": "Decreto Estadual Nº 3.517",
+    "start_date": "2005-09-23",
+    "type": "boundary",
+    "wikidata": "Q10345063",
+    "wikipedia": "pt:Parque Estadual do Acaraí"
   },
   "geometry": {
     "type": "MultiPolygon",

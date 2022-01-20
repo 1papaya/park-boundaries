@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 6116548,
   "properties": {
-    "area": 2148.58,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Pasayten Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q3367227",
-      "wikipedia": "en:Pasayten Wilderness"
-    },
-    "wiki": {
-      "name": "Pasayten Wilderness",
-      "wikidataId": "Q3367227",
-      "osmRelationId": "6116548",
-      "country": "USA",
-      "wikipedia": "Pasayten_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Pasayten Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q3367227",
+    "wikipedia": "en:Pasayten Wilderness"
   },
   "geometry": {
     "type": "Polygon",

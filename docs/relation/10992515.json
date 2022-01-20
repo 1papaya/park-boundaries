@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 10992515,
   "properties": {
-    "area": 0.17,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:anmärkning": "Dossienr. Lst: 0120-02-016",
-      "lst:area_ha": "16.9",
-      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
-      "lst:ref": "0102040",
-      "lst:tillkomst": "1969-02-27",
-      "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
-      "name": "Vånsholmen",
-      "type": "multipolygon",
-      "wikidata": "Q30158217"
-    },
-    "wiki": {
-      "name": "Vånsholmen",
-      "wikidataId": "Q30158217",
-      "osmRelationId": "10992515",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "Dossienr. Lst: 0120-02-016",
+    "lst:area_ha": "16.9",
+    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+    "lst:ref": "0102040",
+    "lst:tillkomst": "1969-02-27",
+    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+    "name": "Vånsholmen",
+    "type": "multipolygon",
+    "wikidata": "Q30158217"
   },
   "geometry": {
     "type": "Polygon",

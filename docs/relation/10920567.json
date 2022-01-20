@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 10920567,
   "properties": {
-    "area": 621.88,
-    "osm": {
-      "boundary": "national_park",
-      "name": "อุทยานแห่งชาติตาพระยา",
-      "name:en": "Ta Phraya National Park",
-      "name:th": "อุทยานแห่งชาติตาพระยา",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q1322853"
-    },
-    "wiki": {
-      "name": "Ta Phraya National Park",
-      "wikidataId": "Q1322853",
-      "osmRelationId": "10920567",
-      "country": "THA",
-      "wikipedia": "Ta_Phraya_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "อุทยานแห่งชาติตาพระยา",
+    "name:en": "Ta Phraya National Park",
+    "name:th": "อุทยานแห่งชาติตาพระยา",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q1322853"
   },
   "geometry": {
     "type": "Polygon",

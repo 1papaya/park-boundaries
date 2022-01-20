@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 3531450,
   "properties": {
-    "area": 1138.3,
-    "osm": {
-      "boundary": "national_park",
-      "name": "सगरमाथा राष्ट्रिय निकुञ्ज",
-      "name:cs": "národní park Ságarmátha",
-      "name:de": "Sagarmatha-Nationalpark",
-      "name:en": "Sagarmatha National Park",
-      "name:fi": "Sagarmāthān kansallispuisto",
-      "name:ne": "सगरमाथा राष्ट्रिय निकुञ्ज",
-      "name:ru": "национальный парк Сагарматха",
-      "protect_class": "2",
-      "sorting_name:cs": "Ságarmátha",
-      "type": "boundary",
-      "wikidata": "Q2211959",
-      "wikipedia": "en:Sagarmatha National Park"
-    },
-    "wiki": {
-      "name": "Sagarmatha National Park",
-      "wikidataId": "Q2211959",
-      "osmRelationId": "3531450",
-      "country": "NPL",
-      "wikipedia": "Sagarmatha_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "सगरमाथा राष्ट्रिय निकुञ्ज",
+    "name:cs": "národní park Ságarmátha",
+    "name:de": "Sagarmatha-Nationalpark",
+    "name:en": "Sagarmatha National Park",
+    "name:fi": "Sagarmāthān kansallispuisto",
+    "name:ne": "सगरमाथा राष्ट्रिय निकुञ्ज",
+    "name:ru": "национальный парк Сагарматха",
+    "protect_class": "2",
+    "sorting_name:cs": "Ságarmátha",
+    "type": "boundary",
+    "wikidata": "Q2211959",
+    "wikipedia": "en:Sagarmatha National Park"
   },
   "geometry": {
     "type": "Polygon",

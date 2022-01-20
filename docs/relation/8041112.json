@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 8041112,
   "properties": {
-    "area": 472.16,
-    "osm": {
-      "alt_name": "Maaduru Oya National Park",
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Maduru Oya National Park",
-      "note": "Boarder is approximate",
-      "start_date": "9-11-1983",
-      "type": "multipolygon",
-      "wikidata": "Q6728863"
-    },
-    "wiki": {
-      "name": "Maduru Oya National Park",
-      "wikidataId": "Q6728863",
-      "osmRelationId": "8041112",
-      "country": "LKA",
-      "wikipedia": "Maduru_Oya_National_Park"
-    }
+    "alt_name": "Maaduru Oya National Park",
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Maduru Oya National Park",
+    "note": "Boarder is approximate",
+    "start_date": "9-11-1983",
+    "type": "multipolygon",
+    "wikidata": "Q6728863"
   },
   "geometry": {
     "type": "Polygon",

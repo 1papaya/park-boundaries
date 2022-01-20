@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 301494,
   "properties": {
-    "area": 2.02,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area": "2028627.861",
-      "lst:area_ha": "202.9",
-      "lst:objnr": "81202",
-      "lst:ref": "2005600",
-      "lst:tillkomst": "2007-09-10",
-      "name": "Sönnasjöbergen",
-      "type": "multipolygon",
-      "wikidata": "Q30185233"
-    },
-    "wiki": {
-      "name": "Sönnasjöbergen",
-      "wikidataId": "Q30185233",
-      "osmRelationId": "301494",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area": "2028627.861",
+    "lst:area_ha": "202.9",
+    "lst:objnr": "81202",
+    "lst:ref": "2005600",
+    "lst:tillkomst": "2007-09-10",
+    "name": "Sönnasjöbergen",
+    "type": "multipolygon",
+    "wikidata": "Q30185233"
   },
   "geometry": {
     "type": "Polygon",

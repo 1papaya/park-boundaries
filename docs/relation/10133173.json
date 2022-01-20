@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 10133173,
   "properties": {
-    "area": 0.61,
-    "osm": {
-      "boundary": "protected_area",
-      "name": "Parque Natural Municipal Morro da Pescaria",
-      "operator": "Secretaria Municipal de Meio Ambiente e Agricultura de Guarapari",
-      "protect_class": "2",
-      "protection_title": "parque natural municipal",
-      "ref:CNUC": "0240.32.2939",
-      "related_law": "Lei ordinária nº 2790, de 19/12/2007",
-      "start_date": "2007-12-19",
-      "type": "multipolygon",
-      "wikidata": "Q10345251",
-      "wikipedia": "pt:Parque Natural Municipal Morro da Pescaria"
-    },
-    "wiki": {
-      "name": "Parque Natural Municipal Morro da Pescaria",
-      "wikidataId": "Q10345251",
-      "osmRelationId": "10133173",
-      "country": "BRA",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "name": "Parque Natural Municipal Morro da Pescaria",
+    "operator": "Secretaria Municipal de Meio Ambiente e Agricultura de Guarapari",
+    "protect_class": "2",
+    "protection_title": "parque natural municipal",
+    "ref:CNUC": "0240.32.2939",
+    "related_law": "Lei ordinária nº 2790, de 19/12/2007",
+    "start_date": "2007-12-19",
+    "type": "multipolygon",
+    "wikidata": "Q10345251",
+    "wikipedia": "pt:Parque Natural Municipal Morro da Pescaria"
   },
   "geometry": {
     "type": "Polygon",

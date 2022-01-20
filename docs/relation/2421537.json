@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 2421537,
   "properties": {
-    "area": 2029.68,
-    "osm": {
-      "boundary": "national_park",
-      "boundary:type": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "North Cascades National Park",
-      "name:de": "Nationalpark Nordkaskaden",
-      "operator": "United States National Park Service",
-      "ownership": "national",
-      "protect_class": "2",
-      "protected": "perpetuity",
-      "protection_title": "National Park",
-      "type": "multipolygon",
-      "website": "http://www.nps.gov/noca/",
-      "wikidata": "Q1163799",
-      "wikipedia": "en:North Cascades National Park"
-    },
-    "wiki": {
-      "name": "North Cascades National Park",
-      "wikidataId": "Q1163799",
-      "osmRelationId": "2421537",
-      "country": "USA",
-      "wikipedia": "North_Cascades_National_Park"
-    }
+    "boundary": "national_park",
+    "boundary:type": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "North Cascades National Park",
+    "name:de": "Nationalpark Nordkaskaden",
+    "operator": "United States National Park Service",
+    "ownership": "national",
+    "protect_class": "2",
+    "protected": "perpetuity",
+    "protection_title": "National Park",
+    "type": "multipolygon",
+    "website": "http://www.nps.gov/noca/",
+    "wikidata": "Q1163799",
+    "wikipedia": "en:North Cascades National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

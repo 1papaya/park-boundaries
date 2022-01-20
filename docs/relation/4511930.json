@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 4511930,
   "properties": {
-    "area": 1546.05,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Maasai Mara National Reserve",
-      "type": "multipolygon",
-      "wikidata": "Q207724",
-      "wikipedia": "en:Maasai Mara"
-    },
-    "wiki": {
-      "name": "Masai Mara",
-      "wikidataId": "Q207724",
-      "osmRelationId": "4511930",
-      "country": "KEN",
-      "wikipedia": "Maasai_Mara"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Maasai Mara National Reserve",
+    "type": "multipolygon",
+    "wikidata": "Q207724",
+    "wikipedia": "en:Maasai Mara"
   },
   "geometry": {
     "type": "Polygon",

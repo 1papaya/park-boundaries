@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 1561264,
   "properties": {
-    "area": 381.82,
-    "osm": {
-      "boundary": "national_park",
-      "gid": "2491",
-      "kodinspire": "PL.ZIPOP.1393.PN.9",
-      "name": "Kampinoski Park Narodowy",
-      "name:de": "Nationalpark Kampinos",
-      "name:en": "Kampinos National Park",
-      "name:pl": "Kampinoski Park Narodowy",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q619061",
-      "wikipedia": "pl:Kampinoski Park Narodowy"
-    },
-    "wiki": {
-      "name": "Kampinos National Park",
-      "wikidataId": "Q619061",
-      "osmRelationId": "1561264",
-      "country": "POL",
-      "wikipedia": "Kampinos_National_Park"
-    }
+    "boundary": "national_park",
+    "gid": "2491",
+    "kodinspire": "PL.ZIPOP.1393.PN.9",
+    "name": "Kampinoski Park Narodowy",
+    "name:de": "Nationalpark Kampinos",
+    "name:en": "Kampinos National Park",
+    "name:pl": "Kampinoski Park Narodowy",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q619061",
+    "wikipedia": "pl:Kampinoski Park Narodowy"
   },
   "geometry": {
     "type": "MultiPolygon",

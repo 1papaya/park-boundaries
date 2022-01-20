@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 2819618,
   "properties": {
-    "area": 1417.69,
-    "osm": {
-      "alt_name": "Hawaii Volcanoes National Park",
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Hawai'i Volcanoes National Park",
-      "name:en": "Hawai'i Volcanoes National Park",
-      "name:ja": "ハワイ火山国立公園",
-      "name:ja_kana": "ハワイかざんこくりつこうえん",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "type": "multipolygon",
-      "website": "https://www.nps.gov/havo/",
-      "wikidata": "Q205952",
-      "wikipedia": "en:Hawaiʻi Volcanoes National Park"
-    },
-    "wiki": {
-      "name": "Hawaiʻi Volcanoes National Park",
-      "wikidataId": "Q205952",
-      "osmRelationId": "2819618",
-      "country": "USA",
-      "wikipedia": "Hawai%CA%BBi_Volcanoes_National_Park"
-    }
+    "alt_name": "Hawaii Volcanoes National Park",
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Hawai'i Volcanoes National Park",
+    "name:en": "Hawai'i Volcanoes National Park",
+    "name:ja": "ハワイ火山国立公園",
+    "name:ja_kana": "ハワイかざんこくりつこうえん",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "type": "multipolygon",
+    "website": "https://www.nps.gov/havo/",
+    "wikidata": "Q205952",
+    "wikipedia": "en:Hawaiʻi Volcanoes National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

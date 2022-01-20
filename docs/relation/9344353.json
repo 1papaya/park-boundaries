@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 9344353,
   "properties": {
-    "area": 0.22,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "21.77",
-      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Ospecificerad",
-      "lst:tillkomst": "2010-04-19",
-      "name": "Gärdesudden",
-      "type": "multipolygon",
-      "wikidata": "Q10512354"
-    },
-    "wiki": {
-      "name": "Gärdesudden",
-      "wikidataId": "Q10512354",
-      "osmRelationId": "9344353",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "21.77",
+    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Ospecificerad",
+    "lst:tillkomst": "2010-04-19",
+    "name": "Gärdesudden",
+    "type": "multipolygon",
+    "wikidata": "Q10512354"
   },
   "geometry": {
     "type": "Polygon",

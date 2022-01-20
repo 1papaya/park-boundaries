@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 1329832,
   "properties": {
-    "area": 59.25,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Karkonoski Park Narodowy",
-      "name:cs": "Krkonošský národní park",
-      "name:de": "Nationalpark Riesengebirge",
-      "name:en": "Karkonosze National Park",
-      "name:pl": "Karkonoski Park Narodowy",
-      "protect_class": "2",
-      "type": "boundary",
-      "website": "https://kpnmab.pl/",
-      "wikidata": "Q621423",
-      "wikipedia": "pl:Karkonoski Park Narodowy"
-    },
-    "wiki": {
-      "name": "Karkonosze National Park",
-      "wikidataId": "Q621423",
-      "osmRelationId": "1329832",
-      "country": "POL",
-      "wikipedia": "Karkonosze_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Karkonoski Park Narodowy",
+    "name:cs": "Krkonošský národní park",
+    "name:de": "Nationalpark Riesengebirge",
+    "name:en": "Karkonosze National Park",
+    "name:pl": "Karkonoski Park Narodowy",
+    "protect_class": "2",
+    "type": "boundary",
+    "website": "https://kpnmab.pl/",
+    "wikidata": "Q621423",
+    "wikipedia": "pl:Karkonoski Park Narodowy"
   },
   "geometry": {
     "type": "MultiPolygon",

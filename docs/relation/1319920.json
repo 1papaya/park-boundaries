@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 1319920,
   "properties": {
-    "area": 267.2,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Malkumba-Coongie Lakes National Park",
-      "protect_class": "2",
-      "ref:capad:pa_id": "SA_0757",
-      "ref:dew:park_id": "757",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Malkumba-Coongie Lakes National Park",
-      "wikidataId": "Q19589768",
-      "osmRelationId": "1319920",
-      "country": "AUS",
-      "wikipedia": "Malkumba-Coongie_Lakes_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Malkumba-Coongie Lakes National Park",
+    "protect_class": "2",
+    "ref:capad:pa_id": "SA_0757",
+    "ref:dew:park_id": "757",
+    "type": "boundary"
   },
   "geometry": {
     "type": "Polygon",

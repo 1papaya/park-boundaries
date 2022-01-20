@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 6236296,
   "properties": {
-    "area": 1890.02,
-    "osm": {
-      "DESIGNATOR": "PARCEL 4 ROCKY HARBOUR",
-      "PCL_STATE": "OTHER",
-      "PCL_TYPE": "Outside Canada Lands",
-      "PIN": "1003591",
-      "PLANNO": "69213 CLSR NL",
-      "REMAIN_IND": "No",
-      "boundary": "national_park",
-      "fixme": "please use lowercase keys: ADMIN_CODE = GROS",
-      "leisure": "nature_reserve",
-      "name": "Gros Morne National Park",
-      "type": "multipolygon",
-      "wikidata": "Q257598",
-      "wikipedia": "en:Gros Morne National Park"
-    },
-    "wiki": {
-      "name": "Gros Morne National Park",
-      "wikidataId": "Q257598",
-      "osmRelationId": "6236296",
-      "country": "CAN",
-      "wikipedia": "Gros_Morne_National_Park"
-    }
+    "DESIGNATOR": "PARCEL 4 ROCKY HARBOUR",
+    "PCL_STATE": "OTHER",
+    "PCL_TYPE": "Outside Canada Lands",
+    "PIN": "1003591",
+    "PLANNO": "69213 CLSR NL",
+    "REMAIN_IND": "No",
+    "boundary": "national_park",
+    "fixme": "please use lowercase keys: ADMIN_CODE = GROS",
+    "leisure": "nature_reserve",
+    "name": "Gros Morne National Park",
+    "type": "multipolygon",
+    "wikidata": "Q257598",
+    "wikipedia": "en:Gros Morne National Park"
   },
   "geometry": {
     "type": "Polygon",

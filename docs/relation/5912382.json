@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 5912382,
   "properties": {
-    "area": 8.47,
-    "osm": {
-      "leisure": "nature_reserve",
-      "name": "Parque Estadual Lago Azul",
-      "operator": "Instituto Ambiental do Paraná",
-      "owner": "Copel",
-      "type": "multipolygon",
-      "wikidata": "Q10344998",
-      "wikipedia": "pt:Parque Estadual Lago Azul"
-    },
-    "wiki": {
-      "name": "Blue Lake State Park",
-      "wikidataId": "Q10344998",
-      "osmRelationId": "5912382",
-      "country": "BRA",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "name": "Parque Estadual Lago Azul",
+    "operator": "Instituto Ambiental do Paraná",
+    "owner": "Copel",
+    "type": "multipolygon",
+    "wikidata": "Q10344998",
+    "wikipedia": "pt:Parque Estadual Lago Azul"
   },
   "geometry": {
     "type": "MultiPolygon",

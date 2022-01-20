@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 7051612,
   "properties": {
-    "area": 531.9,
-    "osm": {
-      "boundary": "national_park",
-      "landuse": "forest",
-      "leisure": "nature_reserve",
-      "name": "Taman Negara Gunung Mulu",
-      "name:de": "Nationalpark Gunung Mulu",
-      "name:en": "Gunung Mulu National Park",
-      "name:es": "Parque Nacional de Gunung Mulu",
-      "name:fr": "Parc national du Gunung Mulu",
-      "name:id": "Taman Nasional Gunung Mulu",
-      "name:it": "Parco nazionale di Gunung Mulu",
-      "name:ms": "Taman Negara Gunung Mulu",
-      "name:pt": "Parque Nacional de Gunung Mulu",
-      "start_date": "1974",
-      "type": "boundary",
-      "wikidata": "Q61535"
-    },
-    "wiki": {
-      "name": "Gunung Mulu National Park",
-      "wikidataId": "Q61535",
-      "osmRelationId": "7051612",
-      "country": "MYS",
-      "wikipedia": "Gunung_Mulu_National_Park"
-    }
+    "boundary": "national_park",
+    "landuse": "forest",
+    "leisure": "nature_reserve",
+    "name": "Taman Negara Gunung Mulu",
+    "name:de": "Nationalpark Gunung Mulu",
+    "name:en": "Gunung Mulu National Park",
+    "name:es": "Parque Nacional de Gunung Mulu",
+    "name:fr": "Parc national du Gunung Mulu",
+    "name:id": "Taman Nasional Gunung Mulu",
+    "name:it": "Parco nazionale di Gunung Mulu",
+    "name:ms": "Taman Negara Gunung Mulu",
+    "name:pt": "Parque Nacional de Gunung Mulu",
+    "start_date": "1974",
+    "type": "boundary",
+    "wikidata": "Q61535"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 552159,
   "properties": {
-    "area": 13557.24,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "VI",
-      "leisure": "nature_reserve",
-      "name": "Kati Thanda-Lake Eyre National Park",
-      "protect_class": "6",
-      "protection_title": "National Park",
-      "ref:capad:pa_id": "SA_0227",
-      "ref:dew:park_id": "227",
-      "source": "SA Conservation Reserve Boundaries",
-      "type": "boundary",
-      "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/flinders-ranges-outback/Kati_Thanda-Lake_Eyre_National_Park",
-      "wikidata": "Q927997",
-      "wikipedia": "en:Kati Thanda-Lake Eyre National Park"
-    },
-    "wiki": {
-      "name": "Kati Thanda-Lake Eyre National Park",
-      "wikidataId": "Q927997",
-      "osmRelationId": "552159",
-      "country": "AUS",
-      "wikipedia": "Kati_Thanda-Lake_Eyre_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "VI",
+    "leisure": "nature_reserve",
+    "name": "Kati Thanda-Lake Eyre National Park",
+    "protect_class": "6",
+    "protection_title": "National Park",
+    "ref:capad:pa_id": "SA_0227",
+    "ref:dew:park_id": "227",
+    "source": "SA Conservation Reserve Boundaries",
+    "type": "boundary",
+    "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/flinders-ranges-outback/Kati_Thanda-Lake_Eyre_National_Park",
+    "wikidata": "Q927997",
+    "wikipedia": "en:Kati Thanda-Lake Eyre National Park"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 7058636,
   "properties": {
-    "area": 7063.02,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Kobuk Valley National Park",
-      "note": "boundary is approximate",
-      "protection_title": "National Park",
-      "source:boundary": "USGS Topo;existing boundaries of parks north and south",
-      "type": "boundary",
-      "wikidata": "Q836264",
-      "wikipedia": "en:Kobuk Valley National Park"
-    },
-    "wiki": {
-      "name": "Kobuk Valley National Park",
-      "wikidataId": "Q836264",
-      "osmRelationId": "7058636",
-      "country": "USA",
-      "wikipedia": "Kobuk_Valley_National_Park"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Kobuk Valley National Park",
+    "note": "boundary is approximate",
+    "protection_title": "National Park",
+    "source:boundary": "USGS Topo;existing boundaries of parks north and south",
+    "type": "boundary",
+    "wikidata": "Q836264",
+    "wikipedia": "en:Kobuk Valley National Park"
   },
   "geometry": {
     "type": "Polygon",

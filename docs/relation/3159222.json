@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 3159222,
   "properties": {
-    "area": 741.65,
-    "osm": {
-      "boundary": "national_park",
-      "description:en": "https://en.wikipedia.org/wiki/en:Maiella%20National%20Park?uselang=en",
-      "name": "Parco Nazionale della Majella",
-      "note": "Moved english wiki to description, and put italian wiki in place. The wikidata reference is multilingual.",
-      "old_name": "Parco nazionale della Maiella",
-      "start_date": "1991",
-      "type": "multipolygon",
-      "website": "https://www.parcomajella.it/Sentieri-nel-Parco.htm",
-      "wikidata": "Q1085735",
-      "wikipedia": "it:Parco nazionale della Maiella"
-    },
-    "wiki": {
-      "name": "Maiella National Park",
-      "wikidataId": "Q1085735",
-      "osmRelationId": "3159222",
-      "country": "ITA",
-      "wikipedia": "Maiella_National_Park"
-    }
+    "boundary": "national_park",
+    "description:en": "https://en.wikipedia.org/wiki/en:Maiella%20National%20Park?uselang=en",
+    "name": "Parco Nazionale della Majella",
+    "note": "Moved english wiki to description, and put italian wiki in place. The wikidata reference is multilingual.",
+    "old_name": "Parco nazionale della Maiella",
+    "start_date": "1991",
+    "type": "multipolygon",
+    "website": "https://www.parcomajella.it/Sentieri-nel-Parco.htm",
+    "wikidata": "Q1085735",
+    "wikipedia": "it:Parco nazionale della Maiella"
   },
   "geometry": {
     "type": "Polygon",

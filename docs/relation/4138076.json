@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 4138076,
   "properties": {
-    "area": 615.24,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parque Nacional Cabo de Hornos",
-      "protect_class": "2",
-      "type": "multipolygon",
-      "wikidata": "Q338542",
-      "wikipedia": "en:Cabo de Hornos National Park"
-    },
-    "wiki": {
-      "name": "Cabo de Hornos National Park",
-      "wikidataId": "Q338542",
-      "osmRelationId": "4138076",
-      "country": "CHL",
-      "wikipedia": "Cabo_de_Hornos_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parque Nacional Cabo de Hornos",
+    "protect_class": "2",
+    "type": "multipolygon",
+    "wikidata": "Q338542",
+    "wikipedia": "en:Cabo de Hornos National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

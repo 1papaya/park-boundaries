@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 6503266,
   "properties": {
-    "area": 792.13,
-    "osm": {
-      "alt_name": "HNP Egyek - Pusztakócs",
-      "boundary": "national_park",
-      "is_in": "Hortobágyi Nemzeti Park",
-      "leisure": "nature_reserve",
-      "name": "Hortobágyi Nemzeti Park",
-      "name:de": "Hortobágyi-Nationalpark",
-      "name:en": "Hortobágy National Park",
-      "name:sk": "Národný park Hortobágy",
-      "name:zh": "霍爾托巴吉國家公園",
-      "protect_class": "2",
-      "type": "boundary",
-      "website": "http://www.hnp.hu",
-      "wikidata": "Q61757",
-      "wikipedia": "hu:Hortobágyi Nemzeti Park"
-    },
-    "wiki": {
-      "name": "Hortobágy National Park",
-      "wikidataId": "Q61757",
-      "osmRelationId": "6503266",
-      "country": "HUN",
-      "wikipedia": "Hortob%C3%A1gy_National_Park"
-    }
+    "alt_name": "HNP Egyek - Pusztakócs",
+    "boundary": "national_park",
+    "is_in": "Hortobágyi Nemzeti Park",
+    "leisure": "nature_reserve",
+    "name": "Hortobágyi Nemzeti Park",
+    "name:de": "Hortobágyi-Nationalpark",
+    "name:en": "Hortobágy National Park",
+    "name:sk": "Národný park Hortobágy",
+    "name:zh": "霍爾托巴吉國家公園",
+    "protect_class": "2",
+    "type": "boundary",
+    "website": "http://www.hnp.hu",
+    "wikidata": "Q61757",
+    "wikipedia": "hu:Hortobágyi Nemzeti Park"
   },
   "geometry": {
     "type": "MultiPolygon",

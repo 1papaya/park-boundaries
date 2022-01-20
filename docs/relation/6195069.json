@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 6195069,
   "properties": {
-    "area": 2049.92,
-    "osm": {
-      "boundary": "national_park",
-      "email": "parquechirripo@racsa.co.cr",
-      "fax": "2291-1264",
-      "name": "Parque nacional Isla del Coco",
-      "operator": "Área de Conservación Marina Cocos (ACMC)",
-      "phone": "Isla del Coco Conservation Area Regional Headquarter: 2291-1215 / 2291-1216 / 2291-1233 / 2291-1250",
-      "ref:CR:SINAC": "P20",
-      "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
-      "start_date": "1978",
-      "type": "boundary",
-      "website": "www.sinac.go.cr",
-      "wikidata": "Q6062995",
-      "wikipedia": "es:Parque nacional Isla del Coco"
-    },
-    "wiki": {
-      "name": "Cocos Island National Park",
-      "wikidataId": "Q6062995",
-      "osmRelationId": "6195069",
-      "country": "CRI",
-      "wikipedia": null
-    }
+    "boundary": "national_park",
+    "email": "parquechirripo@racsa.co.cr",
+    "fax": "2291-1264",
+    "name": "Parque nacional Isla del Coco",
+    "operator": "Área de Conservación Marina Cocos (ACMC)",
+    "phone": "Isla del Coco Conservation Area Regional Headquarter: 2291-1215 / 2291-1216 / 2291-1233 / 2291-1250",
+    "ref:CR:SINAC": "P20",
+    "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
+    "start_date": "1978",
+    "type": "boundary",
+    "website": "www.sinac.go.cr",
+    "wikidata": "Q6062995",
+    "wikipedia": "es:Parque nacional Isla del Coco"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 1850539,
   "properties": {
-    "area": 15.82,
-    "osm": {
-      "boundary": "protected_area",
-      "name": "Parque Estadual Paulo César Vinha",
-      "old_name": "Parque Estadual de Setiba",
-      "operator": "Instituto Estadual de Meio Ambiente e Recursos Hídricos do Espírito Santo",
-      "protect_class": "2",
-      "protection_title": "parque estadual",
-      "ref:CNUC": "0000.32.0332",
-      "related_law": "Lei ordinária nº 4903, de 02/05/1994",
-      "start_date": "1990",
-      "type": "multipolygon",
-      "wikidata": "Q27567986",
-      "wikipedia": "pt:Parque Estadual Paulo César Vinha"
-    },
-    "wiki": {
-      "name": "Paulo César Vinha State Park",
-      "wikidataId": "Q27567986",
-      "osmRelationId": "1850539",
-      "country": "BRA",
-      "wikipedia": "Paulo_C%C3%A9sar_Vinha_State_Park"
-    }
+    "boundary": "protected_area",
+    "name": "Parque Estadual Paulo César Vinha",
+    "old_name": "Parque Estadual de Setiba",
+    "operator": "Instituto Estadual de Meio Ambiente e Recursos Hídricos do Espírito Santo",
+    "protect_class": "2",
+    "protection_title": "parque estadual",
+    "ref:CNUC": "0000.32.0332",
+    "related_law": "Lei ordinária nº 4903, de 02/05/1994",
+    "start_date": "1990",
+    "type": "multipolygon",
+    "wikidata": "Q27567986",
+    "wikipedia": "pt:Parque Estadual Paulo César Vinha"
   },
   "geometry": {
     "type": "MultiPolygon",

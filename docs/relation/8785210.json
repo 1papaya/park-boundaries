@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 8785210,
   "properties": {
-    "area": 2085.44,
-    "osm": {
-      "boundary": "protected_area",
-      "name": "Parque Nacional Talampaya",
-      "name:en": "Talampaya National Park",
-      "operator": "Administración Parques Nacionales",
-      "operator:type": "government",
-      "protect_class": "2",
-      "protected_area": "national_park",
-      "protection_title": "Parque Nacional",
-      "related_law": "Ley Nacional 24846/97",
-      "source": "http://www.sib.gov.ar/area/APN*TA",
-      "start_date": "1997",
-      "type": "boundary",
-      "website": "http://www.talampaya.gov.ar/",
-      "wikidata": "Q398108",
-      "wikipedia": "es:Parque nacional Talampaya"
-    },
-    "wiki": {
-      "name": "Talampaya National Park",
-      "wikidataId": "Q398108",
-      "osmRelationId": "8785210",
-      "country": "ARG",
-      "wikipedia": "Talampaya_National_Park"
-    }
+    "boundary": "protected_area",
+    "name": "Parque Nacional Talampaya",
+    "name:en": "Talampaya National Park",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protect_class": "2",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Ley Nacional 24846/97",
+    "source": "http://www.sib.gov.ar/area/APN*TA",
+    "start_date": "1997",
+    "type": "boundary",
+    "website": "http://www.talampaya.gov.ar/",
+    "wikidata": "Q398108",
+    "wikipedia": "es:Parque nacional Talampaya"
   },
   "geometry": {
     "type": "Polygon",

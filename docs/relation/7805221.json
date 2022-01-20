@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 7805221,
   "properties": {
-    "area": 915.41,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Cagar Alam Faruhumpenai",
-      "name:en": "Faruhumpenai Nature Reserve",
-      "natural": "wood",
-      "type": "multipolygon"
-    },
-    "wiki": {
-      "name": "Q104021784",
-      "wikidataId": "Q104021784",
-      "osmRelationId": "7805221",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Faruhumpenai",
+    "name:en": "Faruhumpenai Nature Reserve",
+    "natural": "wood",
+    "type": "multipolygon"
   },
   "geometry": {
     "type": "Polygon",

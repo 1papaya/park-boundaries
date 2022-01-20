@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 3009056,
   "properties": {
-    "area": 11.09,
-    "osm": {
-      "name": "Marismas de Isla Cristina",
-      "natural": "wetland",
-      "type": "multipolygon",
-      "wetland": "saltmarsh",
-      "wikidata": "Q3364572"
-    },
-    "wiki": {
-      "name": "Marismas de Isla Cristina",
-      "wikidataId": "Q3364572",
-      "osmRelationId": "3009056",
-      "country": "ESP",
-      "wikipedia": "Marismas_de_Isla_Cristina"
-    }
+    "name": "Marismas de Isla Cristina",
+    "natural": "wetland",
+    "type": "multipolygon",
+    "wetland": "saltmarsh",
+    "wikidata": "Q3364572"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 7100482,
   "properties": {
-    "area": 0.29,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "28.9",
-      "lst:beslut": "1998-11-02",
-      "lst:ref": "2000432",
-      "lst:skyddsform": "NR",
-      "name": "Verkegards",
-      "type": "multipolygon",
-      "wikidata": "Q29188927"
-    },
-    "wiki": {
-      "name": "Verkegards nature reserve",
-      "wikidataId": "Q29188927",
-      "osmRelationId": "7100482",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "28.9",
+    "lst:beslut": "1998-11-02",
+    "lst:ref": "2000432",
+    "lst:skyddsform": "NR",
+    "name": "Verkegards",
+    "type": "multipolygon",
+    "wikidata": "Q29188927"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 1531607,
   "properties": {
-    "area": 103.38,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "French Island National Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "National Park - Schedule 2, National Parks Act",
-      "short_name": "French Island NP",
-      "source": "VicMap ParkRes",
-      "start_date": "1988-06-21",
-      "type": "boundary",
-      "vicmap:prims_id": "3301",
-      "vicmap:uid": "3301_II",
-      "wikidata": "Q1455232",
-      "wikipedia": "en:French Island National Park"
-    },
-    "wiki": {
-      "name": "French Island National Park",
-      "wikidataId": "Q1455232",
-      "osmRelationId": "1531607",
-      "country": "AUS",
-      "wikipedia": "French_Island_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "French Island National Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "National Park - Schedule 2, National Parks Act",
+    "short_name": "French Island NP",
+    "source": "VicMap ParkRes",
+    "start_date": "1988-06-21",
+    "type": "boundary",
+    "vicmap:prims_id": "3301",
+    "vicmap:uid": "3301_II",
+    "wikidata": "Q1455232",
+    "wikipedia": "en:French Island National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

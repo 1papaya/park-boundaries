@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 8388138,
   "properties": {
-    "area": 1247.16,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parc marin du Saguenay–Saint‑Laurent",
-      "operator": "SÉPAQ",
-      "protect_class": "2",
-      "type": "multipolygon",
-      "website": "https://www.sepaq.com/pq/ssl",
-      "wikidata": "Q862222"
-    },
-    "wiki": {
-      "name": "Saguenay–St. Lawrence Marine Park",
-      "wikidataId": "Q862222",
-      "osmRelationId": "8388138",
-      "country": "CAN",
-      "wikipedia": "Saguenay%E2%80%93St._Lawrence_Marine_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parc marin du Saguenay–Saint‑Laurent",
+    "operator": "SÉPAQ",
+    "protect_class": "2",
+    "type": "multipolygon",
+    "website": "https://www.sepaq.com/pq/ssl",
+    "wikidata": "Q862222"
   },
   "geometry": {
     "type": "Polygon",

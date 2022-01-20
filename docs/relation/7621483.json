@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 7621483,
   "properties": {
-    "area": 155.71,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "მტირალას ეროვნული პარკი",
-      "name:de": "Mtirala-Nationalpark",
-      "name:en": "Mtirala National Park",
-      "name:ka": "მტირალას ეროვნული პარკი",
-      "name:ru": "Мтирала национальный парк",
-      "name:tr": "Mtirala Milli Parkı",
-      "name:uk": "Мтірала національний парк",
-      "source": "http://apa.gov.ge/en/protected-areas/cattestone/mtiralas-erovnuli-parkis-administracia/kolxetis-erovnuli-parkis-damatebiti-girsshesanishnaobani/kintrishis-daculi-teritoriebis-damatebiti-girsshesanishnaobani",
-      "type": "multipolygon",
-      "wikipedia": "ka:მტირალას ეროვნული პარკი"
-    },
-    "wiki": {
-      "name": "Mtirala National Park",
-      "wikidataId": "Q1951559",
-      "osmRelationId": "7621483",
-      "country": "GEO",
-      "wikipedia": "Mtirala_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "მტირალას ეროვნული პარკი",
+    "name:de": "Mtirala-Nationalpark",
+    "name:en": "Mtirala National Park",
+    "name:ka": "მტირალას ეროვნული პარკი",
+    "name:ru": "Мтирала национальный парк",
+    "name:tr": "Mtirala Milli Parkı",
+    "name:uk": "Мтірала національний парк",
+    "source": "http://apa.gov.ge/en/protected-areas/cattestone/mtiralas-erovnuli-parkis-administracia/kolxetis-erovnuli-parkis-damatebiti-girsshesanishnaobani/kintrishis-daculi-teritoriebis-damatebiti-girsshesanishnaobani",
+    "type": "multipolygon",
+    "wikipedia": "ka:მტირალას ეროვნული პარკი"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 7708534,
   "properties": {
-    "area": 532.8,
-    "osm": {
-      "alt_name": "Parku Kombëtar Sharr",
-      "boundary": "national_park",
-      "name": "Parku Kombëtar \"Sharri\"",
-      "name:de": "Nationalpark \"Sharri\"",
-      "name:en": "\"Sharri\" National Park",
-      "name:mk": "Национален парк Шара",
-      "name:sq": "Parku Kombëtar \"Sharri\"",
-      "name:sr": "Национални парк \"Шара\"",
-      "name:sr-Latn": "Nacionalni park \"Šara\"",
-      "start_date": "2012",
-      "type": "boundary",
-      "wikidata": "Q1569160"
-    },
-    "wiki": {
-      "name": "Sharr Mountains National Park",
-      "wikidataId": "Q1569160",
-      "osmRelationId": "7708534",
-      "country": "XKS",
-      "wikipedia": "Sharr_Mountains_National_Park_(Kosovo)"
-    }
+    "alt_name": "Parku Kombëtar Sharr",
+    "boundary": "national_park",
+    "name": "Parku Kombëtar \"Sharri\"",
+    "name:de": "Nationalpark \"Sharri\"",
+    "name:en": "\"Sharri\" National Park",
+    "name:mk": "Национален парк Шара",
+    "name:sq": "Parku Kombëtar \"Sharri\"",
+    "name:sr": "Национални парк \"Шара\"",
+    "name:sr-Latn": "Nacionalni park \"Šara\"",
+    "start_date": "2012",
+    "type": "boundary",
+    "wikidata": "Q1569160"
   },
   "geometry": {
     "type": "Polygon",

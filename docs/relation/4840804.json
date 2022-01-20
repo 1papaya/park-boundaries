@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 4840804,
   "properties": {
-    "area": 21.45,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:url": "https://www.lansstyrelsen.se/norrbotten/besoksmal/naturreservat/lulea/ormberget-hertsolandet.html",
-      "name": "Ormberget-Hertsölandet",
-      "snowmobile": "no",
-      "type": "multipolygon",
-      "wikidata": "Q30174267"
-    },
-    "wiki": {
-      "name": "Ormberget-Hertsölandet",
-      "wikidataId": "Q30174267",
-      "osmRelationId": "4840804",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:url": "https://www.lansstyrelsen.se/norrbotten/besoksmal/naturreservat/lulea/ormberget-hertsolandet.html",
+    "name": "Ormberget-Hertsölandet",
+    "snowmobile": "no",
+    "type": "multipolygon",
+    "wikidata": "Q30174267"
   },
   "geometry": {
     "type": "Polygon",

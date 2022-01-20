@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 5614443,
   "properties": {
-    "area": 125.45,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Parc Natural de la Serra de Mariola",
-      "name:ca": "Parc Natural de la Serra de Mariola",
-      "name:es": "Parque Natural de la Serra de Mariola",
-      "protect_class": "5",
-      "protection_title": "Parc Natural",
-      "type": "boundary",
-      "wikidata": "Q5485997",
-      "wikipedia": "ca:Serra Mariola"
-    },
-    "wiki": {
-      "name": "Serra Mariola Natural Park",
-      "wikidataId": "Q5485997",
-      "osmRelationId": "5614443",
-      "country": "ESP",
-      "wikipedia": "Serra_Mariola_Natural_Park"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parc Natural de la Serra de Mariola",
+    "name:ca": "Parc Natural de la Serra de Mariola",
+    "name:es": "Parque Natural de la Serra de Mariola",
+    "protect_class": "5",
+    "protection_title": "Parc Natural",
+    "type": "boundary",
+    "wikidata": "Q5485997",
+    "wikipedia": "ca:Serra Mariola"
   },
   "geometry": {
     "type": "MultiPolygon",

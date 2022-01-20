@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 2473644,
   "properties": {
-    "area": 173.05,
-    "osm": {
-      "boundary": "protected_area",
-      "governance_type": "government_managed",
-      "iucn_level": "2",
-      "leisure": "park",
-      "name": "Mount Carleton Provincial Park",
-      "operator": "Government of New Brunswick",
-      "protect_class": "2",
-      "protection_title": "Provincial Park",
-      "ref:IUCN": "2",
-      "site_ownership": "public/provincial",
-      "site_status": "designated",
-      "source": "Government of New Brunswick",
-      "type": "multipolygon",
-      "wikidata": "Q3364752",
-      "wikipedia": "en:Mount Carleton Provincial Park"
-    },
-    "wiki": {
-      "name": "Mount Carleton Provincial Park",
-      "wikidataId": "Q3364752",
-      "osmRelationId": "2473644",
-      "country": "CAN",
-      "wikipedia": "Mount_Carleton_Provincial_Park"
-    }
+    "boundary": "protected_area",
+    "governance_type": "government_managed",
+    "iucn_level": "2",
+    "leisure": "park",
+    "name": "Mount Carleton Provincial Park",
+    "operator": "Government of New Brunswick",
+    "protect_class": "2",
+    "protection_title": "Provincial Park",
+    "ref:IUCN": "2",
+    "site_ownership": "public/provincial",
+    "site_status": "designated",
+    "source": "Government of New Brunswick",
+    "type": "multipolygon",
+    "wikidata": "Q3364752",
+    "wikipedia": "en:Mount Carleton Provincial Park"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 548859,
   "properties": {
-    "area": 176.05,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Greater Bendigo National Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "National Park - Schedule 2, National Parks Act",
-      "short_name": "Greater Bendigo NP",
-      "source": "VicMap ParkRes",
-      "start_date": "1986-06-26",
-      "type": "boundary",
-      "vicmap:prims_id": "4492",
-      "vicmap:uid": "4492_II",
-      "website": "https://parkweb.vic.gov.au/explore/parks/greater-bendigo-national-park"
-    },
-    "wiki": {
-      "name": "Greater Bendigo National Park",
-      "wikidataId": "Q536993",
-      "osmRelationId": "548859",
-      "country": "AUS",
-      "wikipedia": "Greater_Bendigo_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Greater Bendigo National Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "National Park - Schedule 2, National Parks Act",
+    "short_name": "Greater Bendigo NP",
+    "source": "VicMap ParkRes",
+    "start_date": "1986-06-26",
+    "type": "boundary",
+    "vicmap:prims_id": "4492",
+    "vicmap:uid": "4492_II",
+    "website": "https://parkweb.vic.gov.au/explore/parks/greater-bendigo-national-park"
   },
   "geometry": {
     "type": "MultiPolygon",

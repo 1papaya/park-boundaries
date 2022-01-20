@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 3404673,
   "properties": {
-    "area": 43044.38,
-    "osm": {
-      "WDPA_ID:ref": "30026",
-      "boundary": "national_park",
-      "name": "Parque Nacional Parima-Tapirapecó",
-      "name:en": "Parima-Tapirapecó National Park",
-      "name:es": "Parque Nacional Parima-Tapirapecó",
-      "operator": "Inparques",
-      "operator:type": "public",
-      "protect_class": "2",
-      "protection_title": "Parque Nacional",
-      "related_law": "Decreto n.° 1.636 del 5 de junio de 1991",
-      "source": "Inparques; Maxar (2021)",
-      "start_date": "1991-06-05",
-      "type": "boundary",
-      "wikidata": "Q3364426",
-      "wikipedia": "es:Parque nacional Parima-Tapirapeco"
-    },
-    "wiki": {
-      "name": "Parima-Tapirapecó National Park",
-      "wikidataId": "Q3364426",
-      "osmRelationId": "3404673",
-      "country": "VEN",
-      "wikipedia": "Parima_Tapirapec%C3%B3_National_Park"
-    }
+    "WDPA_ID:ref": "30026",
+    "boundary": "national_park",
+    "name": "Parque Nacional Parima-Tapirapecó",
+    "name:en": "Parima-Tapirapecó National Park",
+    "name:es": "Parque Nacional Parima-Tapirapecó",
+    "operator": "Inparques",
+    "operator:type": "public",
+    "protect_class": "2",
+    "protection_title": "Parque Nacional",
+    "related_law": "Decreto n.° 1.636 del 5 de junio de 1991",
+    "source": "Inparques; Maxar (2021)",
+    "start_date": "1991-06-05",
+    "type": "boundary",
+    "wikidata": "Q3364426",
+    "wikipedia": "es:Parque nacional Parima-Tapirapeco"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 1476118,
   "properties": {
-    "area": 5471.29,
-    "osm": {
-      "attribution": "Queensland Department of Environment and Science",
-      "boundary": "protected_area",
-      "governance_type": "government",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Rinyirru (Lakefield) National Park (Cape York Peninsula Aboriginal Land)",
-      "operator": "Queensland Department of Environment and Science",
-      "protect_class": "2",
-      "protection_title": "National Park Recovery",
-      "ref:capad:pa_id": "QLD_1071RYI001",
-      "ref:paoq:sysintcode": "1071RYI001",
-      "source": "Protected areas of Queensland - boundaries - 2018",
-      "start_date": "2009-11-13",
-      "type": "boundary",
-      "wikidata": "Q93830"
-    },
-    "wiki": {
-      "name": "Rinyirru (Lakefield) National Park",
-      "wikidataId": "Q93830",
-      "osmRelationId": "1476118",
-      "country": "AUS",
-      "wikipedia": "Lakefield_National_Park"
-    }
+    "attribution": "Queensland Department of Environment and Science",
+    "boundary": "protected_area",
+    "governance_type": "government",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Rinyirru (Lakefield) National Park (Cape York Peninsula Aboriginal Land)",
+    "operator": "Queensland Department of Environment and Science",
+    "protect_class": "2",
+    "protection_title": "National Park Recovery",
+    "ref:capad:pa_id": "QLD_1071RYI001",
+    "ref:paoq:sysintcode": "1071RYI001",
+    "source": "Protected areas of Queensland - boundaries - 2018",
+    "start_date": "2009-11-13",
+    "type": "boundary",
+    "wikidata": "Q93830"
   },
   "geometry": {
     "type": "MultiPolygon",

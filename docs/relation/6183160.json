@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 6183160,
   "properties": {
-    "area": 108.29,
-    "osm": {
-      "boundary": "national_park",
-      "gnis:feature_id": "247533",
-      "leisure": "nature_reserve",
-      "name": "Pinnacles National Park",
-      "operator": "United States National Park Service",
-      "ownership": "national",
-      "protect_class": "2",
-      "protected": "perpetuity",
-      "protection_title": "National Park",
-      "type": "boundary",
-      "website": "http://www.nps.gov/pinn/",
-      "wikidata": "Q1783768",
-      "wikipedia": "en:Pinnacles National Park"
-    },
-    "wiki": {
-      "name": "Pinnacles National Park",
-      "wikidataId": "Q1783768",
-      "osmRelationId": "6183160",
-      "country": "USA",
-      "wikipedia": "Pinnacles_National_Park"
-    }
+    "boundary": "national_park",
+    "gnis:feature_id": "247533",
+    "leisure": "nature_reserve",
+    "name": "Pinnacles National Park",
+    "operator": "United States National Park Service",
+    "ownership": "national",
+    "protect_class": "2",
+    "protected": "perpetuity",
+    "protection_title": "National Park",
+    "type": "boundary",
+    "website": "http://www.nps.gov/pinn/",
+    "wikidata": "Q1783768",
+    "wikipedia": "en:Pinnacles National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

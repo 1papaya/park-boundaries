@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 10748930,
   "properties": {
-    "area": 148.38,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Cagar Alam Gunung Simpang",
-      "name:en": "Gunung Simpang Nature Reserve",
-      "operator": "Balai Besar Konservasi Sumber Daya Alam Jawa Barat",
-      "protect_class": "3",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Q104173506",
-      "wikidataId": "Q104173506",
-      "osmRelationId": "10748930",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Gunung Simpang",
+    "name:en": "Gunung Simpang Nature Reserve",
+    "operator": "Balai Besar Konservasi Sumber Daya Alam Jawa Barat",
+    "protect_class": "3",
+    "type": "boundary"
   },
   "geometry": {
     "type": "Polygon",

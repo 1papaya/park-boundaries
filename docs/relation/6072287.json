@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 6072287,
   "properties": {
-    "area": 2483.57,
-    "osm": {
-      "admin_level": "10",
-      "boundary": "administrative",
-      "name": "Blue Mountains National Park",
-      "note": "Blue Mountains NP \"Suburb\" doesn't exacly match the NPWS boundaries",
-      "place": "locality",
-      "postal_code": "2787",
-      "ref:nswlpi:cadid": "158461554",
-      "ref:psma:loc_pid": "NSW421",
-      "source": "NSW LPI Base Map",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Blue Mountains National Park",
-      "wikidataId": "Q885558",
-      "osmRelationId": "6072287",
-      "country": "AUS",
-      "wikipedia": "Blue_Mountains_National_Park"
-    }
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Blue Mountains National Park",
+    "note": "Blue Mountains NP \"Suburb\" doesn't exacly match the NPWS boundaries",
+    "place": "locality",
+    "postal_code": "2787",
+    "ref:nswlpi:cadid": "158461554",
+    "ref:psma:loc_pid": "NSW421",
+    "source": "NSW LPI Base Map",
+    "type": "boundary"
   },
   "geometry": {
     "type": "MultiPolygon",

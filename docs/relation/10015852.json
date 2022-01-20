@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 10015852,
   "properties": {
-    "area": 121.6,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "national_park",
-      "name": "Nationalpark Gesäuse",
-      "name:es": "Parque nacional Gesäuse",
-      "name:fr": "Parc national de Gesäuse",
-      "name:hu": "Gesäuse Nemzeti Park",
-      "name:it": "Parco nazionale Gesäuse",
-      "name:sk": "Národný park Gesäuse",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q369655",
-      "wikimedia_commons": "Category:Nationalpark Gesäuse",
-      "wikipedia": "de:Nationalpark Gesäuse"
-    },
-    "wiki": {
-      "name": "Gesäuse National Park",
-      "wikidataId": "Q369655",
-      "osmRelationId": "10015852",
-      "country": "AUT",
-      "wikipedia": "Ges%C3%A4use_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "national_park",
+    "name": "Nationalpark Gesäuse",
+    "name:es": "Parque nacional Gesäuse",
+    "name:fr": "Parc national de Gesäuse",
+    "name:hu": "Gesäuse Nemzeti Park",
+    "name:it": "Parco nazionale Gesäuse",
+    "name:sk": "Národný park Gesäuse",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q369655",
+    "wikimedia_commons": "Category:Nationalpark Gesäuse",
+    "wikipedia": "de:Nationalpark Gesäuse"
   },
   "geometry": {
     "type": "Polygon",

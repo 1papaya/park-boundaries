@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 1463758,
   "properties": {
-    "area": 60.23,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:anmärkning": "Dossienr. Lst: 0120-02-025",
-      "lst:area_ha": "6045.89",
-      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
-      "lst:ref": "0102058",
-      "lst:tillkomst": "1972-03-23",
-      "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
-      "name": "Storö-Bockö-Lökaö",
-      "source": "Länsstyrelsen i Stockholms län (gis.lst.se)",
-      "type": "multipolygon",
-      "wikidata": "Q10681454"
-    },
-    "wiki": {
-      "name": "Storö-Bockö-Lökaö Nature Reserve",
-      "wikidataId": "Q10681454",
-      "osmRelationId": "1463758",
-      "country": "SWE",
-      "wikipedia": "Stor%C3%B6-Bock%C3%B6-L%C3%B6ka%C3%B6_Nature_Reserve"
-    }
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "Dossienr. Lst: 0120-02-025",
+    "lst:area_ha": "6045.89",
+    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+    "lst:ref": "0102058",
+    "lst:tillkomst": "1972-03-23",
+    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+    "name": "Storö-Bockö-Lökaö",
+    "source": "Länsstyrelsen i Stockholms län (gis.lst.se)",
+    "type": "multipolygon",
+    "wikidata": "Q10681454"
   },
   "geometry": {
     "type": "Polygon",

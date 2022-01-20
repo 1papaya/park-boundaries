@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 6116273,
   "properties": {
-    "area": 59.29,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Noisy-Diobsud Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "multipolygon",
-      "wikidata": "Q3342774"
-    },
-    "wiki": {
-      "name": "Noisy-Diobsud Wilderness",
-      "wikidataId": "Q3342774",
-      "osmRelationId": "6116273",
-      "country": "USA",
-      "wikipedia": "Noisy-Diobsud_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Noisy-Diobsud Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "multipolygon",
+    "wikidata": "Q3342774"
   },
   "geometry": {
     "type": "Polygon",

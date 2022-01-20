@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 1405794,
   "properties": {
-    "area": 8.78,
-    "osm": {
-      "WDPA_ID:ref": "178772",
-      "boundary": "protected_area",
-      "contact:email": "salineditrapani@wwf.it",
-      "contact:mobile": "+39 327 5621529",
-      "contact:phone": "+39 0923 867700",
-      "contact:website": "http://www.wwfsalineditrapani.it/",
-      "iucn_level": "4",
-      "leisure": "nature_reserve",
-      "name": "Riserva naturale integrale Saline di Trapani e Paceco",
-      "protect_id": "4",
-      "ref:EUAP": "EUAP1110",
-      "site_ownership": "national",
-      "site_status": "designated",
-      "type": "multipolygon",
-      "wikidata": "Q490208",
-      "wikipedia": "it:Riserva naturale integrale Saline di Trapani e Paceco"
-    },
-    "wiki": {
-      "name": "Riserva naturale integrale Saline di Trapani e Paceco",
-      "wikidataId": "Q490208",
-      "osmRelationId": "1405794",
-      "country": "ITA",
-      "wikipedia": "Riserva_naturale_integrale_Saline_di_Trapani_e_Paceco"
-    }
+    "WDPA_ID:ref": "178772",
+    "boundary": "protected_area",
+    "contact:email": "salineditrapani@wwf.it",
+    "contact:mobile": "+39 327 5621529",
+    "contact:phone": "+39 0923 867700",
+    "contact:website": "http://www.wwfsalineditrapani.it/",
+    "iucn_level": "4",
+    "leisure": "nature_reserve",
+    "name": "Riserva naturale integrale Saline di Trapani e Paceco",
+    "protect_id": "4",
+    "ref:EUAP": "EUAP1110",
+    "site_ownership": "national",
+    "site_status": "designated",
+    "type": "multipolygon",
+    "wikidata": "Q490208",
+    "wikipedia": "it:Riserva naturale integrale Saline di Trapani e Paceco"
   },
   "geometry": {
     "type": "Polygon",

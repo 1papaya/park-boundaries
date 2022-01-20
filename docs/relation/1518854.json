@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 1518854,
   "properties": {
-    "area": 249.31,
-    "osm": {
-      "attribution": "Queensland Department of Environment and Science",
-      "boundary": "protected_area",
-      "governance_type": "government",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Japoon National Park",
-      "operator": "Queensland Department of Environment and Science",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "ref:capad:pa_id": "QLD_0637JAP001",
-      "ref:paoq:sysintcode": "0637JAP001",
-      "source": "Protected areas of Queensland - boundaries - 2018",
-      "start_date": "2010-06-04",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Japoon National Park",
-      "wikidataId": "Q741557",
-      "osmRelationId": "1518854",
-      "country": "AUS",
-      "wikipedia": "Japoon_National_Park"
-    }
+    "attribution": "Queensland Department of Environment and Science",
+    "boundary": "protected_area",
+    "governance_type": "government",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Japoon National Park",
+    "operator": "Queensland Department of Environment and Science",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "ref:capad:pa_id": "QLD_0637JAP001",
+    "ref:paoq:sysintcode": "0637JAP001",
+    "source": "Protected areas of Queensland - boundaries - 2018",
+    "start_date": "2010-06-04",
+    "type": "boundary"
   },
   "geometry": {
     "type": "MultiPolygon",

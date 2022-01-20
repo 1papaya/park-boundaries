@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 253073,
   "properties": {
-    "area": 32.58,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Nationalpark Jasmund",
-      "protect_class": "2",
-      "protection_title": "Nationalpark Jasmund",
-      "short_protection_title": "NLP",
-      "type": "multipolygon",
-      "wikidata": "Q679173",
-      "wikipedia": "de:Nationalpark Jasmund"
-    },
-    "wiki": {
-      "name": "Jasmund National Park",
-      "wikidataId": "Q679173",
-      "osmRelationId": "253073",
-      "country": "DEU",
-      "wikipedia": "Jasmund_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Nationalpark Jasmund",
+    "protect_class": "2",
+    "protection_title": "Nationalpark Jasmund",
+    "short_protection_title": "NLP",
+    "type": "multipolygon",
+    "wikidata": "Q679173",
+    "wikipedia": "de:Nationalpark Jasmund"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 3349251,
   "properties": {
-    "area": 1220.46,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Parco Nazionale del Gargano",
-      "name:de": "Nationalpark Gargano",
-      "name:en": "Gargano National Park",
-      "name:es": "Parque nacional del Gargano",
-      "name:fr": "Parc national du Gargano",
-      "name:it": "Parco Nazionale del Gargano",
-      "name:nl": "Nationaal park Gargano",
-      "type": "multipolygon",
-      "website": "http://www.parcogargano.gov.it",
-      "wikidata": "Q382227",
-      "wikipedia": "it:Parco nazionale del Gargano"
-    },
-    "wiki": {
-      "name": "Gargano National Park",
-      "wikidataId": "Q382227",
-      "osmRelationId": "3349251",
-      "country": "ITA",
-      "wikipedia": "Gargano_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Parco Nazionale del Gargano",
+    "name:de": "Nationalpark Gargano",
+    "name:en": "Gargano National Park",
+    "name:es": "Parque nacional del Gargano",
+    "name:fr": "Parc national du Gargano",
+    "name:it": "Parco Nazionale del Gargano",
+    "name:nl": "Nationaal park Gargano",
+    "type": "multipolygon",
+    "website": "http://www.parcogargano.gov.it",
+    "wikidata": "Q382227",
+    "wikipedia": "it:Parco nazionale del Gargano"
   },
   "geometry": {
     "type": "MultiPolygon",

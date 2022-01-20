@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 1766290,
   "properties": {
-    "area": 1835.27,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Nationalpark Hohe Tauern",
-      "name:cs": "národní park Vysoké Taury",
-      "name:en": "High Tauern National Park",
-      "protect_class": "2",
-      "source": "Nationalpark Hohe Tauern, Nationalparkverwaltung",
-      "type": "multipolygon",
-      "website": "https://hohetauern.at/",
-      "wikidata": "Q696014"
-    },
-    "wiki": {
-      "name": "Hohe Tauern National Park",
-      "wikidataId": "Q696014",
-      "osmRelationId": "1766290",
-      "country": "AUT",
-      "wikipedia": "Hohe_Tauern_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Nationalpark Hohe Tauern",
+    "name:cs": "národní park Vysoké Taury",
+    "name:en": "High Tauern National Park",
+    "protect_class": "2",
+    "source": "Nationalpark Hohe Tauern, Nationalparkverwaltung",
+    "type": "multipolygon",
+    "website": "https://hohetauern.at/",
+    "wikidata": "Q696014"
   },
   "geometry": {
     "type": "MultiPolygon",

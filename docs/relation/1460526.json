@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 1460526,
   "properties": {
-    "area": 1.18,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:anmärkning": "11. Myllrande våtmarker, 16. Ett rikt växt- och djurliv, 13. Ett rikt odlingslandskap",
-      "lst:area_ha": "1184401.94432",
-      "lst:beskrivning": "Ia, Strikt naturreservat (Strict Nature Reserve)",
-      "lst:ref": "2014818",
-      "name": "Traneröds mosse, Grindhus och Lilla Klåveröd",
-      "source": "Länsstyrelsen i Skåne län (gis.lst.se)",
-      "type": "multipolygon",
-      "wikidata": "Q30158319"
-    },
-    "wiki": {
-      "name": "Traneröds mosse, Grindhus och Lilla Klåveröd",
-      "wikidataId": "Q30158319",
-      "osmRelationId": "1460526",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "11. Myllrande våtmarker, 16. Ett rikt växt- och djurliv, 13. Ett rikt odlingslandskap",
+    "lst:area_ha": "1184401.94432",
+    "lst:beskrivning": "Ia, Strikt naturreservat (Strict Nature Reserve)",
+    "lst:ref": "2014818",
+    "name": "Traneröds mosse, Grindhus och Lilla Klåveröd",
+    "source": "Länsstyrelsen i Skåne län (gis.lst.se)",
+    "type": "multipolygon",
+    "wikidata": "Q30158319"
   },
   "geometry": {
     "type": "Polygon",

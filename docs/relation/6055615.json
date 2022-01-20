@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 6055615,
   "properties": {
-    "area": 10.67,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Macquarie Pass National Park",
-      "note": "JOSM Simplify Way tool applied using a max error criterion set to 2m",
-      "nswlpi:cadid": "108020981",
-      "operator": "NSW National Parks and Wildlife Service",
-      "operator:wikidata": "Q6974770",
-      "protect_class": "2",
-      "ref": "N0020",
-      "ref:capad2014_osm": "NSW_N0020_II",
-      "source": "LPI NSW NPWSReserve geometry 2015",
-      "type": "boundary",
-      "wikidata": "Q1030926",
-      "wikipedia": "en:Macquarie Pass National Park"
-    },
-    "wiki": {
-      "name": "Macquarie Pass National Park",
-      "wikidataId": "Q1030926",
-      "osmRelationId": "6055615",
-      "country": "AUS",
-      "wikipedia": "Macquarie_Pass_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Macquarie Pass National Park",
+    "note": "JOSM Simplify Way tool applied using a max error criterion set to 2m",
+    "nswlpi:cadid": "108020981",
+    "operator": "NSW National Parks and Wildlife Service",
+    "operator:wikidata": "Q6974770",
+    "protect_class": "2",
+    "ref": "N0020",
+    "ref:capad2014_osm": "NSW_N0020_II",
+    "source": "LPI NSW NPWSReserve geometry 2015",
+    "type": "boundary",
+    "wikidata": "Q1030926",
+    "wikipedia": "en:Macquarie Pass National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 3841030,
   "properties": {
-    "area": 2606.62,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Nxai Pan National Park",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q859377"
-    },
-    "wiki": {
-      "name": "Nxai Pan National Park",
-      "wikidataId": "Q859377",
-      "osmRelationId": "3841030",
-      "country": "BWA",
-      "wikipedia": "Nxai_Pan_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Nxai Pan National Park",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q859377"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 6243495,
   "properties": {
-    "area": 0.03,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "lst:anmärkning": "Dossienr. Lst: 0120-02-003",
-      "lst:area_ha": "3.26",
-      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
-      "lst:ref": "0102014",
-      "lst:tillkomst": "1949-11-23",
-      "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
-      "name": "Skevik",
-      "type": "multipolygon",
-      "wikidata": "Q24197147"
-    },
-    "wiki": {
-      "name": "Skevik nature reserve",
-      "wikidataId": "Q24197147",
-      "osmRelationId": "6243495",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "Dossienr. Lst: 0120-02-003",
+    "lst:area_ha": "3.26",
+    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+    "lst:ref": "0102014",
+    "lst:tillkomst": "1949-11-23",
+    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+    "name": "Skevik",
+    "type": "multipolygon",
+    "wikidata": "Q24197147"
   },
   "geometry": {
     "type": "Polygon",

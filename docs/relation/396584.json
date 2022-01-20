@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 396584,
   "properties": {
-    "area": 2028.03,
-    "osm": {
-      "attribution": "US Forest Service",
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Weminuche Wilderness Area",
-      "ownership": "national",
-      "protect_class": "1b",
-      "source": "USFS (http://data.fs.usda.gov/geodata/)",
-      "type": "boundary",
-      "wikidata": "Q7982203",
-      "wikipedia": "fr:Weminuche Wilderness"
-    },
-    "wiki": {
-      "name": "Weminuche Wilderness",
-      "wikidataId": "Q7982203",
-      "osmRelationId": "396584",
-      "country": "USA",
-      "wikipedia": "Weminuche_Wilderness"
-    }
+    "attribution": "US Forest Service",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Weminuche Wilderness Area",
+    "ownership": "national",
+    "protect_class": "1b",
+    "source": "USFS (http://data.fs.usda.gov/geodata/)",
+    "type": "boundary",
+    "wikidata": "Q7982203",
+    "wikipedia": "fr:Weminuche Wilderness"
   },
   "geometry": {
     "type": "MultiPolygon",

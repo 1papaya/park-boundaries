@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 3961485,
   "properties": {
-    "area": 1351.8,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Glacier National Park",
-      "name:de": "Gletscher-Nationalpark",
-      "name:en": "Glacier National Park",
-      "name:fr": "Parc national des Glaciers",
-      "snowmobile": "no",
-      "source": "National Framework Canada Lands Administrative Boundaries Level 1",
-      "type": "boundary",
-      "wikidata": "Q1161253"
-    },
-    "wiki": {
-      "name": "Glacier National Park",
-      "wikidataId": "Q1161253",
-      "osmRelationId": "3961485",
-      "country": "CAN",
-      "wikipedia": "Glacier_National_Park_(Canada)"
-    }
+    "boundary": "national_park",
+    "name": "Glacier National Park",
+    "name:de": "Gletscher-Nationalpark",
+    "name:en": "Glacier National Park",
+    "name:fr": "Parc national des Glaciers",
+    "snowmobile": "no",
+    "source": "National Framework Canada Lands Administrative Boundaries Level 1",
+    "type": "boundary",
+    "wikidata": "Q1161253"
   },
   "geometry": {
     "type": "Polygon",

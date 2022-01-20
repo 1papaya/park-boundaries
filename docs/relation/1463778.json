@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 1463778,
   "properties": {
-    "area": 0.86,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:anmärkning": "Dossienr. Lst: 0126-02-002K",
-      "lst:area_ha": "84.71",
-      "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
-      "lst:ref": "0102168",
-      "lst:tillkomst": "1998-02-09",
-      "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
-      "name": "Björksättrahalvön",
-      "source": "Länsstyrelsen i Stockholms län (gis.lst.se)",
-      "type": "multipolygon",
-      "wikidata": "Q10430621"
-    },
-    "wiki": {
-      "name": "Björksättrahalvön",
-      "wikidataId": "Q10430621",
-      "osmRelationId": "1463778",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "Dossienr. Lst: 0126-02-002K",
+    "lst:area_ha": "84.71",
+    "lst:metodbeskrivning": "Status på gränsdragning enligt VIC-natur: Justerad mot fastighetskarta",
+    "lst:ref": "0102168",
+    "lst:tillkomst": "1998-02-09",
+    "lst:url": "http://www.ab.lst.se/templates/InformationPage____2017.asp",
+    "name": "Björksättrahalvön",
+    "source": "Länsstyrelsen i Stockholms län (gis.lst.se)",
+    "type": "multipolygon",
+    "wikidata": "Q10430621"
   },
   "geometry": {
     "type": "Polygon",

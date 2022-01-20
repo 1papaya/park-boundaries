@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 106763,
   "properties": {
-    "area": 2082.11,
-    "osm": {
-      "boundary": "national_park",
-      "landuse": "conservation",
-      "name": "Parc national de Masoala",
-      "name:de": "Nationalpark Masoala",
-      "name:en": "Masoala National Park",
-      "name:fr": "Parc national de Masoala",
-      "source": "ANGAP 2007",
-      "type": "multipolygon",
-      "wikidata": "Q964116",
-      "wikipedia": "fr:Parc national de Masoala"
-    },
-    "wiki": {
-      "name": "Masoala National Park",
-      "wikidataId": "Q964116",
-      "osmRelationId": "106763",
-      "country": "MDG",
-      "wikipedia": "Masoala_National_Park"
-    }
+    "boundary": "national_park",
+    "landuse": "conservation",
+    "name": "Parc national de Masoala",
+    "name:de": "Nationalpark Masoala",
+    "name:en": "Masoala National Park",
+    "name:fr": "Parc national de Masoala",
+    "source": "ANGAP 2007",
+    "type": "multipolygon",
+    "wikidata": "Q964116",
+    "wikipedia": "fr:Parc national de Masoala"
   },
   "geometry": {
     "type": "Polygon",

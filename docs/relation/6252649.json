@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 6252649,
   "properties": {
-    "area": 75.84,
-    "osm": {
-      "boundary": "national_park",
-      "gid": "2490",
-      "kodinspire": "PL.ZIPOP.1393.PN.20",
-      "name": "Wielkopolski Park Narodowy",
-      "name:de": "Nationalpark Großpolen",
-      "name:pl": "Wielkopolski Park Narodowy",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q101635",
-      "wikipedia": "pl:Wielkopolski Park Narodowy"
-    },
-    "wiki": {
-      "name": "Wielkopolska National Park",
-      "wikidataId": "Q101635",
-      "osmRelationId": "6252649",
-      "country": "POL",
-      "wikipedia": "Wielkopolski_National_Park"
-    }
+    "boundary": "national_park",
+    "gid": "2490",
+    "kodinspire": "PL.ZIPOP.1393.PN.20",
+    "name": "Wielkopolski Park Narodowy",
+    "name:de": "Nationalpark Großpolen",
+    "name:pl": "Wielkopolski Park Narodowy",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q101635",
+    "wikipedia": "pl:Wielkopolski Park Narodowy"
   },
   "geometry": {
     "type": "MultiPolygon",

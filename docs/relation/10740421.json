@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 10740421,
   "properties": {
-    "area": 64.88,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Taman Nasional Gunung Merapi",
-      "name:en": "Gunung Merapi National Park",
-      "operator": "Balai Taman Nasional Gunung Merapi",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q3400914",
-      "wikipedia": "id:Taman Nasional Gunung Merapi"
-    },
-    "wiki": {
-      "name": "Gunung Merapi National Park",
-      "wikidataId": "Q3400914",
-      "osmRelationId": "10740421",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "boundary": "national_park",
+    "name": "Taman Nasional Gunung Merapi",
+    "name:en": "Gunung Merapi National Park",
+    "operator": "Balai Taman Nasional Gunung Merapi",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q3400914",
+    "wikipedia": "id:Taman Nasional Gunung Merapi"
   },
   "geometry": {
     "type": "Polygon",

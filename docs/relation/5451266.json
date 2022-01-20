@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 5451266,
   "properties": {
-    "area": 503,
-    "osm": {
-      "boundary": "protected_area",
-      "name": "Reserva Natural Silvestre Isla de los Estados",
-      "name:de": "Provinzialreservat Staateninsel",
-      "name:es": "Reserva Natural Silvestre Isla de los Estados",
-      "operator": "Provincia de Tierra del Fuego",
-      "operator:type": "government",
-      "protect_class": "1b",
-      "protected_area": "nature_reserve_wilderness",
-      "protection_title": "Reserva Natural Silvestre",
-      "related_law": "Decreto 929/2016",
-      "type": "boundary",
-      "wikidata": "Q6106156",
-      "wikipedia": "es:Reserva natural silvestre Isla de los Estados y Archipiélago de Año Nuevo"
-    },
-    "wiki": {
-      "name": "Q6106156",
-      "wikidataId": "Q6106156",
-      "osmRelationId": "5451266",
-      "country": "ARG",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "name": "Reserva Natural Silvestre Isla de los Estados",
+    "name:de": "Provinzialreservat Staateninsel",
+    "name:es": "Reserva Natural Silvestre Isla de los Estados",
+    "operator": "Provincia de Tierra del Fuego",
+    "operator:type": "government",
+    "protect_class": "1b",
+    "protected_area": "nature_reserve_wilderness",
+    "protection_title": "Reserva Natural Silvestre",
+    "related_law": "Decreto 929/2016",
+    "type": "boundary",
+    "wikidata": "Q6106156",
+    "wikipedia": "es:Reserva natural silvestre Isla de los Estados y Archipiélago de Año Nuevo"
   },
   "geometry": {
     "type": "MultiPolygon",

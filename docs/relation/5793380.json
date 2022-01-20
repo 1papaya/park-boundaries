@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 5793380,
   "properties": {
-    "area": 776.02,
-    "osm": {
-      "WDPA_ID:ref": "30024",
-      "boundary": "national_park",
-      "name": "Parque Nacional Turuépano",
-      "name:en": "Turuepano National Park",
-      "name:es": "Parque Nacional Turuépano",
-      "name:fr": "Parc national Turuépano",
-      "operator": "Inparques",
-      "operator:type": "public",
-      "protect_class": "2",
-      "protection_title": "Parque Nacional",
-      "source": "Inparques; Maxar (2021)",
-      "start_date": "1991-06-05",
-      "type": "boundary",
-      "wikidata": "Q4845575",
-      "wikipedia": "es:Parque nacional Turuépano"
-    },
-    "wiki": {
-      "name": "Turuepano National Park",
-      "wikidataId": "Q4845575",
-      "osmRelationId": "5793380",
-      "country": "VEN",
-      "wikipedia": "Turu%C3%A9pano_National_Park"
-    }
+    "WDPA_ID:ref": "30024",
+    "boundary": "national_park",
+    "name": "Parque Nacional Turuépano",
+    "name:en": "Turuepano National Park",
+    "name:es": "Parque Nacional Turuépano",
+    "name:fr": "Parc national Turuépano",
+    "operator": "Inparques",
+    "operator:type": "public",
+    "protect_class": "2",
+    "protection_title": "Parque Nacional",
+    "source": "Inparques; Maxar (2021)",
+    "start_date": "1991-06-05",
+    "type": "boundary",
+    "wikidata": "Q4845575",
+    "wikipedia": "es:Parque nacional Turuépano"
   },
   "geometry": {
     "type": "MultiPolygon",

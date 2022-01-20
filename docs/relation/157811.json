@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 157811,
   "properties": {
-    "area": 3448.56,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Nationalpark Niedersächsisches Wattenmeer",
-      "name:pl": "Park Narodowy Dolnosaksońskiego Morza Wattowego",
-      "natural": "yes",
-      "protect_class": "2",
-      "protection_title": "Nationalpark Niedersächsisches Wattenmeer",
-      "short_protection_title": "NLP",
-      "type": "multipolygon",
-      "wikidata": "Q661217",
-      "wikipedia": "de:Nationalpark Niedersächsisches Wattenmeer"
-    },
-    "wiki": {
-      "name": "Lower Saxon Wadden Sea National Park",
-      "wikidataId": "Q661217",
-      "osmRelationId": "157811",
-      "country": "DEU",
-      "wikipedia": "Lower_Saxon_Wadden_Sea_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Nationalpark Niedersächsisches Wattenmeer",
+    "name:pl": "Park Narodowy Dolnosaksońskiego Morza Wattowego",
+    "natural": "yes",
+    "protect_class": "2",
+    "protection_title": "Nationalpark Niedersächsisches Wattenmeer",
+    "short_protection_title": "NLP",
+    "type": "multipolygon",
+    "wikidata": "Q661217",
+    "wikipedia": "de:Nationalpark Niedersächsisches Wattenmeer"
   },
   "geometry": {
     "type": "MultiPolygon",

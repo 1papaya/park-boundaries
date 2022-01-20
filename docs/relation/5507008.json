@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 5507008,
   "properties": {
-    "area": 557.8,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "V",
-      "leisure": "nature_reserve",
-      "name": "Djukbinj National Park",
-      "name:de": "Djukbinj-Nationalpark",
-      "name:en": "Djukbinj National Park",
-      "protect_class": "5",
-      "ref:capad:pa_id": "NT_PA116",
-      "source": "CAPAD 2020",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Djukbinj National Park",
-      "wikidataId": "Q1232248",
-      "osmRelationId": "5507008",
-      "country": "AUS",
-      "wikipedia": "Djukbinj_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "V",
+    "leisure": "nature_reserve",
+    "name": "Djukbinj National Park",
+    "name:de": "Djukbinj-Nationalpark",
+    "name:en": "Djukbinj National Park",
+    "protect_class": "5",
+    "ref:capad:pa_id": "NT_PA116",
+    "source": "CAPAD 2020",
+    "type": "boundary"
   },
   "geometry": {
     "type": "MultiPolygon",

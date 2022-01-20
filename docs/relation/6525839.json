@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 6525839,
   "properties": {
-    "area": 3057.53,
-    "osm": {
-      "boundary": "national_park",
-      "name": "อุทยานแห่งชาติแก่งกระจาน",
-      "name:de": "Nationalpark Kaeng Krachan",
-      "name:en": "Kaeng Krachan National Park",
-      "name:es": "Parque nacional Kaeng Krachan",
-      "name:fr": "Parc national de Kaeng Krachan",
-      "name:it": "Parco nazionale di Kaeng Krachan",
-      "name:pt": "Parque Nacional de Kaeng Krachan",
-      "name:th": "อุทยานแห่งชาติแก่งกระจาน",
-      "protect_class": "2",
-      "source": "http://www.ratchakitcha.soc.go.th/DATA/PDF/2541/A/064/1.PDF",
-      "start_date": "1981-06-12",
-      "type": "boundary",
-      "wikidata": "Q1819232"
-    },
-    "wiki": {
-      "name": "Kaeng Krachan National Park",
-      "wikidataId": "Q1819232",
-      "osmRelationId": "6525839",
-      "country": "THA",
-      "wikipedia": "Kaeng_Krachan_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "อุทยานแห่งชาติแก่งกระจาน",
+    "name:de": "Nationalpark Kaeng Krachan",
+    "name:en": "Kaeng Krachan National Park",
+    "name:es": "Parque nacional Kaeng Krachan",
+    "name:fr": "Parc national de Kaeng Krachan",
+    "name:it": "Parco nazionale di Kaeng Krachan",
+    "name:pt": "Parque Nacional de Kaeng Krachan",
+    "name:th": "อุทยานแห่งชาติแก่งกระจาน",
+    "protect_class": "2",
+    "source": "http://www.ratchakitcha.soc.go.th/DATA/PDF/2541/A/064/1.PDF",
+    "start_date": "1981-06-12",
+    "type": "boundary",
+    "wikidata": "Q1819232"
   },
   "geometry": {
     "type": "Polygon",

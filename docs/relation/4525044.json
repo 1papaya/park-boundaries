@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 4525044,
   "properties": {
-    "area": 113.76,
-    "osm": {
-      "boundary": "national_park",
-      "gid": "2499",
-      "kodinspire": "PL.ZIPOP.1393.PN.18",
-      "leisure": "nature_reserve",
-      "name": "Drawieński Park Narodowy",
-      "name:de": "Nationalpark Drage",
-      "name:pl": "Drawieński Park Narodowy",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q614743",
-      "wikipedia": "pl:Drawieński Park Narodowy"
-    },
-    "wiki": {
-      "name": "Drawa National Park",
-      "wikidataId": "Q614743",
-      "osmRelationId": "4525044",
-      "country": "POL",
-      "wikipedia": "Drawa_National_Park"
-    }
+    "boundary": "national_park",
+    "gid": "2499",
+    "kodinspire": "PL.ZIPOP.1393.PN.18",
+    "leisure": "nature_reserve",
+    "name": "Drawieński Park Narodowy",
+    "name:de": "Nationalpark Drage",
+    "name:pl": "Drawieński Park Narodowy",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q614743",
+    "wikipedia": "pl:Drawieński Park Narodowy"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 4537981,
   "properties": {
-    "area": 2240.48,
-    "osm": {
-      "boundary": "national_park",
-      "fixme": "approximately",
-      "name": "อุทยานแห่งชาติทับลาน",
-      "name:en": "Thap Lan National Park",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q4919631",
-      "wikipedia": "th:อุทยานแห่งชาติทับลาน"
-    },
-    "wiki": {
-      "name": "Thap Lan National Park",
-      "wikidataId": "Q4919631",
-      "osmRelationId": "4537981",
-      "country": "THA",
-      "wikipedia": "Thap_Lan_National_Park"
-    }
+    "boundary": "national_park",
+    "fixme": "approximately",
+    "name": "อุทยานแห่งชาติทับลาน",
+    "name:en": "Thap Lan National Park",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q4919631",
+    "wikipedia": "th:อุทยานแห่งชาติทับลาน"
   },
   "geometry": {
     "type": "Polygon",

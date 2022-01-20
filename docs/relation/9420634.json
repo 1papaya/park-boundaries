@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 9420634,
   "properties": {
-    "area": 17.23,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "1731",
-      "lst:beslutdat": "1993-06-21",
-      "lst:beslutdat2": "1999-12-30",
-      "lst:datum_geo": "2006-03-01",
-      "lst:ref": "2402060",
-      "lst:url": "http://www.ac.lst.se/naturochmiljo/naturreservat/Vilhelminakommun/Alsberget",
-      "name": "Alsberget",
-      "type": "multipolygon",
-      "wikidata": "Q1439607"
-    },
-    "wiki": {
-      "name": "Stöttingfjället nature reserve",
-      "wikidataId": "Q1439607",
-      "osmRelationId": "9420634",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "1731",
+    "lst:beslutdat": "1993-06-21",
+    "lst:beslutdat2": "1999-12-30",
+    "lst:datum_geo": "2006-03-01",
+    "lst:ref": "2402060",
+    "lst:url": "http://www.ac.lst.se/naturochmiljo/naturreservat/Vilhelminakommun/Alsberget",
+    "name": "Alsberget",
+    "type": "multipolygon",
+    "wikidata": "Q1439607"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 8812294,
   "properties": {
-    "area": 7.11,
-    "osm": {
-      "addr:state": "AS",
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Rose Atoll National Wildlife Refuge",
-      "operator": "U.S. Fish and Wildlife Service",
-      "ownership": "national",
-      "protect_class": "1a",
-      "protected_area": "nature_reserve_strict",
-      "protection_title": "National Wildlife Refuge",
-      "type": "boundary",
-      "website": "https://www.fws.gov/refuge/Rose_Atoll/",
-      "wikidata": "Q21847567",
-      "wikipedia": "en:Rose Atoll National Wildlife Refuge"
-    },
-    "wiki": {
-      "name": "Rose Atoll National Wildlife Refuge",
-      "wikidataId": "Q21847567",
-      "osmRelationId": "8812294",
-      "country": "USA",
-      "wikipedia": null
-    }
+    "addr:state": "AS",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Rose Atoll National Wildlife Refuge",
+    "operator": "U.S. Fish and Wildlife Service",
+    "ownership": "national",
+    "protect_class": "1a",
+    "protected_area": "nature_reserve_strict",
+    "protection_title": "National Wildlife Refuge",
+    "type": "boundary",
+    "website": "https://www.fws.gov/refuge/Rose_Atoll/",
+    "wikidata": "Q21847567",
+    "wikipedia": "en:Rose Atoll National Wildlife Refuge"
   },
   "geometry": {
     "type": "Polygon",

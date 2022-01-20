@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 2994082,
   "properties": {
-    "area": 93.5,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Gunbower National Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "National Park - Schedule 2, National Parks Act",
-      "short_name": "Gunbower NP",
-      "source": "VicMap ParkRes",
-      "start_date": "2010-06-27",
-      "type": "boundary",
-      "vicmap:prims_id": "4884",
-      "vicmap:uid": "4884_II",
-      "wikidata": "Q1554546"
-    },
-    "wiki": {
-      "name": "Gunbower National Park",
-      "wikidataId": "Q1554546",
-      "osmRelationId": "2994082",
-      "country": "AUS",
-      "wikipedia": "Gunbower_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Gunbower National Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "National Park - Schedule 2, National Parks Act",
+    "short_name": "Gunbower NP",
+    "source": "VicMap ParkRes",
+    "start_date": "2010-06-27",
+    "type": "boundary",
+    "vicmap:prims_id": "4884",
+    "vicmap:uid": "4884_II",
+    "wikidata": "Q1554546"
   },
   "geometry": {
     "type": "MultiPolygon",

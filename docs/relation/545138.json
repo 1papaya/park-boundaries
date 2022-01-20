@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 545138,
   "properties": {
-    "area": 217.14,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Chiltern-Mt Pilot National Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "National Park - Schedule 2, National Parks Act",
-      "short_name": "Chiltern-Mt Pilot NP",
-      "source": "VicMap ParkRes",
-      "start_date": "1980-04-26",
-      "type": "boundary",
-      "vicmap:prims_id": "3314",
-      "vicmap:uid": "3314_II",
-      "wikidata": "Q1073037",
-      "wikipedia": "en:Chiltern-Mt Pilot National Park"
-    },
-    "wiki": {
-      "name": "Chiltern-Mt Pilot National Park",
-      "wikidataId": "Q1073037",
-      "osmRelationId": "545138",
-      "country": "AUS",
-      "wikipedia": "Chiltern-Mt_Pilot_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Chiltern-Mt Pilot National Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "National Park - Schedule 2, National Parks Act",
+    "short_name": "Chiltern-Mt Pilot NP",
+    "source": "VicMap ParkRes",
+    "start_date": "1980-04-26",
+    "type": "boundary",
+    "vicmap:prims_id": "3314",
+    "vicmap:uid": "3314_II",
+    "wikidata": "Q1073037",
+    "wikipedia": "en:Chiltern-Mt Pilot National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

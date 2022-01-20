@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 12244795,
   "properties": {
-    "area": 10.05,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Réserve naturelle Gault-de-l'Université-McGill",
-      "type": "multipolygon",
-      "wikidata": "Q15629705"
-    },
-    "wiki": {
-      "name": "Q15629705",
-      "wikidataId": "Q15629705",
-      "osmRelationId": "12244795",
-      "country": "CAN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Réserve naturelle Gault-de-l'Université-McGill",
+    "type": "multipolygon",
+    "wikidata": "Q15629705"
   },
   "geometry": {
     "type": "MultiPolygon",

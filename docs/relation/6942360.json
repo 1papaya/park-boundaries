@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 6942360,
   "properties": {
-    "area": 601.4,
-    "osm": {
-      "boundary": "protected_area",
-      "fixme": "Ajustar traçado entre os nodes com tag decreto:ponto",
-      "name": "Parque Estadual dos Três Picos",
-      "operator": "Instituto Estadual do Ambiente do Rio de Janeiro",
-      "protect_class": "2",
-      "protection_title": "parque estadual",
-      "ref:CNUC": "0000.33.1485",
-      "source": "https://wiki.openstreetmap.org/wiki/File:Inea0019755.pdf",
-      "type": "boundary",
-      "wikidata": "Q3084480"
-    },
-    "wiki": {
-      "name": "Três Picos State Park",
-      "wikidataId": "Q3084480",
-      "osmRelationId": "6942360",
-      "country": "BRA",
-      "wikipedia": "Tr%C3%AAs_Picos_State_Park"
-    }
+    "boundary": "protected_area",
+    "fixme": "Ajustar traçado entre os nodes com tag decreto:ponto",
+    "name": "Parque Estadual dos Três Picos",
+    "operator": "Instituto Estadual do Ambiente do Rio de Janeiro",
+    "protect_class": "2",
+    "protection_title": "parque estadual",
+    "ref:CNUC": "0000.33.1485",
+    "source": "https://wiki.openstreetmap.org/wiki/File:Inea0019755.pdf",
+    "type": "boundary",
+    "wikidata": "Q3084480"
   },
   "geometry": {
     "type": "MultiPolygon",

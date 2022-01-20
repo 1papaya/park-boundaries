@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 5479644,
   "properties": {
-    "area": 413.89,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Munzur Vadisi Millî Parkı",
-      "name:en": "Munzur Valley National Park",
-      "name:ku": "Parka Neteweyî ya Geliyê Mizûrê",
-      "type": "multipolygon",
-      "wikidata": "Q1682878",
-      "wikipedia": "tr:Munzur Vadisi Millî Parkı"
-    },
-    "wiki": {
-      "name": "Munzur Valley National Park",
-      "wikidataId": "Q1682878",
-      "osmRelationId": "5479644",
-      "country": "TUR",
-      "wikipedia": "Munzur_Valley_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Munzur Vadisi Millî Parkı",
+    "name:en": "Munzur Valley National Park",
+    "name:ku": "Parka Neteweyî ya Geliyê Mizûrê",
+    "type": "multipolygon",
+    "wikidata": "Q1682878",
+    "wikipedia": "tr:Munzur Vadisi Millî Parkı"
   },
   "geometry": {
     "type": "Polygon",

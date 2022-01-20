@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 305327,
   "properties": {
-    "area": 3.41,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:anmärkning": "Justering gränser 2008-08-06/A-KL",
-      "lst:area_ha": "342.621045287531220",
-      "lst:beskrivning": "Långa tjärnarna är ett vildmarksområde kännetecknat av en mosaik av gammal skog, myrar och sjöar. Terrängen är storblockig.",
-      "lst:beslutsdatum": "2007-12-07",
-      "lst:metodbeskrivning": "Digitaliserat av Länsstyrelsen",
-      "lst:ref": "1802158",
-      "name": "Långa tjärnarna",
-      "start_date": "2007-12-07",
-      "type": "multipolygon",
-      "wikidata": "Q30159138"
-    },
-    "wiki": {
-      "name": "Långa tjärnarna",
-      "wikidataId": "Q30159138",
-      "osmRelationId": "305327",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:anmärkning": "Justering gränser 2008-08-06/A-KL",
+    "lst:area_ha": "342.621045287531220",
+    "lst:beskrivning": "Långa tjärnarna är ett vildmarksområde kännetecknat av en mosaik av gammal skog, myrar och sjöar. Terrängen är storblockig.",
+    "lst:beslutsdatum": "2007-12-07",
+    "lst:metodbeskrivning": "Digitaliserat av Länsstyrelsen",
+    "lst:ref": "1802158",
+    "name": "Långa tjärnarna",
+    "start_date": "2007-12-07",
+    "type": "multipolygon",
+    "wikidata": "Q30159138"
   },
   "geometry": {
     "type": "Polygon",

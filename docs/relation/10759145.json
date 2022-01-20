@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 10759145,
   "properties": {
-    "area": 689.92,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Cagar Alam Gunung Sojol",
-      "name:en": "Gunung Sojol Nature Reserve",
-      "operator": "Balai Konservasi Sumber Daya Alam Sulawesi Tengah",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Q56393489",
-      "wikidataId": "Q56393489",
-      "osmRelationId": "10759145",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Gunung Sojol",
+    "name:en": "Gunung Sojol Nature Reserve",
+    "operator": "Balai Konservasi Sumber Daya Alam Sulawesi Tengah",
+    "type": "boundary"
   },
   "geometry": {
     "type": "Polygon",

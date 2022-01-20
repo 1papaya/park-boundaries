@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 7295219,
   "properties": {
-    "area": 91.96,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parc national de la Pointe-Taillon",
-      "name:en": "Pointe-Taillon National Park",
-      "protect_class": "2",
-      "type": "multipolygon",
-      "wikidata": "Q2051991",
-      "wikipedia": "fr:Parc national de la Pointe-Taillon"
-    },
-    "wiki": {
-      "name": "Pointe-Taillon National Park",
-      "wikidataId": "Q2051991",
-      "osmRelationId": "7295219",
-      "country": "CAN",
-      "wikipedia": "Pointe-Taillon_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parc national de la Pointe-Taillon",
+    "name:en": "Pointe-Taillon National Park",
+    "protect_class": "2",
+    "type": "multipolygon",
+    "wikidata": "Q2051991",
+    "wikipedia": "fr:Parc national de la Pointe-Taillon"
   },
   "geometry": {
     "type": "MultiPolygon",

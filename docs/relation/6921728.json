@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 6921728,
   "properties": {
-    "area": 4.48,
-    "osm": {
-      "GNS:id": "-1404968",
-      "admin_level": "6",
-      "alt_name:mk": "Берд",
-      "boundary": "administrative",
-      "name": "Bird Island",
-      "name:en": "Bird Island",
-      "name:es": "Isla Pájaro",
-      "name:it": "Isola di Bird",
-      "name:mk": "Птичји Остров",
-      "place": "island",
-      "source": "British Antarctic Survey",
-      "source:name": "GNS",
-      "type": "boundary",
-      "wikidata": "Q34048",
-      "wikipedia": "en:Bird Island, South Georgia"
-    },
-    "wiki": {
-      "name": "Bird Island",
-      "wikidataId": "Q34048",
-      "osmRelationId": "6921728",
-      "country": "GBR",
-      "wikipedia": "Bird_Island,_South_Georgia"
-    }
+    "GNS:id": "-1404968",
+    "admin_level": "6",
+    "alt_name:mk": "Берд",
+    "boundary": "administrative",
+    "name": "Bird Island",
+    "name:en": "Bird Island",
+    "name:es": "Isla Pájaro",
+    "name:it": "Isola di Bird",
+    "name:mk": "Птичји Остров",
+    "place": "island",
+    "source": "British Antarctic Survey",
+    "source:name": "GNS",
+    "type": "boundary",
+    "wikidata": "Q34048",
+    "wikipedia": "en:Bird Island, South Georgia"
   },
   "geometry": {
     "type": "MultiPolygon",

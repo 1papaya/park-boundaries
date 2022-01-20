@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 1691471,
   "properties": {
-    "area": 368.39,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Parco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna",
-      "name:de": "Nationalpark der Casentinischen Wälder",
-      "name:en": "Casentinesi Forests, Monte Falterona, Campigna National Park",
-      "protect_class": "2",
-      "protected_area": "national_park",
-      "source": "www.parks.it",
-      "type": "multipolygon",
-      "wikidata": "Q1787671",
-      "wikipedia": "it:Parco nazionale delle Foreste Casentinesi, Monte Falterona e Campigna"
-    },
-    "wiki": {
-      "name": "Foreste Casentinesi, Monte Falterona, Campigna National Park",
-      "wikidataId": "Q1787671",
-      "osmRelationId": "1691471",
-      "country": "ITA",
-      "wikipedia": "Foreste_Casentinesi,_Monte_Falterona,_Campigna_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Parco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna",
+    "name:de": "Nationalpark der Casentinischen Wälder",
+    "name:en": "Casentinesi Forests, Monte Falterona, Campigna National Park",
+    "protect_class": "2",
+    "protected_area": "national_park",
+    "source": "www.parks.it",
+    "type": "multipolygon",
+    "wikidata": "Q1787671",
+    "wikipedia": "it:Parco nazionale delle Foreste Casentinesi, Monte Falterona e Campigna"
   },
   "geometry": {
     "type": "Polygon",

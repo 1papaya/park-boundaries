@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 6367733,
   "properties": {
-    "area": 13.64,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "park",
-      "name": "Fish Creek Provincial Park",
-      "opening_hours": "24/7",
-      "protect_class": "2",
-      "protection_title": "Provincial Park",
-      "source": "http://www.albertaparks.ca/media/2941843/parks_and_protected_areas_alberta.zip",
-      "type": "multipolygon",
-      "wikidata": "Q2000879",
-      "wikipedia:en": "Fish Creek Provincial Park"
-    },
-    "wiki": {
-      "name": "Fish Creek Provincial Park",
-      "wikidataId": "Q2000879",
-      "osmRelationId": "6367733",
-      "country": "CAN",
-      "wikipedia": "Fish_Creek_Provincial_Park"
-    }
+    "boundary": "protected_area",
+    "leisure": "park",
+    "name": "Fish Creek Provincial Park",
+    "opening_hours": "24/7",
+    "protect_class": "2",
+    "protection_title": "Provincial Park",
+    "source": "http://www.albertaparks.ca/media/2941843/parks_and_protected_areas_alberta.zip",
+    "type": "multipolygon",
+    "wikidata": "Q2000879",
+    "wikipedia:en": "Fish Creek Provincial Park"
   },
   "geometry": {
     "type": "MultiPolygon",

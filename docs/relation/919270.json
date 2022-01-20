@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 919270,
   "properties": {
-    "area": 710.81,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Parco Nazionale Gran Paradiso",
-      "name:de": "Nationalpark Gran Paradiso",
-      "name:en": "Gran Paradiso National Park",
-      "name:es": "Parque nacional Gran Paraíso",
-      "name:fr": "Parc national du Grand Paradis",
-      "name:nl": "Nationaal Park Gran Paradiso",
-      "name:pt": "Parque nacional Grande Paraíso",
-      "name:ro": "Parcul Național Gran-Paradiso",
-      "protect_class": "2",
-      "protected_area": "national_park",
-      "source": "www.parks.it",
-      "type": "multipolygon",
-      "wikidata": "Q847690",
-      "wikipedia": "it:Parco nazionale Gran Paradiso"
-    },
-    "wiki": {
-      "name": "Gran Paradiso National Park",
-      "wikidataId": "Q847690",
-      "osmRelationId": "919270",
-      "country": "ITA",
-      "wikipedia": "Gran_Paradiso_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Parco Nazionale Gran Paradiso",
+    "name:de": "Nationalpark Gran Paradiso",
+    "name:en": "Gran Paradiso National Park",
+    "name:es": "Parque nacional Gran Paraíso",
+    "name:fr": "Parc national du Grand Paradis",
+    "name:nl": "Nationaal Park Gran Paradiso",
+    "name:pt": "Parque nacional Grande Paraíso",
+    "name:ro": "Parcul Național Gran-Paradiso",
+    "protect_class": "2",
+    "protected_area": "national_park",
+    "source": "www.parks.it",
+    "type": "multipolygon",
+    "wikidata": "Q847690",
+    "wikipedia": "it:Parco nazionale Gran Paradiso"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 6149201,
   "properties": {
-    "area": 584.48,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Hornstrandir",
-      "protect_class": "4",
-      "type": "multipolygon",
-      "wikidata": "Q303543"
-    },
-    "wiki": {
-      "name": "Hornstrandir",
-      "wikidataId": "Q303543",
-      "osmRelationId": "6149201",
-      "country": "ISL",
-      "wikipedia": "Hornstrandir"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Hornstrandir",
+    "protect_class": "4",
+    "type": "multipolygon",
+    "wikidata": "Q303543"
   },
   "geometry": {
     "type": "Polygon",

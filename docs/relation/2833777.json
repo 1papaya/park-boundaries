@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 2833777,
   "properties": {
-    "area": 30.92,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Karagöl Sahara Millî Parkı",
-      "name:en": "Karagöl Sahara National Park",
-      "source": "gis2.cevreorman.gov.tr",
-      "type": "multipolygon",
-      "wikidata": "Q6367923",
-      "wikipedia": "tr:Karagöl-Sahara Millî Parkı"
-    },
-    "wiki": {
-      "name": "Karagöl-Sahara National Park",
-      "wikidataId": "Q6367923",
-      "osmRelationId": "2833777",
-      "country": "TUR",
-      "wikipedia": "Karag%C3%B6l-Sahara_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Karagöl Sahara Millî Parkı",
+    "name:en": "Karagöl Sahara National Park",
+    "source": "gis2.cevreorman.gov.tr",
+    "type": "multipolygon",
+    "wikidata": "Q6367923",
+    "wikipedia": "tr:Karagöl-Sahara Millî Parkı"
   },
   "geometry": {
     "type": "MultiPolygon",

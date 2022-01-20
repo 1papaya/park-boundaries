@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 2027250,
   "properties": {
-    "area": 267.93,
-    "osm": {
-      "attribution": "2001 Her Majesty the Queen in Right of Manitoba, as represented by the Minister of Conservation. All rights reserved.",
-      "boundary": "national_park",
-      "boundary:type": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Spruce Woods Provincial Park",
-      "name:en": "Spruce Woods Provincial Park",
-      "name:fr": "Parc provincial de la Spruce Woods",
-      "operator": "Manitoba Conservation",
-      "operator:type": "public",
-      "operator:wikidata": "Q6749981",
-      "operator:wikipedia": "en:Manitoba Conservation and Climate",
-      "source": "Manitoba Lands Initiative",
-      "type": "multipolygon",
-      "wikidata": "Q7581438",
-      "wikipedia": "en:Spruce Woods Provincial Park"
-    },
-    "wiki": {
-      "name": "Spruce Woods Provincial Park",
-      "wikidataId": "Q7581438",
-      "osmRelationId": "2027250",
-      "country": "CAN",
-      "wikipedia": "Spruce_Woods_Provincial_Park"
-    }
+    "attribution": "2001 Her Majesty the Queen in Right of Manitoba, as represented by the Minister of Conservation. All rights reserved.",
+    "boundary": "national_park",
+    "boundary:type": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Spruce Woods Provincial Park",
+    "name:en": "Spruce Woods Provincial Park",
+    "name:fr": "Parc provincial de la Spruce Woods",
+    "operator": "Manitoba Conservation",
+    "operator:type": "public",
+    "operator:wikidata": "Q6749981",
+    "operator:wikipedia": "en:Manitoba Conservation and Climate",
+    "source": "Manitoba Lands Initiative",
+    "type": "multipolygon",
+    "wikidata": "Q7581438",
+    "wikipedia": "en:Spruce Woods Provincial Park"
   },
   "geometry": {
     "type": "Polygon",

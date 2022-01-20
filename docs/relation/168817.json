@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 168817,
   "properties": {
-    "area": 85.06,
-    "osm": {
-      "boundary": "protected_area",
-      "governance_type": "government_managed",
-      "leisure": "nature_reserve",
-      "name": "Parque Nacional Marítimo Terrestre das Illas Atlánticas de Galicia",
-      "name:es": "Parque Nacional Marítimo Terrestre de las Islas Atlánticas de Galicia",
-      "name:gl": "Parque Nacional Marítimo Terrestre das Illas Atlánticas de Galiza",
-      "name:pt": "Parque Nacional Marítimo Terrestre das Ilhas Atlânticas da Galiza",
-      "official_name": "Parque Nacional Marítimo Terrestre das Illas Atlánticas de Galicia",
-      "operator": "Xunta de Galicia",
-      "protect_class": "2",
-      "short_name": "Illas Atlánticas de Galicia",
-      "start_date": "2002-07-02",
-      "type": "boundary",
-      "website": "https://www.parquenacionalillasatlanticas.com",
-      "wikidata": "Q1628126",
-      "wikipedia": "gl:Parque Nacional das Illas Atlánticas"
-    },
-    "wiki": {
-      "name": "Atlantic Islands of Galicia National Park",
-      "wikidataId": "Q1628126",
-      "osmRelationId": "168817",
-      "country": "ESP",
-      "wikipedia": "Atlantic_Islands_of_Galicia_National_Park"
-    }
+    "boundary": "protected_area",
+    "governance_type": "government_managed",
+    "leisure": "nature_reserve",
+    "name": "Parque Nacional Marítimo Terrestre das Illas Atlánticas de Galicia",
+    "name:es": "Parque Nacional Marítimo Terrestre de las Islas Atlánticas de Galicia",
+    "name:gl": "Parque Nacional Marítimo Terrestre das Illas Atlánticas de Galiza",
+    "name:pt": "Parque Nacional Marítimo Terrestre das Ilhas Atlânticas da Galiza",
+    "official_name": "Parque Nacional Marítimo Terrestre das Illas Atlánticas de Galicia",
+    "operator": "Xunta de Galicia",
+    "protect_class": "2",
+    "short_name": "Illas Atlánticas de Galicia",
+    "start_date": "2002-07-02",
+    "type": "boundary",
+    "website": "https://www.parquenacionalillasatlanticas.com",
+    "wikidata": "Q1628126",
+    "wikipedia": "gl:Parque Nacional das Illas Atlánticas"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 1708935,
   "properties": {
-    "area": 1085.24,
-    "osm": {
-      "boundary": "protected_area",
-      "name": "Akagera National Park",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "type": "multipolygon",
-      "wikidata": "Q116715",
-      "wikipedia:en": "Akagera National Park"
-    },
-    "wiki": {
-      "name": "Akagera National Park",
-      "wikidataId": "Q116715",
-      "osmRelationId": "1708935",
-      "country": "RWA",
-      "wikipedia": "Akagera_National_Park"
-    }
+    "boundary": "protected_area",
+    "name": "Akagera National Park",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "type": "multipolygon",
+    "wikidata": "Q116715",
+    "wikipedia:en": "Akagera National Park"
   },
   "geometry": {
     "type": "Polygon",

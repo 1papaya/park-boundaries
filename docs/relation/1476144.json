@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 1476144,
   "properties": {
-    "area": 21.34,
-    "osm": {
-      "attribution": "Queensland Department of Environment and Science",
-      "boundary": "protected_area",
-      "governance_type": "government",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Endeavour River National Park",
-      "operator": "Queensland Department of Environment and Science",
-      "protect_class": "2",
-      "protection_title": "National Park",
-      "ref:capad:pa_id": "QLD_0286EDV001",
-      "ref:paoq:sysintcode": "0286EDV001",
-      "source": "Protected areas of Queensland - boundaries - 2018",
-      "start_date": "2009-07-31",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Endeavour River National Park",
-      "wikidataId": "Q1340299",
-      "osmRelationId": "1476144",
-      "country": "AUS",
-      "wikipedia": "Endeavour_River_National_Park"
-    }
+    "attribution": "Queensland Department of Environment and Science",
+    "boundary": "protected_area",
+    "governance_type": "government",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Endeavour River National Park",
+    "operator": "Queensland Department of Environment and Science",
+    "protect_class": "2",
+    "protection_title": "National Park",
+    "ref:capad:pa_id": "QLD_0286EDV001",
+    "ref:paoq:sysintcode": "0286EDV001",
+    "source": "Protected areas of Queensland - boundaries - 2018",
+    "start_date": "2009-07-31",
+    "type": "boundary"
   },
   "geometry": {
     "type": "MultiPolygon",

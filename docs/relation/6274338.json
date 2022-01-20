@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 6274338,
   "properties": {
-    "area": 247.64,
-    "osm": {
-      "boundary": "protected_area",
-      "name": "Parque Estadual do Jurupará",
-      "operator": "Fundação Para a Conservação e a Produção Florestal do Estado de São Paulo",
-      "protect_class": "2",
-      "protection_title": "parque estadual",
-      "related_law": "Decreto 12.185",
-      "source": "law",
-      "start_date": "30/08/1978",
-      "type": "multipolygon",
-      "wikidata": "Q28655226"
-    },
-    "wiki": {
-      "name": "Jurupará State Park",
-      "wikidataId": "Q28655226",
-      "osmRelationId": "6274338",
-      "country": "BRA",
-      "wikipedia": "Jurupar%C3%A1_State_Park"
-    }
+    "boundary": "protected_area",
+    "name": "Parque Estadual do Jurupará",
+    "operator": "Fundação Para a Conservação e a Produção Florestal do Estado de São Paulo",
+    "protect_class": "2",
+    "protection_title": "parque estadual",
+    "related_law": "Decreto 12.185",
+    "source": "law",
+    "start_date": "30/08/1978",
+    "type": "multipolygon",
+    "wikidata": "Q28655226"
   },
   "geometry": {
     "type": "Polygon",

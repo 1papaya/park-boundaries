@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 299182,
   "properties": {
-    "area": 3.19,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "320.7",
-      "lst:note": "N2000 SITE: -",
-      "lst:ref": "NR2002783",
-      "lst:restrictions": "Skoter till strand, Elda på anvisad plats",
-      "lst:tillkomst": "2005-03-07",
-      "lst:url": "http://www.bd.lst.se/skydd_lulea",
-      "name": "Germandön",
-      "snowmobile": "no",
-      "type": "multipolygon",
-      "wikidata": "Q2686714"
-    },
-    "wiki": {
-      "name": "Germandön",
-      "wikidataId": "Q2686714",
-      "osmRelationId": "299182",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "320.7",
+    "lst:note": "N2000 SITE: -",
+    "lst:ref": "NR2002783",
+    "lst:restrictions": "Skoter till strand, Elda på anvisad plats",
+    "lst:tillkomst": "2005-03-07",
+    "lst:url": "http://www.bd.lst.se/skydd_lulea",
+    "name": "Germandön",
+    "snowmobile": "no",
+    "type": "multipolygon",
+    "wikidata": "Q2686714"
   },
   "geometry": {
     "type": "Polygon",

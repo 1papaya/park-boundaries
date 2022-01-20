@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 10351694,
   "properties": {
-    "area": 24.32,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Prince Edward Island National Park",
-      "name:fr": "Parc national de l'Île-du-Prince-Édouard",
-      "operator": "Parks Canada",
-      "protect_class": "2",
-      "start_date": "1937",
-      "type": "boundary",
-      "wikidata": "Q1314367",
-      "wikipedia": "en:Prince Edward Island National Park"
-    },
-    "wiki": {
-      "name": "Prince Edward Island National Park",
-      "wikidataId": "Q1314367",
-      "osmRelationId": "10351694",
-      "country": "CAN",
-      "wikipedia": "Prince_Edward_Island_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Prince Edward Island National Park",
+    "name:fr": "Parc national de l'Île-du-Prince-Édouard",
+    "operator": "Parks Canada",
+    "protect_class": "2",
+    "start_date": "1937",
+    "type": "boundary",
+    "wikidata": "Q1314367",
+    "wikipedia": "en:Prince Edward Island National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

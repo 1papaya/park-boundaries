@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 3171821,
   "properties": {
-    "area": 694.68,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Parco Nazionale dei Monti Sibillini",
-      "name:de": "Nationalpark Sibillinische Berge",
-      "name:en": "Sibillini Mountains National Park",
-      "type": "multipolygon",
-      "wikidata": "Q1425191",
-      "wikipedia": "it:Parco nazionale dei Monti Sibillini"
-    },
-    "wiki": {
-      "name": "Sibillini Mountains National Park",
-      "wikidataId": "Q1425191",
-      "osmRelationId": "3171821",
-      "country": "ITA",
-      "wikipedia": "Monti_Sibillini_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Parco Nazionale dei Monti Sibillini",
+    "name:de": "Nationalpark Sibillinische Berge",
+    "name:en": "Sibillini Mountains National Park",
+    "type": "multipolygon",
+    "wikidata": "Q1425191",
+    "wikipedia": "it:Parco nazionale dei Monti Sibillini"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 1476132,
   "properties": {
-    "area": 80.89,
-    "osm": {
-      "attribution": "Queensland Department of Environment and Science",
-      "boundary": "protected_area",
-      "governance_type": "government",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Juunju Daarrba Nhirrpan National Park (Cape York Peninsula Aboriginal Land)",
-      "operator": "Queensland Department of Environment and Science",
-      "protect_class": "2",
-      "protection_title": "National Park Recovery",
-      "ref:capad:pa_id": "QLD_0341STK001",
-      "ref:paoq:sysintcode": "0341STK001",
-      "source": "Protected areas of Queensland - boundaries - 2018",
-      "start_date": "1994-12-16",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Starcke National Park",
-      "wikidataId": "Q586572",
-      "osmRelationId": "1476132",
-      "country": "AUS",
-      "wikipedia": "Starcke_National_Park"
-    }
+    "attribution": "Queensland Department of Environment and Science",
+    "boundary": "protected_area",
+    "governance_type": "government",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Juunju Daarrba Nhirrpan National Park (Cape York Peninsula Aboriginal Land)",
+    "operator": "Queensland Department of Environment and Science",
+    "protect_class": "2",
+    "protection_title": "National Park Recovery",
+    "ref:capad:pa_id": "QLD_0341STK001",
+    "ref:paoq:sysintcode": "0341STK001",
+    "source": "Protected areas of Queensland - boundaries - 2018",
+    "start_date": "1994-12-16",
+    "type": "boundary"
   },
   "geometry": {
     "type": "Polygon",

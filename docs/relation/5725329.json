@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5725329,
   "properties": {
-    "area": 23.22,
-    "osm": {
-      "addr:postcode": "60110",
-      "admin_level": "8",
-      "boundary": "administrative",
-      "name": "Isla del Coco",
-      "name:en": "Cocos Island",
-      "note": "Distrito 10mo del cantón de Puntarenas, provincia de Puntarenas.",
-      "postal_code": "60110",
-      "type": "boundary",
-      "wikidata": "Q215081"
-    },
-    "wiki": {
-      "name": "Coco Island",
-      "wikidataId": "Q215081",
-      "osmRelationId": "5725329",
-      "country": "CRI",
-      "wikipedia": "Cocos_Island"
-    }
+    "addr:postcode": "60110",
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Isla del Coco",
+    "name:en": "Cocos Island",
+    "note": "Distrito 10mo del cantón de Puntarenas, provincia de Puntarenas.",
+    "postal_code": "60110",
+    "type": "boundary",
+    "wikidata": "Q215081"
   },
   "geometry": {
     "type": "MultiPolygon",

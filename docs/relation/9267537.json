@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 9267537,
   "properties": {
-    "area": 20.1,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Reef Hills State Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "State Park - Schedule 2B, National Parks Act",
-      "short_name": "Reef Hills SP",
-      "source": "VicMap ParkRes",
-      "start_date": "1986-05-02",
-      "type": "boundary",
-      "vicmap:prims_id": "3368",
-      "vicmap:uid": "3368_II",
-      "wikidata": "Q7306797"
-    },
-    "wiki": {
-      "name": "Reef Hills State Park",
-      "wikidataId": "Q7306797",
-      "osmRelationId": "9267537",
-      "country": "AUS",
-      "wikipedia": "Reef_Hills_State_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Reef Hills State Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "State Park - Schedule 2B, National Parks Act",
+    "short_name": "Reef Hills SP",
+    "source": "VicMap ParkRes",
+    "start_date": "1986-05-02",
+    "type": "boundary",
+    "vicmap:prims_id": "3368",
+    "vicmap:uid": "3368_II",
+    "wikidata": "Q7306797"
   },
   "geometry": {
     "type": "MultiPolygon",

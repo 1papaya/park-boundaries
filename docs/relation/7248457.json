@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 7248457,
   "properties": {
-    "area": 2497.63,
-    "osm": {
-      "ISO3166-2": "UM-89",
-      "boundary": "region",
-      "name": "Kingman Reef",
-      "name:cs": "Kingmanův útes",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Kingman Reef",
-      "wikidataId": "Q130895",
-      "osmRelationId": "7248457",
-      "country": "USA",
-      "wikipedia": "Kingman_Reef"
-    }
+    "ISO3166-2": "UM-89",
+    "boundary": "region",
+    "name": "Kingman Reef",
+    "name:cs": "Kingmanův útes",
+    "type": "boundary"
   },
   "geometry": {
     "type": "Polygon",

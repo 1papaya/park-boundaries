@@ -2,27 +2,17 @@
   "type": "Feature",
   "id": 911667,
   "properties": {
-    "area": 5584.22,
-    "osm": {
-      "area": "yes",
-      "boundary": "national_park",
-      "description": "-",
-      "name": "Parque Nacional Natural El Tuparro",
-      "name:en": "El Tuparro National Natural Park",
-      "norma_creacion": "AC-27-V77",
-      "protect_class": "2",
-      "source": "SIGOT DANE UNODC-SIMCI OCHA-COLOMBIA",
-      "type": "boundary",
-      "wikidata": "Q925217",
-      "wikipedia": "en:El Tuparro National Natural Park"
-    },
-    "wiki": {
-      "name": "El Tuparro National Natural Park",
-      "wikidataId": "Q925217",
-      "osmRelationId": "911667",
-      "country": "COL",
-      "wikipedia": "El_Tuparro_National_Natural_Park"
-    }
+    "area": "yes",
+    "boundary": "national_park",
+    "description": "-",
+    "name": "Parque Nacional Natural El Tuparro",
+    "name:en": "El Tuparro National Natural Park",
+    "norma_creacion": "AC-27-V77",
+    "protect_class": "2",
+    "source": "SIGOT DANE UNODC-SIMCI OCHA-COLOMBIA",
+    "type": "boundary",
+    "wikidata": "Q925217",
+    "wikipedia": "en:El Tuparro National Natural Park"
   },
   "geometry": {
     "type": "Polygon",

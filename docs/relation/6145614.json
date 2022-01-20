@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 6145614,
   "properties": {
-    "area": 3217.22,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Joshua Tree National Park",
-      "name:de": "Joshua-Tree-Nationalpark",
-      "operator": "United States National Park Service",
-      "ownership": "national",
-      "protect_class": "2",
-      "protected": "perpetuity",
-      "protection_title": "National Park",
-      "type": "boundary",
-      "website": "https://www.nps.gov/jotr/index.htm",
-      "wikidata": "Q735202",
-      "wikipedia": "en:Joshua Tree National Park"
-    },
-    "wiki": {
-      "name": "Joshua Tree National Park",
-      "wikidataId": "Q735202",
-      "osmRelationId": "6145614",
-      "country": "USA",
-      "wikipedia": "Joshua_Tree_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Joshua Tree National Park",
+    "name:de": "Joshua-Tree-Nationalpark",
+    "operator": "United States National Park Service",
+    "ownership": "national",
+    "protect_class": "2",
+    "protected": "perpetuity",
+    "protection_title": "National Park",
+    "type": "boundary",
+    "website": "https://www.nps.gov/jotr/index.htm",
+    "wikidata": "Q735202",
+    "wikipedia": "en:Joshua Tree National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

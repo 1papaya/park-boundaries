@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 5968754,
   "properties": {
-    "area": 39.45,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Salt Creek Wilderness",
-      "operator": "US Fish and Wildlife Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q27974628",
-      "wikipedia": "fr:Salt Creek Wilderness"
-    },
-    "wiki": {
-      "name": "Salt Creek Wilderness",
-      "wikidataId": "Q27974628",
-      "osmRelationId": "5968754",
-      "country": "USA",
-      "wikipedia": "Salt_Creek_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Salt Creek Wilderness",
+    "operator": "US Fish and Wildlife Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q27974628",
+    "wikipedia": "fr:Salt Creek Wilderness"
   },
   "geometry": {
     "type": "Polygon",

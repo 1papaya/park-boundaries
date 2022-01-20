@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 396588,
   "properties": {
-    "area": 168.36,
-    "osm": {
-      "attribution": "US Forest Service",
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Lizard Head Wilderness Area",
-      "source": "http://data.fs.usda.gov/geodata/",
-      "type": "multipolygon",
-      "wikidata": "Q6660504",
-      "wikipedia": "fr:Lizard Head Wilderness"
-    },
-    "wiki": {
-      "name": "Lizard Head Wilderness",
-      "wikidataId": "Q6660504",
-      "osmRelationId": "396588",
-      "country": "USA",
-      "wikipedia": "Lizard_Head_Wilderness"
-    }
+    "attribution": "US Forest Service",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Lizard Head Wilderness Area",
+    "source": "http://data.fs.usda.gov/geodata/",
+    "type": "multipolygon",
+    "wikidata": "Q6660504",
+    "wikipedia": "fr:Lizard Head Wilderness"
   },
   "geometry": {
     "type": "Polygon",

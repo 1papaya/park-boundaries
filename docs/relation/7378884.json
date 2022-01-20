@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 7378884,
   "properties": {
-    "area": 36.96,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Dugger Mountain Wilderness",
-      "operator": "United States Forest Service",
-      "protect_class": "1b",
-      "protection_object": "habitat",
-      "protection_title": "Wilderness",
-      "start_date": "2000-04-01",
-      "type": "boundary",
-      "website": "https://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&WID=166",
-      "wikidata": "Q5312523",
-      "wikipedia": "en:Dugger Mountain Wilderness"
-    },
-    "wiki": {
-      "name": "Dugger Mountain Wilderness",
-      "wikidataId": "Q5312523",
-      "osmRelationId": "7378884",
-      "country": "USA",
-      "wikipedia": "Dugger_Mountain_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Dugger Mountain Wilderness",
+    "operator": "United States Forest Service",
+    "protect_class": "1b",
+    "protection_object": "habitat",
+    "protection_title": "Wilderness",
+    "start_date": "2000-04-01",
+    "type": "boundary",
+    "website": "https://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&WID=166",
+    "wikidata": "Q5312523",
+    "wikipedia": "en:Dugger Mountain Wilderness"
   },
   "geometry": {
     "type": "Polygon",

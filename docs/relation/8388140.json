@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 8388140,
   "properties": {
-    "area": 327.4,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parc national du Fjord-du-Saguenay",
-      "operator": "SÉPAQ",
-      "protect_class": "2",
-      "type": "boundary",
-      "website": "https://www.sepaq.com/pq/sag",
-      "wikidata": "Q3364513"
-    },
-    "wiki": {
-      "name": "Saguenay Fjord National Park",
-      "wikidataId": "Q3364513",
-      "osmRelationId": "8388140",
-      "country": "CAN",
-      "wikipedia": "Saguenay_Fjord_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parc national du Fjord-du-Saguenay",
+    "operator": "SÉPAQ",
+    "protect_class": "2",
+    "type": "boundary",
+    "website": "https://www.sepaq.com/pq/sag",
+    "wikidata": "Q3364513"
   },
   "geometry": {
     "type": "MultiPolygon",

@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 5822153,
   "properties": {
-    "area": 231.19,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Pusch Ridge Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "type": "boundary",
-      "wikidata": "Q7261710"
-    },
-    "wiki": {
-      "name": "Pusch Ridge Wilderness Area",
-      "wikidataId": "Q7261710",
-      "osmRelationId": "5822153",
-      "country": "USA",
-      "wikipedia": "Pusch_Ridge_Wilderness_Area"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Pusch Ridge Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "type": "boundary",
+    "wikidata": "Q7261710"
   },
   "geometry": {
     "type": "Polygon",

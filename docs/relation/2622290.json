@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 2622290,
   "properties": {
-    "area": 2321.42,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parque Nacional Torres del Paine",
-      "name:de": "Nationalpark Torres del Paine",
-      "name:en": "Torres del Paine National Park",
-      "operator": "conaf",
-      "ownership": "national",
-      "protect_class": "2",
-      "type": "boundary",
-      "website": "http://www.conaf.cl/parques/parque-nacional-torres-del-paine/",
-      "wikidata": "Q901646",
-      "wikipedia": "es:Parque nacional Torres del Paine"
-    },
-    "wiki": {
-      "name": "Torres del Paine National Park",
-      "wikidataId": "Q901646",
-      "osmRelationId": "2622290",
-      "country": "CHL",
-      "wikipedia": "Torres_del_Paine_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parque Nacional Torres del Paine",
+    "name:de": "Nationalpark Torres del Paine",
+    "name:en": "Torres del Paine National Park",
+    "operator": "conaf",
+    "ownership": "national",
+    "protect_class": "2",
+    "type": "boundary",
+    "website": "http://www.conaf.cl/parques/parque-nacional-torres-del-paine/",
+    "wikidata": "Q901646",
+    "wikipedia": "es:Parque nacional Torres del Paine"
   },
   "geometry": {
     "type": "Polygon",

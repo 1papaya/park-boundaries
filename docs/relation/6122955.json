@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 6122955,
   "properties": {
-    "area": 47.94,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Colonel Bob Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Colonel Bob Wilderness",
-      "wikidataId": "Q5148099",
-      "osmRelationId": "6122955",
-      "country": "USA",
-      "wikipedia": "Colonel_Bob_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Colonel Bob Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary"
   },
   "geometry": {
     "type": "Polygon",

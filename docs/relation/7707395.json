@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 7707395,
   "properties": {
-    "area": 1385.28,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Kootenay National Park",
-      "snowmobile": "no",
-      "type": "multipolygon",
-      "wikidata": "Q903323",
-      "wikipedia": "ru:Кутеней (национальный парк)"
-    },
-    "wiki": {
-      "name": "Yoho National Park",
-      "wikidataId": "Q828404",
-      "osmRelationId": "7707395",
-      "country": "CAN",
-      "wikipedia": "Yoho_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Kootenay National Park",
+    "snowmobile": "no",
+    "type": "multipolygon",
+    "wikidata": "Q903323",
+    "wikipedia": "ru:Кутеней (национальный парк)"
   },
   "geometry": {
     "type": "Polygon",

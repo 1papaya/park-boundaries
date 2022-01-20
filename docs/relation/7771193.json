@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 7771193,
   "properties": {
-    "area": 1174.17,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Cagar Alam Pulau Misool",
-      "name:en": "Misool Island Nature Reserve",
-      "type": "multipolygon"
-    },
-    "wiki": {
-      "name": "Q104021761",
-      "wikidataId": "Q104021761",
-      "osmRelationId": "7771193",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Pulau Misool",
+    "name:en": "Misool Island Nature Reserve",
+    "type": "multipolygon"
   },
   "geometry": {
     "type": "MultiPolygon",

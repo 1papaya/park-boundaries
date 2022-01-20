@@ -2,28 +2,18 @@
   "type": "Feature",
   "id": 10034499,
   "properties": {
-    "area": 443.64,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "კოლხეთის ეროვნული პარკი",
-      "name:en": "Kolkheti National Park",
-      "name:ka": "კოლხეთის ეროვნული პარკი",
-      "name:ru": "Национальный парк «Колхети»",
-      "name:tr": "Kolkheti Milli Parkı",
-      "name:xmf": "კოლხეთიშ ერუანული პარკი",
-      "source": "Agency of Protected Areas",
-      "type": "multipolygon",
-      "wikidata": "Q1444561",
-      "wikipedia": "ka:კოლხეთის ეროვნული პარკი"
-    },
-    "wiki": {
-      "name": "Kolkheti National Park",
-      "wikidataId": "Q1444561",
-      "osmRelationId": "10034499",
-      "country": "GEO",
-      "wikipedia": "Kolkheti_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "კოლხეთის ეროვნული პარკი",
+    "name:en": "Kolkheti National Park",
+    "name:ka": "კოლხეთის ეროვნული პარკი",
+    "name:ru": "Национальный парк «Колхети»",
+    "name:tr": "Kolkheti Milli Parkı",
+    "name:xmf": "კოლხეთიშ ერუანული პარკი",
+    "source": "Agency of Protected Areas",
+    "type": "multipolygon",
+    "wikidata": "Q1444561",
+    "wikipedia": "ka:კოლხეთის ეროვნული პარკი"
   },
   "geometry": {
     "type": "MultiPolygon",

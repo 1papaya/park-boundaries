@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 9740757,
   "properties": {
-    "area": 0.34,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:ajour": "2008-02-06",
-      "lst:area_ha": "34.049796",
-      "lst:ref": "2002202",
-      "lst:typ": "S",
-      "name": "Gessi",
-      "start_date": "2007-12-14",
-      "type": "multipolygon",
-      "wikidata": "Q30181699"
-    },
-    "wiki": {
-      "name": "Gessi",
-      "wikidataId": "Q30181699",
-      "osmRelationId": "9740757",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:ajour": "2008-02-06",
+    "lst:area_ha": "34.049796",
+    "lst:ref": "2002202",
+    "lst:typ": "S",
+    "name": "Gessi",
+    "start_date": "2007-12-14",
+    "type": "multipolygon",
+    "wikidata": "Q30181699"
   },
   "geometry": {
     "type": "Polygon",

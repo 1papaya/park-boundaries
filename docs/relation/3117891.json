@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 3117891,
   "properties": {
-    "area": 1784.5,
-    "osm": {
-      "area": "yes",
-      "boundary": "national_park",
-      "name": "Shambe National Park",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q6590002",
-      "wikipedia": "en:Shambe National Park"
-    },
-    "wiki": {
-      "name": "Shambe National Park",
-      "wikidataId": "Q6590002",
-      "osmRelationId": "3117891",
-      "country": "SSD",
-      "wikipedia": "Shambe_National_Park"
-    }
+    "area": "yes",
+    "boundary": "national_park",
+    "name": "Shambe National Park",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q6590002",
+    "wikipedia": "en:Shambe National Park"
   },
   "geometry": {
     "type": "Polygon",

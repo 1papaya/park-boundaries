@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 13531968,
   "properties": {
-    "area": 2785.58,
-    "osm": {
-      "WDPA_ID:ref": "317",
-      "boundary": "national_park",
-      "name": "Parque Nacional Yapacana",
-      "name:en": "Yapacana National Park",
-      "name:es": "Parque Nacional Yapacana",
-      "operator": "Inparques",
-      "operator:type": "public",
-      "protect_class": "2",
-      "protection_title": "Parque Nacional",
-      "source": "Inparques; Maxar (2021)",
-      "start_date": "1978-12-12",
-      "type": "boundary",
-      "wikidata": "Q83939793"
-    },
-    "wiki": {
-      "name": "Yapacana National Park",
-      "wikidataId": "Q83939793",
-      "osmRelationId": "13531968",
-      "country": "VEN",
-      "wikipedia": "Yapacana_National_Park"
-    }
+    "WDPA_ID:ref": "317",
+    "boundary": "national_park",
+    "name": "Parque Nacional Yapacana",
+    "name:en": "Yapacana National Park",
+    "name:es": "Parque Nacional Yapacana",
+    "operator": "Inparques",
+    "operator:type": "public",
+    "protect_class": "2",
+    "protection_title": "Parque Nacional",
+    "source": "Inparques; Maxar (2021)",
+    "start_date": "1978-12-12",
+    "type": "boundary",
+    "wikidata": "Q83939793"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,32 +2,22 @@
   "type": "Feature",
   "id": 13496982,
   "properties": {
-    "area": 179.62,
-    "osm": {
-      "WDPA_ID:ref": "336",
-      "alt_name": "Parque Nacional La Restinga",
-      "boundary": "national_park",
-      "name": "Parque Nacional Laguna de La Restinga",
-      "name:en": "Laguna de La Restinga National Park",
-      "name:es": "Parque Nacional Laguna de La Restinga",
-      "name:fr": "Parc national Laguna de La Restinga",
-      "operator": "Inparques",
-      "operator:type": "public",
-      "protect_class": "2",
-      "protection_title": "Parque Nacional",
-      "source": "Inparques; Maxar (2021)",
-      "start_date": "1975-02-06",
-      "type": "boundary",
-      "wikidata": "Q6473006",
-      "wikipedia": "es:Parque nacional Laguna de La Restinga"
-    },
-    "wiki": {
-      "name": "Laguna de La Restinga National Park",
-      "wikidataId": "Q6473006",
-      "osmRelationId": "13496982",
-      "country": "VEN",
-      "wikipedia": "Laguna_de_la_Restinga"
-    }
+    "WDPA_ID:ref": "336",
+    "alt_name": "Parque Nacional La Restinga",
+    "boundary": "national_park",
+    "name": "Parque Nacional Laguna de La Restinga",
+    "name:en": "Laguna de La Restinga National Park",
+    "name:es": "Parque Nacional Laguna de La Restinga",
+    "name:fr": "Parc national Laguna de La Restinga",
+    "operator": "Inparques",
+    "operator:type": "public",
+    "protect_class": "2",
+    "protection_title": "Parque Nacional",
+    "source": "Inparques; Maxar (2021)",
+    "start_date": "1975-02-06",
+    "type": "boundary",
+    "wikidata": "Q6473006",
+    "wikipedia": "es:Parque nacional Laguna de La Restinga"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 5959352,
   "properties": {
-    "area": 9.73,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "971.02",
-      "lst:ref": "2002172.0",
-      "lst:tillkomst": "1974-12-19",
-      "name": "Grönsö",
-      "type": "multipolygon",
-      "wikidata": "Q18290275"
-    },
-    "wiki": {
-      "name": "Grönsö",
-      "wikidataId": "Q18290275",
-      "osmRelationId": "5959352",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "971.02",
+    "lst:ref": "2002172.0",
+    "lst:tillkomst": "1974-12-19",
+    "name": "Grönsö",
+    "type": "multipolygon",
+    "wikidata": "Q18290275"
   },
   "geometry": {
     "type": "Polygon",

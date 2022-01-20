@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 7625019,
   "properties": {
-    "area": 4.45,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "446.39",
-      "lst:beslutdat": "2015-06-02",
-      "lst:diarienr": "511-2968-15",
-      "lst:land_ha": "53.46",
-      "lst:ref": "2043766",
-      "lst:skog_ha": "26.65",
-      "lst:tillkomst": "2015-06-25",
-      "lst:vatten_ha": "393.0",
-      "name": "Långören",
-      "operator": "Länsstyrelsen i Västernorrlands län",
-      "protect_class": "1",
-      "type": "multipolygon",
-      "wikidata": "Q30163157"
-    },
-    "wiki": {
-      "name": "Långören",
-      "wikidataId": "Q30163157",
-      "osmRelationId": "7625019",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "446.39",
+    "lst:beslutdat": "2015-06-02",
+    "lst:diarienr": "511-2968-15",
+    "lst:land_ha": "53.46",
+    "lst:ref": "2043766",
+    "lst:skog_ha": "26.65",
+    "lst:tillkomst": "2015-06-25",
+    "lst:vatten_ha": "393.0",
+    "name": "Långören",
+    "operator": "Länsstyrelsen i Västernorrlands län",
+    "protect_class": "1",
+    "type": "multipolygon",
+    "wikidata": "Q30163157"
   },
   "geometry": {
     "type": "Polygon",

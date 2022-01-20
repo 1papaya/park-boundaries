@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 1066326,
   "properties": {
-    "area": 74.59,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Mount Samaria State Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "State Park - Schedule 2B, National Parks Act",
-      "short_name": "Mount Samaria SP",
-      "source": "VicMap ParkRes",
-      "start_date": "1979-04-26",
-      "type": "boundary",
-      "vicmap:prims_id": "3346",
-      "vicmap:uid": "3346_II",
-      "wikidata": "Q6923440"
-    },
-    "wiki": {
-      "name": "Mount Samaria State Park",
-      "wikidataId": "Q6923440",
-      "osmRelationId": "1066326",
-      "country": "AUS",
-      "wikipedia": "Mount_Samaria_State_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Mount Samaria State Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "State Park - Schedule 2B, National Parks Act",
+    "short_name": "Mount Samaria SP",
+    "source": "VicMap ParkRes",
+    "start_date": "1979-04-26",
+    "type": "boundary",
+    "vicmap:prims_id": "3346",
+    "vicmap:uid": "3346_II",
+    "wikidata": "Q6923440"
   },
   "geometry": {
     "type": "MultiPolygon",

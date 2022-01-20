@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 3240150,
   "properties": {
-    "area": 273.22,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Lesueur National Park",
-      "name:de": "Lesueur-Nationalpark",
-      "name:en": "Lesueur National Park",
-      "protect_class": "2",
-      "ref:capad:pa_id": "WA_42032",
-      "source": "CAPAD 2020",
-      "type": "boundary",
-      "website": "https://parks.dpaw.wa.gov.au/park/lesueur",
-      "wikidata": "Q958356",
-      "wikipedia": "en:Lesueur National Park"
-    },
-    "wiki": {
-      "name": "Lesueur National Park",
-      "wikidataId": "Q958356",
-      "osmRelationId": "3240150",
-      "country": "AUS",
-      "wikipedia": "Lesueur_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Lesueur National Park",
+    "name:de": "Lesueur-Nationalpark",
+    "name:en": "Lesueur National Park",
+    "protect_class": "2",
+    "ref:capad:pa_id": "WA_42032",
+    "source": "CAPAD 2020",
+    "type": "boundary",
+    "website": "https://parks.dpaw.wa.gov.au/park/lesueur",
+    "wikidata": "Q958356",
+    "wikipedia": "en:Lesueur National Park"
   },
   "geometry": {
     "type": "MultiPolygon",

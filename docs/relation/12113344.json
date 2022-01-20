@@ -2,23 +2,13 @@
   "type": "Feature",
   "id": 12113344,
   "properties": {
-    "area": 502.87,
-    "osm": {
-      "boundary": "protected_area",
-      "fixme": "approximately",
-      "name": "เขตรักษาพันธุ์สัตว์ป่าแม่น้ำภาชี",
-      "name:en": "Maenam Phachi Wildlife Sanctuary",
-      "protect_class": "1a",
-      "type": "boundary",
-      "wikidata": "Q23669996"
-    },
-    "wiki": {
-      "name": "Maenam Phachi wildlife sanctuary",
-      "wikidataId": "Q23669996",
-      "osmRelationId": "12113344",
-      "country": "THA",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "fixme": "approximately",
+    "name": "เขตรักษาพันธุ์สัตว์ป่าแม่น้ำภาชี",
+    "name:en": "Maenam Phachi Wildlife Sanctuary",
+    "protect_class": "1a",
+    "type": "boundary",
+    "wikidata": "Q23669996"
   },
   "geometry": {
     "type": "Polygon",

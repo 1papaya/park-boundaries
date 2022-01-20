@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 5497863,
   "properties": {
-    "area": 292.44,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Bieszczadzki Park Narodowy",
-      "name:de": "Beskiden-Nationalpark",
-      "name:en": "Bieszczady National Park",
-      "name:pl": "Bieszczadzki Park Narodowy",
-      "name:uk": "Бещадський національний парк",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q613888"
-    },
-    "wiki": {
-      "name": "Bieszczady National Park",
-      "wikidataId": "Q613888",
-      "osmRelationId": "5497863",
-      "country": "POL",
-      "wikipedia": "Bieszczady_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Bieszczadzki Park Narodowy",
+    "name:de": "Beskiden-Nationalpark",
+    "name:en": "Bieszczady National Park",
+    "name:pl": "Bieszczadzki Park Narodowy",
+    "name:uk": "Бещадський національний парк",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q613888"
   },
   "geometry": {
     "type": "MultiPolygon",

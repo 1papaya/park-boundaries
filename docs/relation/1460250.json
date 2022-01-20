@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 1460250,
   "properties": {
-    "area": 0.45,
-    "osm": {
-      "leisure": "nature_reserve",
-      "lst:area_ha": "44.7101888",
-      "lst:metodbeskrivning": "mätn lm 2004-03-02",
-      "lst:ref": "2001766.0",
-      "name": "Varglyan",
-      "source": "Länsstyrelsen i Södermanlands län (gis.lst.se)",
-      "start_date": "2004-05-10",
-      "type": "multipolygon",
-      "wikidata": "Q29580011"
-    },
-    "wiki": {
-      "name": "Varglyan",
-      "wikidataId": "Q29580011",
-      "osmRelationId": "1460250",
-      "country": "SWE",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "lst:area_ha": "44.7101888",
+    "lst:metodbeskrivning": "mätn lm 2004-03-02",
+    "lst:ref": "2001766.0",
+    "name": "Varglyan",
+    "source": "Länsstyrelsen i Södermanlands län (gis.lst.se)",
+    "start_date": "2004-05-10",
+    "type": "multipolygon",
+    "wikidata": "Q29580011"
   },
   "geometry": {
     "type": "Polygon",

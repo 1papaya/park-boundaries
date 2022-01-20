@@ -2,30 +2,20 @@
   "type": "Feature",
   "id": 3351605,
   "properties": {
-    "area": 2.5,
-    "osm": {
-      "addr:city": "Aragona",
-      "addr:housenumber": "53",
-      "addr:postcode": "92021",
-      "addr:street": "Via Salvatore La Rosa",
-      "contact:email": "macalube@legambienteriserve.it",
-      "contact:fax": "+39 0922 690021",
-      "contact:phone": "+39 0922 699210",
-      "leisure": "nature_reserve",
-      "name": "Riserva naturale integrale Macalube di Aragona",
-      "operator": "Legambiente",
-      "type": "multipolygon",
-      "website": "https://www.legambienteriserve.it/macalube-di-aragona/",
-      "wikidata": "Q3457477",
-      "wikipedia": "it:Riserva naturale integrale Macalube di Aragona"
-    },
-    "wiki": {
-      "name": "Macalube",
-      "wikidataId": "Q3457477",
-      "osmRelationId": "3351605",
-      "country": "ITA",
-      "wikipedia": null
-    }
+    "addr:city": "Aragona",
+    "addr:housenumber": "53",
+    "addr:postcode": "92021",
+    "addr:street": "Via Salvatore La Rosa",
+    "contact:email": "macalube@legambienteriserve.it",
+    "contact:fax": "+39 0922 690021",
+    "contact:phone": "+39 0922 699210",
+    "leisure": "nature_reserve",
+    "name": "Riserva naturale integrale Macalube di Aragona",
+    "operator": "Legambiente",
+    "type": "multipolygon",
+    "website": "https://www.legambienteriserve.it/macalube-di-aragona/",
+    "wikidata": "Q3457477",
+    "wikipedia": "it:Riserva naturale integrale Macalube di Aragona"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5372299,
   "properties": {
-    "area": 519.83,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Hoover Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q6317507"
-    },
-    "wiki": {
-      "name": "Hoover Wilderness",
-      "wikidataId": "Q6317507",
-      "osmRelationId": "5372299",
-      "country": "USA",
-      "wikipedia": "Hoover_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Hoover Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q6317507"
   },
   "geometry": {
     "type": "Polygon",

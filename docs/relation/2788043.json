@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 2788043,
   "properties": {
-    "area": 459.8,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "San Gorgonio Wilderness",
-      "operator": "US Forest Service;BLM",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q7414265"
-    },
-    "wiki": {
-      "name": "San Gorgonio Wilderness",
-      "wikidataId": "Q7414265",
-      "osmRelationId": "2788043",
-      "country": "USA",
-      "wikipedia": "San_Gorgonio_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "San Gorgonio Wilderness",
+    "operator": "US Forest Service;BLM",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q7414265"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 5440842,
   "properties": {
-    "area": 512.71,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "La Garita Wilderness Area",
-      "ownership": "national",
-      "protect_class": "1b",
-      "source": "http://data.fs.usda.gov/geodata",
-      "type": "multipolygon",
-      "wikidata": "Q6462726",
-      "wikipedia": "fr:La Garita Wilderness"
-    },
-    "wiki": {
-      "name": "La Garita Wilderness",
-      "wikidataId": "Q6462726",
-      "osmRelationId": "5440842",
-      "country": "USA",
-      "wikipedia": "La_Garita_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "La Garita Wilderness Area",
+    "ownership": "national",
+    "protect_class": "1b",
+    "source": "http://data.fs.usda.gov/geodata",
+    "type": "multipolygon",
+    "wikidata": "Q6462726",
+    "wikipedia": "fr:La Garita Wilderness"
   },
   "geometry": {
     "type": "Polygon",

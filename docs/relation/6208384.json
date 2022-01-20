@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 6208384,
   "properties": {
-    "area": 285.13,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "South Warner Wilderness",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q7568801"
-    },
-    "wiki": {
-      "name": "South Warner Wilderness",
-      "wikidataId": "Q7568801",
-      "osmRelationId": "6208384",
-      "country": "USA",
-      "wikipedia": "South_Warner_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "South Warner Wilderness",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q7568801"
   },
   "geometry": {
     "type": "Polygon",

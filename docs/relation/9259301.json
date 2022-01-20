@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 9259301,
   "properties": {
-    "area": 41.38,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "dabas parks „Piejūra”",
-      "name:en": "Seaside nature park",
-      "name:lt": "Pajūrio gamtos parkas",
-      "name:lv": "dabas parks „Piejūra”",
-      "name:pl": "Nadmorski park przyrody",
-      "natura2000_sitecode": "LV0301700",
-      "natura2000_sitetype": "C",
-      "protect_class": "4",
-      "source": "Natura2000",
-      "type": "multipolygon",
-      "website": "https://www.daba.gov.lv/public/lat/iadt/dabas_parki/piejura/",
-      "wikidata": "Q29167125",
-      "wikipedia": "lv:Piejūra"
-    },
-    "wiki": {
-      "name": "Piejūra Nature Park",
-      "wikidataId": "Q29167125",
-      "osmRelationId": "9259301",
-      "country": "LVA",
-      "wikipedia": "Piej%C5%ABra"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "dabas parks „Piejūra”",
+    "name:en": "Seaside nature park",
+    "name:lt": "Pajūrio gamtos parkas",
+    "name:lv": "dabas parks „Piejūra”",
+    "name:pl": "Nadmorski park przyrody",
+    "natura2000_sitecode": "LV0301700",
+    "natura2000_sitetype": "C",
+    "protect_class": "4",
+    "source": "Natura2000",
+    "type": "multipolygon",
+    "website": "https://www.daba.gov.lv/public/lat/iadt/dabas_parki/piejura/",
+    "wikidata": "Q29167125",
+    "wikipedia": "lv:Piejūra"
   },
   "geometry": {
     "type": "MultiPolygon",

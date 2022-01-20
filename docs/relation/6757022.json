@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 6757022,
   "properties": {
-    "area": 223.6,
-    "osm": {
-      "boundary": "national_park",
-      "import_ref": "sk_sopsr",
-      "name": "Národný park Malá Fatra",
-      "name:de": "Nationalpark Kleine Fatra",
-      "name:en": "Malá Fatra National Park",
-      "name:fr": "Parc national Malá Fatra",
-      "name:pl": "Park Narodowy Mała Fatra",
-      "protect_class": "2",
-      "sopsr:id": "44",
-      "sopsr:objectid": "21",
-      "sopsr:zone": "3",
-      "source": "(C)2008 Štátna ochrana prírody SR Banská Bystrica www.sopsr.sk",
-      "type": "boundary",
-      "wikidata": "Q1567025",
-      "wikipedia": "sk:Národný park Malá Fatra"
-    },
-    "wiki": {
-      "name": "Malá Fatra National Park",
-      "wikidataId": "Q1567025",
-      "osmRelationId": "6757022",
-      "country": "SVK",
-      "wikipedia": "Mal%C3%A1_Fatra_National_Park"
-    }
+    "boundary": "national_park",
+    "import_ref": "sk_sopsr",
+    "name": "Národný park Malá Fatra",
+    "name:de": "Nationalpark Kleine Fatra",
+    "name:en": "Malá Fatra National Park",
+    "name:fr": "Parc national Malá Fatra",
+    "name:pl": "Park Narodowy Mała Fatra",
+    "protect_class": "2",
+    "sopsr:id": "44",
+    "sopsr:objectid": "21",
+    "sopsr:zone": "3",
+    "source": "(C)2008 Štátna ochrana prírody SR Banská Bystrica www.sopsr.sk",
+    "type": "boundary",
+    "wikidata": "Q1567025",
+    "wikipedia": "sk:Národný park Malá Fatra"
   },
   "geometry": {
     "type": "Polygon",

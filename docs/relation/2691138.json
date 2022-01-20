@@ -2,24 +2,14 @@
   "type": "Feature",
   "id": 2691138,
   "properties": {
-    "area": 410.71,
-    "osm": {
-      "leisure": "nature_reserve",
-      "name": "Parque Natural de Corona Forestal",
-      "protect_class": "5",
-      "protection_title": "Parque Natural",
-      "ref": "T-11",
-      "type": "boundary",
-      "wikidata": "Q6063121",
-      "wikipedia": "es:Parque natural de la Corona Forestal"
-    },
-    "wiki": {
-      "name": "Corona Forestal Natural Park",
-      "wikidataId": "Q6063121",
-      "osmRelationId": "2691138",
-      "country": "ESP",
-      "wikipedia": null
-    }
+    "leisure": "nature_reserve",
+    "name": "Parque Natural de Corona Forestal",
+    "protect_class": "5",
+    "protection_title": "Parque Natural",
+    "ref": "T-11",
+    "type": "boundary",
+    "wikidata": "Q6063121",
+    "wikipedia": "es:Parque natural de la Corona Forestal"
   },
   "geometry": {
     "type": "Polygon",

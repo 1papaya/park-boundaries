@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 9536353,
   "properties": {
-    "area": 30.11,
-    "osm": {
-      "boundary": "protected_area",
-      "gnis:feature_id": "163631",
-      "leisure": "nature_reserve",
-      "name": "Cheaha Wilderness",
-      "operator": "United State Forest Service",
-      "protect_class": "1b",
-      "protection_title": "Wilderness",
-      "type": "multipolygon",
-      "website": "https://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&WID=115",
-      "wikidata": "Q5088819",
-      "wikipedia": "en:Cheaha Wilderness",
-      "wilderness.net:WID": "115",
-      "wilderness.net:dateLastMo": "2011/05/11"
-    },
-    "wiki": {
-      "name": "Cheaha Wilderness",
-      "wikidataId": "Q5088819",
-      "osmRelationId": "9536353",
-      "country": "USA",
-      "wikipedia": "Cheaha_Wilderness"
-    }
+    "boundary": "protected_area",
+    "gnis:feature_id": "163631",
+    "leisure": "nature_reserve",
+    "name": "Cheaha Wilderness",
+    "operator": "United State Forest Service",
+    "protect_class": "1b",
+    "protection_title": "Wilderness",
+    "type": "multipolygon",
+    "website": "https://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&WID=115",
+    "wikidata": "Q5088819",
+    "wikipedia": "en:Cheaha Wilderness",
+    "wilderness.net:WID": "115",
+    "wilderness.net:dateLastMo": "2011/05/11"
   },
   "geometry": {
     "type": "Polygon",

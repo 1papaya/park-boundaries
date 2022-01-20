@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 1222922,
   "properties": {
-    "area": 290.26,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Parque Natural de Somiedo",
-      "protect_class": "4",
-      "type": "boundary",
-      "wikidata": "Q1466711"
-    },
-    "wiki": {
-      "name": "Somiedo Natural Park",
-      "wikidataId": "Q1466711",
-      "osmRelationId": "1222922",
-      "country": "ESP",
-      "wikipedia": "Somiedo_Natural_Park"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque Natural de Somiedo",
+    "protect_class": "4",
+    "type": "boundary",
+    "wikidata": "Q1466711"
   },
   "geometry": {
     "type": "Polygon",

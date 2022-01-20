@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 241699,
   "properties": {
-    "area": 161.18,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Rago nasjonalpark",
-      "naturbase:url": "https://faktaark.naturbase.no/?id=VV00000130",
-      "naturbase:verneform": "Nasjonalpark",
-      "naturbase:verneplan": "Nasjonalpark",
-      "operator": "Midtre Nordland nasjonalparkstyre",
-      "protect_class": "2",
-      "ref:naturvern": "VV00000130",
-      "related_law": "https://lovdata.no/forskrift/1971-01-22-95",
-      "short_name": "Rago",
-      "start_date": "1971-01-22",
-      "type": "boundary",
-      "wikidata": "Q528924"
-    },
-    "wiki": {
-      "name": "Rago National Park",
-      "wikidataId": "Q528924",
-      "osmRelationId": "241699",
-      "country": "NOR",
-      "wikipedia": "Rago_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Rago nasjonalpark",
+    "naturbase:url": "https://faktaark.naturbase.no/?id=VV00000130",
+    "naturbase:verneform": "Nasjonalpark",
+    "naturbase:verneplan": "Nasjonalpark",
+    "operator": "Midtre Nordland nasjonalparkstyre",
+    "protect_class": "2",
+    "ref:naturvern": "VV00000130",
+    "related_law": "https://lovdata.no/forskrift/1971-01-22-95",
+    "short_name": "Rago",
+    "start_date": "1971-01-22",
+    "type": "boundary",
+    "wikidata": "Q528924"
   },
   "geometry": {
     "type": "Polygon",

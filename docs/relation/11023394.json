@@ -2,22 +2,12 @@
   "type": "Feature",
   "id": 11023394,
   "properties": {
-    "area": 20.89,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Cagar Alam Lifamatola",
-      "name:en": "Lifamatola Nature Reserve",
-      "operator": "Balai Konservasi Sumber Daya Alam Maluku",
-      "type": "boundary"
-    },
-    "wiki": {
-      "name": "Q104547762",
-      "wikidataId": "Q104547762",
-      "osmRelationId": "11023394",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Lifamatola",
+    "name:en": "Lifamatola Nature Reserve",
+    "operator": "Balai Konservasi Sumber Daya Alam Maluku",
+    "type": "boundary"
   },
   "geometry": {
     "type": "MultiPolygon",

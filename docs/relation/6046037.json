@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 6046037,
   "properties": {
-    "area": 4306.83,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Bob Marshall Wilderness Area",
-      "operator": "US Forest Service",
-      "ownership": "national",
-      "protect_class": "1b",
-      "protection_title": "Wilderness Area",
-      "type": "boundary",
-      "wikidata": "Q4933268"
-    },
-    "wiki": {
-      "name": "Bob Marshall Wilderness",
-      "wikidataId": "Q4933268",
-      "osmRelationId": "6046037",
-      "country": "USA",
-      "wikipedia": "Bob_Marshall_Wilderness"
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Bob Marshall Wilderness Area",
+    "operator": "US Forest Service",
+    "ownership": "national",
+    "protect_class": "1b",
+    "protection_title": "Wilderness Area",
+    "type": "boundary",
+    "wikidata": "Q4933268"
   },
   "geometry": {
     "type": "Polygon",

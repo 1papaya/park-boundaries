@@ -2,25 +2,15 @@
   "type": "Feature",
   "id": 7358257,
   "properties": {
-    "area": 35.77,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "name": "Valderejoko parke naturala/Parque Natural de Valderejo",
-      "name:es": "Parque Natural de Valderejo",
-      "name:eu": "Valderejoko parke naturala",
-      "protect_class": "5",
-      "type": "multipolygon",
-      "wikidata": "Q3058426",
-      "wikipedia": "es:Parque natural de Valderejo"
-    },
-    "wiki": {
-      "name": "Valderejo Natural Park",
-      "wikidataId": "Q3058426",
-      "osmRelationId": "7358257",
-      "country": "ESP",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "name": "Valderejoko parke naturala/Parque Natural de Valderejo",
+    "name:es": "Parque Natural de Valderejo",
+    "name:eu": "Valderejoko parke naturala",
+    "protect_class": "5",
+    "type": "multipolygon",
+    "wikidata": "Q3058426",
+    "wikipedia": "es:Parque natural de Valderejo"
   },
   "geometry": {
     "type": "Polygon",

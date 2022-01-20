@@ -2,21 +2,11 @@
   "type": "Feature",
   "id": 7804912,
   "properties": {
-    "area": 62.01,
-    "osm": {
-      "boundary": "protected_area",
-      "leisure": "nature_reserve",
-      "name": "Cagar Alam Pangi Binangga",
-      "name:en": "Pangi Binangga Nature Reserve",
-      "type": "multipolygon"
-    },
-    "wiki": {
-      "name": "Q104603672",
-      "wikidataId": "Q104603672",
-      "osmRelationId": "7804912",
-      "country": "IDN",
-      "wikipedia": null
-    }
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Cagar Alam Pangi Binangga",
+    "name:en": "Pangi Binangga Nature Reserve",
+    "type": "multipolygon"
   },
   "geometry": {
     "type": "Polygon",

@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 13517623,
   "properties": {
-    "area": 2340.2,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Parque Nacional Jaua-Sarisariñama",
-      "name:en": "Jaua-Sarisariñama National Park",
-      "name:es": "Parque Nacional Jaua-Sarisariñama",
-      "operator": "Inparques",
-      "operator:type": "public",
-      "protect_class": "2",
-      "protection_title": "Parque Nacional",
-      "source": "Inparques; Maxar (2021)",
-      "start_date": "1978-12-12",
-      "type": "boundary",
-      "wikidata": "Q3364417",
-      "wikipedia": "es:Parque nacional Jaua-Sarisariñama"
-    },
-    "wiki": {
-      "name": "Jaua-Sarisariñama National Park",
-      "wikidataId": "Q3364417",
-      "osmRelationId": "13517623",
-      "country": "VEN",
-      "wikipedia": "Jaua-Sarisari%C3%B1ama_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Parque Nacional Jaua-Sarisariñama",
+    "name:en": "Jaua-Sarisariñama National Park",
+    "name:es": "Parque Nacional Jaua-Sarisariñama",
+    "operator": "Inparques",
+    "operator:type": "public",
+    "protect_class": "2",
+    "protection_title": "Parque Nacional",
+    "source": "Inparques; Maxar (2021)",
+    "start_date": "1978-12-12",
+    "type": "boundary",
+    "wikidata": "Q3364417",
+    "wikipedia": "es:Parque nacional Jaua-Sarisariñama"
   },
   "geometry": {
     "type": "Polygon",

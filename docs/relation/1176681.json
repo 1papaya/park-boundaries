@@ -2,31 +2,21 @@
   "type": "Feature",
   "id": 1176681,
   "properties": {
-    "area": 279.16,
-    "osm": {
-      "boundary": "protected_area",
-      "iucn_level": "II",
-      "leisure": "nature_reserve",
-      "name": "Lake Eildon National Park",
-      "operator": "Parks Victoria",
-      "protect_class": "2",
-      "protection_title": "National Park - Schedule 2, National Parks Act",
-      "short_name": "Lake Eildon NP",
-      "source": "VicMap ParkRes",
-      "start_date": "1957-12-18",
-      "type": "boundary",
-      "vicmap:prims_id": "3294",
-      "vicmap:uid": "3294_II",
-      "website": "https://www.parks.vic.gov.au/places-to-see/parks/lake-eildon-national-park",
-      "wikidata": "Q568121"
-    },
-    "wiki": {
-      "name": "Lake Eildon National Park",
-      "wikidataId": "Q568121",
-      "osmRelationId": "1176681",
-      "country": "AUS",
-      "wikipedia": "Lake_Eildon_National_Park"
-    }
+    "boundary": "protected_area",
+    "iucn_level": "II",
+    "leisure": "nature_reserve",
+    "name": "Lake Eildon National Park",
+    "operator": "Parks Victoria",
+    "protect_class": "2",
+    "protection_title": "National Park - Schedule 2, National Parks Act",
+    "short_name": "Lake Eildon NP",
+    "source": "VicMap ParkRes",
+    "start_date": "1957-12-18",
+    "type": "boundary",
+    "vicmap:prims_id": "3294",
+    "vicmap:uid": "3294_II",
+    "website": "https://www.parks.vic.gov.au/places-to-see/parks/lake-eildon-national-park",
+    "wikidata": "Q568121"
   },
   "geometry": {
     "type": "MultiPolygon",

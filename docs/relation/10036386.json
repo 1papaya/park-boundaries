@@ -2,29 +2,19 @@
   "type": "Feature",
   "id": 10036386,
   "properties": {
-    "area": 44.11,
-    "osm": {
-      "boundary": "national_park",
-      "leisure": "nature_reserve",
-      "name": "Parque nacional de la Caldera de Taburiente",
-      "name:ca": "Parc Nacional de la Caldera de Taburiente",
-      "name:de": "Nationalpark Caldera de Taburiente",
-      "name:en": "Caldera de Taburiente National Park",
-      "name:eu": "Caldera de Taburienteko parke nazionala",
-      "name:fr": "Parc national de la Caldeira de Taburiente",
-      "name:gl": "Parque Nacional da Caldera de Taburiente",
-      "name:sv": "Caldera de Taburiente nationalpark",
-      "protect_class": "2",
-      "type": "boundary",
-      "wikidata": "Q23988114"
-    },
-    "wiki": {
-      "name": "Caldera de Taburiente National Park",
-      "wikidataId": "Q23988114",
-      "osmRelationId": "10036386",
-      "country": "ESP",
-      "wikipedia": "Caldera_de_Taburiente_National_Park"
-    }
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Parque nacional de la Caldera de Taburiente",
+    "name:ca": "Parc Nacional de la Caldera de Taburiente",
+    "name:de": "Nationalpark Caldera de Taburiente",
+    "name:en": "Caldera de Taburiente National Park",
+    "name:eu": "Caldera de Taburienteko parke nazionala",
+    "name:fr": "Parc national de la Caldeira de Taburiente",
+    "name:gl": "Parque Nacional da Caldera de Taburiente",
+    "name:sv": "Caldera de Taburiente nationalpark",
+    "protect_class": "2",
+    "type": "boundary",
+    "wikidata": "Q23988114"
   },
   "geometry": {
     "type": "Polygon",

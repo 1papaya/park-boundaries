@@ -2,26 +2,16 @@
   "type": "Feature",
   "id": 12582073,
   "properties": {
-    "area": 245.42,
-    "osm": {
-      "boundary": "national_park",
-      "name": "Parque nacional Cahuita",
-      "operator": "Área de Conservación La Amistad Caribe (ACLAC)",
-      "protect_class": "2",
-      "ref:CR:SINAC": "P16",
-      "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
-      "start_date": "1970",
-      "type": "boundary",
-      "wikidata": "Q2546988",
-      "wikipedia": "es:Parque nacional Cahuita"
-    },
-    "wiki": {
-      "name": "Cahuita National Park",
-      "wikidataId": "Q2546988",
-      "osmRelationId": "12582073",
-      "country": "CRI",
-      "wikipedia": "Cahuita_National_Park"
-    }
+    "boundary": "national_park",
+    "name": "Parque nacional Cahuita",
+    "operator": "Área de Conservación La Amistad Caribe (ACLAC)",
+    "protect_class": "2",
+    "ref:CR:SINAC": "P16",
+    "source": "SINAC (Sistema Nacional de Áreas de Conservación) - 2019",
+    "start_date": "1970",
+    "type": "boundary",
+    "wikidata": "Q2546988",
+    "wikipedia": "es:Parque nacional Cahuita"
   },
   "geometry": {
     "type": "Polygon",
