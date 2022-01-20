@@ -52,6 +52,7 @@ export class Park {
             ? this.osm.tags
             : {
                 name: this.name,
+                slug: this.slug,
               },
           geometry: boundaryGeom,
         }
@@ -110,6 +111,7 @@ export class Park {
       id: this.id,
       properties: {
         name: this.name,
+        slug: this.slug,
       },
       geometry: {
         type: "Point",
