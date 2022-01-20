@@ -69,9 +69,9 @@ export class Park {
   }
 
   getBbox(): number[] {
-    const boundaryFeat = this.getBoundaryFeature();
+    const boundaryGeom = this.getBoundaryGeometry();
 
-    return boundaryFeat ? turfBbox(boundaryFeat) : null;
+    return boundaryGeom ? turfBbox(boundaryGeom) : null;
   }
 
   getPointFeature(): GeoJSON.Feature<GeoJSON.Point> | null {
