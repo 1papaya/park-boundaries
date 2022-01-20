@@ -1,8 +1,8 @@
 {
-  "name": "park-cache",
+  "name": "park-index",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "git@github.com:1papaya/park-cache.git",
+  "repository": "git@github.com:1papaya/park-index.git",
   "author": "1papaya <1love1papaya@gmail.com>",
   "scripts": {
     "build": "yarn pre:mbtiles && yarn build-mbtiles && yarn post:mbtiles",
