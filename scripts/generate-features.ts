@@ -1,5 +1,6 @@
 import { getParks, outDir } from "../src/common";
 import fs from "fs";
+import stringify from "json-stringify-pretty-compact";
 
 (async () => {
   const parks = await getParks();
@@ -12,7 +13,7 @@ import fs from "fs";
         .map((boundaryFeature) =>
           fs.promises.writeFile(
             `${outDir}/relation/${boundaryFeature.id}.json`,
-            JSON.stringify(boundaryFeature)
+            stringify(boundaryFeature)
           )
         )
     )
