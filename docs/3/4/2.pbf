@@ -1,313 +1,668 @@
-™Ãx
+„™x
 
-boundaries(€ nameslug"&
-$Parc national des PyrÃ©nÃ©es (cÅ“ur)"$
-"fr/parc-national-des-pyrenees-c-ur"
+boundaries(€ name
+wikidataIdosmRelationIdslugbbox"&
+$Parc national des PyrÃ©nÃ©es (cÅ“ur)"	
+Q738435" Ä>"$
+"fr/parc-national-des-pyrenees-c-ur".
+,[-0.6961463,42.6847297,0.1757633,42.9044481]"
 
-Tjeggelvas"
-se/tjeggelvas"
-Ytre Hvaler nasjonalpark"
-no/ytre-hvaler-nasjonalpark"
-MarsfjÃ¤llet"
-se/marsfjallet"
-SÃ¶nnasjÃ¶bergen"
-se/sonnasjobergen"
-	Alsberget"
-se/alsberget"
-Svallmyrberget"
-se/svallmyrberget"
-Ormberget-HertsÃ¶landet"
-se/ormberget-hertsolandet"
+Tjeggelvas"
 
-GermandÃ¶n"
-se/germandon"
-BjÃ¶rnlandets nationalpark"
-se/bjornlandets-nationalpark"
+Q3379089" —…"
+se/tjeggelvas"/
+-[17.3336431,66.4402745,17.9290949,66.7182941]"
+Ytre Hvaler nasjonalpark"	
+Q684121" áÅ"
+no/ytre-hvaler-nasjonalpark"/
+-[10.6674049,58.9030219,11.0753839,59.1306283]"
+MarsfjÃ¤llet"
 
-LÃ¥ngÃ¶ren"
-se/langoren"
-Salen"
+Q3468632" ñª"
+se/marsfjallet")
+'[15.04338,64.96105,16.241206,65.250135]"
+SÃ¶nnasjÃ¶bergen"
+	Q30185233" ¶³"
+se/sonnasjobergen"-
++[16.648399,62.2914163,16.6852755,62.307383]"
+	Alsberget"
 
-se/salen"
+Q1439607" Úş¾"
+se/alsberget"+
+)[17.547986,64.637733,17.677277,64.696717]"
+Svallmyrberget"
+	Q30204039" Ÿì"
+se/svallmyrberget"+
+)[21.947228,65.586008,21.9930474,65.59975]"
+Ormberget-HertsÃ¶landet"
+	Q30174267" äº§"
+se/ormberget-hertsolandet".
+,[22.1850166,65.543604,22.4016248,65.6183103]"
+
+GermandÃ¶n"
+
+Q2686714" ®¡"
+se/germandon"+
+)[22.134764,65.436847,22.193781,65.452912]"
+BjÃ¶rnlandets nationalpark"	
+Q119150" Œ˜Ñ"
+se/bjornlandets-nationalpark"/
+-[17.9487084,63.9458218,18.0924701,63.9948204]"
+
+LÃ¥ngÃ¶ren"
+	Q30163157" »²Ñ"
+se/langoren".
+,[17.4882751,62.1330148,17.547063,62.1586242]"
+Salen"
+	Q30179147" ¸ı"
+
+se/salen"+
+)[17.583486,62.185706,17.643323,62.233997]"
 
 BrÃ¤mÃ¶n"
-	se/bramon"
-LÃ¥nga tjÃ¤rnarna"
-se/langa-tjarnarna"
-FÃ¤rnebofjÃ¤rden"
-se/farnebofjarden"	
-Komosse"
+	Q10436941" Ì×ô"
+	se/bramon")
+'[17.67872,62.18529,17.7445674,62.23007]"
+LÃ¥nga tjÃ¤rnarna"
+	Q30159138" ¯Ñ"
+se/langa-tjarnarna"*
+([15.233675,59.83477,15.279582,59.859701]"
+FÃ¤rnebofjÃ¤rden"
 
-se/komosse"
-Komosse sÃ¶dra"
-se/komosse-sodra"
-PorsbjÃ¤rs naturreservat"
-se/porsbjars-naturreservat"1
-/TranerÃ¶ds mosse, Grindhus och Lilla KlÃ¥verÃ¶d"0
-.se/tranerods-mosse-grindhus-och-lilla-klaverod"
+Q1505461" ÕÌ"
+se/farnebofjarden",
+*[16.646406,60.095583,16.9212158,60.295732]"	
+Komosse"
+	Q30160448" ´ªˆ"
 
-BÃ¥tfors"
+se/komosse"-
++[13.6942003,57.6818427,13.767181,57.734427]"
+Komosse sÃ¶dra"
+	Q30202670" ·ªˆ"
+se/komosse-sodra"/
+-[13.6846846,57.6292234,13.7459848,57.6673982]"
+PorsbjÃ¤rs naturreservat"
+	Q10637929" ûıV"
+se/porsbjars-naturreservat"/
+-[13.2799209,56.7382843,13.3198031,56.7772655]"1
+/TranerÃ¶ds mosse, Grindhus och Lilla KlÃ¥verÃ¶d"
+	Q30158319" ®’Y"0
+.se/tranerods-mosse-grindhus-och-lilla-klaverod"/
+-[13.1682753,56.0341119,13.1952946,56.0534204]"
 
-se/batfors"
-IdÃ¶n"	
-se/idon"
+BÃ¥tfors"
+	Q30180455" Ëø¸"
 
-Hagalund"
-se/hagalund"
-Norra Lunsen"
-se/norra-lunsen"
-Bryggholmen"
-se/bryggholmen"
+se/batfors"/
+-[17.2878346,60.4301679,17.3965618,60.4736472]"
+IdÃ¶n"
+	Q30158672" ìœY"	
+se/idon"/
+-[18.5663485,60.2983121,18.5962793,60.3164583]"
+
+Hagalund"
+	Q30170854" ñœY"
+se/hagalund"/
+-[17.3577914,59.7736089,17.3716092,59.7847494]"
+Norra Lunsen"
+	Q10570906" äœY"
+se/norra-lunsen"/
+-[17.6722126,59.7657302,17.7544494,59.8027513]"
+Bryggholmen"
+	Q10436569" ïœY"
+se/bryggholmen"/
+-[17.1243064,59.5204791,17.1616751,59.5354422]"
 
 GrÃ¶nsÃ¶"
-	se/gronso"
-GÃ¤rdesudden"
-se/gardesudden"	
-SkogsÃ¶"
-	se/skogso"#
-!SaltarÃ¶-SkÃ¤rmarÃ¶ Naturreservat"#
-!se/saltaro-skarmaro-naturreservat"
-LÃ¥ngvikstrÃ¤sk"
-se/langvikstrask"
-MÃ¶ja BjÃ¶rndalen"
-se/moja-bjorndalen"
-StorÃ¶-BockÃ¶-LÃ¶kaÃ¶"
-se/storo-bocko-lokao""
- Nationaal Park Zuid-Kennemerland"%
-#nl/nationaal-park-zuid-kennemerland""
- Nationaal Landschap Drentsche Aa"%
-#nl/nationaal-landschap-drentsche-aa"
-Nationaal Park Dwingelderveld""
+	Q18290275" ¸İë"
+	se/gronso"/
+-[17.2318567,59.4376862,17.3214773,59.4785248]"
+GÃ¤rdesudden"
+	Q10512354" áªº"
+se/gardesudden".
+,[18.2529488,59.3460359,18.2665521,59.351001]"	
+SkogsÃ¶"
+
+Q3562577" Ã«Y"
+	se/skogso"/
+-[18.2621631,59.2907776,18.3021688,59.3083314]"#
+!SaltarÃ¶-SkÃ¤rmarÃ¶ Naturreservat"
+	Q29344882" ¾­´"#
+!se/saltaro-skarmaro-naturreservat".
+,[18.596637,59.3145565,18.6177997,59.3323931]"
+LÃ¥ngvikstrÃ¤sk"
+	Q24197187" ¦°Y"
+se/langvikstrask"/
+-[18.4798569,59.2254538,18.5117851,59.2502135]"
+MÃ¶ja BjÃ¶rndalen"
+	Q30161339" Ñ””"
+se/moja-bjorndalen".
+,[18.8650098,59.4245008,18.891534,59.4436878]"
+StorÃ¶-BockÃ¶-LÃ¶kaÃ¶"
+	Q10681454" Î«Y"
+se/storo-bocko-lokao"/
+-[18.8750503,59.3499775,19.0377712,59.4560366]""
+ Nationaal Park Zuid-Kennemerland"	
+Q774464" èÎ§"%
+#nl/nationaal-park-zuid-kennemerland"+
+)[4.5391599,52.366485,4.631786,52.4549199]""
+ Nationaal Landschap Drentsche Aa"
+
+Q1702806" ÍÎ§"%
+#nl/nationaal-landschap-drentsche-aa"-
++[6.5633043,52.9680664,6.7496648,53.1398025]"
+Nationaal Park Dwingelderveld"
+
+Q1651303" Î§""
  nl/nationaal-park-dwingelderveld",
-*Nationalpark NiedersÃ¤chsisches Wattenmeer".
-,de/nationalpark-niedersachsisches-wattenmeer"'
-%Nationalpark Hamburgisches Wattenmeer"*
-(de/nationalpark-hamburgisches-wattenmeer"2
-0Nationalpark Schleswig-Holsteinisches Wattenmeer"5
-3de/nationalpark-schleswig-holsteinisches-wattenmeer"
-Nationaal Park De Maasduinen"!
-nl/nationaal-park-de-maasduinen"
-Nationalpark Eifel"
-de/nationalpark-eifel"!
-Nationalpark HunsrÃ¼ck-Hochwald"#
-!de/nationalpark-hunsruck-hochwald"
-Nationalpark Harz"
-de/nationalpark-harz"
-Nationalpark Hainich"
-de/nationalpark-hainich""
- Parc national de forÃªts (cÅ“ur)"!
-fr/parc-national-de-forets-c-ur"+
-)Parque nacional de Ordesa y Monte Perdido".
-,es/parque-nacional-de-ordesa-y-monte-perdido"8
-6Parc Nacional d'AigÃ¼estortes i Estany de Sant Maurici":
-8es/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici"%
-#Parc national des CÃ©vennes (cÅ“ur)"$
-"fr/parc-national-des-cevennes-c-ur"%
-#Parc national des Calanques (cÅ“ur)"%
-#fr/parc-national-des-calanques-c-ur"
-Nationalpark Schwarzwald"
-de/nationalpark-schwarzwald"%
-#Parc national de la Vanoise (cÅ“ur)"%
-#fr/parc-national-de-la-vanoise-c-ur"
-Parco Nazionale Gran Paradiso""
- it/parco-nazionale-gran-paradiso"
-Wildnispark ZÃ¼rich Sihlwald" 
-ch/wildnispark-zurich-sihlwald"
-Schweizerischer Nationalpark"!
-ch/schweizerischer-nationalpark"<
-:Parco Nazionale dello Stelvio - Nationalpark Stilfser Joch"=
-;it/parco-nazionale-dello-stelvio-nationalpark-stilfser-joch"#
-!Parc national des Ã‰crins (cÅ“ur)""
- fr/parc-national-des-ecrins-c-ur"%
-#Parc national du Mercantour (cÅ“ur)"%
-#fr/parc-national-du-mercantour-c-ur"7
-5Parc national de Port-Cros (coeur terrestre et marin)"8
-6fr/parc-national-de-port-cros-coeur-terrestre-et-marin"
-Parco Nazionale dell'Asinara"!
-it/parco-nazionale-dell-asinara"$
-"Parco Nazionale delle Cinque Terre"'
-%it/parco-nazionale-delle-cinque-terre"/
--Parco Nazionale dell'Appennino Tosco-Emiliano"2
-0it/parco-nazionale-dell-appennino-tosco-emiliano"
-Riserva naturale Abetone"
-it/riserva-naturale-abetone"%
-#Riserva naturale Piano degli Ontani"(
-&it/riserva-naturale-piano-degli-ontani"1
-/Parco Nazionale dell'Arcipelago di La Maddalena"4
-2it/parco-nazionale-dell-arcipelago-di-la-maddalena")
-'Parco Nazionale dell'Arcipelago Toscano",
-*it/parco-nazionale-dell-arcipelago-toscano"-
-+Nationalpark Vorpommersche Boddenlandschaft"0
-.de/nationalpark-vorpommersche-boddenlandschaft"
-Nationalpark Jasmund"
-de/nationalpark-jasmund"
-MÃ¼ritz-Nationalpark"
-de/muritz-nationalpark"
-WoliÅ„ski Park Narodowy"
-pl/wolinski-park-narodowy"
-Nationalpark Unteres Odertal"!
-de/nationalpark-unteres-odertal"
-Park Narodowy UjÅ›cie Warty"
-pl/park-narodowy-ujscie-warty"
-DrawieÅ„ski Park Narodowy"
-pl/drawienski-park-narodowy"
-Nationalpark Bayerischer Wald""
- de/nationalpark-bayerischer-wald"
-NÃ¡rodnÃ­ park Å umava"
-cz/narodni-park-sumava""
- Nationalpark SÃ¤chsische Schweiz"$
-"de/nationalpark-sachsische-schweiz"$
-"NÃ¡rodnÃ­ park ÄŒeskÃ© Å vÃ½carsko"!
-cz/narodni-park-ceske-svycarsko"9
-7nÃ¡rodnÃ­ pÅ™Ã­rodnÃ­ rezervace JizerskohorskÃ© buÄiny"5
-3cz/narodni-prirodni-rezervace-jizerskohorske-buciny"
-Wielkopolski Park Narodowy"
-pl/wielkopolski-park-narodowy"
-Karkonoski Park Narodowy"
-pl/karkonoski-park-narodowy"
-SÅ‚owiÅ„ski Park Narodowy"
-pl/s-owinski-park-narodowy"
-BabiogÃ³rski Park Narodowy"
-pl/babiogorski-park-narodowy"
-NÃ¡rodnÃ½ park MalÃ¡ Fatra"
-sk/narodny-park-mala-fatra"
-NÃ¡rodnÃ½ park VeÄ¾kÃ¡ Fatra"
-sk/narodny-park-velka-fatra"
-Kampinoski Park Narodowy"
-pl/kampinoski-park-narodowy"
-ÅšwiÄ™tokrzyski Park Narodowy" 
-pl/swietokrzyski-park-narodowy"
-GorczaÅ„ski Park Narodowy"
-pl/gorczanski-park-narodowy"
-TatrzaÅ„ski Park Narodowy"
-pl/tatrzanski-park-narodowy"
-TatranskÃ½ nÃ¡rodnÃ½ park"
-sk/tatransky-narodny-park"
-NÃ¡rodnÃ½ park NÃ­zke Tatry"
-sk/narodny-park-nizke-tatry"
-PieniÅ„ski Park Narodowy"
-pl/pieninski-park-narodowy"
-PieninskÃ½ nÃ¡rodnÃ½ park"
-sk/pieninsky-narodny-park"
-Nationalpark Berchtesgaden"
-de/nationalpark-berchtesgaden"
-Nationalpark Hohe Tauern"
-at/nationalpark-hohe-tauern"*
-(Parco Nazionale delle Dolomiti Bellunesi"-
-+it/parco-nazionale-delle-dolomiti-bellunesi"
-Triglavski narodni park"
-si/triglavski-narodni-park"
-Nationalpark Kalkalpen"
-at/nationalpark-kalkalpen"
-Nationalpark GesÃ¤use"
-at/nationalpark-gesause"
-Nationalpark Thayatal"
-at/nationalpark-thayatal"
-NÃ¡rodnÃ­ park PodyjÃ­"
-cz/narodni-park-podyji"
-Nationalpark Donauauen"
-at/nationalpark-donauauen"
-Riserva naturale Vallombrosa"!
-it/riserva-naturale-vallombrosa"G
-EParco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna"I
-Git/parco-nazionale-delle-foreste-casentinesi-monte-falterona-e-campigna"
-Nacionalni park Brijuni"
-hr/nacionalni-park-brijuni"%
-#Parco Nazionale dei Monti Sibillini"(
-&it/parco-nazionale-dei-monti-sibillini"3
-1Parco Nazionale del Gran Sasso e Monti della Laga"6
-4it/parco-nazionale-del-gran-sasso-e-monti-della-laga"
-Parco Nazionale della Majella""
+*[6.3377654,52.777428,6.4808146,52.8415601]",
+*Nationalpark NiedersÃ¤chsisches Wattenmeer"	
+Q661217" óĞ	".
+,de/nationalpark-niedersachsisches-wattenmeer",
+*[6.5801243,53.2337298,8.6865857,53.985278]"'
+%Nationalpark Hamburgisches Wattenmeer"	
+Q686539" ôĞ	"*
+(de/nationalpark-hamburgisches-wattenmeer"-
++[8.2155597,53.8441407,8.5759848,53.9858374]"2
+0Nationalpark Schleswig-Holsteinisches Wattenmeer"	
+Q706721" şÅK"5
+3de/nationalpark-schleswig-holsteinisches-wattenmeer"*
+([7.9309094,53.864902,9.015015,55.099161]"
+Nationaal Park De Maasduinen"
+
+Q1702950" ßË§"!
+nl/nationaal-park-de-maasduinen",
+*[5.988047,51.4986552,6.2007357,51.6732433]"
+Nationalpark Eifel"	
+Q705097" ‡˜"
+de/nationalpark-eifel"-
++[6.2674159,50.4964493,6.5596769,50.6904309]"!
+Nationalpark HunsrÃ¼ck-Hochwald"
+	Q17393446" Ãû"#
+!de/nationalpark-hunsruck-hochwald"*
+([6.9749514,49.605302,7.289105,49.792305]"
+Nationalpark Harz"	
+Q702540" ØÃ"
+de/nationalpark-harz"/
+-[10.3193367,51.6683292,10.7286917,51.9005368]"
+Nationalpark Hainich"	
+Q702528" ˜äŞ"
+de/nationalpark-hainich".
+,[10.3659932,51.002461,10.5552732,51.1185746]""
+ Parc national de forÃªts (cÅ“ur)"
+
+Q3364499" ×ôô"!
+fr/parc-national-de-forets-c-ur",
+*[4.5558689,47.6826162,5.196497,48.0442862]"+
+)Parque nacional de Ordesa y Monte Perdido"	
+Q741610" ÄÈä".
+,es/parque-nacional-de-ordesa-y-monte-perdido".
+,[-0.1047343,42.5153891,0.1507336,42.7038456]"8
+6Parc Nacional d'AigÃ¼estortes i Estany de Sant Maurici"
+
+Q1470066" şï":
+8es/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici"+
+)[0.7930147,42.510379,1.0702254,42.631914]"%
+#Parc national des CÃ©vennes (cÅ“ur)"
+
+Q1368807" €Ä>"$
+"fr/parc-national-des-cevennes-c-ur"+
+)[3.2213967,43.976622,3.954901,44.5158873]"%
+#Parc national des Calanques (cÅ“ur)"
+
+Q2600427" ‡€¼"%
+#fr/parc-national-des-calanques-c-ur"-
++[5.1916667,43.0194447,5.6289642,43.2874327]"
+Nationalpark Schwarzwald"
+
+Q1968948" î¤Ğ"
+de/nationalpark-schwarzwald"-
++[8.1833179,48.4907706,8.3716251,48.6948027]"%
+#Parc national de la Vanoise (cÅ“ur)"	
+Q174250" ûÃ>"%
+#fr/parc-national-de-la-vanoise-c-ur",
+*[6.6041845,45.223464,7.1806156,45.5678824]"
+Parco Nazionale Gran Paradiso"	
+Q847690" æ8""
+ it/parco-nazionale-gran-paradiso"*
+([7.0684792,45.399526,7.577842,45.681766]"
+Wildnispark ZÃ¼rich Sihlwald"
+
+Q1384428" Ş¬" 
+ch/wildnispark-zurich-sihlwald"-
++[8.5207659,47.2215138,8.5843478,47.2823922]"
+Schweizerischer Nationalpark"
+Q83397" á÷"!
+ch/schweizerischer-nationalpark"-
++[10.0371089,46.575125,10.313993,46.7698717]"<
+:Parco Nazionale dello Stelvio - Nationalpark Stilfser Joch"
+
+Q1891711" €¨"=
+;it/parco-nazionale-dello-stelvio-nationalpark-stilfser-joch"+
+)[10.078692,46.260284,10.896501,46.668964]"#
+!Parc national des Ã‰crins (cÅ“ur)"	
+Q476446" üÃ>""
+ fr/parc-national-des-ecrins-c-ur"-
++[5.9509521,44.6136592,6.5086305,45.0471524]"%
+#Parc national du Mercantour (cÅ“ur)"
+
+Q1535042" ÿÃ>"%
+#fr/parc-national-du-mercantour-c-ur"-
++[6.6038441,43.9055182,7.5182058,44.4284041]"7
+5Parc national de Port-Cros (coeur terrestre et marin)"	
+Q388279" Ê¥Ñ"8
+6fr/parc-national-de-port-cros-coeur-terrestre-et-marin"-
++[6.1523692,42.9766081,6.4286665,43.0339158]"
+Parco Nazionale dell'Asinara"
+
+Q1091068" Ğ’Í"!
+it/parco-nazionale-dell-asinara"-
++[8.2087616,40.9838946,8.3506948,41.1207294]"$
+"Parco Nazionale delle Cinque Terre"
+
+Q1886487" È”:"'
+%it/parco-nazionale-delle-cinque-terre"-
++[9.6153716,44.0638062,9.8071243,44.1854747]"/
+-Parco Nazionale dell'Appennino Tosco-Emiliano"
+
+Q1761032" îêÕ"2
+0it/parco-nazionale-dell-appennino-tosco-emiliano".
+,[9.9479687,44.2244687,10.3134285,44.4861274]"
+Riserva naturale Abetone"
+
+Q3936501" ¾Œ‡"
+it/riserva-naturale-abetone"/
+-[10.6649919,44.1144519,10.6956768,44.1570613]"%
+#Riserva naturale Piano degli Ontani"
+
+Q3936682" ş‹‡"(
+&it/riserva-naturale-piano-degli-ontani"/
+-[10.6659246,44.0833399,10.7308603,44.1176986]"1
+/Parco Nazionale dell'Arcipelago di La Maddalena"	
+Q536703" —×"4
+2it/parco-nazionale-dell-arcipelago-di-la-maddalena",
+*[9.309707,41.0518822,9.6215614,41.3215185]")
+'Parco Nazionale dell'Arcipelago Toscano"
+
+Q1111568" »Ê`",
+*it/parco-nazionale-dell-arcipelago-toscano",
+*[9.720691,42.185647,11.1824055,43.4773845]"-
++Nationalpark Vorpommersche Boddenlandschaft"	
+Q708477" Ú¾E"0
+.de/nationalpark-vorpommersche-boddenlandschaft".
+,[12.4066678,54.3360221,13.269362,54.6116667]"
+Nationalpark Jasmund"	
+Q679173" ‘¹"
+de/nationalpark-jasmund",
+*[13.5639579,54.516674,13.690221,54.590279]"
+MÃ¼ritz-Nationalpark"	
+Q702495" ³Ìá"
+de/muritz-nationalpark"/
+-[13.1452837,53.2854125,13.3292314,53.3669632]"
+WoliÅ„ski Park Narodowy"	
+Q620392" ¤—”"
+pl/wolinski-park-narodowy"/
+-[14.3231986,53.8318347,14.6520085,54.0160417]"
+Nationalpark Unteres Odertal"	
+Q701525" ş‘"!
+de/nationalpark-unteres-odertal"/
+-[14.0728268,52.8951622,14.4505651,53.2759231]"
+Park Narodowy UjÅ›cie Warty"	
+Q618092" €Â"
+pl/park-narodowy-ujscie-warty".
+,[14.6440247,52.543362,14.9143903,52.6610999]"
+DrawieÅ„ski Park Narodowy"	
+Q614743" ô—”"
+pl/drawienski-park-narodowy"/
+-[15.7368605,53.0162569,16.0811787,53.2188049]"
+Nationalpark Bayerischer Wald"	
+Q704124" –äq""
+ de/nationalpark-bayerischer-wald"/
+-[13.1917159,48.8684435,13.5884559,49.1205629]"
+NÃ¡rodnÃ­ park Å umava"	
+Q864799" ·î{"
+cz/narodni-park-sumava".
+,[13.2311565,48.7132997,13.982622,49.1914646]""
+ Nationalpark SÃ¤chsische Schweiz"	
+Q702566" ±a"$
+"de/nationalpark-sachsische-schweiz".
+,[14.018499,50.8839154,14.4021331,50.9970886]"$
+"NÃ¡rodnÃ­ park ÄŒeskÃ© Å vÃ½carsko"
+
+Q3491338" ¹št"!
+cz/narodni-park-ceske-svycarsko"/
+-[14.2344412,50.8248297,14.4611489,50.9455799]"9
+7nÃ¡rodnÃ­ pÅ™Ã­rodnÃ­ rezervace JizerskohorskÃ© buÄiny"
+
+Q8546570" ¥Ù~"5
+3cz/narodni-prirodni-rezervace-jizerskohorske-buciny"/
+-[15.0704192,50.8487456,15.2603429,50.8818313]"
+Wielkopolski Park Narodowy"	
+Q101635" éĞı"
+pl/wielkopolski-park-narodowy"-
++[16.64113,52.2276437,16.9087956,52.3220877]"
+Karkonoski Park Narodowy"	
+Q621423" ¨•Q"
+pl/karkonoski-park-narodowy"/
+-[15.4589016,50.7359431,15.8300176,50.8411599]"
+SÅ‚owiÅ„ski Park Narodowy"
+
+Q1572525" ¤Ã²"
+pl/s-owinski-park-narodowy"/
+-[17.0530556,54.6239164,17.5467531,54.7974611]"
+BabiogÃ³rski Park Narodowy"	
+Q606000" İâ™"
+pl/babiogorski-park-narodowy"/
+-[19.4684976,49.5576214,19.6066475,49.6179516]"
+NÃ¡rodnÃ½ park MalÃ¡ Fatra"
+
+Q1567025" µœ"
+sk/narodny-park-mala-fatra"/
+-[18.8744807,49.1213889,19.2161829,49.2607597]"
+NÃ¡rodnÃ½ park VeÄ¾kÃ¡ Fatra"	
+Q958003" ±¼¸"
+sk/narodny-park-velka-fatra"/
+-[18.8874278,48.8141914,19.2616044,49.1097491]"
+Kampinoski Park Narodowy"	
+Q619061" °¥_"
+pl/kampinoski-park-narodowy"/
+-[20.0468917,51.4700489,20.8878026,52.4236034]"
+ÅšwiÄ™tokrzyski Park Narodowy"	
+Q387818" œ—”" 
+pl/swietokrzyski-park-narodowy"/
+-[20.8077534,50.8393439,21.1177654,50.9665737]"
+GorczaÅ„ski Park Narodowy"	
+Q618174" ây"
+pl/gorczanski-park-narodowy".
+,[20.0223985,49.470194,20.2529875,49.6218775]"
+TatrzaÅ„ski Park Narodowy"	
+Q609353" Öò‡"
+pl/tatrzanski-park-narodowy",
+*[19.758386,49.178476,20.151441,49.3391751]"
+TatranskÃ½ nÃ¡rodnÃ½ park"
+
+Q1080683" £µœ"
+sk/tatransky-narodny-park"-
++[19.5738595,49.0803502,20.36765,49.3280332]"
+NÃ¡rodnÃ½ park NÃ­zke Tatry"
+
+Q1767601" îÊ¬"
+sk/narodny-park-nizke-tatry"/
+-[19.2442003,48.8377367,20.2481398,49.0412432]"
+PieniÅ„ski Park Narodowy"	
+Q625500" ¨y"
+pl/pieninski-park-narodowy"-
++[20.3218694,49.395877,20.461245,49.4390323]"
+PieninskÃ½ nÃ¡rodnÃ½ park"
+
+Q1783680"  µœ"
+sk/pieninsky-narodny-park".
+,[20.4060093,49.3575199,20.6029369,49.417982]"
+Nationalpark Berchtesgaden"	
+Q702489" èü…"
+de/nationalpark-berchtesgaden"/
+-[12.7791497,47.4633962,13.0720923,47.6426452]"
+Nationalpark Hohe Tauern"	
+Q696014" ’çk"
+at/nationalpark-hohe-tauern"/
+-[12.0818523,46.8795667,13.4063698,47.2554651]"*
+(Parco Nazionale delle Dolomiti Bellunesi"
+
+Q1086637" ÈÛÙ"-
++it/parco-nazionale-delle-dolomiti-bellunesi"/
+-[11.7661007,46.0433846,12.2649751,46.3194539]"
+Triglavski narodni park"
+
+Q1163005" ®‡¯"
+si/triglavski-narodni-park"-
++[13.495317,46.1927544,14.107271,46.4810403]"
+Nationalpark Kalkalpen"	
+Q686047" ®¶q"
+at/nationalpark-kalkalpen"/
+-[14.1676924,47.6747488,14.5543931,47.8565328]"
+Nationalpark GesÃ¤use"	
+Q369655" ì¨ã"
+at/nationalpark-gesause"/
+-[14.5269343,47.5123682,14.7464263,47.6337549]"
+Nationalpark Thayatal"	
+Q612901" ã††"
+at/nationalpark-thayatal"-
++[15.82392,48.8113981,15.9599456,48.8775486]"
+NÃ¡rodnÃ­ park PodyjÃ­"
+
+Q2006345" ¨Ï¸"
+cz/narodni-park-podyji".
+,[15.7906325,48.7973154,16.043082,48.9080235]"
+Nationalpark Donauauen"	
+Q474886" ßl"
+at/nationalpark-donauauen"/
+-[16.4697571,48.1098843,16.9782719,48.2035482]"
+Riserva naturale Vallombrosa"
+	Q56629842" Ã©‡"!
+it/riserva-naturale-vallombrosa"/
+-[11.5309236,43.7204691,11.5899375,43.7680981]"G
+EParco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna"
+
+Q1787671" Ïg"I
+Git/parco-nazionale-delle-foreste-casentinesi-monte-falterona-e-campigna"/
+-[11.6164044,43.6995148,11.9565854,44.0403801]"
+Nacionalni park Brijuni"	
+Q849748" È¡å"
+hr/nacionalni-park-brijuni"/
+-[13.7097697,44.8827283,13.8033115,44.9491942]"%
+#Parco Nazionale dei Monti Sibillini"
+
+Q1425191" íËÁ"(
+&it/parco-nazionale-dei-monti-sibillini",
+*[13.030019,42.719407,13.3654042,43.109535]"3
+1Parco Nazionale del Gran Sasso e Monti della Laga"
+
+Q1027914" ¦”Á"6
+4it/parco-nazionale-del-gran-sasso-e-monti-della-laga"+
+)[13.249505,42.196547,13.889553,42.801505]"
+Parco Nazionale della Majella"
+
+Q1085735" ¶éÀ""
  it/parco-nazionale-della-majella"+
-)Parco Nazionale d'Abruzzo, Lazio e Molise"-
-+it/parco-nazionale-d-abruzzo-lazio-e-molise""
- Nacionalni park Sjeverni Velebit"%
-#hr/nacionalni-park-sjeverni-velebit"
-Nacionalni park Kornati"
-hr/nacionalni-park-kornati"
-Parco Nazionale del Gargano" 
-it/parco-nazionale-del-gargano")
-'Nationalpark Neusiedler See - Seewinkel"*
-(at/nationalpark-neusiedler-see-seewinkel"5
-3ĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»Ğ½Ğ¸ Ğ¿Ğ°Ñ€Ğº Ğ¤Ñ€ÑƒÑˆĞºĞ° Ğ³Ğ¾Ñ€Ğ°"
-rs/fruska-gora-national-park"
-NÃ¡rodnÃ½ park SlovenskÃ½ raj"
-sk/narodny-park-slovensky-raj" 
-NÃ¡rodnÃ½ park SlovenskÃ½ kras" 
-sk/narodny-park-slovensky-kras"
-BÃ¼kki Nemzeti Park"
-hu/bukki-nemzeti-park"
-HortobÃ¡gyi Nemzeti Park"
-hu/hortobagyi-nemzeti-park".
-,Parcul NaÈ›ional Semenic - Cheile CaraÈ™ului"-
-+ro/parcul-national-semenic-cheile-carasului"(
-&ĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»Ğ½Ğ¸ Ğ¿Ğ°Ñ€Ğº Ğ¢Ğ°Ñ€Ğ°"
-rs/tara-national-park"
-Nacionalni Park Durmitor"
-me/nacionalni-park-durmitor"
-Nacionalni park Mljet"
-hr/nacionalni-park-mljet"!
-Nacionalni Park Biogradska Gora"$
-"me/nacionalni-park-biogradska-gora"'
-%Skadarsko Jezero / Liqeni i ShkodrÃ«s"'
-%me/skadarsko-jezero-liqeni-i-shkodres"'
+)[13.838788,41.846198,14.245956,42.246415]"+
+)Parco Nazionale d'Abruzzo, Lazio e Molise"
+
+Q1438999" “¤‚"-
++it/parco-nazionale-d-abruzzo-lazio-e-molise"-
++[13.6479378,41.60787,14.0429306,42.0009299]""
+ Nacionalni park Sjeverni Velebit"	
+Q591878" †¥å"%
+#hr/nacionalni-park-sjeverni-velebit"/
+-[14.9161093,44.6923229,15.0607811,44.8552681]"
+Nacionalni park Kornati"	
+Q674039" ğ‘"
+hr/nacionalni-park-kornati"-
++[15.1953883,43.667428,15.564415,43.8787222]"
+Parco Nazionale del Gargano"	
+Q382227" ƒ¶Ì" 
+it/parco-nazionale-del-gargano"/
+-[15.2207838,41.5290422,16.1999353,42.2283049]")
+'Nationalpark Neusiedler See - Seewinkel"	
+Q643017" é“†"*
+(at/nationalpark-neusiedler-see-seewinkel".
+,[16.7205838,47.6814296,17.0517455,47.918964]"5
+3ĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»Ğ½Ğ¸ Ğ¿Ğ°Ñ€Ğº Ğ¤Ñ€ÑƒÑˆĞºĞ° Ğ³Ğ¾Ñ€Ğ°"
+
+Q1280258" ŸãÃ"
+rs/fruska-gora-national-park".
+,[19.1904571,45.076655,20.0482281,45.2257549]"
+NÃ¡rodnÃ½ park SlovenskÃ½ raj"
+
+Q1507799" ¢µœ"
+sk/narodny-park-slovensky-raj".
+,[20.186523,48.8400881,20.5148685,48.9705316]" 
+NÃ¡rodnÃ½ park SlovenskÃ½ kras"
+
+Q1351150" ì„Ú" 
+sk/narodny-park-slovensky-kras".
+,[20.3473418,48.474374,20.9794723,48.6935685]"
+BÃ¼kki Nemzeti Park"	
+Q855548" Ãˆ"
+hu/bukki-nemzeti-park"/
+-[20.3101679,47.9092462,20.7347049,48.1627888]"
+HortobÃ¡gyi Nemzeti Park"
+Q61757" âöŒ"
+hu/hortobagyi-nemzeti-park"/
+-[20.6325529,47.3178739,21.3786352,47.8471638]".
+,Parcul NaÈ›ional Semenic - Cheile CaraÈ™ului"
+Q82371" ‰†"-
++ro/parcul-national-semenic-cheile-carasului".
+,[21.8154031,45.010739,22.1433361,45.2652775]"(
+&ĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»Ğ½Ğ¸ Ğ¿Ğ°Ñ€Ğº Ğ¢Ğ°Ñ€Ğ°"
+
+Q1266612" ãÃ"
+rs/tara-national-park".
+,[19.2349289,43.8092676,19.6077397,44.014809]"
+Nacionalni Park Durmitor"
+
+Q3364446" Ú‰ñ"
+me/nacionalni-park-durmitor".
+,[18.935849,42.9825056,19.4453964,43.2685454]"
+Nacionalni park Mljet"
+
+Q1574010" ìöî"
+hr/nacionalni-park-mljet"/
+-[17.3105793,42.7476017,17.4497494,42.8117431]"!
+Nacionalni Park Biogradska Gora"
+
+Q1258880" °ü²"$
+"me/nacionalni-park-biogradska-gora"/
+-[19.5601966,42.8364802,19.7066666,42.9262058]"'
+%Skadarsko Jezero / Liqeni i ShkodrÃ«s"	
+Q203811" ÿú"'
+%me/skadarsko-jezero-liqeni-i-shkodres"/
+-[19.0791964,42.0542877,19.4813937,42.3363347]"'
 %al/skadarsko-jezero-liqeni-i-shkodres"0
-.ĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»Ğ½Ğ¸ Ğ¿Ğ°Ñ€Ğº ĞšĞ¾Ğ¿Ğ°Ğ¾Ğ½Ğ¸Ğº"
-rs/kopaonik-national-park",
-*ĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»Ğ½Ğ¸ Ğ¿Ğ°Ñ€Ğº Ğ‚ĞµÑ€Ğ´Ğ°Ğ¿"
-rs/erdap-national-park"
-Parku KombÃ«tar "Sharri""
-xk/parku-kombetar-sharri"
-dabas parks â€PiejÅ«raâ€"
-lv/dabas-parks-piejura"C
-AĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğ¹ Ğ¿Ğ°Ñ€Ğº Â«Ğ›Ğ¾ÑĞ¸Ğ½Ñ‹Ğ¹ Ğ¾ÑÑ‚Ñ€Ğ¾Ğ²Â»" 
-ru/losiny-ostrov-national-park"
-BiaÅ‚owieski Park Narodowy"
-pl/bia-owieski-park-narodowy"
-Poleski Park Narodowy"
-pl/poleski-park-narodowy"
-RoztoczaÅ„ski Park Narodowy"
-pl/roztoczanski-park-narodowy"
-Bieszczadzki Park Narodowy"
-pl/bieszczadzki-park-narodowy"I
-GĞ£Ğ¶Ğ°Ğ½ÑÑŒĞºĞ¸Ğ¹ Ğ½Ğ°Ñ†Ñ–Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ğ¸Ğ¹ Ğ¿Ñ€Ğ¸Ñ€Ğ¾Ğ´Ğ½Ğ¸Ğ¹ Ğ¿Ğ°Ñ€Ğº"#
-!ua/uzhanskyi-national-nature-park"[
-YĞŸĞ¾Ğ»ĞµÑÑĞºĞ¸Ğ¹ Ñ€Ğ°Ğ´Ğ¸Ğ°Ñ†Ğ¸Ğ¾Ğ½Ğ½Ğ¾-ÑĞºĞ¾Ğ»Ğ¾Ğ³Ğ¸Ñ‡ĞµÑĞºĞ¸Ğ¹ Ğ·Ğ°Ğ¿Ğ¾Ğ²ĞµĞ´Ğ½Ğ¸Ğº"*
-(by/polesie-state-radioecological-reserve"t
-rĞ§Ğ¾Ñ€Ğ½Ğ¾Ğ±Ğ¸Ğ»ÑŒÑÑŒĞºĞ¸Ğ¹ Ñ€Ğ°Ğ´Ñ–Ğ°Ñ†Ñ–Ğ¹Ğ½Ğ¾-ĞµĞºĞ¾Ğ»Ğ¾Ğ³Ñ–Ñ‡Ğ½Ğ¸Ğ¹ Ğ±Ñ–Ğ¾ÑÑ„ĞµÑ€Ğ½Ğ¸Ğ¹ Ğ·Ğ°Ğ¿Ğ¾Ğ²Ñ–Ğ´Ğ½Ğ¸Ğº"9
-7ua/chernobyl-radiation-and-ecological-biosphere-reserve"B
-@ĞšĞ°Ñ€Ğ¿Ğ°Ñ‚ÑÑŒĞºĞ¸Ğ¹ Ğ±Ñ–Ğ¾ÑÑ„ĞµÑ€Ğ½Ğ¸Ğ¹ Ğ·Ğ°Ğ¿Ğ¾Ğ²Ñ–Ğ´Ğ½Ğ¸Ğº"!
-ua/carpathian-biosphere-reserve"+
-)Ä°ÄŸneada Longoz OrmanlarÄ± MillÃ® ParkÄ±"'
-%tr/igneada-longoz-ormanlar-milli-park"
-Parcul NaÈ›ional â€Orheiâ€œ"
-md/parcul-national-orhei"F
-DĞ§Ğ¾Ñ€Ğ½Ğ¾Ğ¼Ğ¾Ñ€ÑÑŒĞºĞ¸Ğ¹ Ğ±Ñ–Ğ¾ÑÑ„ĞµÑ€Ğ½Ğ¸Ğ¹ Ğ·Ğ°Ğ¿Ğ¾Ğ²Ñ–Ğ´Ğ½Ğ¸Ğº" 
-ua/black-sea-biosphere-reserve"–
-“Ğ’Ğ¾Ñ€Ğ¾Ğ½ĞµĞ¶ÑĞºĞ¸Ğ¹ Ğ³Ğ¾ÑÑƒĞ´Ğ°Ñ€ÑÑ‚Ğ²ĞµĞ½Ğ½Ñ‹Ğ¹ Ğ¿Ñ€Ğ¸Ñ€Ğ¾Ğ´Ğ½Ñ‹Ğ¹ Ğ±Ğ¸Ğ¾ÑÑ„ĞµÑ€Ğ½Ñ‹Ğ¹ Ğ·Ğ°Ğ¿Ğ¾Ğ²ĞµĞ´Ğ½Ğ¸Ğº Ğ¸Ğ¼ĞµĞ½Ğ¸ Ğ’.Ğœ. ĞŸĞµÑĞºĞ¾Ğ²Ğ°"8
-6ru/v-peskov-voronezhsky-state-nature-biosphere-reserve"6
-4Ğ¡Ğ¾Ñ‡Ğ¸Ğ½ÑĞºĞ¸Ğ¹ Ğ½Ğ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğ¹ Ğ¿Ğ°Ñ€Ğº"
-ru/sochi-national-park"C
-Aáƒ™áƒáƒšáƒ®áƒ”áƒ—áƒ˜áƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
-ge/kolkheti-national-park"C
-Aáƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
-ge/mtirala-national-park"
-KaragÃ¶l Sahara MillÃ® ParkÄ±"
-tr/karagol-sahara-milli-park"3
-1Parco Nazionale Cilento, Vallo di Diano e Alburni"5
-3it/parco-nazionale-cilento-vallo-di-diano-e-alburni">
-<Parco Nazionale dell'Appennino Lucano-Val d'Agri-Lagonegrese"A
-?it/parco-nazionale-dell-appennino-lucano-val-d-agri-lagonegrese""
- Parco Nazionale dell'Alta Murgia"%
-#it/parco-nazionale-dell-alta-murgia"4
-2ĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğ¹ Ğ¿Ğ°Ñ€Ğº Ğ¡Ğ¼Ğ¾Ğ»ÑŒĞ½Ñ‹Ğ¹"
-ru/smolny-national-parkœ  Ä>"	3¨<š 
+.ĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»Ğ½Ğ¸ Ğ¿Ğ°Ñ€Ğº ĞšĞ¾Ğ¿Ğ°Ğ¾Ğ½Ğ¸Ğº"
+
+Q7253230" ·äÃ"
+rs/kopaonik-national-park"/
+-[20.7201504,43.2509427,20.8925629,43.3874056]",
+*ĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»Ğ½Ğ¸ Ğ¿Ğ°Ñ€Ğº Ğ‚ĞµÑ€Ğ´Ğ°Ğ¿"
+
+Q1258055" ãÃ"
+rs/erdap-national-park"/
+-[21.6681013,44.3996182,22.5466444,44.7110628]"
+Parku KombÃ«tar "Sharri""
+
+Q1569160" ö¾Ö"
+xk/parku-kombetar-sharri"/
+-[20.5545817,41.8576408,21.1922265,42.2864239]"
+dabas parks â€PiejÅ«raâ€"
+	Q29167125" ¥’µ"
+lv/dabas-parks-piejura".
+,[23.9357316,56.9967904,24.3929106,57.234906]"C
+AĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğ¹ Ğ¿Ğ°Ñ€Ğº Â«Ğ›Ğ¾ÑĞ¸Ğ½Ñ‹Ğ¹ Ğ¾ÑÑ‚Ñ€Ğ¾Ğ²Â»"
+
+Q1785861" «¡T" 
+ru/losiny-ostrov-national-park".
+,[37.6685894,55.814153,38.0140729,55.9124298]"
+BiaÅ‚owieski Park Narodowy"
+
+Q6870388" ô±"
+pl/bia-owieski-park-narodowy".
+,[23.717675,52.6988802,23.9395973,52.8188815]"
+Poleski Park Narodowy"	
+Q625105" ®ı"
+pl/poleski-park-narodowy"/
+-[23.0371266,51.3260168,23.3513549,51.4992072]"
+RoztoczaÅ„ski Park Narodowy"	
+Q626392" íÚ"
+pl/roztoczanski-park-narodowy"/
+-[22.8929723,50.5191678,23.1258124,50.6684119]"
+Bieszczadzki Park Narodowy"	
+Q613888" ‡ÈÏ"
+pl/bieszczadzki-park-narodowy".
+,[22.221925,49.0020468,22.8940867,49.2848743]"I
+GĞ£Ğ¶Ğ°Ğ½ÑÑŒĞºĞ¸Ğ¹ Ğ½Ğ°Ñ†Ñ–Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ğ¸Ğ¹ Ğ¿Ñ€Ğ¸Ñ€Ğ¾Ğ´Ğ½Ğ¸Ğ¹ Ğ¿Ğ°Ñ€Ğº"
+
+Q4469611" Ô¸‰"#
+!ua/uzhanskyi-national-nature-park"/
+-[22.4407929,48.8779465,22.9190777,49.0973238]"[
+YĞŸĞ¾Ğ»ĞµÑÑĞºĞ¸Ğ¹ Ñ€Ğ°Ğ´Ğ¸Ğ°Ñ†Ğ¸Ğ¾Ğ½Ğ½Ğ¾-ÑĞºĞ¾Ğ»Ğ¾Ğ³Ğ¸Ñ‡ĞµÑĞºĞ¸Ğ¹ Ğ·Ğ°Ğ¿Ğ¾Ğ²ĞµĞ´Ğ½Ğ¸Ğº"
+
+Q2043162" Ù±Ï"*
+(by/polesie-state-radioecological-reserve"/
+-[29.4241792,51.3091669,30.4629392,51.8969322]"t
+rĞ§Ğ¾Ñ€Ğ½Ğ¾Ğ±Ğ¸Ğ»ÑŒÑÑŒĞºĞ¸Ğ¹ Ñ€Ğ°Ğ´Ñ–Ğ°Ñ†Ñ–Ğ¹Ğ½Ğ¾-ĞµĞºĞ¾Ğ»Ğ¾Ğ³Ñ–Ñ‡Ğ½Ğ¸Ğ¹ Ğ±Ñ–Ğ¾ÑÑ„ĞµÑ€Ğ½Ğ¸Ğ¹ Ğ·Ğ°Ğ¿Ğ¾Ğ²Ñ–Ğ´Ğ½Ğ¸Ğº"
+	Q23928179" Î•ß"9
+7ua/chernobyl-radiation-and-ecological-biosphere-reserve".
+,[29.2675489,51.0834149,30.561318,51.5315741]"B
+@ĞšĞ°Ñ€Ğ¿Ğ°Ñ‚ÑÑŒĞºĞ¸Ğ¹ Ğ±Ñ–Ğ¾ÑÑ„ĞµÑ€Ğ½Ğ¸Ğ¹ Ğ·Ğ°Ğ¿Ğ¾Ğ²Ñ–Ğ´Ğ½Ğ¸Ğº"
+
+Q3612435" Ç©Y"!
+ua/carpathian-biosphere-reserve".
+,[23.0512047,47.896894,24.5832977,48.3830486]"+
+)Ä°ÄŸneada Longoz OrmanlarÄ± MillÃ® ParkÄ±"
+	Q19931239" İh"'
+%tr/igneada-longoz-ormanlar-milli-park"/
+-[27.9184115,41.7706911,28.0184917,41.9147919]"
+Parcul NaÈ›ional â€Orheiâ€œ"
+	Q15838244" ½·"
+md/parcul-national-orhei"/
+-[28.4599113,47.2145563,29.0229246,47.3910791]"F
+DĞ§Ğ¾Ñ€Ğ½Ğ¾Ğ¼Ğ¾Ñ€ÑÑŒĞºĞ¸Ğ¹ Ğ±Ñ–Ğ¾ÑÑ„ĞµÑ€Ğ½Ğ¸Ğ¹ Ğ·Ğ°Ğ¿Ğ¾Ğ²Ñ–Ğ´Ğ½Ğ¸Ğº"	
+Q864774" âÔÛ" 
+ua/black-sea-biosphere-reserve"/
+-[31.4878327,46.1106571,32.2667971,46.4811667]"–
+“Ğ’Ğ¾Ñ€Ğ¾Ğ½ĞµĞ¶ÑĞºĞ¸Ğ¹ Ğ³Ğ¾ÑÑƒĞ´Ğ°Ñ€ÑÑ‚Ğ²ĞµĞ½Ğ½Ñ‹Ğ¹ Ğ¿Ñ€Ğ¸Ñ€Ğ¾Ğ´Ğ½Ñ‹Ğ¹ Ğ±Ğ¸Ğ¾ÑÑ„ĞµÑ€Ğ½Ñ‹Ğ¹ Ğ·Ğ°Ğ¿Ğ¾Ğ²ĞµĞ´Ğ½Ğ¸Ğº Ğ¸Ğ¼ĞµĞ½Ğ¸ Ğ’.Ğœ. ĞŸĞµÑĞºĞ¾Ğ²Ğ°"
+
+Q4125414" Šô™"8
+6ru/v-peskov-voronezhsky-state-nature-biosphere-reserve".
+,[39.3525805,51.861474,39.7880991,52.0320429]"6
+4Ğ¡Ğ¾Ñ‡Ğ¸Ğ½ÑĞºĞ¸Ğ¹ Ğ½Ğ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğ¹ Ğ¿Ğ°Ñ€Ğº"	
+Q951551" ¯ Â"
+ru/sochi-national-park"/
+-[39.1538936,43.4363954,40.6399514,44.1219018]"C
+Aáƒ™áƒáƒšáƒ®áƒ”áƒ—áƒ˜áƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
+
+Q1444561" Ãºä"
+ge/kolkheti-national-park".
+,[41.483891,42.0357695,42.0494794,42.3669543]"C
+Aáƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
+
+Q1951559" ë–Ñ"
+ge/mtirala-national-park"-
++[41.735107,41.5877536,41.959701,41.7324681]"
+KaragÃ¶l Sahara MillÃ® ParkÄ±"
+
+Q6367923" ñú¬"
+tr/karagol-sahara-milli-park"/
+-[42.4157482,41.1876208,42.5072648,41.3346535]"3
+1Parco Nazionale Cilento, Vallo di Diano e Alburni"	
+Q867361" û¥ú"5
+3it/parco-nazionale-cilento-vallo-di-diano-e-alburni"/
+-[14.9046236,39.9905158,15.6921243,40.5761924]">
+<Parco Nazionale dell'Appennino Lucano-Val d'Agri-Lagonegrese"
+
+Q1325310" ºış"A
+?it/parco-nazionale-dell-appennino-lucano-val-d-agri-lagonegrese"/
+-[15.5962079,40.0867003,16.1597813,40.5858245]""
+ Parco Nazionale dell'Alta Murgia"	
+Q680313" úöÓ"%
+#it/parco-nazionale-dell-alta-murgia"/
+-[16.0727461,40.7871011,16.7616514,41.1622916]"4
+2ĞĞ°Ñ†Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğ¹ Ğ¿Ğ°Ñ€Ğº Ğ¡Ğ¼Ğ¾Ğ»ÑŒĞ½Ñ‹Ğ¹"
+
+Q4425090" ÔÜ¦"
+ru/smolny-national-park"/
+-[45.2082178,54.7225785,45.6222084,54.8855284]¢
+  Ä>"	3¨<š 
  	  	      
 
- n —…"`	ÖWº
+ t
+ 	—…"`	ÖWº
  
  	 	LPJ
-   	 	KKB áÅ"4	Ö¸²    CO$    	 ~ ñª"p	²†¢+  	/2
+   	 	KKH
+ 
+áÅ"4	Ö¸²    CO$    	 „
+ ñª"p	²†¢+  	/2
 
 
 
@@ -316,25 +671,45 @@ Aáƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
 	
 
 
-  	 	¶³"	Öğ   
-Úş¾"	Š *  Ÿì"	œš   . äº§"	Ìb   ®¡"	ÄÚ"	 & Œ˜Ñ"	ÖÈB    »²Ñ"	òª* ( ¸ı"	ˆ’	*   Ì×ô"	š*
- ¯Ñ"	ÜŠ"e ÕÌ"W	†ôš       	   
+  	!
+ ¶³"	Öğ &
+ Úş¾"	Š * !
+  !"Ÿì"	œš   4
+ #$%&'äº§"	Ìb  #
+ ()*+,®¡"	ÄÚ"	 ,
+ -./01Œ˜Ñ"	ÖÈB  &
+ 23456»²Ñ"	òª* .
+ 789:;¸ı"	ˆ’	* &
+ <=>?@Ì×ô"	š*
+#
+ ABCDE¯Ñ"	ÜŠ"k
+ FGHIJÕÌ"W	†ôš       	   
 
- 	 	 " ´ªˆ"	Æô2  #  !·ªˆ"	¾–	 	
-   "#ûıV"	ò¶"   $%®’Y"	â¦   * &'Ëø¸"	Ô¨R
-    ()ìœY"	¶ä  *+ñœY"	Ø¤    ,-äœY"	œ " ./ïœY"	°‚  01¸İë"	È”* 23áªº"	şÀ    45Ã«Y"	‚Ò    67¾­´"	¾È    89¦°Y"	¦ä
-  :;Ñ””"	î   % <=Î«Y"	†œB	  ( >?èÎ§"	Èˆ(J( >?èÎ§"	Èˆ(J* @AÍÎ§"	²	º&R 
+ 	 	 (
+ KLMNO´ªˆ"	Æô2  )
+ PQRST·ªˆ"	¾–	 	
+  #
+ UVWXYûıV"	ò¶"  !
+ Z[\]^®’Y"	â¦   0
+ _`abcËø¸"	Ô¨R
+   !
+ defghìœY"	¶ä !
+ ijklmñœY"	Ø¤   #
+ nopqräœY"	œ "!
+ stuvwïœY"	°‚&
+ xyz{|¸İë"	È”*$ }~€áªº"	şÀ   & ‚ƒ„…†Ã«Y"	‚Ò   ' ‡ˆ‰Š‹¾­´"	¾È   & Œ¦°Y"	¦ä
+ ' ‘’“”•Ñ””"	î   0 –—˜™šÎ«Y"	†œB	  3 ›œŸèÎ§"	Èˆ(J3 ›œŸèÎ§"	Èˆ(J5  ¡¢£¤ÍÎ§"	²	º&R 
 
- * @AÍÎ§"	²	º&R 
+ 5  ¡¢£¤ÍÎ§"	²	º&R 
 
- & BCÎ§"	š	”'B & BCÎ§"	š	”'B ù DEóĞ	"ê	¦
+ 1 ¥¦§¨©Î§"	š	”'B 1 ¥¦§¨©Î§"	š	”'B „ ª«¬­®óĞ	"ê	¦
 ‚&" 	z«Ò
   	    
 	!		
 3	' 
 	
- )!1L: 	F*	–5 	C  	I, 	†¢*	   ! 	# FGôĞ	"	è¶$:
-'â HIşÅK"Ó	üä!ò00 
+ )!1L: 	F*	–5 	C  	I, 	†¢*	   ! 	. ¯°±²³ôĞ	"	è¶$:
+'í ´µ¶·¸şÅK"Ó	üä!ò00 
 	  
  
 
@@ -349,19 +724,19 @@ Aáƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
 	b:  		JB  	7E2 	<2	"  		 	3{‚
  
 
-    	 L JKßË§"=	Ö*
+    	 W ¹º»¼½ßË§"=	Ö*
 	% 	: 
    	
-	  L JKßË§"=	Ö*
+	  W ¹º»¼½ßË§"=	Ö*
 	% 	: 
    	
-	  \ LM‡˜"M	ˆ	®,Ê	 
+	  g ¾¿ÀÁÂ‡˜"M	ˆ	®,Ê	 
  	  	:  
- g NOÃû"X	Š
+ r ÃÄÅÆÇÃû"X	Š
 ².z 
   
-	 	   	* 	 	\ PQØÃ"N	¬)š 
-		 	  	  2 RS˜äŞ"#	ğ+r 		– TU×ôô"†	´2:	   		/ª	 
+	 	   	* 	 	g ÈÉÊËÌØÃ"N	¬)š 
+		 	  	  = ÍÎÏĞÑ˜äŞ"#	ğ+r 		¡ ÒÓÔÕÖ×ôô"†	´2:	   		/ª	 
    	    	
  
 
@@ -370,9 +745,9 @@ Aáƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
    	 		 		"â  
  
 
-   	  	  	#	6 VWÄÈä"'	Ú<‚
-  	 		 = XYşï".	ì<š
- 	   î Z[€Ä>"ß	¢â9²  	  
+   	  	  	#	A ×ØÙÚÛÄÈä"'	Ú<‚
+  	 		 H ÜİŞßàşï".	ì<š
+ 	   ù áâãäå€Ä>"ß	¢â9²  	  
 	  
 	       	
   	  
@@ -380,78 +755,78 @@ Aáƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
   
      	5	JI 	SN	*   	05
 
- 		L \]‡€¼"=	ÜÒ;ª  
- "7'	 	  R ^_î¤Ğ"C	ÜØ0š 
-    	  	B 	ˆ `aûÃ>"z	ä	„7Ê 
+ 		W æçèéê‡€¼"=	ÜÒ;ª  
+ "7'	 	  ] ëìíîïî¤Ğ"C	ÜØ0š 
+    	  	B 	“ ğñòóôûÃ>"z	ä	„7Ê 
 
  
 		      
 	 
-  R bcæ8"D	œ
+  ] õö÷øùæ8"D	œ
 æ6ò
 
-	  	! deŞ¬"	’¾3"
- 	A fgá÷"3	ĞÈ4‚  		• hi€¨"†	øâ4ú
+	  	!) úûüışŞ¬"	’¾3"
+ 	L ÿ€‚ƒá÷"3	ĞÈ4‚  		  „…†‡ˆ€¨"†	øâ4ú
 
   
  
 
  
    		   
-  	   ¹ jküÃ>"ª	üŠ8Š 	  
+  	   Ä ‰Š‹ŒüÃ>"ª	üŠ8Š 	  
 
 
 	 			
   	 
 
-  	¹ lmÿÃ>"ª	æ	ª9Š
+  	Ä ‘’ÿÃ>"ª	æ	ª9Š
  	 
 
  
   
       	 	     		  
-5 noÊ¥Ñ"&	ğˆ<B
- 	$*: pqĞ’Í"+	âê?2 	"  	
- + rsÈ”:"	äæ9Zi tuîêÕ"Z	¢À9Ê 
+@ “”•–—Ê¥Ñ"&	ğˆ<B
+ 	$*E ˜™š›œĞ’Í"+	âê?2 	"  	
+ 6 Ÿ ¡È”:"	äæ9Zt ¢£¤¥¦îêÕ"Z	¢À9Ê 
     
-   	  vw¾Œ‡"	šî9*  xyş‹‡"	˜ø9 Y z{—×"K	Öä?"  	 	/Š     		&"™ |}»Ê`"Š	æÊ=R 
+   	+ §¨©ª«¾Œ‡"	šî9* ' ¬­®¯°ş‹‡"	˜ø9 d ±²³´µ—×"K	Öä?"  	 	/Š     		&"¤ ¶·¸¹º»Ê`"Š	æÊ=R 
 			›!2
 	
 	r*		‘E2 	@=¢   	c;R 		JT"  	=µ: 	P¨z 	  	$" 	* 	
 
-  	  ~Ú¾E"	è #ú    !	
+  	 ¨ »¼½¾¿Ú¾E"	è #ú    !	
 	 )   *
 	 	sZ  #
- 	h=" < €‘¹",	¦‚#r 
-    	  9 ‚ƒ³Ìá"(	Şô%‚ 	k „…¤—”"Z	ÂÌ$*
- 	j   	r    	  l †‡ş‘"\	’ä&‚ 	  
+ 	h=" E ÀÁÂÃÄ‘¹",	¦‚#r 
+    	  B ÅÆÇÈÉ³Ìá"(	Şô%‚ 	t ÊËÌÍÎ¤—”"Z	ÂÌ$*
+ 	j   	r    	  u ÏĞÑÒÓş‘"\	’ä&‚ 	  
   
-  	6O	: ˆ‰€Â"*	’Ê'Š
+  	6O	C ÔÕÖ×Ø€Â"*	’Ê'Š
   	  
- P Š‹ô—”"?	î¨&º  
+ Y ÙÚÛÜİô—”"?	î¨&º  
   
    	/
-Y Œ–äq"I	šŒ0Ú       	  
- 	#p ·î{"`	®ú/â 	   		
+b Şßàáâ–äq"I	šŒ0Ú       	  
+ 	#y ãäåæç·î{"`	®ú/â 	   		
  
-   	  d ‘±a"T	ºÊ+j  	   	/r 	  	6	5 > ’“¹št".	¼Â+š	 	  ! ”•¥Ù~"	ÀØ+*  ^ –—éĞı"M	ş¶(¢     	 	-	Q ˜™¨•Q"A	šè+Z 
-    	R       	 T š›¤Ã²"C	¸à"º	 "4	 
+   	  m èéêëì±a"T	ºÊ+j  	   	/r 	  	6	5 G íîïğñ¹št".	¼Â+š	 	  * òóôõö¥Ù~"	ÀØ+*  g ÷øùúûéĞı"M	ş¶(¢     	 	-	Z üışÿ€¨•Q"A	šè+Z 
+    	R       	 ] ‚ƒ„…¤Ã²"C	¸à"º	 "4	 
 
- 		", œİâ™"	ì¾.R 	K Ÿµœ":	” /Ê
- 	  	   M  ¡±¼¸"<	 „0Ò 	     x ¢£°¥_"h	®š(ª   
+ 		"5 †‡ˆ‰Šİâ™"	ì¾.R 	T ‹Œµœ":	” /Ê
+ 	  	   V ‘’“”±¼¸"<	 „0Ò 	      •–—˜™°¥_"h	®š(ª   
  
 
  
      	  "
-	 $" 	 P ¤¥œ—”"?	äĞ+‚  		    	J    1 ¦§ây"!	àÄ.j     J ¨©Öò‡"9	Ê”/¢  	   	 ¦ ª«£µœ"”	Ú/²
+	 $" 	 Y š›œœ—”"?	äĞ+‚  		    	J    : Ÿ ¡¢£ây"!	àÄ.j     S ¤¥¦§¨Öò‡"9	Ê”/¢  	   	 ¯ ©ª«¬­£µœ"”	Ú/²
   
 	       	   
-  â ¬­îÊ¬"Ğ	Šè/¢  	   	   
+  ë ®¯°±²îÊ¬"Ğ	Šè/¢  	   	   
        	 ’ 
    
 
- 	  	" 	 ' ®¯¨y"	‚ğ.B  ( °± µœ"	Œö.B
- O ²³èü…">	Ş2Ú   	 Ë ´µ’çk"º	êş3ò 	     
+ 	  	" 	 0 ³´µ¶·¨y"	‚ğ.B  1 ¸¹º»¼ µœ"	Œö.B
+ X ½¾¿ÀÁèü…">	Ş2Ú   	 Ô ÂÃÄÅÆ’çk"º	êş3ò 	     
  	
  
 			#	Ò  
@@ -461,40 +836,40 @@ Aáƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
  
          	v’ 	     
          	 
-   		g ¶·ÈÛÙ"V	‚ô5º    
+   		p ÇÈÉÊËÈÛÙ"V	‚ô5º    
 	 
      
-  _ ¸¹®‡¯"N	Ş”5š
+  h ÌÍÎÏĞ®‡¯"N	Ş”5š
  
  
-	 \ º»®¶q"L	¨²2’       M ¼½ì¨ã"<	èø2Š	  
-   	 	@ ¾¿ã††"/	Â0Z   		 M ÀÁ¨Ï¸"<	Ò–0b     	   	b    	 B ÂÃßl"2	ÀÆ1ª
+	 e ÑÒÓÔÕ®¶q"L	¨²2’       V Ö×ØÙÚì¨ã"<	èø2Š	  
+   	 	I ÛÜİŞßã††"/	Â0Z   		 V àáâãä¨Ï¸"<	Ò–0b     	   	b    	 K åæçèéßl"2	ÀÆ1ª
  
 
-	  ÄÅÃ©‡"	¼Ğ:"  s ÆÇÏg"c	Ø”:Â
-     	    	  ÈÉÈ¡å"	Ä¤8"	e ÊËíËÁ"T	Ôü;²    
+	) êëìíîÃ©‡"	¼Ğ:"  | ïğñòóÏg"c	Ø”:Â
+     	    	) ôõö÷øÈ¡å"	Ä¤8"	n ùúûüıíËÁ"T	Ôü;²    
  
 	
 	
-	 	  ¨ ÌÍ¦”Á"–	ªÄ<º
+	 	  ± şÿ€‚¦”Á"–	ªÄ<º
 
  
      
 
    	
   
- 	u ÎÏ¶éÀ"d	†¤>ò 
+ 	~ ƒ„…†‡¶éÀ"d	†¤>ò 
  
   
 
 
- W ĞÑ“¤‚"F	öÔ>ú  		  
+ ` ˆ‰Š‹Œ“¤‚"F	öÔ>ú  		  
  
  
-( ÒÓ†¥å"	š¼8B
+1 ‘†¥å"	š¼8B
 
 
- 	. ÔÕğ‘"	Ø´:Z!	Ï Ö×ƒ¶Ì"½	à–>‚
+ 	7 ’“”•–ğ‘"	Ø´:Z!	Ø —˜™š›ƒ¶Ì"½	à–>‚
 	
  		  
 !     	 	
@@ -503,48 +878,48 @@ Aáƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
  	Eb 
 
  
- 	" 	2  	* 	G	N2" 	k 		C8	(ƒ   	'P U ØÙé“†"D	ö¨2B 	6
-   		J       	%Ú ÚÛŸãÃ"È	œæ7Â    	               	[B   	B 
-	* 	‚   	3   9 Üİ¢µœ"(	€ò/‚ 	   Şßì„Ú"	®â0Ê       
-   	  	B 	 		6 x àáÃˆ"h	 Ğ1‚
+ 	" 	2  	* 	G	N2" 	k 		C8	(ƒ   	'P ^ œŸ é“†"D	ö¨2B 	6
+   		J       	%ã ¡¢£¤¥ŸãÃ"È	œæ7Â    	               	[B   	B 
+	* 	‚   	3   B ¦§¨©ª¢µœ"(	€ò/‚ 	 © «¬­®¯ì„Ú"	®â0Ê       
+   	  	B 	 		6  °±²³´Ãˆ"h	 Ğ1‚
        	
-  		Û âãâöŒ"É	šü2ú	  	  	 
+  		ä µ¶·¸¹âöŒ"É	šü2ú	  	  	 
  	 	  
  	 
   	       	a'z
   	  	"b   	" 	    	L	 	A   	 	B"   	!9	
-  	9,T äå‰†"C	¨Ş7Ê 	    
-  	 ? æçãÃ".	¬’:š   
+  	9,] º»¼½¾‰†"C	¨Ş7Ê 	    
+  	 H ¿ÀÁÂÃãÃ".	¬’:š   
  
-#S èéÚ‰ñ"B	˜Î;ê
+#\ ÄÅÆÇÈÚ‰ñ"B	˜Î;ê
  	
- 	  & êëìöî"	ÜÀ<:
-  $ ìí°ü²"	î¤<2
+ 	  / ÉÊËÌÍìöî"	ÜÀ<:
+  - ÎÏĞÑÒ°ü²"	î¤<2
  
-	[ îïÿú"K	–Æ=Ú 
+	d ÓÔÕÖ×ÿú"K	–Æ=Ú 
    
-	 "	[ îğÿú"K	–Æ=Ú 
+	 "	d ÓÔÕØ×ÿú"K	–Æ=Ú 
    
-	 "	K ñò·äÃ":	Ö°;Ê       q óôãÃ"`	úà8â	 
+	 "	T ÙÚÛÜİ·äÃ":	Ö°;Ê       z ŞßàáâãÃ"`	úà8â	 
   	 	 	 	 
  
 #
- Â õöö¾Ö"°	¶†>Ò	
+ Ë ãäåæçö¾Ö"°	¶†>Ò	
   
-  	 		  	 " 	2 	 		 R ÷ø¥’µ"A	"äB  	0+J  
+  	 		  	 " 	2 	 		 [ èéêëì¥’µ"A	"äB  	0+J  
 	$':	
-j ùú«¡T"Z	ø5Øú	      		  C ûüô±"3	ü!š'‚           	   d ış®ı"S	’!Ä*b   	r	  	:   ? ÿ€íÚ".	â ”,š  
+s íîïğñ«¡T"Z	ø5Øú	      		  L òóôõöô±"3	ü!š'‚           	   m ÷øùúû®ı"S	’!Ä*b   	r	  	:   H üışÿ€íÚ".	â ”,š  
 	 	
-t ‚‡ÈÏ"c	ü¨/Ú   	
-	  	> 2   		 	 v ƒ„Ô¸‰"e	À „0		/5ò
+} ‚ƒ„…‡ÈÏ"c	ü¨/Ú   	
+	  	> 2   		 	  †‡ˆ‰ŠÔ¸‰"e	À „0		/5ò
 
  
  
-  			 	*&"    	 ¶ …†Ù±Ï"¤	Œ*®)ò
+  			 	*&"    	 ¿ ‹ŒÙ±Ï"¤	Œ*®)ò
 
    
   
- 	   !   ” ‡ˆÎ•ß"‚	¤*˜*º
+ 	   !    ‘’“”Î•ß"‚	¤*˜*º
  	
 
 
@@ -553,39 +928,39 @@ Aáƒ›áƒ¢áƒ˜áƒ áƒáƒšáƒáƒ¡ áƒ”áƒ áƒáƒ•áƒœáƒ£áƒšáƒ˜ áƒáƒáƒ áƒ™áƒ˜"
  
    
  	%   	Fš!
-   	® ‰ŠÇ©Y"	Î"ü1z
+   	· •–—˜™Ç©Y"	Î"ü1z
  	;Â
 
 
       
  	0Â 
-   	]I²	  	¦B		f*	- 2 ‹Œİh""	è'º>B  	 Š ½·"y	â(¤3¢ 
+   	]I²	  	¦B		f*	- ; š›œİh""	è'º>B  	 “ Ÿ ¡¢£½·"y	â(¤3¢ 
 
  
 
         	
-     	  { âÔÛ"j	-¢5â  
+     	  „ ¤¥¦§¨âÔÛ"j	-¢5â  
   
-    'C	4		Db      		!"	M ‘’Šô™"<	–8–)Ò 	  	'
-¿ “”¯ Â"­	„9Ö:¢  
+    'C	4		Db      		!"	V ©ª«¬­Šô™"<	–8–)Ò 	  	'
+È ®¯°±²¯ Â"­	„9Ö:¢  
  "      	     
   	
 
 	 		;2  	S;ª  	
-   		\€ 	"Iu •–Ãºä"d	°;ô=
+   		\€ 	"I~ ³´µ¶·Ãºä"d	°;ô=
 	!Š		 			%: 		" 	'2
-= —˜ë–Ñ",	°;Ş>j   
-	 	 + ™šñú¬"	ª<À?*	w ›œû¥ú"f	’ Aªi    	   
+F ¸¹º»¼ë–Ñ",	°;Ş>j   
+	 	 4 ½¾¿ÀÁñú¬"	ª<À?*	€ ÂÃÄÅÆû¥ú"f	’ Aªi    	   
  
   	_  	l
  
-µ ºış"£	Êê@ú           		
+¾ ÇÈÉÊËºış"£	Êê@ú           		
 	 		
   
-      	  	6	- 		Ë Ÿ úöÓ"¹	òÔ?Ú  
+      	  	6	- 		Ô ÌÍÎÏĞúöÓ"¹	òÔ?Ú  
  
  
-            		  	V< 	K	\(m ¡¢ÔÜ¦"\	Ê@Ê"ò 	 
+            		  	V< 	K	\(v ÑÒÓÔÕÔÜ¦"\	Ê@Ê"ò 	 
  
    	* 
 	  	 ásx
