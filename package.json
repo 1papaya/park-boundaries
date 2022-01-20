@@ -7,14 +7,13 @@
   "scripts": {
     "build": "yarn pre:mbtiles && yarn build-mbtiles && yarn post:mbtiles",
     "pre:mbtiles": "yarn download && yarn generate-boundaries && yarn generate-points",
-    "post:mbtiles": "yarn generate-index",
+    "build-mbtiles": "bash ./scripts/build-mbtiles.sh",
+    "post:mbtiles": "yarn generate-index && yarn generate-features",
     "download": "ts-node ./scripts/download.ts",
     "generate-boundaries": "ts-node ./scripts/generate-boundaries.ts",
     "generate-features": "ts-node ./scripts/generate-features.ts",
     "generate-points": "ts-node ./scripts/generate-points.ts",
-    "generate-index": "ts-node ./scripts/generate-index.ts",
-    "get-polygon": "ts-node ./scripts/get-polygon.ts",
-    "build-mbtiles": "bash ./scripts/build-mbtiles.sh"
+    "generate-index": "ts-node ./scripts/generate-index.ts"
   },
   "dependencies": {
     "@mapbox/polylabel": "^1.0.2",
