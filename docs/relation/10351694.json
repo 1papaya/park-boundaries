@@ -6,9 +6,13 @@
     "osm": {
       "boundary": "national_park",
       "name": "Prince Edward Island National Park",
+      "name:fr": "Parc national de l'Île-du-Prince-Édouard",
       "operator": "Parks Canada",
-      "type": "multipolygon",
-      "wikidata": "Q1314367"
+      "protect_class": "2",
+      "start_date": "1937",
+      "type": "boundary",
+      "wikidata": "Q1314367",
+      "wikipedia": "en:Prince Edward Island National Park"
     },
     "wiki": {
       "name": "Prince Edward Island National Park",
