@@ -31,19 +31,20 @@ export class Park {
       : null;
   }
 
-  getBoundaryFeature(): GeoJSON.Feature<
-    GeoJSON.Polygon | GeoJSON.MultiPolygon,
-    any
-  > | null {
+  getBoundaryFeature(
+    fullMetadata = false
+  ): GeoJSON.Feature<GeoJSON.Polygon | GeoJSON.MultiPolygon, any> | null {
     const boundaryGeom = this.getBoundaryGeometry();
 
     return this.osm && boundaryGeom
       ? {
           type: "Feature",
           id: this.id,
-          properties: {
-            name: this.name,
-          },
+          properties: fullMetadata
+            ? this.osm.tags
+            : {
+                name: this.name,
+              },
           geometry: boundaryGeom,
         }
       : null;
