@@ -1,28 +1,15 @@
-import { getParksFeatureCollection, outDir, slugify } from "../src/common";
-import turfBbox from "@turf/bbox";
+import { getParks, outDir } from "../src/common";
 import fs from "fs";
 
 (async () => {
-  const parksIndex = await getParksFeatureCollection().then(
-    (parksFeatureCollection) =>
-      parksFeatureCollection.features.map((parkFeature) => ({
-        name: parkFeature.properties.osm["name"],
-        slug: [
-          slugify(parkFeature.properties.wiki.country),
-          // if osm name is in other charset (ie cyrillic) use
-          // english name from wikidata
-          slugify(parkFeature.properties.osm["name"]) === ""
-            ? slugify(parkFeature.properties.wiki.name)
-            : slugify(parkFeature.properties.osm["name"]),
-        ].join("/"),
-        wikidataId: parkFeature.properties.wiki.wikidataId,
-        osmRelationId: parkFeature.id,
-        bbox: turfBbox(parkFeature),
-      }))
-  );
+  const parks = await getParks();
 
   await fs.promises.writeFile(
     `${outDir}/index.json`,
-    JSON.stringify(parksIndex)
+    JSON.stringify(
+      parks
+        .map((park) => park.getIndexFeature())
+        .filter((indexFeature) => !!indexFeature)
+    )
   );
 })();

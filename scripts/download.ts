@@ -1,15 +1,11 @@
-import { getParksFeatureCollection, dataDir } from "../src/common";
+import { getParks, dataDir } from "../src/common";
 import fs from "fs";
 
 (async () => {
-  const featureCollectionPath = `${dataDir}/feature-collection.json`;
+  const dataPath = `${dataDir}/parks.json`;
 
   await fs.promises
-    .access(featureCollectionPath)
-    .then(() =>
-      fs.promises
-        .unlink(featureCollectionPath)
-        .then(() => getParksFeatureCollection())
-    )
-    .catch(() => getParksFeatureCollection());
+    .access(dataPath)
+    .then(() => fs.promises.unlink(dataPath).then(() => getParks()))
+    .catch(() => getParks());
 })();

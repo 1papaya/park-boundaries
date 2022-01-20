@@ -1,71 +1,63 @@
-import { getWikidataNationalParks, WikiNationalPark } from "../src/wikidata";
-import { overpassJson, OverpassJson } from "overpass-ts";
 import stringify from "json-stringify-pretty-compact";
-import osmtogeojson from "osmtogeojson";
-import turfArea from "@turf/area";
+import { getParksWikidata } from "./wikidata";
+import { overpassJson } from "overpass-ts";
 import urlSlug from "url-slug";
+import { Park } from "./park";
 import fs from "fs";
+
+import type { WikiNationalPark } from "./wikidata";
+import type { OverpassRelation } from "overpass-ts";
 
 export const dataDir = "./data";
 export const outDir = "./docs";
 
-export const slugify = (str: string) => urlSlug(str);
+export const slugify = (str: string) => {
+  const slug = urlSlug(str);
+  return slug == "" ? null : slug;
+};
 
-export const getParksFeatureCollection = () => {
-  return fromCache("feature-collection", async () => {
-    const wikiParks = await fromCache("parks-wiki", () =>
-      getWikidataNationalParks()
-    );
+export const getParks = async (): Promise<Park[]> => {
+  const parksData = await fromCache("parks", async () => {
+    const wikiParks = await getWikiData();
+    const osmParks = await getOsmData();
 
-    const osmParks = await fromCache("parks-osm", () =>
+    return wikiParks
+      .map((wikiPark) => [
+        wikiPark,
+        wikiPark.osmRelationId
+          ? osmParks.elements.find(
+              (feature) => feature.id === parseInt(wikiPark.osmRelationId)
+            ) ?? null
+          : null,
+      ])
+      .map(
+        ([wikiPark, osmRelation]: [
+          WikiNationalPark,
+          OverpassRelation | null
+        ]) => ({
+          wiki: wikiPark,
+          osm: osmRelation,
+        })
+      );
+  });
+
+  return parksData.map((parkData) => new Park(parkData));
+};
+
+export const getWikiData = () =>
+  fromCache("wikidata", () => getParksWikidata());
+
+export const getOsmData = () =>
+  getWikiData().then((wikiParks) =>
+    fromCache("osm", () =>
       overpassJson(
         `[out:json]; rel(id:${wikiParks
+          .filter((wikiPark) => !!wikiPark.osmRelationId)
           .map((wikiPark) => wikiPark.osmRelationId)
           .join(",")}); out geom;`
       )
-    );
-
-    return {
-      type: "FeatureCollection",
-      features: wikiParks
-        .map((wikiPark) => {
-          try {
-            const osmPark = osmParks.elements.find(
-              (feature) => feature.id === parseInt(wikiPark.osmRelationId)
-            );
-
-            const osmParkFeature = osmtogeojson({ elements: [osmPark] })
-              .features[0];
-
-            return {
-              type: "Feature",
-              id: parseInt(wikiPark.osmRelationId),
-              properties: {
-                area:
-                  Math.round(
-                    turfArea({
-                      type: "Feature",
-                      properties: {},
-                      geometry: osmParkFeature.geometry,
-                    }) * 1e-4
-                  ) / 100,
-                osm: osmPark.tags,
-                wiki: wikiPark,
-              },
-              geometry: osmParkFeature.geometry,
-            };
-          } catch (e) {
-            return null;
-          }
-        })
-        .filter(
-          (parkFeature) =>
-            parkFeature != null &&
-            ["Polygon", "MultiPolygon"].includes(parkFeature.geometry.type)
-        ),
-    };
-  });
-};
+    )
+  );
 
 export function fromCache<Output>(
   name: string,

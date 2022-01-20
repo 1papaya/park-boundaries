@@ -1,20 +1,17 @@
-import { getParksFeatureCollection, dataDir } from "../src/common";
+import { getParks, dataDir } from "../src/common";
 import stringify from "json-stringify-pretty-compact";
 import fs from "fs";
 
 (async () => {
-  const parksFeatureCollection = await getParksFeatureCollection();
+  const parks = await getParks();
 
   await fs.promises.writeFile(
     `${dataDir}/boundaries.json`,
     stringify({
       type: "FeatureCollection",
-      features: parksFeatureCollection.features.map((feat) => ({
-        ...feat,
-        properties: {
-          name: feat.properties.osm["name"],
-        },
-      })),
+      features: parks
+        .map((park) => park.getBoundaryFeature())
+        .filter((boundaryFeature) => !!boundaryFeature),
     })
   );
 })();
