@@ -7,6 +7,7 @@
     "name": "Nationalpark Hohe Tauern",
     "name:cs": "národní park Vysoké Taury",
     "name:en": "High Tauern National Park",
+    "note": "inkludiert auch die Außenzone (nach IUCN 5 bewirtschaftet), aber solang diese < 25% der Gesamtfläche beträgt, zählt offenbar der ganze NPark als IUCN 2",
     "protect_class": "2",
     "source": "Nationalpark Hohe Tauern, Nationalparkverwaltung",
     "type": "multipolygon",
